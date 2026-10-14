@@ -1,0 +1,159 @@
+#!/usr/bin/env python3
+"""
+Vigilante de la descarga de lex-mx-completo.
+
+Se ejecuta cada 30 min desde cronjob. Es SILENCIOSO salvo que:
+  - la descarga haya terminado, o
+  - esté atascada / muerta (para poder reiniciarla)
+
+Así no manda ruido mientras avanza bien.
+
+Estado guardado entre corridas en .vigilante_estado.json para detectar atascos.
+"""
+import glob
+import json
+import os
+import subprocess
+import sys
+import time
+
+RAIZ = "/home/alejandro/lex-mx-completo"
+DATOS = f"{RAIZ}/datos"
+ESTADO = f"{RAIZ}/.vigilante_estado.json"
+
+# OJO: este script lo corre el venv de Hermes, que NO tiene curl_cffi.
+# Hay que lanzar la descarga con el Python del sistema, donde sí está.
+PYTHON = "/usr/bin/python3"
+TOTAL_ESPERADO = 35132      # ordenamientos estatales medidos
+SIN_AVANCE = 1800           # 30 min sin avanzar = atascado
+
+
+def contar():
+    n = 0
+    for pat in ("*.doc", "*.docx", "*.pdf"):
+        n += len(glob.glob(f"{DATOS}/*/{pat}"))
+    return n
+
+
+def matar_procesos():
+    """Mata el vigilante y el descargador SIN matarse a sí mismo.
+
+    OJO: `pkill -f "vigilante.py"` también coincide con este script
+    (lexmx_vigilante.py), así que se mataba solo y salía con código -15.
+    Hay que comparar contra el nombre de archivo exacto y excluir el PID
+    propio.
+    """
+    yo = os.getpid()
+    matados = []
+    for pid in os.listdir("/proc"):
+        if not pid.isdigit() or int(pid) == yo:
+            continue
+        try:
+            cmd = open(f"/proc/{pid}/cmdline", "rb").read().replace(b"\0", b" ").decode()
+        except Exception:
+            continue
+        # Nombre de archivo exacto, no subcadena: asi lexmx_vigilante.py
+        # no cuenta como vigilante.py
+        partes = [p for p in cmd.split() if p.endswith(".py")]
+        if any(os.path.basename(p) in ("vigilante.py", "descargar.py") for p in partes):
+            try:
+                os.kill(int(pid), 15)
+                matados.append(int(pid))
+            except Exception:
+                pass
+    return matados
+
+
+def vivo():
+    r = subprocess.run(["pgrep", "-f", "descargar.py"],
+                       capture_output=True, text=True)
+    return bool(r.stdout.strip())
+
+
+def relanzar():
+    """Relanza la descarga desacoplada. Devuelve True si arrancó."""
+    try:
+        subprocess.Popen(
+            [PYTHON, "vigilante.py"],
+            cwd=RAIZ,
+            stdout=open(f"{RAIZ}/vigilante.log", "a", buffering=1),
+            stderr=subprocess.STDOUT,
+            stdin=subprocess.DEVNULL,
+            # Sesión propia: sobrevive a que este script termine y evita que
+            # un killpg se lleve por delante al vigilante que lo lanzó.
+            start_new_session=True,
+        )
+        time.sleep(8)
+        return vivo()
+    except Exception:
+        return False
+
+
+def main():
+    n = contar()
+    ahora = time.time()
+    prev = {}
+    if os.path.exists(ESTADO):
+        try:
+            prev = json.load(open(ESTADO))
+        except Exception:
+            prev = {}
+
+    prev_n = prev.get("n", n)
+    prev_t = prev.get("t", ahora)
+    corriendo = vivo()
+
+    json.dump({"n": n, "t": ahora}, open(ESTADO, "w"))
+
+    # --- CASO 1: muerto -> relanzar ---
+    if not corriendo:
+        ok = relanzar()
+        if ok:
+            print(f"🔄 lex-mx-completo: la descarga se había detenido — "
+                  f"RELANZADA automáticamente")
+            print(f"    documentos: {n:,} de ~{TOTAL_ESPERADO:,} "
+                  f"({100*n//TOTAL_ESPERADO}%)")
+            print(f"    faltan: {TOTAL_ESPERADO - n:,}")
+        else:
+            print(f"⚠️  lex-mx-completo: la descarga NO está corriendo "
+                  f"y no pude relanzarla")
+            print(f"    documentos: {n:,} de ~{TOTAL_ESPERADO:,}")
+            print(f"    Reanudar a mano: cd {RAIZ} && python3 vigilante.py")
+        return
+
+    # --- CASO 2: vivo pero atascado -> matar y relanzar ---
+    if n == prev_n and (ahora - prev_t) > SIN_AVANCE:
+        mins = int((ahora - prev_t) / 60)
+        matar_procesos()
+        time.sleep(3)
+        ok = relanzar()
+        print(f"⚠️  lex-mx-completo: descarga ATASCADA {mins} min "
+              f"en {n:,} documentos")
+        print(f"    {'RELANZADA automáticamente' if ok else 'NO pude relanzarla'}")
+        return
+
+    # --- CASO 3: terminó ---
+    if n >= TOTAL_ESPERADO * 0.98:
+        por_estado = []
+        for idx in sorted(glob.glob(f"{DATOS}/*/_index.json")):
+            d = json.load(open(idx))
+            nombre = os.path.basename(os.path.dirname(idx))
+            docs = sum(1 for v in d.values() if v.get("archivo"))
+            por_estado.append((nombre, len(d), docs))
+        peso = sum(os.path.getsize(f) for f in glob.glob(f"{DATOS}/*/*.doc"))
+        print(f"✅ lex-mx-completo: DESCARGA TERMINADA")
+        print(f"   documentos: {n:,}")
+        print(f"   peso: {peso/1e9:.2f} GB")
+        print(f"   estados: {len(por_estado)}")
+        con = [e for e in por_estado if e[2] > 0]
+        print(f"   con documentos: {len(con)}")
+        print()
+        print("   Listo para publicar en GitHub.")
+        return
+
+    # --- CASO 3: avanzando bien -> SILENCIO ---
+    return
+
+
+if __name__ == "__main__":
+    main()
