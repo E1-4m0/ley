@@ -50,10 +50,11 @@ def clasificar(ruta):
     try:
         with zipfile.ZipFile(ruta) as z:
             xml = z.read("word/document.xml").decode("utf-8", "replace")
+            media = len([n for n in z.namelist() if n.startswith("word/media/")])
     except Exception:
         return "corrupto", 0, 0
     texto = re.sub(r"<[^>]+>", "", xml).strip()
-    imgs = len(re.findall(r"r:embed", xml))
+    imgs = max(len(re.findall(r"r:embed", xml)), media)
     if len(texto) < 200 and imgs > 0:
         return "escaneado", len(texto), imgs
     return "ok", len(texto), imgs

@@ -66,9 +66,13 @@ def main():
             try:
                 with zipfile.ZipFile(ruta) as z:
                     xml = z.read("word/document.xml").decode("utf-8", "replace")
+                    # Contar también los archivos de imagen reales: hay docx que
+                    # traen las imágenes sin referencia r:embed en document.xml,
+                    # y con solo ese conteo se colaban como "con texto".
+                    media = len([n for n in z.namelist() if n.startswith("word/media/")])
             except Exception:
                 continue
-            nimg = len(re.findall(r"r:embed", xml))
+            nimg = max(len(re.findall(r"r:embed", xml)), media)
             if len(re.sub(r"<[^>]+>", "", xml).strip()) >= 200 or nimg == 0:
                 continue  # tiene texto: lo maneja convertir_md.py
             print(f"  OCR [{estado}] {v['archivo'][:55]}", flush=True)
