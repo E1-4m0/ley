@@ -14,3 +14,7 @@ venv/
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Artefactos de ejecución
+*.log
+.vigilante_estado.json
