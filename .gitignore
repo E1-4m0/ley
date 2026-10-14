@@ -1,0 +1,16 @@
+# Datos descargados — no versionar (miles de archivos, cientos de MB)
+datos/
+*.doc
+*.docx
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Sistema
+.DS_Store
+Thumbs.db
