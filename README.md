@@ -42,6 +42,59 @@ Verificado contra el servidor real (`compilacion.ordenjuridico.gob.mx`):
 
 **Total estatal: 35,132.** La Ciudad de México es el único estado sin datos en esta fuente.
 
+## Resultado de la extracción
+
+Estado real del corpus tras la descarga completa:
+
+| Concepto | Documentos |
+|---|---:|
+| Ordenamientos catalogados | **35,132** |
+| Descargados | **28,082** |
+| Sin documento en la fuente | **7,027** |
+| Pendientes | ~23 |
+| **Cobertura** | **99.93 %** |
+
+Los 7,027 "sin documento" no son un fallo: la ficha del ordenamiento existe en el
+catálogo, pero SEGOB nunca publicó el archivo. Se detectan y se marcan solos
+(`sin_documento: true`) para no reintentarlos en cada pasada.
+
+## Conversión a Markdown
+
+`convertir_md.py` produce un `.md` por ordenamiento con frontmatter YAML:
+
+```
+  crudo (.doc):  15 GB
+  markdown:     1.7 GB   (9× más compacto)
+```
+
+Los `.doc` vienen en dos formatos mezclados y hay que detectarlos por firma binaria:
+
+- **ZIP** (`PK\x03\x04`) — docx disfrazado de `.doc`; se extrae `word/document.xml`
+- **OLE2** (`\xd0\xcf\x11\xe0...`) — `.doc` binario de Word 2003; se usa `catdoc`
+
+### Documentos escaneados
+
+Algunos ordenamientos (resoluciones de tribunales, protocolos) **están escaneados**:
+el `.docx` trae el contenido como imágenes JPEG y `word/document.xml` casi vacío
+—hay casos con 28 caracteres de texto y 55 imágenes—. Esos no se pueden convertir
+extrayendo texto.
+
+`ocr_escaneados.py` los detecta (poco texto + imágenes embebidas) y les pasa
+`tesseract` en español. El `.md` resultante se marca con `ocr: true` y una nota,
+para que quien consuma el corpus sepa que el texto viene de reconocimiento.
+
+### Archivos dañados
+
+Si un `.docx` llega truncado, `zipfile` lanza `BadZipFile`. `reparar_faltantes.py`
+los clasifica (`corrupto` / `escaneado` / `ok`), borra los dañados —el scraper los
+vuelve a bajar en la siguiente pasada— y aplica OCR a los escaneados.
+
+```
+python3 convertir_md.py       # .doc -> .md
+python3 ocr_escaneados.py     # OCR de los escaneados
+python3 reparar_faltantes.py  # diagnóstico (agrega --aplicar para ejecutar)
+```
+
 ## Cómo funciona
 
 La página del portal carga su contenido en un iframe hacia otro servidor. El pipeline real:

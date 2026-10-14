@@ -23,6 +23,10 @@ from curl_cffi import requests
 
 BASE = "http://compilacion.ordenjuridico.gob.mx"
 SALIDA = Path(os.environ.get("LEX_SALIDA", Path.home() / "lex-mx-completo" / "datos"))
+# Tras N corridas sin que el servidor entregue el archivo, la ficha se marca
+# como resuelta. Sin este tope el scraper reintenta esas URLs en cada pasada
+# y el re-escaneo nunca termina (quedó atorado 2 días con 17 fichas).
+MAX_INTENTOS = 3
 
 ESTADOS = {
     1: "aguascalientes", 2: "baja-california", 3: "baja-california-sur",
@@ -146,6 +150,20 @@ def nombre_seguro(s, maxlen=90):
     return s[:maxlen].strip("-") or "sin-titulo"
 
 
+def progreso(**datos):
+    """Escribe un latido con el avance real.
+
+    El conteo de archivos NO sirve como señal de vida: durante el re-escaneo
+    de estados ya completados se queda plano aunque el proceso trabaje. Este
+    latido sí distingue 'trabajando' de 'atascado'.
+    """
+    datos["t"] = time.time()
+    try:
+        (SALIDA / "_progreso.json").write_text(json.dumps(datos, ensure_ascii=False))
+    except Exception:
+        pass
+
+
 def descargar_estado(edo, limite=None):
     """Descarga todos los ordenamientos de un estado."""
     nombre = ESTADOS[edo]
@@ -160,11 +178,27 @@ def descargar_estado(edo, limite=None):
     print(f"  [{nombre}] {len(ids)} ordenamientos", flush=True)
 
     nuevos = 0
+    sin_doc = 0
     for n, ida in enumerate(ids, 1):
-        if ida in indice and indice[ida].get("archivo"):
+        # Saltar lo ya resuelto: con archivo descargado, o ya marcado como
+        # "la fuente no publica este documento" (si no, se re-consulta su
+        # ficha en cada corrida y el re-escaneo se vuelve eterno).
+        if ida in indice and (indice[ida].get("archivo") or indice[ida].get("sin_documento")):
             continue
         f = ficha(ida)
         if not f:
+            # La ficha ni siquiera se pudo consultar (servidor caído, 404,
+            # respuesta vacía). Antes se saltaba SIN marcarla, así que se
+            # reintentaba en cada pasada y el re-escaneo nunca terminaba.
+            prev = indice.get(ida) or {}
+            prev["intentos"] = prev.get("intentos", 0) + 1
+            if prev["intentos"] >= MAX_INTENTOS:
+                prev["sin_documento"] = True
+                prev["fallo"] = "la ficha no se pudo consultar tras N intentos"
+                sin_doc += 1
+            indice[ida] = prev
+            progreso(estado=nombre, n=n, total=len(ids), nuevos=nuevos, estado_edo=edo)
+            time.sleep(0.1)
             continue
         if f.get("doc_path"):
             # La ruta trae espacios sin codificar ("NUEVO LEON"), hay que escaparla.
@@ -180,12 +214,31 @@ def descargar_estado(edo, limite=None):
                 (destino / archivo).write_bytes(datos)
                 f["archivo"] = archivo
                 f["bytes"] = len(datos)
+                f.pop("intentos", None)
                 nuevos += 1
+            else:
+                # La ficha trae enlace pero el servidor no entrega el archivo
+                # (404, vacío o rechazo). Sin tope, la ficha se reintenta en
+                # CADA corrida para siempre y el re-escaneo nunca termina.
+                f["intentos"] = f.get("intentos", 0) + 1
+                if f["intentos"] >= MAX_INTENTOS:
+                    f["sin_documento"] = True
+                    f["fallo"] = "la fuente no entrega el archivo tras N intentos"
+                    sin_doc += 1
+        else:
+            # La ficha no trae enlace: la fuente simplemente no publica este
+            # ordenamiento. Se marca para no volver a consultarlo.
+            f["sin_documento"] = True
+            sin_doc += 1
         indice[ida] = f
+        # El latido va en CADA iteración, no cada 25: cuando quedan pocos
+        # documentos no se alcanza el múltiplo de 25 y el vigilante cree que
+        # el proceso está muerto. El disco aguanta este ritmo de sobra.
+        progreso(estado=nombre, n=n, total=len(ids), nuevos=nuevos, estado_edo=edo)
         if n % 25 == 0:
             meta_path.write_text(json.dumps(indice, ensure_ascii=False, indent=1))
             print(f"    [{nombre}] {n}/{len(ids)} · {nuevos} nuevos", flush=True)
-        time.sleep(0.15)
+        time.sleep(0.1)
 
     meta_path.write_text(json.dumps(indice, ensure_ascii=False, indent=1))
     print(f"  [{nombre}] listo: {len(indice)} fichas, {nuevos} descargados ahora", flush=True)
