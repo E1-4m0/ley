@@ -1,0 +1,250 @@
+---
+titulo: "Formatos de Solicitud de Trámites y Servicios que son utilizados en el Instituto del Registro Público de la Propiedad y del Comercio"
+tipo: "Formato"
+estado: "Morelos"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "29 de Junio de 2011"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "31051"
+---
+Gobierno del
+
+Estado de Morelos
+
+Consejería Jurídica
+
+FORMATOS DE SOLICITUD DE TRÁMITES Y SERVICIOS QUE SON UTILIZADOS EN EL
+INSTITUTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO.
+
+Fecha de Publicación		2011/06/29
+
+Expidió				Gobierno del Estado Libre y Soberano
+
+de Morelos
+
+Instituto del Registro Público de la Propiedad
+
+y del Comercio del Estado.
+
+Periódico Oficial			4900 "Tierra y Libertad"
+
+Gobierno Del Estado De Morelos
+
+Instituto del Registro Público de la Propiedad y del Comercio del
+Estado de Morelos
+
+COMERCIO
+
+ANEXAR UNA COPIA
+
+CUERNAVACA, MOR., A _______ DE ___________________ DEL ________
+
+C. DIRECTOR GENERAL DEL INSTITUTO DEL
+
+REGISTRO PÚBLICO DE LA PROPIEDAD Y
+
+DEL COMERCIO DEL ESTADO DE MORELOS.
+
+PRESENTE
+
+POR MEDIO DE LA PRESENTE SOLICITO A USTED, LLEVAR A CABO EL TRÁMITE DE
+INSCRIPCIÓN CON LA INFORMACIÓN CORRECTA Y VERIDICA QUE  A
+CONTINUACIÓN SE DETALLA:
+
+FOLIO MERCANTIL ELECTRÓNICO:
+_______________________________________________
+
+NOMBRE DE LA OPERACIÓN:
+
+DENOMINADA:
+
+	ACTORES: EJEMPLO, SOCIOS.
+
+ACTORES O PARTES	APELLIDO PATERNO	APELLIDO MATERNO	NOMBRE (S)
+
+NOTARÍA No.	JUZGADO	ESCRITURA No.	No. OFICIO Y/O EXPEDIENTE
+DEMARCACIÓN O DISTRITO JUDICIAL	FECHA DEL DOCUMENTO
+
+	DATOS DEL RECIBO DE PAGO DE DERECHOS:
+
+RECIBO No. :	IMPORTE:	FECHA DE PAGO:	FECHA DE INGRESO:
+
+A SOLICITUD DE:
+
+	TELEFONO
+
+	CORREO ELECTRONICO
+
+	ATENTAMENTE
+
+NOMBRE Y FIRMA
+
+NOTA.- ESTA SOLICITUD DEBERÁ PRESENTARSE POR DUPLICADO CON FIRMAS
+AUTÓGRAFAS DEL NOTARIO PÚBLICO QUE AUTORIZÓ O DE QUIEN TENGA INTERÉS
+LEGÍTIMO EN EL DERECHO QUE SE VA A INSCRIBIR, CON FUNDAMENTO EN EL
+ART. 38 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
+DEL ESTADO DE MORELOS.
+
+* PARA CUALQUIER ACLARACIÓN A SUS DUDAS  FAVOR DE  MANDAR UN MENSAJE
+AL CORREO: direccionderegistro.rpp@morelos.gob.mx
+
+Rev. 1	Ref. IT-DReg-SCG-02	Código: FO-DReg-SCG-03
+
+Gobierno Del Estado De Morelos
+
+Instituto del Registro Público de la Propiedad y del Comercio del
+Estado de Morelos
+
+PROPIEDAD
+
+ANEXAR UNA COPIA
+
+CUERNAVACA, MOR., A _______ DE ____________ DE _____.
+
+C. DIRECTOR GENERAL DEL INSTITUTO DEL
+
+REGISTRO PÚBLICO DE LA PROPIEDAD Y
+
+DEL COMERCIO DEL ESTADO DE MORELOS.
+
+PRESENTE
+
+POR MEDIO DE LA PRESENTE SOLICITO A USTED, LLEVAR A CABO EL TRÁMITE DE
+INSCRIPCIÓN CON LA INFORMACIÓN CORRECTA Y VERIDICA QUE  A
+CONTINUACIÓN SE DETALLA:
+
+FOLIO REAL ELECTRÓNICO:
+_______________________________________________________
+
+ANTECEDENTE (S) REGISTRAL:
+
+REGISTRO	FOJA	TOMO/LIBRO	VOLUMEN	SECCIÓN	SERIE
+
+PROPIETARIO ACTUAL DEL INMUEBLE	APELLIDO PATERNO	APELLIDO MATERNO	NOMBRE
+(S)
+
+PROPIEDAD (     )	JURÍDICO (     )
+
+FORMA PRECODIFICADA:	NOMBRE DE LA OPERACIÓN:
+
+NOTARÍA No.	JUZGADO	ESCRITURA No.	No. OFICIO Y/O EXPEDIENTE
+DEMARCACIÓN O DISTRITO JUDICIAL	FECHA DEL DOCUMENTO
+
+	DATOS DEL RECIBO DE PAGO DE DERECHOS:
+
+RECIBO No. :	MONTO DE OPERACIÓN:	MONTO DE DERECHOS:	FECHA DE PAGO:
+
+NOMBRE DEL SOLICITANTE:
+
+TELEFONO:	CORREO:
+
+ATENTAMENTE
+
+NOMBRE Y FIRMA
+
+NOTA.- ESTA SOLICITUD DEBERÁ PRESENTARSE POR DUPLICADO CON FIRMAS
+AUTÓGRAFAS DEL NOTARIO PÚBLICO QUE AUTORIZÓ O DE QUIEN TENGA INTERÉS
+LEGÍTIMO EN EL DERECHO QUE SE VA A INSCRIBIR, CON FUNDAMENTO EN EL
+ART. 38 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
+DEL ESTADO DE MORELOS.
+
+* PARA CUALQUIER ACLARACION A SUS DUDAS  FAVOR DE  MANDAR UN MENSAJE  AL
+CORREO: direccionderegistro.rpp@morelos.gob.mx
+
+Rev. 1	Ref. IT-DReg-SCG-01	Código: FO-DReg-SCG-02
+
+Gobierno Del Estado De Morelos
+
+Instituto del Registro Público de la Propiedad y del Comercio del
+Estado de Morelos
+
+         SOLICITUD DE TRÁMITE
+
+              CERTIFICACIONES
+
+            FOLIO REAL ELECTRÓNICO
+
+          __________________________
+
+C. Director Del Instituto Del Registro Público De La Propiedad y Del
+Comercio Del Estado De Morelos.
+
+PRESENTE.
+
+            DIA          MES         AÑO
+
+	       /              /
+
+NO. DE POLIZA. _____________________
+
+CERTIFICADO O CONSTANCIA DE NO
+PROPIEDAD................................................
+
+(   )
+
+CONSTANCIA DE INSCRIPCIÓN.............	(  )
+
+CERTIFICADO DE  LIBERTAD DE GRAVAMEN ..	(   )
+
+BUSQUEDA Y CERTIFICACIÓN ..............	(  )
+
+CONSTANCIA DE UN SÓLO BIEN ..................	(   )
+
+RATIFICACIÓN DE FIRMAS ...................	(  )
+
+CERTIFICADO DE INEXISTENCIA  DE
+REGISTRO.................................................	(   )
+
+COPIA CERTIFICADA DE LEGAJO ...........	(  )
+
+COPIA TRANSCRITA DE LIBRO O IMPRESIÓN DE FOLIO REAL
+ELECTRÓNICO…….…………….	(   )
+
+CONSTANCIA DE ANTECEDENTES DE
+REGISTRO..........................................	(  )
+
+NOMBRE DEL PROPIETARIO:
+_____________________________________________________________
+
+DESCRIPCIÓN DEL PREDIO:
+
+CON SUPERFICIE DE:
+
+	CLAVE CATASTRAL:
+
+	DATOS DE REGISTRO:
+
+REGISTRO: _________     FOJA: __________     LIBRO/TOMO: __________
+VOLUMEN: __________
+
+SECCIÓN: __________     SERIE: __________     FECHA DE REGISTRO:
+_________________________
+
+CORREO ELECTRONICO:
+
+	PERÍODO:
+
+SERVICIO:
+
+10 AÑOS  (    )	20 AÑOS   (    )
+
+ORDINARIO   (    )	URGENTE   (    )
+
+IMPORTANTE: SI DESPÚES DE EFECTUAR SU PAGO, NO ENTREGA LOS COMPROBANTES
+DE LA CAJA EN LA VENTANILLA CORRESPONDIENTE, EL REGISTRO PÚBLICO NO SE
+HACE RESPONSABLE DE LA NO EXPEDICIÓN DE DOCUMENTOS.
+
+* PARA CUALQUIER ACLARACION A SUS DUDAS  FAVOR DE  MANDAR UN MENSAJE  AL
+CORREO:   HYPERLINK "mailto:direcciondecertificados.rpp@morelos.gob.mx"
+direcciondecertificados.rpp@morelos.gob.mx
+
+Rev. 3	Ref. IT-DReg-SCG-03	Código: FO-DReg-SCG-01
+
+ PAGE
+
+ PAGE   2
+
+Dirección General de Legislación.
+
+Subdirección de Informática Jurídica

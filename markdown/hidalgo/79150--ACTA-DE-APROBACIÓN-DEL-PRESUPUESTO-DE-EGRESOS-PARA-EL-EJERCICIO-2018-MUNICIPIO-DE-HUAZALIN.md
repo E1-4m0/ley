@@ -1,0 +1,350 @@
+---
+titulo: "ACTA DE APROBACIÓN DEL PRESUPUESTO DE EGRESOS PARA EL EJERCICIO 2018 MUNICIPIO DE HUAZALINGO, HIDALGO"
+tipo: "Acta"
+estado: "Hidalgo"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "29 de Diciembre de 2017"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "79150"
+---
+TOMO CL
+
+Pachuca de Soto, Hidalgo
+
+de la Constitución Política de los Estados	29 de Diciembre de 2017
+
+Bis
+
+Núm. 52
+
+
+
+LIC. OMAR FAYAD MENESES
+
+Gobernador del Estado de
+
+Hidalgo
+
+LIC. SIMÓN VARGAS AGUILAR Secretario de Gobierno
+
+LIC. ROBERTO RICO RUIZ
+
+Coordinador General Jurídico
+
+L.I. GUSTAVO CORDOBA RUIZ Director del Periódico Oficial
+
+PERIÓDICO OFICIAL
+
+DEL ESTADO DE HIDALGO
+
+
+
+Calle Matamoros No. 517, Col. Centro
+
+Tel. 01 (771) 281-36-30, 01 (771) 688-36-02 y
+
+(771) 717-60-00 ext. 6790   HYPERLINK "mailto:poficial@hidalgo.gob.mx"
+poficial@hidalgo.gob.mx
+
+  HYPERLINK "http://periodico.hidalgo.gob.mx/"
+http://periodico.hidalgo.gob.mx
+
+Registrado como artículo de 2ª. Clase con fecha 23 de Septiembre de
+1931
+
+Página 2	PERIÓDICO OFICIAL	Bis
+
+lgoperiódicooficialdelestadodehidalgoperiódicooficialdelestadodehidalg
+o 2 0 1 7
+
+SUMARIO
+
+Contenido
+
+Acta de Cabildo que aprueba Modificación al Presupuesto de Egresos para
+el Ejercicio Fiscal 2017, del Municipio
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de
+
+Acta de Cabildo que aprueba la Modificación al Presupuesto de Egresos
+para el Ejercicio Fiscal 2017 y
+
+Acta de Cabildo que aprueba la Segunda Adecuación al Presupuesto de
+Egresos para el Ejercicio Fiscal 2017,
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de Atitalaquia,
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, de la Comisión de Agua
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de El Arenal,
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de Emiliano
+
+  HYPERLINK \l "page3"  Acta de Cabildo que aprueba el Presupuesto de
+Egresos para el Ejercicio Fiscal 2018, del Municipio de
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de Juárez
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de Nicolás
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de Pisaflores,
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, de la Comisión de Agua y
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de Tolcayuca,
+
+Bis	PERIÓDICO OFICIAL	Página 133
+
+dehidalgoperiódicooficialdelestadodehidalgoperiódicooficialdelestadode
+hidalgoperiódicooficialdelestadodehidalgo 2 0 1 7
+
+MUNICIPIO DE HUAZALINGO, HIDALGO.
+
+ACTA DE APROBACIÓN DEL PRESUPUESTO DE EGRESOS PARA EL EJERCICIO 2018.
+
+DE CONFORMIDAD CON LOS ARTÍCULOS 115 DE LA CONSTITUCIÓN POLÍTICA DE
+LOS ESTADOS UNIDOS MEXICANOS; 141 FRACCIÓN X DE LA CONSTITUCIÓN
+POLÍTICA DEL ESTADO DE HIDALGO; 56 FRACCIÓN I INCISOS D) Y S), 60
+FRACCIÓN I INCISO R) Y 95 BIS Y QUINQUIES DE LA LEY ORGÁNICA MUNICIPAL
+PARA EL ESTADO DE HIDALGO , SIENDO LAS 12:00 HORAS DEL DÍA 15 DE
+DICIEMBRE DE 2017, REUNIDOS EN LA SALA DE CABILDOS DEL AYUNTAMIENTO DEL
+MUNICIPIO DE HUAZALINGO, HGO., LOS CC. MILY MARTÍNEZ GALINDO;
+PRESIDENTA MUNICIPAL CONSTITUCIONAL; NICOLÁS HILARIO LARA, SINDICO
+PROCURADOR; ASÍ COMO LOS REGIDORES:, FRANCISCA HERNÁNDEZ RIVERA,
+MARTIN IGNACIO MIGUEL CELIA HERNÁNDEZ BAUTISTA, JOSÉ GÓMEZ AMANDO,
+MARÍA HERNÁNDEZ LARA, CATARINA BAUTISTA LARA, EVER CRUZ HERNÁNDEZ,
+ABELARDO ASUNCIÓN GABINO Y JULIA HIGUERÓN OCHOA CON LA FINALIDAD DE
+ANALIZAR Y APROBAR EL PRESUPUESTO DE EGRESOS PARA EL EJERCICIO FISCAL DE
+2018.
+
+ACTO SEGUIDO, SE DESCRIBEN LOS MONTOS PRESUPUESTADOS EN CADA FUENTE DE
+FINANCIAMIENTO, QUEDANDO COMO SIGUE:
+---------------------------------------------------------------------
+
+Página 134	PERIÓDICO OFICIAL	Bis
+
+lestadodehidalgoperiódicooficialdelestadodehidalgoperiódicooficialdele
+stadodehidalgoperiódicooficialdelestadodehidalgo 2 0 1 7
+
+IMPUESTO	ESPECIAL   SOBRE   PRODUCCIÓN	Y	TRANSFERENCIAS, ASIGNACIONES,
+SUBSIDIOS Y OTRAS	$
+
+158,434.25
+
+SERVICIOS
+
+	AYUDAS
+
+TOTAL DEL FONDO
+
+$	346,359.00
+
+	FONDO DE FISCALIZACIÓN Y RECAUDACIÓN
+
+SERVICIOS GENERALES	$
+
+9,226.00
+
+	TOTAL DEL FONDO
+
+$	9,226.00
+
+FONDO   PARA   LA   INFRAESTRUCTURA   SOCIAL
+
+MUNICIPALYDELASDEMARCACIONES	INVERSIÓN PUBLICA	$
+
+27,319,941.00
+
+TERRITORIALES DEL DISTRITO FEDERAL
+
+TOTAL DEL FONDO
+
+$	27,319,941.00
+
+FONDO	DE	APORTACIONES	PARA	EL
+
+FORTALECIMIENTO DE LOS MUNICIPIOS Y DE LAS	SERVICIOS PERSONALES	$
+
+5,136,223.29
+
+DEMARCACIONES	TERRITORIALES	DEL  DISTRITO
+
+FEDERAL
+
+FONDO	DE	APORTACIONES	PARA	EL
+
+FORTALECIMIENTO DE LOS MUNICIPIOS Y DE LAS	MATERIALES Y SUMINISTROS	$
+
+750,714.80
+
+DEMARCACIONES	TERRITORIALES	DEL  DISTRITO
+
+FEDERAL
+
+FONDO	DE	APORTACIONES	PARA	EL
+
+FORTALECIMIENTO DE LOS MUNICIPIOS Y DE LAS	SERVICIOS GENERALES	$
+
+1,230,854.51
+
+DEMARCACIONES	TERRITORIALES	DEL  DISTRITO
+
+FEDERAL
+
+FONDO	DE	APORTACIONES	PARA	EL
+
+FORTALECIMIENTO DE LOS MUNICIPIOS Y DE LAS	TRANSFERENCIAS, ASIGNACIONES,
+SUBSIDIOS Y OTRAS	$
+
+741,668.40
+
+DEMARCACIONES	TERRITORIALES	DEL  DISTRITO	AYUDAS
+
+	FEDERAL
+
+	TOTAL DEL FONDO
+
+$	7,859,461.00
+
+	IMPUESTO SOBRE AUTOMÓVILES NUEVOS
+
+MATERIALES Y SUMINISTROS	$
+
+9,590.40
+
+	IMPUESTO SOBRE AUTOMÓVILES NUEVOS
+
+SERVICIOS GENERALES	$
+
+41,674.05
+
+IMPUESTO SOBRE AUTOMÓVILES NUEVOS
+
+TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS	$
+
+100,160.55
+
+AYUDAS
+
+IMPUESTO SOBRE AUTOMÓVILES NUEVOS
+
+BIENES MUEBLES, INMUEBLES E INTANGIBLES	$
+
+9,164.00
+
+	TOTAL:
+
+$	160,589.00
+
+COMPENSACIÓN IMPUESTO SOBRE AUTOMÓVILES	TRANSFERENCIAS, ASIGNACIONES,
+SUBSIDIOS Y OTRAS	$
+
+45,031.00
+
+NUEVOS
+
+	AYUDAS
+
+TOTAL:
+
+$	45,031.00
+
+FONDO DE COMPENSACION
+
+	INVERSIÓN PUBLICA	$
+
+2,392,769.10
+
+	TOTAL:
+
+$	2,392,769.10
+
+TOTAL DEL PRESUPUESTO DE EGRESOS 2018:
+
+$	74,619,777.41
+
+POR LO TANTO, EN TÉRMINOS DE LO QUE SE ESTABLECE EN LA NORMATIVIDAD
+VIGENTE EN LA MATERIA, SE APRUEBA EL PRESUPUESTO DE EGRESOS PARA EL
+EJERCICIO FISCAL 2018, POR UN MONTO TOTAL DE $74,619,777.41 (SETENTA Y
+CUATRO MILLONES SEISCIENTOS DIESCINUEVE MIL SETECIENTOS SETENTA Y SIETE
+PESOS 41/100 M.N.), DE ACUERDO CON EL MONTO QUE SE PRETENDE PERCIBIR EN
+FUNCIÓN DE LO ESTABLECIDO EN LA LEY DE INGRESOS PARA EL EJERCICIO
+FISCAL 2018 --------------------------------------------------
+
+ADJUNTO A LA PRESENTE ACTA DE APROBACIÓN, SE INTEGRAN LOS ANEXOS QUE
+CONTIENEN EL MONTO DESAGREGADO EN LOS RESPECTIVOS: CLASIFICADOR POR
+OBJETO DEL GASTO, CLASIFICACIÓN ADMINISTRATIVA, EL RESUMEN POR CAPITULO
+DEL GASTO, EL CLASIFICADOR POR TIPO DE GASTO, EL CLASIFICADOR FUNCIONAL,
+LOS ANALÍTICOS DE PLAZAS, DIETAS Y SERVICIOS PERSONALES, EL PRESUPUESTO
+POR PROGRAMA Y SUBPROGRAMAS; Y EL CALENDARIO DE PRESUPUESTO DE EGRESOS
+BASE MENSUAL, MISMOS QUE FORMAN PARTE INTEGRAL DE ESTA
+ACTA.-------------------------------------------------------------------
+
+Bis	PERIÓDICO OFICIAL	Página 135
+
+operiódicooficialdelestadodehidalgoperiódicooficialdelestadodehidalgo
+2 0 1 7
+
+NO HABIENDO OTRO ASUNTO QUE TRATAR, SE CIERRA LA PRESENTE ACTA, SIENDO
+LAS 18:00 HORAS DEL DÍA 15 DEL MISMO MES Y AÑO, FIRMANDO DE
+CONFORMIDAD LOS QUE EN ELLA INTERVINIERON
+
+AL MARGEN Y AL CALCE EN TODAS LAS FOJAS DE LA PRESENTE ACTA, ASÍ COMO
+EN TODOS LOS ANEXOS QUE LA INTEGRAN.
+------------------------------------------------------------------------
+-----------------------------------
+
+C. MILY MARTÍNEZ GALINDO	C. NICOLÁS HILARIO LARA
+
+PRESIDENTA MUNICIPAL	SINDICO PROCURADOR
+
+HUAZALINGO, HGO.	RÚBRICA
+
+RÚBRICA
+
+C. FRANCISCA HERNÁNDEZ RIVERA	C. MARTIN IGNACIO MIGUEL
+
+REGIDORA	REGIDOR
+
+RÚBRICA	RÚBRICA
+
+C. CELIA HERNÁNDEZ BAUTISTA	C. JOSÉ GÓMEZ AMANDO
+
+REGIDORA	REGIDOR
+
+RÚBRICA	RÚBRICA
+
+C. MARÍA HERNÁNDEZ LARA	C. CATARINA BAUTISTA LARA
+
+REGIDORA	REGIDORA
+
+	RÚBRICA
+
+	RÚBRICA
+
+	C. EVER CRUZ HERNÁNDEZ	C. ABELARDO ASUNCIÓN GABINO
+
+REGIDOR	REGIDOR
+
+	RÚBRICA
+
+	RÚBRICA
+
+	C. JULIA HIGUERÓN OCHOA
+
+	REGIDORA
+
+	RÚBRICA
+
+Derechos Enterados. 27-12-2017

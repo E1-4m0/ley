@@ -1,0 +1,301 @@
+---
+titulo: "Acuerdo que fija los precios y tarifas de los bienes o servicios que presta la Comisión Estatal de Caminos del Estado de Querétaro"
+tipo: "Acuerdo"
+estado: "Queretaro"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "04 de Febrero de 2011"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "29456"
+---
+ING. JUAN GERARDO VÁZQUEZ HERRERA, Coordinador General de la Comisión
+Estatal de Caminos del Estado de Querétaro, en ejercicio de la facultad
+que me confieren los artículos 55 fracción XII de la Ley de la
+Administración Pública Paraestatal del Estado de Querétaro y el
+numeral 13 fracción I, de la Ley que crea la Comisión Estatal de
+Caminos del Estado de Querétaro, y el precepto 6 fracción XIII del
+# Reglamento Interior de la Comisión Estatal de Caminos del Estado de
+Querétaro; y
+
+C O N S I D E R A N D O
+
+PRIMERO. Que la Comisión Estatal de Caminos del Estado de Querétaro,
+conforme al artículo 2 de la Ley que crea la Comisión Estatal de
+Caminos del Estado de Querétaro, es un Organismo Descentralizado con
+personalidad jurídica y patrimonio propios.
+
+SEGUNDO. Que conforme al artículo 54, fracción III de la Ley de la
+Administración Pública Paraestatal del Estado de Querétaro, el
+Órgano de Gobierno de la Comisión Estatal de Caminos del Estado de
+Querétaro, denominado Consejo de Administración, tiene la facultad
+para fijar y ajustar los precios de bienes y servicios que presta dicho
+Organismo Descentralizado.
+
+TERCERO. Que en fecha 16 de noviembre de 2010, se llevó a cabo la
+Primera  Sesión Ordinaria del Consejo de Administración de la
+Comisión Estatal de Caminos del Estado de Querétaro, en la que dicho
+Órgano de Gobierno aprobó los precios o tarifas de los bienes y
+servicios que presta esta Entidad Paraestatal, e instruyó al
+Coordinador General que realizara las gestiones para la publicación de
+éstos en el Periódico Oficial del Gobierno del Estado “La Sombra de
+Arteaga”.
+
+CUARTO. Por lo expuesto, y conforme al artículo 55 fracción XII, de la
+Ley de la Administración Pública Paraestatal del Estado de Querétaro,
+y al numeral 13 fracción I, de la Ley que Crea la Comisión Estatal de
+Caminos del Estado de Querétaro, que señalan que compete al
+Coordinador General de esta Entidad ejecutar los acuerdos que emita el
+Consejo de Administración; publico los Precios y Tarifas por bienes y
+servicios que presta la Comisión Estatal de Caminos del Estado de
+Querétaro, aprobados por el H. Consejo de Administración de este
+Organismo Descentralizado, siendo los siguientes:
+
+Concepto	Precio o Tarifa Autorizada
+
+Por la Obtención de Bases de Licitación Pública	45 VSMGV
+
+INGRESOS PROPIOS POR SUPERVISIÓN Y REVISIÓN DE ALINEAMIENTOS DE
+PREDIOS, INSTALACIONES MARGINALES Y ACCESOS
+
+Concepto	Unidad	Cuota de Recuperación 	Observaciones
+
+Alineamientos de predios al derecho de vía	Cuadrilla Topografía/Día	$
+2,190.00
+
+	Instalación Marginal línea telefónica	Por 1 km	$ 3,480.00	Por km
+extra $1,220.00
+
+Instalación marginal línea eléctrica baja tensión	Por 1 km	$
+3,480.00	Por km extra $1,220.00
+
+Instalación marginal línea de gasoductos	Por 1 km	$ 4,700.00	Por km
+extra $1,830.00
+
+Instalación marginal cruzamientos aéreos de líneas eléctricas alta
+tensión	Cruce	$ 4,090.00
+
+	Instalación marginal cruzamientos aéreos de líneas eléctricas baja
+tensión y telefónicas	Cruce	$ 3,480.00
+
+	Instalación marginal cruzamientos subterráneos de líneas
+telefónicas eléctricas y gasoductos	Cruce	$ 4,090.00
+
+	Construcción  de acceso a nivel	% Costo directo de construcción	7%
+
+INGRESOS PROPIOS POR AUTORIZACIÓN Y RENOVACIÓN DE  COLOCACIÓN DE
+ANUNCIOS EN EL DERECHO DE VÍA
+
+SEÑALES PERMANENTES (NORMA   S.C.T)
+
+Medidas 	Autorización 1 año	Renovación
+
+0.40 x 1.80	 $                               800.00 	 $           400.00
+
+Adicional	 $                               300.00 	 $           200.00
+
+0.60 x 1.80	$                           1,000.00 	 $           500.00
+
+Adicional	 $                               400.00 	 $           250.00
+
+0.56 x 1.80	 $                               900.00 	 $           450.00
+
+Adicional	 $                               350.00 	 $           225.00
+
+SEÑALES SEMI-FIJAS, FRACCIONAMIENTOS, PARTICULARES, ETC.
+
+Medidas	 Autorización 6 meses 	Renovación
+
+Paletas de 1.20 x 2.50	$                            1,000.00 	 $
+  500.00
+
+Adicional	 $                               400.00 	 $           250.00
+
+Gallardetes de 0.90 x 2.50	 $                               800.00 	 $
+        400.00
+
+Adicional	 $                               300.00 	 $           200.00
+
+INGRESOS PROPIOS POR AUTORIZACIÓN Y RENOVACIÓN DE COLOCACIÓN DE
+ESPECTACULARES FUERA DEL DERECHO DE VÍA
+
+Costo = S1 + S2
+
+S1= Importe por supervisión y revisión del sitio antes y después = $
+500.00
+
+	S2= Área x 100 x F
+
+	F=
+
+Factor F	año	Renovación  un año	6 meses	renovación 6 meses
+
+Entre 5.00m2 a 10.00m2	1.4	0.74	0.9	0.65
+
+Entre 10.00m2 a 30.00m2	1.25	0.66	0.7	0.6
+
+Max. Entre 30.00m2 a 55.00m2	1.06	0.56	0.56	0.55
+
+PARTES DE ACCIDENTES
+
+CLAVE	CONCEPTO	UNIDAD	CANTIDAD	P.U
+
+1	SUPERVISIÓN, VERIFICACIÓN Y REVISIÓN DE LOS TRABAJOS. INCLUYE
+TRASLADO DE PERSONAL AL SITIO DE LOS TRABAJOS.	SERVICIO	1.00	$ 489.96
+
+2	   INSTALACIÓN DE DEFENSA METÁLICA DE DOS CRESTAS DE UN LARGO
+EFECTIVO DE 3.81 MTS.  INCLUYE TRASLADO DE PERSONAL A SITIO DE LOS
+TRABAJOS, RETIRO DE DEFENSA EXISTENTE, MATERIALES, MANO DE OBRA,
+HERRAMIENTA Y EQUIPO, COLOCACIÓN DE DEFENSA.	TRAMO	1.00	$ 3,822.00
+
+3	   INSTALACIÓN DE DEFENSA METÁLICA ADICIONAL DE DOS CRESTAS DE UN
+LARGO EFECTIVO DE 3.81 MTS.  INCLUYE TRASLADO DE PERSONAL A SITIO DE LOS
+TRABAJOS, RETIRO DE DEFENSA EXISTENTE, MATERIALES, MANO DE OBRA,
+HERRAMIENTA Y EQUIPO, COLOCACIÓN DE DEFENSA, LIMPIEZA DEL SITIO.	PZA
+1.00	$ 2,252.00
+
+4	   SUMINISTRO Y COLOCACION DE TERMINAL COLA DE PATO INCLUYE TRASLADO
+DE PERSONAL A SITIO DE LOS TRABAJOS, RETIRO DE DEFENSA EXISTENTE,
+MATERIALES, MANO DE OBRA, HERRAMIENTA Y EQUIPO, COLOCACIÓN DE DEFENSA,
+LIMPIEZA DEL SITIO.	PZA	1.00	$ 1,259.99
+
+5	   SUMINISTRO Y COLOCACIÓN DE POSTE METÁLICO DE 1.50 MTS. INCLUYE
+RETIRO DE POSTE DAÑADO, COLOCACIÓN DE NUEVO POSTE, ACARREOS,
+MATERIALES, MANO DE OBRA, HERRAMIENTA Y TRASLADO DE PERSONAL	PZA	1.00	$
+1,008.00
+
+6	   ACOMODO O REPARACIÓN DE DEFENSA METÁLICA EXISTENTE. INCLUYE
+TRASLADO DE PERSONAL AL SITIO DE LOS TRABAJOS, MANO DE OBRA,
+HERRAMIENTA, LIMPIEZA DEL ÁREA AFECTADA.	PZA	1.00	$ 350.23
+
+7	   SUMINISTRO Y COLOCACIÓN DE MURO DE CONCRETO. INCLUYE TRASLADO DE
+PERSONAL AL SITIO, RETIRO DE MURO DAÑADO, COLOCACIÓN DE NUEVO MURO,
+FLETES, EQUIPO, HERRAMIENTA, MANO DE OBRA.	PZA	1.00	$ 6,195.01
+
+8	   SUMINISTRO Y COLOCACIÓN DE MÉNSULA CON REFLEJANTE DE 10 X 10.
+INCLUYE TRASLADO DEL PERSONAL AL SITIO DE LOS TRABAJOS, RETIRO DE
+MÉNSULA EXISTENTE, COLOCACIÓN DE MÉNSULA, MATERIALES, MANO DE OBRA,
+HERRAMIENTA.	PZA	1.00	$ 85.05
+
+9	   SUMINISTRO Y COLOCACIÓN DE BARRERA DE PROTECCIÓN VIAL FABRICADA
+EN POLIETILENO DE MEDIA DENSIDAD BAJA COLOR ROJA. INCLUYE TRASLADO DE
+PERSONAL AL SITIO, RETIRO DE BARRERA DAÑADA, COLOCACIÓN DE NUEVA
+BARRERA, FLETES, HERRAMIENTA, MANO DE OBRA.	PZA	1.00	$ 2,101.09
+
+10	   REINSTALACIÓN DE MURO DE CONCRETO. INCLUYE TRASLADO DE PERSONAL
+AL SITIO, EQUIPO, HERRAMIENTA, MANO DE OBRA.	PZA	1.00	$ 823.64
+
+11	   SUMINISTRO Y APLICACIÓN DE PINTURA SIN RESANES. INCLUYE TRASLADO
+DE PERSONAL AL SITIO, MATERIALES, HERRAMIENTA, MANO DE OBRA.	M2	1.00	$
+70.67
+
+12	   RAYON SOBRE PAVIMENTO. INCLUYE TRASLADO DE PERSONAL AL SITIO,
+MATERIALES, AMNO DE OBRA Y HERRAMIENTA	ML	1.00	$ 471.32
+
+13	   RAYON SOBRE PAVIMENTO EN ASFALTO EXTRA. INCLUYE TRASLADO DE
+PERSONAL AL SITIO, MATERIALES, MANO DE OBRA Y HERRAMIENTA	ML	1.00	$
+61.08
+
+14	   GUARNICIÓN DE CONCRETO F'C = 150 KG/CM2. INCLUYE DEMOLICIÓN Y
+RETIRO DE GUARNICIÓN EXISTENTE, MATERIALES, CIMBRA Y DESCIMBRA,
+CONCRETO F'C = 150KG/CM2, VACIADO DE CONCRETO, MANO DE OBRA,
+HERRAMIENTA, EQUIPO.	ML	1.00	$ 462.06
+
+15	   CUNETA DE MAMPOSTERÍA. INCLUYE RETIRO DE MAMPOSTERÍA DAÑADA,
+CARGA Y ACARREO DE MATERIALES, TRASLADO DE PERSONAL AL SITIO DE LOS
+TRABAJOS, MATERIALES, MANO DE OBRA, HERRAMIENTA, EQUIPO.	ML	1.00	$
+368.16
+
+16	   CUNETA DE CONCRETO F'C = 200 KG/CM2. INCLUYE RETIRO DE CUNETA
+DAÑADA, CARGA Y ACARREO DE MATERIALES, TRASLADO DE PERSONAL AL SITIO DE
+LOS TRABAJOS, MATERIALES, MANO DE OBRA, HERRAMIENTA, EQUIPO.	ML	1.00	$
+420.54
+
+17	   ESCAMA L= 4.00 X 0.40 X E = 0.12 M. INCLUYE. TRASLADO DE PERSONAL
+A SITIO, RETIRO DE ESCAMA DAÑADA, FABRICACIÓN Y COLOCACIÓN DE ESCAMA,
+MATERIALES, MANO DE OBRA, EQUIPO, HERRAMIENTA.	PZA	1.00	$ 2,368.72
+
+18	   ESCAMA L= 7.00 X 0.50 X E = 0.10 M. INCLUYE. TRASLADO DE PERSONAL
+A SITIO, RETIRO DE ESCAMA DAÑADA, FABRICACIÓN Y COLOCACIÓN DE ESCAMA,
+MATERIALES, MANO DE OBRA, EQUIPO, HERRAMIENTA.	PZA	1.00	$ 2,731.01
+
+19	   ESCAMA L= 0.50 X 0.50 X E = 0.08 M. INCLUYE. TRASLADO DE PERSONAL
+A SITIO, RETIRO DE ESCAMA DAÑADA, FABRICACIÓN Y COLOCACIÓN DE ESCAMA,
+MATERIALES, MANO DE OBRA, EQUIPO, HERRAMIENTA.	PZA	1.00	$ 841.64
+
+20	   POSTE DE CONCRETO DE 0.20 X 0.20 X 0.50. INCLUYE TRASLADO DE
+PERSONAL AL SITIO, RETIRO DE POSTE EN MAL ESTADO, MATERIALES, MANO DE
+OBRA, HERRAMIENTA Y EQUIPO.	PZA	1.00	$ 786.32
+
+21	   POSTE DE CONCRETO DE 0.20 X 0.20 X 1.40. INCLUYE TRASLADO DE
+PERSONAL AL SITIO, RETIRO DE POSTE EN MAL ESTADO, MATERIALES, MANO DE
+OBRA, HERRAMIENTA Y EQUIPO.	PZA	1.00	$ 1,722.42
+
+22	   POSTE DE CONCRETO DE 0.40 X 0.65 X 1.40. INCLUYE TRASLADO DE
+PERSONAL AL SITIO, RETIRO DE POSTE EN MAL ESTADO, MATERIALES, MANO DE
+OBRA, HERRAMIENTA Y EQUIPO.	PZA	1.00	$ 2,268.05
+
+23	   FANTASMA DE LÁMINA. INCLUYE TRASLADO DE PERSONAL AL SITIO. RETIRO
+DE FANTASMA EN MAL ESTADO, COLOCACIÓN DE NUEVO FANTASMA, MATERIALES,
+MANO DE OBRA, HERRAMIENTA	PZA	1.00	$ 288.74
+
+24	   FANTASMA DE CONCRETO. INCLUYE TRASLADO DE PERSONAL AL SITIO.
+RETIRO DE FANTASMA EN MAL ESTADO, COLOCACIÓN DE NUEVO FANTASMA,
+MATERIALES, MANO DE OBRA, HERRAMIENTA	PZA	1.00	$ 598.50
+
+25	   INDICADORES DE PVC. INCLUYEN TRASLADO DE PERSONAL AL SITIO,
+MATERIALES, MANO DE OBRA, HERRAMIENTA.	PZA	1.00	$ 400.00
+
+26	   SEÑAL DE DESTINO DE 1.80 X 0.40. INCLUYE TRASLADO DE PERSONAL AL
+SITIO, RETIRO DE SEÑAL EN MAL ESTADO, COLOCACIÓN DE SEÑAL NUEVA,
+MATERIALES, MANO DE OBRA, HERRAMIENTA	PZA	1.00	$ 1,890.07
+
+27	   SEÑAL / CHEVRON DE 0.45 X 0.61 O MENOR. INCLUYE TRASLADO DE
+PERSONAL AL SITIO, RETIRO DE SEÑAL EN MAL ESTADO, COLOCACIÓN DE SEÑAL
+NUEVA, MATERIALES, MANO DE OBRA, HERRAMIENTA	PZA	1.00	$ 1,029.01
+
+28	   SEÑAL DOBLE CHEVRON DE 0.71 X 0.71. INCLUYE TRASLADO DE PERSONAL
+AL SITIO, RETIRO DE SEÑAL EN MAL ESTADO, COLOCACIÓN DE SEÑAL NUEVA,
+MATERIALES, MANO DE OBRA, HERRAMIENTA	PZA	1.00	$ 1,128.76
+
+29	   SEÑAL 0.86 X 0.86 . INCLUYE TRASLADO DE PERSONAL AL SITIO, RETIRO
+DE SEÑAL EN MAL ESTADO, COLOCACIÓN DE SEÑAL NUEVA, MATERIALES, MANO
+DE OBRA, HERRAMIENTA	PZA	1.00	$ 1,574.99
+
+30	   SEÑAL 1.20 X 0.40. INCLUYE TRASLADO DE PERSONAL AL SITIO, RETIRO
+DE SEÑAL EN MAL ESTADO, COLOCACIÓN DE SEÑAL NUEVA, MATERIALES, MANO
+DE OBRA, HERRAMIENTA	PZA	1.00	$ 1,574.99
+
+31	   SEÑAL DOBLE 1.20 X 0.40. INCLUYE TRASLADO DE PERSONAL AL SITIO,
+RETIRO DE SEÑAL EN MAL ESTADO, COLOCACIÓN DE SEÑAL NUEVA, MATERIALES,
+MANO DE OBRA, HERRAMIENTA	PZA	1.00	$ 2,308.99
+
+32	   SEÑAL CARAMELO DE 1.20 X 0.30 O. D. - 05 OBSTAC. INCLUYE TRASLADO
+DE PERSONAL AL SITIO, RETIRO DE SEÑAL EN MAL ESTADO, COLOCACIÓN DE
+SEÑAL NUEVA, MATERIALES, MANO DE OBRA, HERRAMIENTA	PZA	1.00	$ 2,308.99
+
+33	   SEÑALAMIENTO DE OBRA DE 0.90 X 1.80 MTS. INCLUYE TRASLADO DE
+PERSONAL AL SITIO, RETIRO DE SEÑAL EN MAL ESTADO, COLOCACIÓN DE SEÑAL
+NUEVA, MATERIALES, MANO DE OBRA, HERRAMIENTA	PZA	1.00	$ 1,103.42
+
+QUINTO. Las presentes tarifas o precios, entrarán en vigor a partir del
+día siguiente al de su publicación en el Periódico Oficial del
+Gobierno del Estado de Querétaro “La Sombra de Arteaga”, de
+conformidad con el artículo 5 de la Ley de Procedimientos
+Administrativos del Estado de Querétaro.
+
+A T E N T A M E N T E
+
+ING. JUAN GERARDO VÁZQUEZ HERRERA
+
+COORDINADOR GENERAL
+
+DE LA COMISIÓN ESTATAL DE CAMINOS
+
+DEL ESTADO DE QUERÉTARO
+
+Rúbrica
+
+ACUERDO QUE FIJA LOS PRECIOS Y TARIFAS DE LOS BIENES O SERVICIOS QUE
+PRESTA LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO.
+PUBLICADO EN EL PERIÓDICO OFICIAL DE GOBIERNO DEL ESTADO "LA SOMBRA DE
+ARTEAGA",  DE FECHA  4 DE FEBRERO DE 2011. (P. O. No. 9)

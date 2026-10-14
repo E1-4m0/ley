@@ -1,0 +1,1264 @@
+---
+titulo: "Decreto Número 779 por el que se crea la Universidad Tecnológica de la Costa Grande, como Organismo Público Descentralizado"
+tipo: "Decreto Legislativo"
+estado: "Guerrero"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "19 de Agosto de 2011"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "32875"
+---
+CAPÍTULO I
+
+Disposiciones generales	         10
+
+CAPÍTULO II
+
+Del objeto, atribuciones y funciones de la Universidad	         11
+
+CAPÍTULO III
+
+Del patrimonio de la Universidad	         14
+
+CAPÍTULO IV
+
+De la integración y administración de la Universidad	         15
+
+CAPÍTULO V
+
+De los alumnos	         26
+
+CAPÍTULO VI
+
+Del Contralor Interno	         26
+
+CAPÍTULO VII
+
+Del Patronato	         26
+
+CAPÍTULO VIII
+
+De las relaciones laborales	         27
+
+CAPÍTULO IX
+
+Del personal académico	         27
+
+T R A N S I T O R I O S	         28
+
+	FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL
+ESTADO No. 95, EL MARTES 29 DE NOVIEMBRE DE 2011.
+
+	TEXTO ORIGINAL
+
+	Decreto publicado en el Periódico Oficial del Gobierno del Estado No.
+66, el Viernes 19 de Agosto de 2011.
+
+DECRETO NÚMERO 779 POR EL QUE SE CREA LA UNIVERSIDAD TECNOLÓGICA DE LA
+COSTA GRANDE DE GUERRERO, COMO ORGANISMO PÚBLICO DESCENTRALIZADO. (F.E.
+P.O. 29 DE NOVIEMBRE DE 2011)
+
+	ÁNGEL HELADIO AGUIRRE RIVERO, Gobernador Constitucional del Estado
+Libre y Soberano de Guerrero, a sus habitantes, sabed
+
+	Que el H. Congreso Local, se ha servido comunicarme que,
+
+	LA QUINCUAGÉSIMA NOVENA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO
+LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
+
+C O N S I D E R A N D O
+
+	Que en sesión de fecha 24 de mayo del 2011, los Diputados integrantes
+de la Comisión Ordinaria de Educación, Ciencia y Tecnología,
+presentaron a la Plenaria el Dictamen con Proyecto de Decreto por el que
+se crea la Universidad Tecnológica de la Costa Grande de Guerrero, como
+Organismo Público Descentralizado, en los siguientes términos: (F.E.
+P.O. 29 DE NOVIEMBRE DE 2011)
+
+	“Que con fecha 15 de marzo del 2011, el Contador Público Israel
+Soberanis Nogueda, Secretario General de Gobierno, en uso de las
+facultades que le confiere el artículo 20 fracción II de la Ley
+Orgánica de la Administración Pública del Estado de Guerrero,
+remitió ante la Plenaria, la Iniciativa de Decreto por el que se crea
+la Universidad Tecnológica de la Costa Grande de Guerrero, como
+Organismo Público Descentralizado, signada por el Titular del Poder
+Ejecutivo del Estado.
+
+	Que en sesión de fecha 22 de marzo del 2011, el Pleno de la
+Quincuagésima Novena Legislatura al Honorable Congreso del Estado Libre
+y Soberano de Guerrero, tomó conocimiento del oficio suscrito por el
+Contador Público Israel Soberanis Nogueda, Secretario General de
+Gobierno, habiéndose turnado, por instrucciones de la Presidencia de la
+Mesa Directiva, mediante oficio número LIX/3ER/OM/DPL/0398/2011,
+signado por el Licenciado BENJAMÍN GALLEGOS SEGURA, Oficial Mayor del
+H. Congreso del Estado, a la Comisión de Educación, Ciencia y
+Tecnología para su análisis y emisión del Dictamen y proyecto de
+Decreto correspondiente.
+
+	Que en cumplimiento a lo dispuesto por los artículos 86, 132 y 133 de
+la Ley Orgánica del Poder Legislativo número 286, mediante oficio
+número HCE/FCR/025/2011, de fecha 28 de marzo del 2011, se turnó un
+ejemplar de la citada iniciativa de decreto por el que se crea la
+Universidad Tecnológica de la Costa Grande de Guerrero, a cada uno de
+los integrantes de la Comisión de Educación, Ciencia y Tecnología
+para su análisis y comentarios a efecto de que sean presentados en
+reunión de trabajo de la Comisión.
+
+	Que en términos de lo dispuesto por los artículos 46, 49 fracción
+VII, 58, 86 primer párrafo, 87, 127 párrafos primero y tercero, 132,
+133 y demás relativos de la Ley Orgánica del Poder Legislativo del
+Estado Número 286, esta Comisión Ordinaria de Educación, Ciencia y
+Tecnología tiene plenas facultades para analizar la iniciativa de
+referencia y emitir el Dictamen con proyecto de Decreto que recaerá a
+la misma, realizándose en los siguientes términos:
+
+	Que el Titular del Poder Ejecutivo, Contador Público Carlos Zeferino
+Torreblanca Galindo, motiva su iniciativa en los siguientes términos:
+
+	“Que la Constitución Política de los Estados Unidos Mexicanos en su
+artículo 3o. fracción VII, establece que las universidades realizarán
+sus fines de educar, investigar y difundir la cultura de acuerdo con los
+principios de este artículo, respetando la libertad de cátedra e
+investigación y de libre examen y discusión de las ideas;
+determinarán sus planes y programas; fijarán los términos de ingreso,
+promoción y permanencia de su personal académico; y administrarán su
+patrimonio.
+
+	Que el artículo 109 de la Constitución Política del Estado Libre y
+Soberano de Guerrero establece que el sistema estatal de enseñanza
+deberá tener una permanente coordinación con el sistema federal y que
+tratándose de la educación superior, se procurará el desarrollo del
+Estado o la región, aprovechando los conocimientos, las experiencias o
+los medios de las instituciones federales o de otras entidades.
+
+	Que con fecha 29 de marzo de 1995, se expidió la Ley de Educación del
+Estado de Guerrero Núm. 158, publicada en el Periódico Oficial del
+Gobierno del Estado número 32, de fecha 21 de abril del mismo año y
+cuyo contenido tiende a garantizar la calidad, pertinencia, equidad y
+cobertura de la educación que se imparte en el Estado; estableciendo
+como fines de la educación, entre otros, el de fomentar actitudes que
+estimulen la investigación y la innovación científica y tecnológica.
+
+	Que es prioridad del Gobierno del Estado y parte fundamental de las
+políticas públicas en educación, abatir el rezago educativo en la
+entidad ampliando la cobertura, calidad y eficiencia de la educación
+básica, desconcentrando y diversificando la educación media superior y
+desarrollando y vinculando la educación superior con los requerimientos
+y perspectivas de desarrollo integral del Estado.
+
+	Que la Secretaría de Educación Guerrero tiene a su cargo, en
+concurrencia con las autoridades educativas federales, el promover
+permanentemente y vigilar el desarrollo y la investigación científica
+y tecnológica en la entidad, impulsando y fortaleciendo el sistema de
+educación y divulgación científica y tecnológica; así como
+promoviendo y consolidando su articulación, desarrollo y vinculación
+social y productiva, desde la educación básica hasta la superior y el
+postgrado, incluidos los centros de divulgación de la ciencia y la
+cultura tecnológica.
+
+	Que con fecha 03 de julio de 1997, el Gobierno del Estado a través de
+la Secretaría de Educación Guerrero, celebró Convenio de
+Coordinación con la Secretaría de Educación Pública, para la
+creación, operación y apoyo financiero de la Universidad Tecnológica
+de la Costa Grande de Guerrero.
+
+	Que en el mencionado Convenio de Coordinación, el Gobierno del Estado
+se comprometió a crear la Universidad Tecnológica de la Costa Grande
+de Guerrero, como un Organismo Público Descentralizado, con
+personalidad jurídica y patrimonio propios, y con las características
+precisadas en el mismo, mediante la expedición del ordenamiento
+jurídico procedente.
+
+	Que con fecha 10 de febrero de 1998, el Congreso del Estado aprobó el
+Decreto Núm. 143, por el que se crea la Universidad Tecnológica de la
+Costa Grande de Guerrero, el cual se publicó en el Periódico Oficial
+del Gobierno del Estado número 18 del 27 de febrero de 1998, documento
+que hasta la fecha no ha sido reformado, requiriéndose un nuevo decreto
+para incorporar los cambios que vayan acorde con las nuevas
+disposiciones normativas que rigen a las entidades paraestatales y las
+necesidades educativas que el Estado de Guerrero requiere, para el
+desarrollo del entorno de la Región.
+
+	Que en la planeación estratégica nacional, la Visión al 2030 se
+concreta en el Plan Nacional de Desarrollo 2007-2012, que establece una
+estrategia clara y viable para avanzar en la transformación de México
+sobre bases sólidas, realistas y, sobre todo, responsables; lo
+anterior, a través de sus cinco ejes rectores, de entre los cuales
+sobresale el Eje 3 denominado “Igualdad de Oportunidades”, que en su
+apartado 3.3 “Transformación Educativa”, proyecta el crecimiento en
+el país de las Universidades Tecnológicas, y resalta la importancia de
+aumentar su cobertura educativa.
+
+	Que en el mismo Plan, la estrategia 10.4 señala la necesidad de
+“Promover una mayor integración, tanto entre los distintos niveles
+educativos como dentro de los mismos, para aumentar la permanencia de
+los estudiantes en el sistema educativo”. Dicha estrategia apunta a
+las distintas modalidades de la educación básica, media superior y
+superior, las cuales se enfrentan con obstáculos para dar continuidad
+de estudios entre un nivel y otro, o dentro de los mismos. En lo que se
+refiere a las Universidades Tecnológicas, lo anterior se traduce en el
+compromiso y necesidad de trabajar en la revisión de las normas del
+sistema educativo nacional para posibilitar la concreción de una
+Licenciatura o Ingeniería y con ello se consiga el crecimiento del
+nivel educativo de los habitantes de nuestro país.
+
+	Que el Programa Sectorial de Educación 2007-2012, en su segundo
+objetivo establece: “Ampliar las oportunidades educativas para reducir
+desigualdades entre grupos sociales, cerrar brechas e impulsar la
+equidad”, del cual se desprende la Estrategia 2.14 que a la letra
+dice: “Fortalecer los programas, modalidades educativas y mecanismos
+dirigidos a facilitar el acceso y brindar atención a diferentes grupos
+poblacionales”.
+
+	Que en el mismo Programa Sectorial, el objetivo 6, estrategia 6.12
+plantea: “Promover la integración efectiva de las instituciones y de
+los diversos subsistemas de educación superior en el sistema abierto,
+flexible y diversificado”, de la cual se deriva la siguiente línea de
+acción: “Flexibilizar el sistema de educación superior para
+facilitar la movilidad de profesores y estudiantes entre instituciones,
+programas y modalidades educativas”.
+
+	Que el modelo de las Universidades Tecnológicas se basa en la
+generación de profesionistas en un marco de educación intensiva: 3,000
+hrs., promedio en dos años, y su sistema educativo comprende 30% de
+teoría y 70% de conocimiento aplicado o práctico, e incluye un
+período (último cuatrimestre) de estadía en alguna empresa. Asimismo,
+una de las características distintivas de las Universidades
+Tecnológicas es el adecuado equipamiento que está acorde al sector
+empresarial de la región, lo cual implica la pertinencia de las
+carreras en cada una de las universidades, ya que atienden necesidades
+locales.
+
+	Que los programas educativos de la institución, se sustentan en
+estudios de factibilidad macro y micro regional, oferta y demanda
+educativa y mercado laboral. Los planes y programas de estudios tienen
+una vigencia de tres años y se revisan continuamente para actualizarlos
+en función a las necesidades del sector productivo.
+
+	Que actualmente, las Universidades Tecnológicas sólo otorgan el
+título de Técnico Superior Universitario, ubicado en el nivel 5B de la
+Clasificación Internacional Normalizada de la Educación de la UNESCO
+(CINE).
+
+	Que la impartición de estudios de nivel 5A, permite que las
+Universidades Tecnológicas contribuyan tanto al cumplimiento de Plan
+Nacional de Desarrollo, como al Programa Sectorial de Educación, sobre
+todo en cuanto a cobertura, flexibilidad, diversificación y
+rentabilidad social, así como al desarrollo económico y al bienestar
+social del país, de esta manera, se logrará:
+
+	I. Instaurar un esquema que considere la licenciatura, privilegiando el
+fin para el cual fueron creadas;
+
+	II. Mantener el modelo de las Universidades Tecnológicas, con respecto
+a la inserción profesional directa, pero considerar la organización
+para el acceso a la licenciatura;
+
+	III. Promover la flexibilización en la educación superior;
+
+	IV. Modificar la meta y organizar el modelo educativo; y
+
+	V. Ofrecer a los egresados del subsistema la continuidad de estudios.
+
+	Que el Programa Sectorial de Educación, contempla entre sus proyectos,
+el impulso a la vinculación educación-sector productivo y la
+ampliación de acciones de formación profesional a través de la
+creación de universidades tecnológicas, ofertando a la población
+guerrerense egresada del nivel medio superior nuevas oportunidades
+profesionales tecnológicas con calidad, pertinencia y competitividad.
+
+	Que al ampliar la cobertura de la educación tecnológica en Guerrero,
+se consolidan y diversifican los cambios y bases educativas para el
+México del siglo XXI y se asegure que la educación se convierta en
+puntal decisivo para el desarrollo económico, social, político y
+cultural pleno de la entidad. De ahí la importancia de fortalecer el
+sistema de educación tecnológica mediante la creación de la
+Universidad Tecnológica de la Región Norte de Guerrero, ya que abre
+nuevos horizontes para el mejoramiento de la calidad académica,
+multiplica las opciones formativas en el campo de la formación
+profesional tecnológica, amplía la flexibilidad curricular y establece
+una más estrecha vinculación de este modelo educativo con los
+requerimientos del sector productivo de bienes y servicios y el
+desarrollo de las economías regionales.
+
+	Que para cumplir mejor con sus fines y función social, la educación
+superior tecnológica requiere incorporar tanto en sus planes y
+programas como en la cultura laboral y organizacional los avances
+científicos y tecnológicos más recientes, así como propiciar en la
+conducta profesional de sus egresados una conducta éticamente
+responsable, creativa, innovadora, competitiva y reformadora de su
+entorno social, que contribuya y responda a los requerimientos del
+desarrollo social y humano en el nivel comunitario, regional, estatal y
+nacional.
+
+	Que se han hecho los estudios y previsiones necesarios para apoyar la
+consolidación de la educación superior tecnológica, en el marco de la
+nueva estrategia de coparticipación federación-entidades federativas,
+para el financiamiento y aportación de los recursos necesarios para el
+gasto corriente y de inversión de las universidades tecnológicas, así
+como para la conducción concertada de su vida académica y
+administrativa y el sano y adecuado manejo de sus relaciones laborales e
+institucionales.
+
+	Que resulta conveniente incorporar a la universidad como un centro de
+estudios que ofrezca continuidad de estudios a los egresados de la
+institución en los niveles de licenciatura e ingeniería en las áreas
+de ciencia, tecnología y servicios, que permitan progresar el entorno.
+
+	Que con fecha 25 de enero del año dos mil once, el pleno del H.
+Consejo Directivo de la Universidad Tecnológica de la Costa Grande de
+Guerrero, en sesión ordinaria, aprobó por unanimidad de votos el
+proyecto de iniciativa de decreto de la Universidad.
+
+	Sometida que ha sido a un profundo análisis la iniciativa de decreto y
+sus partes componentes, los considerandos y la estructura del
+articulado, el pleno de la Comisión de Educación, Ciencia y
+Tecnología, expresa su más amplia coincidencia con los fundamentos
+justificatorios para transformar la institución existente, en una
+nueva, cualitativa y cuantitativamente diferente y superior, que
+amparada en la experiencia adquirida después de trece años de trabajo,
+ofrece a la juventud guerrerense y particularmente a la de la región
+costera, una oferta educativa mayor y mejor.
+
+	El proceso educativo en México ha tenido diversos enfoques y en torno
+a él se han practicado diversas políticas públicas; una de ellas fue
+la de considerar no necesario que la juventud libremente pudiera acceder
+a opciones de educación superior hasta el nivel de la licenciatura y
+adicionándole a esto la idea de la incorporación temprana al empleo,
+se aperturó desde la Federación un modelo de educación denominado
+"Universidades Tecnológicas", planteado con una gran cercanía con la
+empresa privada y social y con los planes de desarrollo regional de los
+gobiernos estatales; este modelo educativo contemplaba solamente la
+formación de Técnico Superior Universitario en diferentes ramos de la
+tecnología y los servicios; además de la estancia prolongada del
+estudiantado en las empresas y los procesos productivos. Sin embargo, el
+proyecto educativo no consideraba la posibilidad de que el estudiante
+pudiera, si así lo deseara, continuar sus estudios hasta el nivel de la
+licenciatura.
+
+	Esta limitación fundamental, de no considerar la articulación
+educativa a programas de nivel licenciatura, se convirtió con el tiempo
+en una traba difícilmente salvable para el desarrollo y consolidación
+del modelo de de las Universidades Tecnológicas.
+
+	La actual visión de acercar la educación en todos sus niveles a las
+regiones, considerar para la planeación del desarrollo regional a las
+instituciones de educación superior y en definitiva poner al alcance de
+la juventud mexicana y guerrerense en particular, una educación
+superior de calidad, alta pertinencia y gratuita, es a nuestro juicio,
+entender el contexto de la dinámica que juega hoy la educación en
+nuestro país y sus necesidades.
+
+	Consideramos que es excepcionalmente oportuna la propuesta para
+transformar de fondo a la Universidad Tecnológica de la Costa Grande de
+Guerrero; que en su Nueva Ley se pone énfasis en que la razón de ser
+de la institución en la formación académica de alto nivel de la
+juventud que demande sus servicios; que el personal académico que en
+ella labore deberá contar con los perfiles y una amplia solvencia
+académica así como una forma transparente de ingreso, permanencia y
+promoción.
+
+	Que la razón de fondo de este trascendental proceso de reforma es
+construir y consolidar en el corto plazo una nueva institución
+educativa de elevada calidad académica, pertinencia social y altamente
+competitiva, razones todas coincidentes con el pensamiento del Honorable
+Congreso del Estado y los anhelos del pueblo de Guerrero.
+
+	A juicio de la Comisión, por razones de técnica legislativa y
+observaciones de fondo, para una mejor interpretación y mayor
+entendimiento se modificaron los siguientes artículos: Artículo 3°,
+Apartado III; artículo 4°, apartado I; artículo 5°, apartado VI;
+artículo 8°, renglón segundo. Articulo 10º, apartado V, y se crea un
+apartado VII; artículo 14°, se suprime el apartado VIII Y se modifican
+en su numeración los subsiguientes; artículo 15°, renglón primero;
+artículo 17°, se modifican el orden de los apartados, además de hacer
+adiciones al apartado I, y V; el artículo 18°, apartado XIV; artículo
+19°, en su segundo párrafo; artículo 21°, apartado II; artículo
+24°, Capítulo VI; articulo 26°, articulo 27°, artículo 29°,
+apartado I; artículo 31°; artículo 32°.
+
+	Que los Diputados integrantes de la Comisión Ordinaria de Educación,
+Ciencia y Tecnología, consideramos procedente la iniciativa de
+referencia, dejando asentado que la misma cumple con las directrices y
+lineamientos que para el caso de creación de organismos
+descentralizados regula la Ley de Entidades Paraestatales del Estado de
+Guerrero.
+
+	Que por todo lo anterior, esta Comisión dictaminadora coincide
+plenamente en aprobar la creación de la Universidad Tecnológica de la
+Costa Grande de Guerrero, con la finalidad de otorgar un servicio
+educativo profesional de calidad en beneficio de la juventud
+guerrerense”.
+
+	Que en sesiones de fecha 24 y 26 de mayo del 2011, el Dictamen en
+desahogo recibió primera y dispensa de la segunda lectura,
+respectivamente, por lo que en términos de lo establecido en el
+artículo 138 de la Ley Orgánica del Poder Legislativo del Estado de
+Guerrero, la Presidencia de la Mesa Directiva, habiendo sido fundado y
+motivado el Dictamen con proyecto de Decreto, al no existir votos
+particulares en el mismo y no haber registro en contra en la discusión,
+procedió a someterlo a votación, aprobándose por unanimidad de votos.
+
+	Que aprobado en lo general el Dictamen, se sometió en lo particular y
+no habiéndose presentado reserva de artículos, la Presidencia de la
+Mesa Directiva del Honorable Congreso del Estado realizó la
+Declaratoria siguiente: “En virtud de que no existe reserva de
+artículos, esta Presidencia en términos del artículo 137, párrafo
+primero de nuestra Ley Orgánica, tiene por aprobado el Dictamen con
+proyecto de Decreto por el que se crea la Universidad Tecnológica de la
+Costa Grande de Guerrero, como Organismo Público Descentralizado.
+Emítase el Decreto correspondiente y remítase a las Autoridades
+competentes para los efectos legales conducentes. (F.E. P.O. 29 DE
+NOVIEMBRE DE 2011)
+
+	Por lo anteriormente expuesto, y con fundamento en lo dispuesto por los
+artículos 47 fracciones I y XIX de la Constitución Política Local, y
+en el artículo 8° fracción I de la Ley Orgánica del Poder
+Legislativo del Estado de Guerrero número 286, el Honorable Congreso
+del Estado, decreta y expide el siguiente:
+
+DECRETO NÚMERO 779 POR EL QUE SE CREA LA UNIVERSIDAD TECNOLÓGICA DE LA
+COSTA GRANDE DE GUERRERO, COMO ORGANISMO PÚBLICO DESCENTRALIZADO. (F.E.
+P.O. 29 DE NOVIEMBRE DE 2011)
+
+	ARTÍCULO ÚNICO. Se crea la Universidad Tecnológica de la Costa
+Grande de Guerrero, como Organismo Público Descentralizado. (F.E. P.O.
+29 DE NOVIEMBRE DE 2011)
+
+CAPÍTULO I
+
+Disposiciones generales
+
+	Artículo 1. Se crea la Universidad Tecnológica de la Costa Grande de
+Guerrero, como organismo público descentralizado, con personalidad
+jurídica y patrimonio propios, con domicilio legal en la ciudad de
+Petatlán, Guerrero.
+
+	Artículo 2. La Universidad Tecnológica de la Costa Grande de
+Guerrero, se regirá por lo dispuesto en la Constitución Política de
+los Estados Unidos Mexicanos, la Constitución Política del Estado
+Libre y Soberano de Guerrero, la Ley General de Educación, la Ley de
+Educación del Estado de Guerrero Núm. 158, Ley Orgánica de la
+Administración Pública del Estado de Guerrero, número 433,
+Reglamentos y demás disposiciones normativas aprobadas por el H.
+Consejo Directivo y operará con base en el modelo pedagógico aprobado
+por la Secretaría de Educación Pública, a través de la
+Subsecretaría de Educación Superior e Investigación Científica por
+conducto de la Coordinación General de Universidades Tecnológicas.
+(F.E. P.O. 29 DE NOVIEMBRE DE 2011)
+
+CAPÍTULO II
+
+Del objeto, atribuciones y funciones de la Universidad
+
+	Artículo 3. La Universidad Tecnológica de la Costa Grande de
+Guerrero, tendrá por objeto: (F.E. P.O. 29 DE NOVIEMBRE DE 2011)
+
+	I. Impartir e impulsar la educación superior tecnológica, para la
+formación de Técnicos Superiores Universitarios y Profesionales en las
+Áreas de Ciencia, Tecnología y de Servicios;
+
+	II. Ofrecer programas de continuidad de estudios para sus egresados, y
+para egresados del nivel Técnico Superior Universitario Profesional
+Asociado de otras Instituciones de Educación Superior, que permitan a
+los alumnos alcanzar el grado académico de licenciatura; y
+
+	III. Ofrecer programas de postgrado, planeados a partir de la demanda
+de mayor especialización en los ámbitos de la formación tecnológica
+y de las necesidades del desarrollo regional.
+
+	Artículo 4. Para el cumplimiento de su objeto la Universidad, tendrá
+las atribuciones siguientes:
+
+	I. Impartir educación superior tecnológica en los niveles de Técnico
+Superior Universitario, articulada a programas de continuidad de
+estudios con grado académico de licenciatura y estudios de postgrados;
+
+	II. Expedir y otorgar títulos, grados, constancias, diplomas y
+certificados correspondientes a los diversos tipos, niveles y
+modalidades de estudio que se cursen en la institución, y expedir
+certificaciones por competencias laborales;
+
+	III. Formular y modificar, en su caso, sus planes y programas de
+estudio, y establecer los procedimientos de acreditación y
+certificación de estudios para someterlos a la autorización de las
+autoridades educativas competentes;
+
+	IV. Recibir las solicitudes de revalidación o de equivalencia de
+estudios que le presenten los interesados, y darles trámite ante la
+autoridad educativa competente;
+
+	V. Aceptar el intercambio de estudiantes inscritos en otras
+universidades de este tipo, previa revalidación o declaración de
+estudios equivalentes, emitida por la autoridad educativa competente;
+
+	VI. Establecer los procedimientos y requisitos de selección, ingreso y
+permanencia del personal, con sujeción a los lineamientos establecidos
+por el sistema;
+
+	VII. Impartir programas de educación continua con orientación a la
+capacitación para el trabajo y fomento de la cultura tecnológica en la
+región y en el Estado;
+
+	VIII. Prestar servicios de asesoría, elaboración de proyectos,
+desarrollo de prototipos, paquetes tecnológicos y capacitación
+técnica a los sectores público, social y privado que lo soliciten;
+
+	IX. Diseñar y ejecutar su Plan Institucional de Desarrollo y
+establecer los subsistemas de planeación y evaluación, así como de
+programación y presupuestación y los demás que requiere la
+institución;
+
+	X. Definir su política académica institucional en materia de
+educación, investigación, desarrollo técnico, extensión, difusión y
+vinculación;
+
+	XI. Organizar y desarrollar programas culturales, recreativos y
+deportivos;
+
+	XII. Incentivar al personal directivo, docente, administrativo y de
+apoyo para su superación permanente, procurando mejorar la información
+profesional o técnica en cada nivel;
+
+	XIII. Elaborar y ejecutar programas de orientación educativa constante
+y permanente;
+
+	XIV. Celebrar convenios con Instituciones Estatales, Nacionales o
+Extranjeras, para el eficaz cumplimiento de los fines de la Universidad
+y de sus alumnos;
+
+	XV. Organizar administrativamente su estructura operacional en la forma
+que lo requiera, con base en lo establecido en este Decreto; así como
+contratar los recursos humanos necesarios de acuerdo a su presupuesto
+anual;
+
+	XVI. Administrar su patrimonio con sujeción al marco legal aplicable y
+a los sistemas de control, vigilancia y auditoría que sean necesarios;
+
+	XVII. Proponer la realización de convenios y mantener estrecha
+vinculación con el sector productivo de bienes y servicios de la
+región, así como constituir organismos de apoyo y vinculación con la
+sociedad;
+
+	XVIII. Establecer sin fines de lucro, los derechos y aportaciones de
+recuperación por los servicios que preste;
+
+	XIX. Realizar los demás actos jurídicos necesarios para el
+cumplimiento de su objeto; y
+
+	XX. Las demás que se encuentren dentro del ámbito de su competencia y
+que le señalen otras disposiciones jurídicas aplicables.
+
+	Artículo 5. Para el cumplimiento de su objeto la Universidad,
+realizará las funciones siguientes:
+
+	I. Evaluar permanentemente los planes y programas de estudio, así como
+las modalidades que imparte;
+
+	II. Evaluar el servicio educativo que preste, aplicando los criterios
+definidos por la autoridad educativa;
+
+	III. Reportar anualmente a las autoridades educativas del Estado, y a
+la Coordinación General de Universidades Tecnológicas, el resultado de
+las evaluaciones académicas;
+
+	IV. Contar con el personal académico calificado, para la impartición
+de los programas de estudio; así como, con el personal de apoyo
+académico y administrativo necesario para su funcionamiento;
+
+	V. Proporcionar a los alumnos los medios de apoyo para el aprendizaje,
+tales como materiales audiovisuales, servicio de biblioteca, prácticas
+de laboratorio, prácticas de taller, sesiones de grupo, conferencias,
+mesas redondas, prácticas educativas en las empresas industriales y de
+servicios, y los demás que se deriven de los métodos de
+enseñanza-aprendizaje;
+
+	VI. Observar las disposiciones académicas de competencia de nuestra
+institución, relativas a la enseñanza de los alumnos que emita la
+Secretaría de Educación Pública;
+
+	VII. Promover la aplicación de un sistema de seguimiento de egresados
+e informar periódicamente del mismo a la Secretaría de Educación
+Pública, a la Secretaría de Educación Guerrero y a la Coordinación
+General de Universidades Tecnológicas; y
+
+	VIII. Proponer al Ejecutivo Estatal, con la participación de la
+iniciativa privada y del sector social, la constitución de fondos
+especiales de financiamiento, para otorgar becas-crédito a los alumnos
+que así lo requieran y cumplan con los requisitos necesarios para ello.
+
+CAPÍTULO III
+
+Del patrimonio de la Universidad
+
+	Artículo 6. El patrimonio de la Universidad está constituido por:
+
+	I. Las aportaciones, participaciones, subsidios y apoyos anuales,
+ordinarios y extraordinarios que los Gobiernos Federal y Estatal
+otorguen a la Universidad, los que en ningún caso serán menores a los
+ejercidos en el año anterior inmediato;
+
+	II. Otros fondos públicos que le sean otorgados por los Gobiernos
+Federal, Estatal y Municipal;
+
+	III. Los ingresos propios que perciba la Universidad de los servicios
+profesionales que se presten al exterior;
+
+	IV. Los bienes muebles e inmuebles que sean de su propiedad y los que
+adquiera con recursos propios, o por cualquier título legal;
+
+	V. Los bienes académicos y culturales que descubran, inventen, creen o
+produzcan sus trabajadores y alumnos, al interior y con recursos de la
+Institución. Lo anterior se cumplirá observando las disposiciones que
+sobre derechos de autor existan y las que establezca la reglamentación
+respectiva de la Universidad;
+
+	VI. Las patentes, marcas y derechos que le correspondan y los ingresos
+que se deriven por su explotación;
+
+	VII. Las utilidades, intereses, dividendos, rendimientos y en general
+los bienes, valores, recursos, derechos y demás ingresos que adquiera
+por cualquier título legal y en general los fondos, que la Universidad
+reciba y los que genere el Patronato;
+
+	VIII. Los recursos provenientes de fideicomisos que se constituyan en
+su favor; y
+
+	IX. Cualquier otro ingreso destinado a la misma.
+
+	Artículo 7. Los ingresos de la Universidad Tecnológica de la Costa
+Grande de Guerrero y los bienes de su propiedad no estarán sujetos a
+contribuciones estatales, tampoco estarán gravados los actos y
+contratos en los que él intervenga, si las contribuciones, conforme a
+las leyes respectivas, debieran de estar a cargo de la Universidad.
+
+	Artículo 8. Los bienes inmuebles que formen parte del patrimonio de la
+Universidad serán inalienables, inembargables e imprescriptibles, y en
+ningún caso, podrá constituirse gravamen sobre ellos. Corresponderá
+al Consejo Directivo emitir la declaratoria de desafectación de los
+inmuebles que son patrimonio de la Universidad con el fin de que sean
+inscritos en el Registro Público de la Propiedad, como bienes inmuebles
+del dominio privado de la Universidad, regidos por las disposiciones del
+Código Civil del Estado Libre y Soberano de Guerrero.
+
+CAPÍTULO IV
+
+De la integración y administración de la Universidad
+
+	Artículo 9. Las autoridades u órganos de gobierno, administración y
+vigilancia de la Universidad estarán a cargo de:
+
+	I. El Consejo Directivo;
+
+	II. El Rector de la Universidad;
+
+	III. El Secretario Académico, los Directores Académicos,
+Administrativos y Abogado General;
+
+	IV. Las Subdirecciones y Jefaturas de Departamento;
+
+	V. El Comisario Público y
+
+	VI. El Patronato.
+
+	Artículo 10. El Consejo Directivo será la máxima autoridad de la
+Universidad y se integrará de la manera siguiente:
+
+	I. Por el Ejecutivo del Estado, quien presidirá el Consejo, y podrá
+designar a un suplente, que lo representará con todas las facultades;
+
+	II. Tres representantes del Gobierno del Estado, designados por el
+titular del Ejecutivo Estatal, y que podrán ser los titulares de las
+dependencias y entidades del sector central y paraestatal agrupados por
+el sector correspondiente de acuerdo a la Ley número 690 de Entidades
+Paraestatales del Estado de Guerrero;
+
+	III. Tres representantes del Gobierno Federal designados por el Titular
+de la Secretaría de Educación Pública;
+
+	IV. Un representante del Ayuntamiento del Municipio de Petatlán,
+Guerrero; y
+
+	V. Tres representantes del sector productivo de la Región, propuestos
+por sus gremios empresariales o sociales.
+
+	VI. Tres representantes de asociaciones de profesionistas afines a las
+carreras que la institución imparta.
+
+	Los miembros del Consejo Directivo serán removidos por la misma
+autoridad que los haya designado; por cada representante del Consejo
+habrá un suplente, quienes en caso de ausencia de aquéllos tendrán
+las mismas facultades que los propietarios.
+
+	Los cargos de los miembros del Consejo Directivo serán honoríficos,
+por lo cual no recibirán retribución, emolumento ni compensación
+alguna por su desempeño.
+
+	Artículo 11. El Consejo Directivo se reunirá válidamente con la
+asistencia de cuando menos la mitad más uno de sus miembros, siempre
+que entre ellos se encuentre el Presidente o quien lo supla. Sus
+decisiones se tomarán por mayoría simple de votos y en caso de empate,
+el Presidente tendrá voto de calidad.
+
+	El Rector y el Comisario Público asistirán con derecho a voz pero no
+a voto a las juntas del Consejo Directivo.
+
+	Artículo 12. El Consejo Directivo se reunirá en forma ordinaria de
+manera cuatrimestral. Podrá reunirse en forma extraordinaria tantas
+veces como sea necesario para su debido funcionamiento. Las
+convocatorias para las juntas las hará el titular de la Universidad, el
+órgano de gobierno o a solicitud del Comisario Público
+
+	Artículo 13. En el Reglamento Interior de la Universidad se
+señalarán las normas para la operación del Consejo Directivo.
+
+	Artículo 14. Corresponden al Consejo Directivo, las atribuciones que
+se señalan en la Ley número 690 de Entidades Paraestatales del Estado
+de Guerrero, además de las siguientes:
+
+	I. Aprobar los programas sectoriales en cuya elaboración participe la
+Universidad y los programas institucionales y anuales que formule la
+propia institución en congruencia con las políticas y prioridades del
+Plan Estatal de Desarrollo;
+
+	II. Emitir los criterios y políticas de operación que debe observar
+la Universidad, en función de su situación financiera, objetivos y
+metas;
+
+	III. Establecer los criterios de racionalidad, austeridad y disciplina
+presupuestal, conforme a las cuales, la Universidad ejercerá su
+presupuesto autorizado en concordancia con los lineamientos del
+Presupuesto de Egresos del Gobierno del Estado;
+
+	IV. Discutir y aprobar en su caso, los proyectos académicos que se le
+presenten y los que surjan en su propio seno;
+
+	V. Otorgar y conferir al Rector la representación legal de la
+Universidad, con las más amplias facultades generales y las especiales
+que requieran cláusula especial conforme a la ley, para pleitos y
+cobranzas, actos de administración y dominio, previo acuerdo unánime
+del Consejo Directivo y referente a un bien determinado propiedad de la
+Institución, con facultad para sustituir o delegar su poder al Abogado
+General y a terceros; así como para articular y absolver posiciones;
+
+	VI. Aprobar el Reglamento Interior de la Universidad; así como las
+normas, reglamentos, manuales de operación, procedimientos y
+disposiciones para su mejor organización y funcionamiento técnico,
+docente y administrativo;
+
+	VII. Establecer, en congruencia con el Programa Sectorial
+correspondiente, las políticas generales de la Universidad;
+
+	VIII. Aprobar o modificar los proyectos de planes y programas de
+estudio, mismos que deberán someterse a la autorización de la
+autoridad educativa y de la Secretaría de Educación Pública;
+
+	IX. Examinar y, en su caso, aprobar el proyecto anual de ingresos y
+egresos que integran el presupuesto de la Universidad; así como la
+asignación de recursos humanos y materiales que apoyen su desarrollo,
+contando con facultades para aprobar partidas, sus montos anuales y sus
+modificaciones, mediante transferencias y otras análogas y vigilar su
+ejercicio, sujetándose a lo dispuesto en las leyes correspondientes;
+
+	X. Aprobar el informe anual de ingresos y egresos así como los estados
+financieros de la Universidad, previo informe del Comisario Público y
+en su caso dictamen de los auditores externos;
+
+	XI. Designar a propuesta del Rector a los servidores públicos de
+segundo y tercer nivel, para que ocupen cargos con las dos jerarquías
+administrativas inferiores y aprobar la fijación de sus sueldos y
+prestaciones de acuerdo a los lineamientos establecidos por la
+Secretaría de Finanzas y Administración;
+
+	XII. Analizar y aprobar, en su caso, los informes periódicos que rinda
+el Rector;
+
+	XIII. Aprobar la integración, facultades y funcionamiento de los
+órganos académicos colegiados;
+
+	XIV. Constituir el patronato de la Universidad, mediante el
+nombramiento de sus integrantes en los términos de este Decreto;
+
+	XV. Crear y modificar los órganos colegiados consultivos expidiendo
+para tal efecto, el Reglamento que regule su funcionamiento;
+
+	XVI. Fijar las reglas generales para la ejecución de acciones en
+materia de política educativa, a las que deberá sujetarse la
+Universidad en la celebración de acuerdos, convenios y contratos con
+los sectores público, social y privado;
+
+	XVII. Observar las normas y criterios generales que dicte la autoridad
+educativa para el otorgamiento de revalidaciones y equivalencias de
+estudios realizados en instituciones estatales, nacionales y extranjeras
+que impartan el mismo nivel educativo;
+
+	XVIII. Fijar los términos de admisión, promoción y permanencia del
+personal académico;
+
+	XIX. Vigilar que se integre el fideicomiso que apoyará a los educandos
+de escasos recursos;
+
+	XX. Aprobar la normatividad en materia de convenios contratos o
+acuerdos que deba celebrar la Universidad con terceros en obras
+públicas, adquisiciones, arrendamientos y prestación de servicios;
+
+	XXI. Vigilar el cumplimiento de la Universidad en materia de acceso a
+la información, en términos de la Ley número 374 de Transparencia y
+Acceso a la Información Pública del Estado de Guerrero;
+
+	XXII. Fijar y ajustar los precios de bienes y servicios que produzca o
+preste la Universidad; y
+
+	XXIII. Las demás que le confieran las normas y disposiciones
+reglamentarias de la Universidad.
+
+	Artículo 15. El Rector será designado y removido libremente por el
+Gobernador del Estado; durará en su cargo cuatro años, pudiendo ser
+ratificado por una sola vez.
+
+	Artículo 16. Las ausencias temporales del Rector, serán suplidas por
+quien determine el Consejo Directivo.
+
+	Artículo 17. Para ser Rector se requiere:
+
+	I. Ser ciudadano mexicano, preferentemente guerrerense, en pleno uso de
+sus derechos;
+
+	II. Tener más de treinta y cinco años;
+
+	III. Poseer título profesional y de maestría legalmente registrados.
+
+	IV. Tener experiencia académica, de investigación o profesional
+ampliamente demostrables.
+
+	V. No tener participación accionaría o intereses particulares o
+familiares, en empresas relacionadas con la operación de la
+Universidad;
+
+	VI. No desempeñar algún otro empleo, cargo o comisión oficial o
+particular;
+
+	VII. Gozar de buena reputación, reconocida solvencia moral, prestigio
+profesional y no haber sido condenado por delito intencional que amerite
+pena privativa de la libertad, ni en juicio de responsabilidad oficial.
+
+	Artículo 18. El Rector tendrá las atribuciones siguientes:
+
+	I. Elaborar y presentar a consideración y aprobación del Consejo
+Directivo el Programa Anual de la Universidad, proyectando conforme a
+éste su presupuesto anual correspondiente, en apego a los objetivos y
+prioridades del Plan Estatal de Desarrollo y los programas sectoriales
+en cuya elaboración participe la institución; todo ello en aras de
+organizar, dirigir, evaluar y controlar con eficiencia y eficacia las
+actividades objeto de su competencia;
+
+	II. Presentar periódicamente al Consejo Directivo, un informe sobre la
+aplicación de los criterios de racionalidad, austeridad y disciplina
+presupuestal conforme a los cuales la Universidad de que se trata ha
+ejercido su presupuesto autorizado, en concordancia con los lineamientos
+del Presupuesto de Egresos del Gobierno del Estado;
+
+	III. Elaborar sus anteproyectos de presupuesto de acuerdo con las
+asignaciones de gasto financiamiento que para estos efectos dicte la
+Secretaría de Finanzas y Administración, los que serán remitidos a la
+propia Secretaría a través de su coordinadora de sector, con el fin de
+que se integren al proyecto de Presupuesto de Egresos del Gobierno del
+Estado, que conforme la legislación será remitido para su aprobación
+al Congreso del Estado;
+
+	IV. Establecer sus precios y tarifas por los bienes y servicios
+susceptibles de comercializarse, considerando los prevalecientes en el
+mercado, fijando en ellos los precios y tarifas considerando el costo de
+producción que se derive de una valuación de los insumos a su costo
+real de oportunidad, atendiendo los criterios de eficiencia económica y
+saneamiento financiero, según lo establece el artículo 16 del
+Reglamento de la Ley número 690 de Entidades Paraestatales del Estado
+de Guerrero.
+
+	V. Presentar al Consejo Directivo la información financiera,
+atendiendo los rubros y conceptos señalados en el artículo 19 del
+Reglamento de la Ley número 690 de Entidades Paraestatales del Estado
+de Guerrero, siguiendo el catálogo general de cuentas definido por el
+Gobierno del Estado de Guerrero y el programa informático establecido
+por la Secretaría de Finanzas y Administración del Gobierno del Estado
+de Guerrero, para la captura y emisión de dicha información, así como
+las normas estatales de la materia;
+
+	VI. Ejercer facultades de dominio sobre los bienes propiedad de la
+Universidad, así como administrar y representar legalmente a la
+Universidad Tecnológica de la Costa Grande de Guerrero, con la facultad
+derivada del Consejo Directivo ante todo tipo de autoridades; asimismo,
+fungir como apoderado general o especial para pleitos y cobranzas, actos
+de administración y en materia laboral, de manera enunciativa, con las
+limitaciones previstas en las leyes que regulen su actuación;
+facultándolo además para articular y absolver posiciones a nombre de
+la Universidad Tecnológica de la Costa Grande de Guerrero y para
+interponer demandas de amparo y desistimientos de las mismas, promover e
+intervenir ante todo tipo de juicios ante las instancias federales,
+tribunales de lo contencioso administrativo, civiles, penales, agrarios
+y demás autoridades establecidas en la República Mexicana;
+
+	VII. Dirigir el funcionamiento de la Universidad, vigilando el
+cumplimiento de su objeto, planes y programas académicos,
+administrativos y financieros; así como dictar los acuerdos y
+disposiciones tendientes a dicho fin;
+
+	VIII. Vigilar el cumplimiento de las disposiciones que normen la
+estructura y funcionamiento de la Universidad y ejecutar los acuerdos
+que dicte el Consejo Directivo;
+
+	IX. Establecer acciones orientadas a garantizar que la operación de la
+Universidad, se sustente en criterios de eficiencia, eficacia y
+productividad, y de alcanzar las metas y objetivos de los programas
+institucionales, a través de indicadores de gestión y sistemas
+adecuados de operación, registro, información, seguimiento, control y
+evaluación de las operaciones de la Universidad, supervisando para ello
+el cumplimiento de programas de modernización, descentralización,
+desconcentración, simplificación administrativa y de capacitación;
+así como la operación de los sistemas de administración de personal e
+incentivos;
+
+	X. Celebrar convenios, contratos y acuerdos con dependencias o
+entidades de la administración pública federal, estatal o municipal,
+así como con organismos del sector social y privado, estatales,
+nacionales o extranjeros, informando de ello al Consejo Directivo;
+
+	XI. Formular el proyecto del programa institucional y sus respectivos
+subprogramas y proyectos de actividades, así como los proyectos de
+presupuestos de ingresos y egresos de la Universidad y presentarlos para
+su aprobación al Consejo Directivo;
+
+	XII. Coadyuvar a que se dé cumplimiento con lo señalado por los
+artículos 26 y 30 de la Ley número 690 de Entidades Paraestatales del
+Estado de Guerrero, respecto de los periodos en que habrá de celebrarse
+las juntas del Consejo Directivo de la Universidad y que en caso de no
+celebrarse en la fecha programada, deberá de observarse lo establecido
+en el artículo 27 de la misma Ley;
+
+	XIII. Vigilar que las convocatorias que se realicen para las juntas
+ordinarias o extraordinarias, cumplan con las disposiciones de contenido
+del orden del día y tiempo anticipado a que hace referencia el
+artículo 26 del Reglamento de la Ley número 690 de Entidades
+Paraestatales del Estado de Guerrero;
+
+	XIV. Expedir los nombramientos de ingreso y permanencia al personal
+docente, técnico y administrativo de conformidad con la legislación y
+normas aplicables. En el caso de los Directores de Académicos y
+Administrativos de segundo y tercer nivel, propondrá al Consejo
+Directivo para su designación;
+
+	XV. Proponer al Consejo Directivo las modificaciones a la estructura
+organizacional para la mejor organización académica y administrativa
+necesarias para el buen funcionamiento de la Universidad;
+
+	XVI. Presentar al Consejo Directivo el informe cuatrimestral de
+actividades y estados financieros y someter a su aprobación el
+organograma, reglamento interior y manuales operativos de la
+Universidad, necesarios para su óptima operación, así como las
+adecuaciones que en su caso, sean pertinentes;
+
+	XVII. Presentar anualmente al Consejo Directivo, en la última semana
+del ejercicio escolar, el informe del desempeño de las actividades de
+la Universidad, el cual además, deberá de establecer las metas y
+compromisos que se deberán alcanzar en la Institución para el
+siguiente ciclo escolar;
+
+	XVIII. Gestionar ante el Consejo Directivo la creación o cierre de
+carreras tecnológicas, Licenciaturas e Ingenierías, planes y programas
+de estudio, así como el calendario escolar de la Universidad, previa
+opinión de la Coordinación General de Universidades Tecnológicas;
+
+	XIX. Informar a las principales fuentes de financiamiento de la
+Universidad, cuando así lo determine el Consejo Directivo, sobre el
+destino dado a los recursos financieros;
+
+	XX. Concurrir a las juntas del Consejo Directivo; y
+
+	XXI. Las demás que le otorgue el Consejo Directivo y las disposiciones
+legales y reglamentarias aplicables.
+
+	Artículo 19. El Rector se auxiliará del Abogado General de la
+Universidad, cuyo titular será el funcionario nombrado por él y
+estará encargado de certificar los documentos que firme el Rector y
+colaborar con él en todos los asuntos que le encomiende o que deriven
+de las disposiciones jurídicas aplicables.
+
+	Para ser Abogado General de la Universidad, además de poseer el
+título de Licenciado en Derecho, se deberán acreditar, los mismos
+requisitos que para ser Rector.
+
+	Artículo 20. La Universidad contará con el personal siguiente:
+
+	I. Directivo, conformado por el Rector, el Secretario Académico, los
+Directores Académicos y Administrativos, y el Abogado General;
+
+	II. Subdirectores y Jefes de Departamento;
+
+	III. Académico o docente, el contratado para el desarrollo de las
+funciones de docencia e investigación; y
+
+	IV. Administrativo, el personal de apoyo que labore para la
+Universidad.
+
+	Artículo 21. El Personal Directivo deberá reunir los requisitos
+siguientes:
+
+	I. Ser ciudadano mexicano en pleno uso de sus derechos;
+
+	II. Poseer grado académico de licenciatura, además el de maestría o
+especialidad;
+
+	III. Tener experiencia académica o profesional demostrable;
+
+	IV. Tener experiencia en administración escolar; y
+
+	V. Gozar de buena reputación, reconocida solvencia moral, prestigio
+profesional y no haber sido condenado por delito intencional que amerite
+pena privativa de la libertad, ni en juicio de responsabilidad oficial.
+
+	Artículo 22. El Secretario Académico, los Directores Académicos y
+Administrativos, tendrán competencia para:
+
+	I. Vigilar el buen desempeño del personal docente y administrativo a
+su cargo;
+
+	II. Cumplir con los planes y programas de estudio vigentes en la
+Universidad;
+
+	III. Vigilar el cumplimiento del calendario académico;
+
+	IV. Mantener comunicación continúa con la población estudiantil;
+
+	V. Acordar con el Rector los asuntos de su competencia;
+
+	VI. Participar en la elaboración y actualización de los planes y
+programas de estudio; y
+
+	VII. Las demás que le confiera el Rector, el Reglamento Interior de la
+Universidad y otras disposiciones legales aplicables.
+
+	Artículo 23. El Personal Académico de la Universidad, previa
+aprobación del examen de oposición prestará sus servicios conforme a
+lo estipulado en el Reglamento de Admisión, Promoción y Permanencia y
+las Condiciones Generales de Trabajo del Personal Académico.
+
+	Artículo 24. El Personal Académico deberá acreditar los requisitos
+siguientes:
+
+	I. Poseer título de estudios cuyo nivel mínimo sea el de
+licenciatura, para quienes impartan en el nivel de TSU;
+
+	II. Poseer titulo de licenciatura y maestría o especialidad, para
+quienes impartan cátedra en los niveles de licenciatura y posgrado.
+
+	II. Contar con perfil profesional y académico adecuado al área de su
+desempeño docente; y
+
+	III. Tener experiencia docente en instituciones educativas del nivel
+superior o laboral en el sector productivo.
+
+CAPÍTULO V
+
+De los alumnos
+
+	Artículo 25. Serán alumnos de la Universidad, quienes cumplan con los
+procedimientos y requisitos de ingreso que al efecto queden establecidos
+por las disposiciones reglamentarias que expida la Universidad y sean
+admitidos a cualesquiera de los programas, cursos y niveles que se
+impartan, con los derechos y obligaciones que correspondan.
+
+CAPÍTULO VI
+
+Del Contralor Interno.
+
+	Artículo 26. La Universidad contará dentro de su estructura con un
+Contralor Interno, que será designado y removido por el titular de la
+Contraloría General del Estado, de quien estará directamente adscrito
+y dependerá presupuestalmente, mismo que actuará como órgano de
+vigilancia.
+
+	Artículo 27. El Contralor Interno tendrá a su cargo la realización
+de todas las funciones que se establecen en el artículo 48 de la Ley
+número 690 de Entidades Paraestatales del Estado de Guerrero, y las
+señaladas en el Reglamento de la misma Ley, además de las que se le
+asignen en el Reglamento Interior de la Universidad.
+
+CAPÍTULO VII
+
+Del Patronato
+
+	Artículo 28. El Patronato estará integrado por:
+
+	I. Un Presidente; y
+
+	II. Cuatro vocales.
+
+	Los miembros del Patronato deberán contar con reconocido prestigio y
+serán designados y removidos por el Consejo Directivo.
+
+	El desempeño de los miembros del Patronato será de carácter
+honorífico. A invitación del Rector el Presidente del Patronato podrá
+participar sólo con voz en las reuniones del Consejo Directivo.
+
+	Artículo 29. Al Patronato corresponderá:
+
+	I. Establecer las estrategias para generar ingresos adicionales a los
+gestionados por la Universidad, mismos que pasarán a formar parte del
+presupuesto anual, previo acuerdo del Consejo Directivo;
+
+	II. Establecer programas para incrementar los fondos de la Universidad;
+y
+
+	III. Las demás facultades que le confieran las normas y disposiciones
+reglamentarias de la Universidad.
+
+CAPÍTULO VIII
+
+De las relaciones laborales
+
+	Artículo 30. Las relaciones laborales entre la Universidad y sus
+trabajadores se normarán por lo que al respecto establece la Ley de
+Trabajo de los Servidores Públicos del Estado de Guerrero número 248,
+la Ley del Instituto de Seguridad y Servicios Sociales de los
+Trabajadores del Estado y la Ley número 674 de Responsabilidades de los
+Servidores Públicos del Estado de Guerrero.
+
+CAPÍTULO IX
+
+Del personal académico
+
+	Artículo 31. El personal académico de la Universidad ingresará
+mediante concurso de oposición o por invitación directa cuando se
+trate de cursos especializados y con temporalidad definida.
+
+	Artículo 32. El personal académico de carrera deberá contar con el
+grado académico de licenciatura y de maestría o especialidad.
+
+	Artículo 33. El Consejo Directivo establecerá los requisitos y el
+procedimiento para la integración y operación de las comisiones que
+evaluarán al personal académico, las cuales estarán integradas por
+profesionales de alto reconocimiento.
+
+	Los procedimientos que el Consejo Directivo expida, en relación con el
+personal académico deberán asegurar el ingreso, la promoción y la
+permanencia de personal altamente calificado, de acuerdo con la facultad
+exclusiva de la Universidad, de regular los aspectos académicos.
+
+T R A N S I T O R I O S
+
+	PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su
+publicación en el Periódico Oficial del Gobierno del Estado.
+
+	SEGUNDO.- Se abroga el Decreto Núm. 143, mediante el cual se crea la
+Universidad Tecnológica de la Costa Grande de Guerrero, publicado en el
+Periódico Oficial del Gobierno del Estado número 18 de fecha 27 de
+febrero de 1998.
+
+	TERCERO.- Que el presupuesto asignado, los bienes muebles e inmuebles,
+los archivos, productos académicos, recursos humanos, materiales y
+financieros que a la fecha conforman la Universidad Tecnológica de la
+Costa Grande de Guerrero, se transfieren a la nueva Universidad
+Tecnológica de la Costa Grande de Guerrero, para ser utilizados en el
+cumplimiento de su objeto.
+
+	Para la mencionada transferencia, la Secretaría de Finanzas y
+Administración, conjuntamente con la Contraloría General del Estado,
+darán fe de la debida instalación de la Universidad Tecnológica de la
+Costa Grande de Guerrero.
+
+	CUARTO.- El personal Directivo, Administrativo, Docente y de Apoyo en
+ninguna forma resultará afectado en los derechos que haya adquirido, en
+virtud de su relación laboral con la Universidad Tecnológica de la
+Costa Grande de Guerrero. Por lo que sus derechos laborales y
+obligaciones serán respetados en todos sus términos a la entrada en
+vigor del presente Decreto.
+
+	QUINTO.- Los estudiantes y egresados de los diversos Programas
+Educativos que, a la entrada en vigor de este Decreto, gocen de los
+beneficios de la normativa que se abroga, continuarán ejerciendo sus
+derechos en los términos y condiciones señalados y las disposiciones
+vigentes al momento de su otorgamiento. Por lo que cualquier trámite o
+procedimiento pendiente de Titulación, estadía, reinscripción y
+revalidación deberán sustanciarse de conformidad con las disposiciones
+vigentes al momento en que se presentó e inició la solicitud
+correspondiente. Así también se reconocen los expedientes y los
+derechos académicos de las anteriores generaciones de alumnos que
+concluyeron sus estudios.
+
+	SEXTO.- El Consejo Directivo deberá instalarse dentro de los treinta
+días hábiles siguientes a la entrada en vigor de este Decreto.
+
+	SÉPTIMO.- El Reglamento Interior de la Universidad Tecnológica de la
+Costa Grande de Guerrero, se elaborará en un término de noventa días
+naturales contados a partir de la instalación del Consejo Directivo.
+
+	OCTAVO.- La Secretaría de Finanzas y Administración del Gobierno del
+Estado, realizará las acciones presupuestarias necesarias para la
+operación de la Universidad.
+
+	NOVENO.- Remítase al Titular del Poder Ejecutivo del Estado para su
+conocimiento y publicación en el Periódico Oficial del Gobierno del
+Estado.
+
+	Dado en el Salón de Sesiones del Honorable Poder Legislativo, a los
+veintiséis días del mes de mayo del año dos mil once.
+
+DIPUTADA PRESIDENTA.
+
+IRMA LILIA GARZÓN BERNAL.
+
+Rúbrica.
+
+DIPUTADO SECRETARIO.
+
+VICTORIANO WENCES REAL.
+
+Rúbrica.
+
+DIPUTADO SECRETARIO.
+
+JOSÉ NATIVIDAD CALIXTO DÍAZ.
+
+Rúbrica.
+
+	En cumplimiento a lo dispuesto en los artículos 74, fracción III y 76
+de la Constitución Política del Estado Libre y Soberano de Guerrero,
+promulgo y ordeno la publicación, para su debida observancia, del
+DECRETO NÚMERO 779 POR EL QUE SE CREA LA UNIVERSIDAD TECNOLÓGICA DE LA
+COSTA GRANDE DE GUERRERO, COMO ORGANISMO PÚBLICO DESCENTRALIZADO, en la
+Residencia Oficial del Poder Ejecutivo Estatal, en la Ciudad de
+Chilpancingo, Guerrero, a los veintidós días del mes de junio del año
+dos mil once. (F.E. P.O. 29 DE NOVIEMBRE DE 2011)
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+LIC. ÁNGEL HELADIO AGUIRRE RIVERO.
+
+Rúbrica.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+LIC. HUMBERTO SALGADO GÓMEZ.
+
+Rúbrica.
+
+LA SECRETARIA DE EDUCACIÓN GUERRERO.
+
+LIC. SILVIA ROMERO SUÁREZ.
+
+Rúbrica.
+
+	  HYPERLINK "http://www.guerrero.gob.mx/consejeriajuridica/"
+http://www.guerrero.gob.mx/consejeriajuridica
+
+	  HYPERLINK "mailto:consejeria_juridica@guerrero.gob.mx"
+consejeria_juridica@guerrero.gob.mx
+
+DECRETO NÚMERO 779 POR EL QUE SE CREA LA UNIVERSIDAD TECNOLÓGICA DE LA
+COSTA GRANDE DE GUERRERO, COMO ORGANISMO PÚBLICO DESCENTRALIZADO
+
+ PAGE
+
+ PAGE   1

@@ -1,0 +1,280 @@
+---
+titulo: "SE DECLARAN DESINCORPORADOS POR NO SER ÚTILES PARA LA PRESTACIÓN DE UN SERVICIO PÚBLICO, PASANDO DEL DOMINIO PÚBLICO A SER BIENES PROPIOS, LOS BIENES MUEBLES ASIGNADOS A LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE."
+tipo: "Acuerdo"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "29 de Agosto de 2008"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "11077"
+---
+-SUMARIO-
+
+GOBIERNO DEL ESTADO
+# 
+PODER EJECUTIVO
+
+DECRETO NÚMERO 111
+
+LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL H. CONGRESO DEL ESTADO LIBRE Y
+SOBERANO DE YUCATÁN, ABRE SU SEGUNDO PERÍODO EXTRAORDINARIO DE
+SESIONES, CORRESPONDIENTE AL SEGUNDO AÑO DE SU EJERCICIO CONSTITUCIONAL
+4
+
+DECRETO NÚMERO 112
+
+LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL H. CONGRESO DEL ESTADO LIBRE Y
+SOBERANO DE YUCATÁN, CLAUSURA SU SEGUNDO PERÍODO EXTRAORDINARIO DE
+SESIONES, CORRESPONDIENTE AL SEGUNDO AÑO DE SU EJERCICIO CONSTITUCIONAL
+6
+
+DECRETO NÚMERO 113
+
+DECRETO QUE ESTABLECE LA EXENCIÓN DE PAGO DE LOS DERECHOS DEL REGISTRO
+CIVIL DEL ESTADO PARA CONTRAER MATRIMONIO	8
+
+ACUERDO NÚMERO 50
+
+ACUERDO QUE ESTABLECE LAS REGLAS DE OPERACIÓN DE LA JUNTA DE
+PLANEACIÓN ESTRATÉGICA Y EVALUACIÓN DEL SISTEMA DE GABINETE
+SECTORIZADO	10
+
+ACUERDO NÚMERO 51
+
+SE DELEGA INDIVIDUALMENTE EN CADA UNO DE LOS TITULARES DE LAS
+DEPENDENCIAS ENLISTADAS EN EL ARTÍCULO 22 DEL CÓDIGO DE LA
+ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA FACULTAD DEL PODER EJECUTIVO
+PARA DESINCORPORAR MEDIANTE ACUERDO Y SIEMPRE QUE LA LEY LO PERMITA, LOS
+BIENES MUEBLES DEL DOMINIO PÚBLICO QUE LO SEAN POR DISPOSICIÓN DE LA
+AUTORIDAD ADMINISTRATIVA, QUE HAYAN SIDO ADQUIRIDOS PARA LA PRESTACIÓN
+DE UN SERVICIO PÚBLICO, QUE YA NO SEAN ÚTILES O ADECUADOS PARA LA
+PRESTACIÓN DE DICHO SERVICIO, Y QUE ESTÉN ASIGNADOS A SUS RESPECTIVAS
+DEPENDENCIAS	16
+
+SECRETARÍA DE DESARROLLO URBANO
+
+Y MEDIO AMBIENTE
+
+ACUERDO NÚMERO 02
+
+SE DECLARAN DESINCORPORADOS POR NO SER ÚTILES PARA LA PRESTACIÓN DE UN
+SERVICIO PÚBLICO, PASANDO DEL DOMINIO PÚBLICO A SER BIENES PROPIOS,
+LOS BIENES MUEBLES ASIGNADOS A LA SECRETARÍA DE DESARROLLO URBANO Y
+MEDIO AMBIENTE	18
+
+SECRETARÍA DE LA CONTRALORÍA GENERAL
+
+ACUERDO NÚMERO 01
+
+SE DECLARAN DESINCORPORADOS POR NO SER ÚTILES PARA LA PRESTACIÓN DE UN
+SERVICIO PÚBLICO, PASANDO DEL DOMINIO PÚBLICO A SER BIENES PROPIOS,
+LOS BIENES MUEBLES ASIGNADOS A LA SECRETARÍA DE LA CONTRALORÍA
+GENERAL, PASANDO DEL DOMINIO PÚBLICO AL DOMINIO PRIVADO DE CONFORMIDAD
+CON LA LEGISLACIÓN APLICABLE	20
+
+PODER JUDICIAL
+
+AVISO	22
+
+NOTIFICACIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA	23
+
+NOTIFICACIONES DEL JUZGADO PRIMERO DE LO CIVIL	32
+
+NOTIFICACIONES DEL JUZGADO SEGUNDO DE LO CIVIL	37
+
+NOTIFICACIONES DEL JUZGADO TERCERO DE LO CIVIL	43
+
+NOTIFICACIONES DEL JUZGADO CUARTO DE LO CIVIL	52
+
+NOTIFICACIONES DEL JUZGADO QUINTO DE LO CIVIL	65
+
+NOTIFICACIONES DEL JUZGADO SEXTO DE LO CIVIL	70
+
+NOTIFICACIONES DEL JUZGADO PRIMERO DE LO FAMILIAR	75
+
+NOTIFICACIONES DEL JUZGADO SEGUNDO DE LO FAMILIAR	79
+
+NOTIFICACIONES DEL JUZGADO TERCERO DE LO FAMILIAR	83
+
+NOTIFICACIONES DEL JUZGADO CUARTO DE LO FAMILIAR	86
+
+NOTIFICACIÓN DEL JUZGADO SEGUNDO ESPECIALIZADO
+
+EN JUSTICIA PARA ADOLESCENTES DEL ESTADO	90
+
+NOTIFICACIONES DEL JUZGADO SEXTO PENAL	90
+
+NOTIFICACIONES DEL JUZGADO MIXTO DE LO CIVIL Y FAMILIAR
+
+DEL SEGUNDO DEPARTAMENTO JUDICIAL DEL ESTADO	92
+
+NOTIFICACIONES DEL JUZGADO MIXTO DE LO CIVIL Y FAMILIAR
+
+DEL TERCER DEPARTAMENTO JUDICIAL DEL ESTADO	93
+
+GOBIERNO DEL ESTADO
+
+GOBIERNO DEL ESTADO
+
+PODER EJECUTIVO
+
+SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE
+
+ACUERDO NÚMERO 02
+
+DR. EDUARDO ADOLFO BATLLORI SAMPEDRO, SECRETARIO DE DESARROLLO
+
+URBANO Y MEDIO AMBIENTE; EN EJERCICIO DE LAS FACULTADES QUE ME
+
+CONFIEREN LOS ARTÍCULOS 27 FRACCIÓN xvii DEL CÓDIGO DE LA
+
+ADMINISTRACIÓN PÚBLICA DE YUCATÁN y primero del
+
+acuerdo número 76 PUBLICADO EN EL DIARIO OFICIAL DEL GOBIERNO DEL
+
+ESTADO DE YUCATÁN EL DÍA NUEVE DE MARZO DEL AÑO 2006, y
+
+C O N S I D E R A N D O
+
+PRIMERO. Que corresponde al Ejecutivo del Estado desincorporar del
+dominio público,
+
+mediante acuerdo y siempre que la ley lo permita, un bien que haya
+dejado de ser útil
+
+para los fines de un servicio público, de conformidad a la fracción
+III del artículo 8 de la
+
+Ley de Bienes del Estado de Yucatán.
+
+SEGUNDO. Que los bienes del dominio público que lo sean por
+disposición de la
+
+autoridad administrativa podrán ser enajenados, previo acuerdo de
+desincorporación,
+
+cuando dejen de ser útiles para la prestación de un servicio público,
+de acuerdo con lo
+
+dispuesto en el artículo 9 de la Ley de Bienes del Estado de Yucatán.
+
+TERCERO. Que el Gobernador del Estado es titular de las facultades y
+funciones que
+
+originalmente corresponden al Poder Ejecutivo, sin embargo, por razones
+de división de
+
+trabajo, dichas facultades y atribuciones pueden ser delegadas en otros
+servidores
+
+públicos mediante acuerdo que deberá ser publicado en el Diario
+Oficial  del Gobierno del
+
+Estado, como lo disponen los artículos 12 y 13 del Código de la
+Administración Pública de
+
+Yucatán.
+
+CUARTO. Que por acuerdo número 76 de fecha catorce de febrero del año
+dos mil seis,
+
+publicado en el Diario Oficial del Gobierno del Estado de Yucatán el
+nueve de marzo del
+
+mismo año, el Gobernador del Estado delegó en cada uno de los
+titulares de las
+
+dependencias que integran a la Administración Pública del Estado de
+Yucatán, la facultad
+
+del Poder Ejecutivo para desincorporar del dominio público, mediante
+acuerdo, siempre
+
+que la ley lo permita, los bienes muebles propiedad del Estado de
+Yucatán que hayan
+
+sido adquiridos para la prestación de un servicio público, que ya no
+sean útiles o
+
+adecuados para la prestación de dicho servicio y que estén asignados a
+sus respectivas
+
+dependencias.
+
+En mérito de lo anterior, he tenido a bien expedir el siguiente:
+
+ACUERDO
+
+Único. Se declaran desincorporados por no ser útiles para la
+prestación de un servicio
+
+público, pasando del dominio público a ser bienes propios, los
+siguientes bienes muebles
+
+asignados a la Secretaría de Desarrollo Urbano y Medio Ambiente:
+
+Lote – Donativo
+
+No.	DESCRIPCIÓN	MARCA	AÑO	No. SERIE	No. INVENTARIO
+
+1	Volkswagen Sedán 	Volkswagen	1991	11M0018610	BV0000036
+
+2	Volkswagen Sedán	Volkswagen	1991	11M0035226	BV0000035
+
+3	Volkswagen Sedán	Volkswagen	1993	11P9030803	BV0000034
+
+4	Volkswagen Sedán	Volkswagen	1993	11P9004825	BV0000033
+
+5	Nissan Tsuru II	Nissan	1993	3BAMB1324749	BV0000032
+
+6	Pick up Ram 1500 Lujo	Dodge	1994	RM563915	BV0000031
+
+7	Camioneta Suburban	Chevrolet	1991	3GCEC26K0MM107957	BV0002210
+
+ARTÍCULO TRANSITORIO
+
+ÚNICO. Este Acuerdo entrará en vigor al día siguiente de su
+publicación en el Diario
+
+Oficial del Gobierno del Estado de Yucatán.
+
+EXPEDIDO EN LA CIUDAD DE MÉRIDA, CAPITAL DEL ESTADO DE YUCATÁN,
+
+ESTADOS UNIDOS MEXICANOS, A LOS VEINTISIETE DÍAS DEL MES DE AGOSTO
+
+DEL AÑO DOS MIL OCHO.
+
+( RÚBRICA )
+
+DR. EDUARDO ADOLFO BATLLORI SAMPEDRO
+
+SECRETARIO DE DESARROLLO URBANO Y MEDIO AMBIENTE
+
+PÁGINA   PAGE  4
+                                      DIARIO  OFICIAL
+MÉRIDA, YUC., VIERNES 29 DE AGOSTO DE 2008.
+
+MÉRIDA, YUC., VIERNES 29 DE AGOSTO DE 2008.
+DIARIO  OFICIAL
+                               PÁGINA   PAGE  5
+
+Publicación periódica: Permiso No. 0100921
+
+Características: 111182816. Autorizado por SEPOMEX
+
+DEL GOBIERNO DEL ESTADO
+
+ DE YUCATÁN.
+
+DIARIO OFICIAL
+
+Dirección: Calle 90 No. 498-A entre 61 A y 63
+
+Colonia Bojórquez, (Complejo de Seguridad Jurídica)
+
+Mérida, Yucatán. C.P. 97240. TEL: 930-30-23.
+
+DIRECTORA: LIC. MARTHA LETICIA GÓNGORA SÁNCHEZ.
+
+AÑO CXI          MÉRIDA, YUC., VIERNES 29 DE AGOSTO DE 2008.
+No. 31,176

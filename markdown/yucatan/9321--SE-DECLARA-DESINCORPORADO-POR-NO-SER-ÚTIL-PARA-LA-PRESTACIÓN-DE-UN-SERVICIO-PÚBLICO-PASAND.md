@@ -1,0 +1,260 @@
+---
+titulo: "SE DECLARA DESINCORPORADO POR NO SER ÚTIL PARA LA PRESTACIÓN DE UN SERVICIO PÚBLICO, PASANDO DEL DOMINIO PÚBLICO AL DOMINIO PRIVADO, EL BIEN MUEBLE PROPIEDAD DEL ESTADO ASIGNADO A DIRECCIÓN DE ADMINISTRACIÓN DE LA SECRETARÍA GENERAL DE GOBIERNO."
+tipo: "Acuerdo"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "24 de Diciembre de 2007"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "9321"
+---
+-SUMARIO-
+
+GOBIERNO DEL ESTADO
+# 
+PODER EJECUTIVO
+
+DECRETO NUMERO 45
+
+SE CREA EL PROGRAMA DE APOYO DENOMINADO “COBIJAR”	4
+
+DECRETO NUMERO 46
+
+DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DEL PROGRAMA DE ORDENAMIENTO
+ECOLOGICO DEL TERRITORIO COSTERO DEL ESTADO DE YUCATAN	9
+
+DECRETO NUMERO 47
+
+PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE YUCATAN PARA EL
+EJERCICIO FISCAL 2008 	19
+
+DECRETO NUMERO 48
+
+LEY DE INGRESOS DEL ESTADO DE YUCATAN PARA EL EJERCICIO FISCAL 2008 	62
+
+DECRETO NUMERO 49
+
+SE  DEROGA EL INCISO f) DE LA FRACCION II DEL ARTICULO 27; SE ADICIONA
+EL INCISO e) DE LA FRACCION VII Y UN ULTIMO PARRAFO DEL ARTICULO 48; SE
+REFORMAN LAS FRACCIONES II, V Y VIII  DEL ARTICULO 59; SE REFORMA EL
+PRIMER PARRAFO Y EL INCISOS b) Y SE ADICIONA EL INCISO c) A LA FRACCION
+I; LOS INCISOS a), b) Y c) DE LA FRACCION II; Y LOS INCISOS  DE LA a) A
+LA e) Y SE AUMENTAN LOS INCISOS DE LA f) A LA r) DE LA FRACCION III; LOS
+INCISOS a) Y b) DE LA FRACCION IV; SE ADICIONAN LOS INCISOS a), b) Y c)
+A LA FRACCION V; SE REFORMAN LAS FRACCIONES VI, VII Y VIII,
+ADICIONANDOLE A ESTE ULTIMO LOS INCISOS DEL a) A LA d) AL ARTICULO 68;
+SE REFORMAN LOS ARTICULOS 69, 70, 71, 72 Y 73, TODOS DE LA LEY GENERAL
+DE HACIENDA DEL ESTADO DE YUCATAN 	69
+
+ACUERDO NUMERO 04
+
+SE DECLARAN DESINCORPORADOS POR NO SER UTILES PARA LA PRESTACION DE UN
+SERVICIO PUBLICO, PASANDO DEL DOMINIO PUBLICO AL DOMINIO PRIVADO, BIENES
+MUEBLES PROPIEDAD DEL ESTADO ASIGNADOS A LA DIRECCION DE TRANSPORTE DE
+LA SECRETARIA GENERAL DE GOBIERNO 	76
+
+ACUERDO NUMERO 05
+
+SE DECLARA DESINCORPORADO POR NO SER UTIL PARA LA PRESTACION DE UN
+SERVICIO PUBLICO, PASANDO DEL DOMINIO PUBLICO AL DOMINIO PRIVADO, EL
+BIEN MUEBLE PROPIEDAD DEL ESTADO ASIGNADO A CONTRALORIA INTERNA DE LA
+SECRETARIA GENERAL DE GOBIERNO 	78
+
+ACUERDO NUMERO 06
+
+SE DECLARA DESINCORPORADO POR NO SER UTIL PARA LA PRESTACION DE UN
+SERVICIO PUBLICO, PASANDO DEL DOMINIO PUBLICO AL DOMINIO PRIVADO, EL
+BIEN MUEBLE PROPIEDAD DEL ESTADO ASIGNADO A CONTRALORIA INTERNA DE LA
+SECRETARIA GENERAL DE GOBIERNO 	80
+
+ACUERDO NUMERO 07
+
+SE DECLARA DESINCORPORADO POR NO SER UTIL PARA LA PRESTACION DE UN
+SERVICIO PUBLICO, PASANDO DEL DOMINIO PUBLICO AL DOMINIO PRIVADO, EL
+BIEN MUEBLE PROPIEDAD DEL ESTADO ASIGNADO AL CONSEJO ESTATAL DE
+POBLACION, DEPENDIENTE DE LA SECRETARIA GENERAL DE GOBIERNO 	82
+
+ACUERDO NUMERO 08
+
+SE DECLARAN DESINCORPORADOS POR NO SER UTILES PARA LA PRESTACION DE UN
+SERVICIO PUBLICO, PASANDO DEL DOMINIO PUBLICO AL DOMINIO PRIVADO, BIENES
+MUEBLES PROPIEDAD DEL ESTADO ASIGNADOS A LA DIRECCION DE ADMINISTRACION
+DE LA SECRETARIA GENERAL DE GOBIERNO 	84
+
+ACUERDO NUMERO 09
+
+SE DECLARA DESINCORPORADO POR NO SER UTIL PARA LA PRESTACION DE UN
+SERVICIO PUBLICO, PASANDO DEL DOMINIO PUBLICO AL DOMINIO PRIVADO, EL
+BIEN MUEBLE PROPIEDAD DEL ESTADO ASIGNADO A LA SECRETARIA GENERAL DE
+GOBIERNO PARA LA REPRESENTACION DEL GOBIERNO DEL ESTADO DE YUCATAN EN
+MEXICO 	86
+
+ACUERDO NUMERO 10
+
+SE DECLARAN DESINCORPORADOS POR NO SER UTILES PARA LA PRESTACION DE UN
+SERVICIO PUBLICO, PASANDO DEL DOMINIO PUBLICO AL DOMINIO PRIVADO,
+DIVERSOS BIENES MUEBLES PROPIEDAD DEL ESTADO ASIGNADOS A LA DIRECCION DE
+DEFENSORIA LEGAL, DEPENDIENTE DE LA SECRETARIA GENERAL DE GOBIERNO 	88
+
+ACUERDO NUMERO 11
+
+SE DECLARA DESINCORPORADO POR NO SER UTIL PARA LA PRESTACION DE UN
+SERVICIO PUBLICO, PASANDO DEL DOMINIO PUBLICO AL DOMINIO PRIVADO, EL
+BIEN MUEBLE PROPIEDAD DEL ESTADO ASIGNADO A DIRECCION DE ADMINISTRACION
+DE LA SECRETARIA GENERAL DE GOBIERNO 	91
+
+PODER JUDICIAL
+
+NOTIFICACIONES DEL JUZGADO TERCERO DE DEFENSA SOCIAL	93
+
+NOTIFICACIONES DEL JUZGADO CUARTO DE DEFENSA SOCIAL	93
+
+AVISO 	95
+
+GOBIERNO DEL ESTADO
+
+PODER EJECUTIVO
+
+ACUERDO NÚMERO 11
+
+El LIC. ROLANDO RODRIGO ZAPATA BELLO, Secretario General de
+
+Gobierno del Estado de Yucatán; a sus habitantes hago saber:
+
+C O N S I D E R A N D O
+
+PRIMERO.- Que corresponde al Ejecutivo del Estado desincorporar del
+dominio público
+
+mediante acuerdo y siempre que la ley lo permita, un bien que haya
+dejado de ser útil
+
+para lo fines de un servicio público, de conformidad a la fracción III
+del artículo 8 de la
+
+Ley de Bienes del Estado de Yucatán.
+
+SEGUNDO.- Que los bienes del dominio público que lo sean por
+disposición de la
+
+autoridad administrativa, podrán ser enajenados, previo acuerdo de
+desincorporación,
+
+cuando dejen de ser útiles para la prestación de un servicio público,
+de acuerdo con lo
+
+dispuesto en el artículo 9 de la Ley de Bienes del Estado de Yucatán.
+
+TERCERO.- Que el Gobernador del Estado es titular de las facultades y
+funciones que
+
+originalmente corresponden al Poder Ejecutivo, sin embargo, por razones
+de división de
+
+trabajo, dichas facultades y atribuciones pueden ser delegadas en otros
+servidores
+
+públicos mediante acuerdo que deberá ser publicado en el Diario
+Oficial del Gobierno
+
+del Estado, como lo dispone el artículo 6 de la Ley Orgánica de la
+Administración
+
+Pública del Estado.
+
+CUARTO.- Que por acuerdo número 76 de fecha catorce de febrero del año
+dos mil
+
+seis, publicado en el Diario Oficial del Gobierno del Estado de Yucatán
+en fecha nueve
+
+de marzo del mismo año, el Gobernador del Estado delegó en cada uno de
+los titulares
+
+de las dependencias que integran a la Administración Pública del
+Estado de Yucatán, la
+
+facultad del Poder Ejecutivo para desincorporar del dominio público,
+mediante acuerdo
+
+siempre que la ley lo permita, los bienes muebles propiedad del Estado
+de Yucatán que
+
+hayan sido adquiridos para la prestación de un servicio público, que
+ya no sean útiles o
+
+adecuados para la prestación  de dicho servicio y que estén asignados
+a sus
+
+dependencias respectivas.
+
+En mérito de lo anterior, he tenido a bien expedir el siguiente:
+
+ACUERDO
+
+PRIMERO.- Se declara desincorporado por no ser útil para la prestación
+de un servicio
+
+público, pasando del dominio público al dominio privado, el siguiente
+bien mueble
+
+propiedad del Estado asignado a Dirección de Administración de la
+Secretaría General
+
+de Gobierno:
+
+NO. ACTA	NO. INVENTARIO	DESCRIPCIÓN	SERIE	MODELO
+
+VH-005-07	BV000740	CAMIONETA DOBLE CABINA, NISSAN	8U72001282	1988
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente al de
+su publicación
+
+en el Diario Oficial  del Gobierno del Estado de Yucatán.
+
+Dado en la sede del Poder Ejecutivo, en la ciudad de Mérida,
+
+Yucatán, Estados Unidos Mexicanos, a los veinte días del mes de
+
+DICIEMBRE del año dos mil SIETE.
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+( RÚBRICA )
+
+LIC. ROLANDO RODRIGO ZAPATA BELLO.
+
+ESTA ES LA ÚLTIMA HOJA DEL ACUERDO NÚMERO 11 EN EL QUE EL SECRETARIO
+GENERAL DE GOBIERNO
+
+DESINCORPORA DEL DOMINIO PÚBLICO AL DOMINIO PRIVADO UN BIEN MUEBLE DEL
+ESTADO.
+
+PAGINA   PAGE  4
+                                       DIARIO  OFICIAL
+MERIDA, YUC., LUNES 24 DE DICIEMBRE DE 2007.
+
+MERIDA, YUC., LUNES 24 DE DICIEMBRE DE 2007.
+DIARIO  OFICIAL
+                                PAGINA   PAGE  5
+
+Publicación periódica: Permiso No. 0100921
+
+Características: 111182816. Autorizado por SEPOMEX
+
+DEL GOBIERNO DEL ESTADO
+
+ DE YUCATAN.
+
+DIARIO OFICIAL
+
+Dirección: Calle 90 No. 498-A entre 61 A y 63
+
+Colonia Bojórquez, (Complejo de Seguridad Jurídica)
+
+Mérida, Yucatán. C.P. 97240. TEL: 930-30-23.
+
+DIRECTOR: LIC. SALVADOR SOLORZA CASTILLO.
+
+AÑO CX         MERIDA, YUC., LUNES 24 DE DICIEMBRE DE 2007.
+NUM. 31,007

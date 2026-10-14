@@ -1,0 +1,242 @@
+---
+titulo: "DECRETO POR EL CUAL LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE YUCATÁN APRUEBA LA REFORMA AL ARTÍCULO 116, FRACCIÓN I, PÁRRAFO QUINTO DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS."
+tipo: "Decreto Legislativo"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "11 de Octubre de 2008"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "11561"
+---
+-SUMARIO-
+
+GOBIERNO DEL ESTADO
+# 
+PODER EJECUTIVO
+
+DECRETO NÚMERO 125
+
+DECRETO POR EL CUAL LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE
+YUCATÁN APRUEBA LA REFORMA AL ARTÍCULO 116, FRACCIÓN I, PÁRRAFO
+QUINTO DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS 	3
+
+DECRETO NÚMERO 126
+
+DECRETO POR EL CUAL LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE
+YUCATÁN APRUEBA LA REFORMA AL PRIMER PÁRRAFO Y LA ADICIÓN DE UN
+PÁRRAFO SEGUNDO AL ARTÍCULO 69; Y LA REFORMA AL PÁRRAFO SEGUNDO Y
+ADICIÓN DE LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 93, AMBOS DE LA
+CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS 	6
+
+DECRETO NÚMERO 127
+
+DECRETO POR EL CUAL LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE
+YUCATÁN APRUEBA LA REFORMA AL ARTÍCULO 88 DE LA CONSTITUCIÓN
+POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS 	9
+
+DECRETO NÚMERO 128
+
+DECRETO QUE EXIME PARCIALMENTE DEL PAGO DEL IMPUESTO SOBRE ENAJENACIÓN
+DE VEHÍCULOS USADOS Y CONDONA SUS ACCESORIOS 	11
+
+DECRETO NÚMERO 129
+
+DECRETO QUE ESTABLECE LA EXENCIÓN DE PAGO DE LOS DERECHOS PARA LOS
+REGISTROS DE NACIMIENTO, DE RECONOCIMIENTO, DE MATRIMONIO, CAMBIO DE
+NOMBRE, CERTIFICACIONES, EXTEMPORÁNEOS DE NACIMIENTO Y CORRECCIÓN DE
+ACTAS EN EL REGISTRO CIVIL DEL ESTADO 	14
+
+SECRETARÍA DE DESARROLLO URBANO
+
+Y MEDIO AMBIENTE
+
+AVISO DE CANCELACIÓN	16
+
+GOBIERNO DEL ESTADO
+
+PODER EJECUTIVO
+
+DECRETO NÚMERO 125
+
+C. IVONNE ARACELLY ORTEGA PACHECO, GOBERNADORA DEL ESTADO
+
+DE YUCATÁN, CON FUNDAMENTO EN LOS ARTÍCULOS 38, 55 FRACCIÓN
+
+XXIV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y 14
+
+FRACCIÓN VII Y IX DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE
+
+YUCATÁN, A SUS HABITANTES HAGO SABER:
+
+QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA
+
+SERVIDO DIRIGIRME EL SIGUIENTE DECRETO:
+
+“EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN,
+
+CONFORME A LO DISPUESTO EN EL ARTÍCULO 30 FRACCIÓN V DE LA
+
+CONSTITUCIÓN POLÍTICA; 97, 150 Y 156 DE LA LEY ORGÁNICA DEL PODER
+
+LEGISLATIVO, AMBAS DEL ESTADO DE YUCATÁN, EMITE EL SIGUIENTE;
+
+DECRETO:
+
+ARTÍCULO PRIMERO.- El Congreso del Estado de Yucatán aprueba en sus
+
+términos la reforma al artículo 116, fracción I, párrafo quinto de
+la Constitución
+
+Política de los Estados Unidos Mexicanos, contenida en la Minuta
+Proyecto de
+
+Decreto, de fecha 30 de abril del año 2008.
+
+ARTÍCULO SEGUNDO.-  Se reforma el artículo 116, fracción I, párrafo
+quinto de
+
+la Constitución Política de los Estados Unidos Mexicanos, para quedar
+como
+
+sigue:
+
+Artículo 116. ...
+
+...
+
+I. ...
+
+...
+
+...
+
+...
+
+a)...
+
+b) El gobernador interino, el provisional o el ciudadano que, bajo
+cualquier
+
+denominación, supla las faltas temporales del gobernador, siempre que
+
+desempeñe el cargo los dos últimos años del período.
+
+Sólo podrá ser gobernador constitucional de un Estado un ciudadano
+
+mexicano por nacimiento y nativo de él, o con residencia efectiva no
+menor
+
+de cinco años inmediatamente anteriores al día de los comicios, y
+tener 30
+
+años cumplidos el día de la elección, o menos, si así lo establece
+la
+
+Constitución Política de la Entidad Federativa.
+
+II. a VII. ...
+
+Transitorios
+
+Primero. El presente decreto entrará en vigor al día siguiente al de
+su
+
+publicación en el Diario Oficial de la Federación.
+
+Segundo. Las Legislaturas de los Estados deberán realizar las
+
+adecuaciones que correspondan a sus Constituciones Locales, así como a
+
+su legislación secundaria en un plazo máximo de treinta días
+naturales
+
+contados a partir del inicio de la vigencia de este decreto.
+
+T R A N S I T O R I O S:
+
+ARTÍCULO PRIMERO.- Publíquese el presente Decreto en el Diario Oficial
+del
+
+Gobierno del Estado.
+
+ARTÍCULO SEGUNDO.- Envíense a la Cámara de Senadores del Honorable
+
+Congreso de la Unión, dos ejemplares del correspondiente Diario Oficial
+del
+
+Gobierno del Estado, para los efectos legales que correspondan.
+
+ESTA HOJA DE FIRMAS FORMA PARTE DEL DECRETO
+
+POR EL CUAL LA QUINCUAGÉSIMA OCTAVA
+
+LEGISLATURA DEL ESTADO DE YUCATÁN APRUEBA LA
+
+REFORMA AL ARTÍCULO 116, FRACCIÓN I, PÁRRAFO
+
+QUINTO DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS
+
+UNIDOS MEXICANOS.
+
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA
+
+CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS
+
+TREINTA DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL OCHO.-
+
+PRESIDENTE DIPUTADO FELIPE CERVERA HERNÁNDEZ.- SECRETARIA
+
+DIPUTADA MARÍA CECILIA PAVÍA GONZÁLEZ.- SECRETARIO DIPUTADO
+
+MARCO ALONSO VELA REYES.- RÚBRICAS.”
+
+Y, POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU
+
+CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
+
+EXPEDIDO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE
+
+MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS DOS DÍAS DEL
+
+MES DE OCTUBRE DEL AÑO DOS MIL OCHO.
+
+( RÚBRICA )
+
+C. IVONNE ARACELLY ORTEGA PACHECO
+
+GOBERNADORA DEL ESTADO
+
+                        ( RÚBRICA )
+
+C. ROLANDO RODRIGO ZAPATA BELLO
+
+SECRETARIO GENERAL DE GOBIERNO
+
+PÁGINA   PAGE  4
+                                      DIARIO  OFICIAL
+MÉRIDA, YUC., SÁBADO 11 DE OCTUBRE DE 2008.
+
+MÉRIDA, YUC., SÁBADO 11 DE OCTUBRE DE 2008.
+DIARIO  OFICIAL
+                                PÁGINA   PAGE  5
+
+Publicación periódica: Permiso No. 0100921
+
+Características: 111182816. Autorizado por SEPOMEX
+
+DEL GOBIERNO DEL ESTADO
+
+ DE YUCATÁN.
+
+DIARIO OFICIAL
+
+Dirección: Calle 90 No. 498-A entre 61 A y 63
+
+Colonia Bojórquez, (Complejo de Seguridad Jurídica)
+
+Mérida, Yucatán. C.P. 97240. TEL: 930-30-23.
+
+DIRECTORA: LIC. MARTHA LETICIA GÓNGORA SÁNCHEZ.
+
+AÑO CXI         MÉRIDA, YUC., SÁBADO 11 DE OCTUBRE DE 2008.
+No. 31,207

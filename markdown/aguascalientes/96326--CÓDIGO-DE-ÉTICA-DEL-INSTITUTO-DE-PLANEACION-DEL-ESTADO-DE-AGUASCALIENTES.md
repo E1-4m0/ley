@@ -1,0 +1,555 @@
+---
+titulo: "CÓDIGO DE ÉTICA DEL INSTITUTO DE PLANEACION DEL ESTADO DE AGUASCALIENTES"
+tipo: "Código"
+estado: "Aguascalientes"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "11 de Julio de 2022"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "96326"
+---
+right-89535000
+
+left2570481CÓDIGO DE ÉTICA DEL INSTITUTO DE PLANEACION DEL ESTADO DE AGUASCALIENTES
+# 
+00CÓDIGO DE ÉTICA DEL INSTITUTO DE PLANEACION DEL ESTADO DE AGUASCALIENTES
+
+CÓDIGO DE ÉTICA DEL INSTITUTO DE PLANEACION DEL ESTADO DE AGUASCALIENTES
+
+Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de julio de 2022.
+
+El ÓRGANO INTERNO DE CONTROL DEL INSTITUTO DE PLANEACION DEL ESTADO DE AGUASCALIENTES,  en ejercicio de las facultades que le confieren los artículos 16 de la Ley General de Responsabilidades Administrativas; DÉCIMO TERCERO del “Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas”; 5° párrafo segundo de la Ley del Sistema Estatal Anticorrupción de Aguascalientes; 3°, 5° fracción I, 15 y 16 fracciones I y III, de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes; 2° párrafo segundo fracción I, 5°, 44 fracción III, 45, 45 A, y 45 B de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes; 81, 87 fracción IV inciso b), 101, 102, 103 fracción XIV, 104 fracción XIX y 105 fracción XIII de la Ley de Planeación para el Desarrollo del Estado de Aguascalientes; y,  2°, 4°, 6° apartado C fracción II, 45 y 46 del Reglamento Interior del Instituto de Planeación del Estado de Aguascalientes tiene a bien expedir el ACUERDO mediante el cual se emite el “CÓDIGO DE ÉTICA DEL INSTITUTO DE PLANEACION DEL ESTADO DE AGUASCALIENTES”, al tenor de los siguientes:
+
+CONSIDERANDOS
+
+Que, en el ejercicio de las atribuciones y facultades de los Integrantes del Órgano Interno de Control del Instituto de Planeación del Estado de Aguascalientes, así como los trámites y resolución de los asuntos de su competencia, corresponden originalmente al Órgano Interno de Control.
+
+Que el artículo 16 de la Ley General de Responsabilidades Administrativas establece que “Los Servidores Públicos deberán observar el código de ética que al efecto sea emitido por las Secretarías o los Órganos Internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.”
+
+Que la Ley de Responsabilidades Administrativas del Estado de Aguascalientes establece en su artículo 13 fracción I lo siguiente:
+
+“Artículo 13.- Para prevenir la comisión de faltas administrativas y hechos de corrupción, la Secretaría y los órganos internos de control de los entes públicos, deberán implementar acciones para orientar el desempeño de los servidores públicos en sus empleos, cargos, comisiones o funciones, en coordinación con el Sistema Estatal Anticorrupción.
+
+En la implementación de las acciones referidas, deberán observar lo siguiente:
+
+I. Elaborar su Código de Ética conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, el cual deberá hacerse del conocimiento de los servidores públicos;
+
+II. a la IV. …”
+
+Que el 12 de octubre de 2018 se publicó en el Diario Oficial de la Federación el “Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas”, el cual es un instrumento que tiene como objeto establecer los elementos a considerar para la emisión del propio Código de Ética, sentando las bases de principios rectores que regirán las políticas transversales, integrales, sistemáticas, continuas y evaluables que, en materia de integridad y ética pública, emitan los entes públicos.
+
+Que el Órgano Interno de Control de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Aguascalientes, emitió mediante Acuerdo el Código de Ética de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes, el 13 de mayo de 2019, mismo que ha servido de base para emitir el presente Código de Ética.
+
+Que en fecha 01 de noviembre de 2021, mediante oficio número SGG/N/191/2021, el C.P. Martin Orozco Sandoval, Gobernador Constitucional del Estado, nombró a la Contadora Pública María Esther Ávila Campos como Titular de la Unidad Auditora del Órgano Interno de Control del Instituto de Planeación del Estado de Aguascalientes; así mismo, mediante oficio SGG/N/192/2021 de fecha 01 de noviembre de 2021 nombró a la Licenciada Teresa de Jesús Varela Ruíz como Titular de la Unidad Substanciadora y Resolutora del Órgano Interno de Control del Instituto de Planeación del Estado de Aguascalientes; así mismo, a la Licenciada Raiza Nájera Reza como Titular de la Unidad Investigadora del Órgano Interno de Control del Instituto de Planeación del Estado de Aguascalientes, por lo que se cuentan con las facultades para expedir el presente Código de Ética.
+
+Que el Código de Ética se expide en apego a lo establecido en la fracción I del artículo 13 de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, y conforme a los Lineamientos ya mencionados con anterioridad, con la finalidad de que los servidores públicos de esta entidad paraestatal orienten el desempeño de sus empleos, cargos o comisiones, en base a los principios, valores y reglas de integridad establecidos en el mismo, y que permitan promover acciones que fortalezcan la transparencia, la rendición de cuentas, la legalidad y el combate a la corrupción; delimitando las conductas de los servidores públicos en situaciones específicas, previo diagnóstico que al efecto realicen, conforme a los lineamientos generales y al debido proceso.
+
+Que el Instituto de Planeación del Estado de Aguascalientes con base en el Plan Estatal de Desarrollo 2016-2022 está comprometida en implementar acciones y políticas que permitan su propio desarrollo integral, con base a los principios de equidad de género, sustentabilidad, transparencia y combate a la corrupción, teniendo como objeto una administración pública cercana, eficiente, honesta, transparente y de calidad, es por ello que el Órgano Interno de Control tiene a bien expedir el siguiente:
+
+ACUERDO
+
+ARTÍCULO ÚNICO. Se emite el CÓDIGO DE ÉTICA DEL INSTITUTO DE PLANEACIÓN DEL ESTADO DE AGUASCALIENTES, para quedar como sigue:
+
+CÓDIGO DE ÉTICA DEL INSTITUTO DE PLANEACIÓN DEL ESTADO DE AGUASCALIENTES
+
+CAPÍTULO I
+
+Disposiciones Generales
+
+Artículo 1°. Naturaleza jurídica del Código. El presente Código es el instrumento normativo a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas y 13 fracción I de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, emitido por el Órgano Interno de Control del Instituto de Planeación del Estado de Aguascalientes, conforme a los lineamientos establecidos por el Sistema Nacional Anticorrupción, cuya inobservancia es sancionable en términos de la Ley General en cita y de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+Artículo 2°. Ámbito de aplicación. El presente Código es de aplicación obligatoria para todos los servidores públicos adscritos al Instituto de Planeación del Estado de Aguascalientes, en el desempeño de su empleo, cargo o comisión.
+
+El lenguaje empleado en el presente Acuerdo no busca generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a ambos sexos, sin discriminación alguna.
+
+Artículo 3°. Objeto del ordenamiento. El objeto del presente Código es:
+
+Constituir un elemento de la política de integridad del Instituto de Planeación del Estado de Aguascalientes, para fortalecer la prestación de servicios públicos de manera ética e íntegra;
+
+Precisar los principios y valores fundamentales para el adecuado ejercicio de la función pública;
+
+Incidir en el comportamiento y desempeño de los Servidores Públicos, para formar una ética e identidad profesional compartida, y un sentido de orgullo de pertenencia al servicio público;
+
+Promover el conocimiento y aplicación de las directrices que establece el artículo 7° de la Ley General de Responsabilidades Administrativas;
+
+Establecer mecanismos de capacitación de los Servidores Públicos, en el razonamiento sobre los principios y valores que deberán prevalecer en la toma de decisiones y en el correcto ejercicio de la función pública en situaciones concretas; y
+
+Establecer mecanismos de difusión para promover el conocimiento y aplicación de este Código, y facilitar su eficacia en la prevención de la corrupción.
+
+Artículo 4°. Glosario. Para los efectos del presente Acuerdo, se entenderá por:
+
+Código de Ética: El Código de Ética del Instituto de Planeación del Estado de Aguascalientes.
+
+IPLANEA: El Instituto de Planeación del Estado de Aguascalientes.
+
+OIC: Órgano Interno de Control del Instituto de Planeación del Estado de Aguascalientes.
+
+Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en el Instituto de planeación del Estado de Aguascalientes, conforme a lo dispuesto en el artículo 108 párrafos primero y cuarto de la Constitución Política de los Estados Unidos Mexicanos, en relación con el artículo 73 párrafo primero de la Constitución Política del Estado de Aguascalientes.
+
+CAPÍTULO II
+
+Principios Rectores y Directrices del Servicio Público
+
+Artículo 5°. Definición de principios. Los principios constitucionales y legales que rigen al servicio público, y a los que deben sujetar su actuación los Servidores Públicos son:
+
+Legalidad: Que consiste en que los Servidores Públicos hagan sólo aquello que las normas expresamente les confieren y en todo momento sometan su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen a su empleo, cargo o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
+
+ Honradez: Que consiste en que los Servidores Públicos se conduzcan con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscan o aceptan compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio.
+
+ Lealtad: Que consiste en que los Servidores Públicos correspondan a la confianza que el Estado les ha conferido; tengan una vocación absoluta de servicio a la sociedad, y satisfagan el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población.
+
+ Imparcialidad: Que consiste en que los Servidores Públicos den a la ciudadanía, y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, ni permitir que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva.
+
+ Eficiencia: Que consiste en que los Servidores Públicos actúen en apego a los planes y programas previamente establecidos, y optimicen el uso y la asignación de los recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos.
+
+ Economía: Que consiste en que los Servidores Públicos, en el ejercicio del gasto público, administren los bienes, recursos y servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo éstos de interés social.
+
+ Disciplina: Que consiste en que los Servidores Públicos desempeñen su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos.
+
+ Profesionalismo: Que consiste en que los Servidores Públicos deben conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a los demás Servidores Públicos como a particulares con los que llegue a tratar.
+
+ Objetividad: Que consiste en que los Servidores Públicos deben preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deben ser informadas en estricto apego a la legalidad.
+
+ Transparencia: Que consiste en que los Servidores Públicos, en el ejercicio de sus funciones, privilegien el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generan, obtienen, adquieren, transforman o conservan; y en el ámbito de su competencia, difundan de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto, protegiendo los datos personales que estén bajo su custodia.
+
+ Rendición de cuentas: Que consiste en que los Servidores Públicos asuman plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
+
+ Competencia por mérito: Que consiste en que los Servidores Públicos deben ser seleccionados para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, atrayendo a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos.
+
+ Eficacia: Que consiste en que los Servidores Públicos actúen conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación.
+
+ Integridad: Que consiste en que los Servidores Públicos actúen siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo, comisión o función, convencidos del compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público y generen certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar.
+
+ Equidad: Que consiste en que los Servidores Públicos procuren que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades.
+
+  Artículo 6°.- Directrices. Para la efectiva aplicación de los principios descritos en el presente Capítulo, los Servidores Públicos observarán las directrices establecidas en el artículo 7° de la Ley General de Responsabilidades Administrativas y su correlativo el artículo 6° de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+La promoción sobre el conocimiento y aplicación de dichas directrices, se realizará en los términos de lo previsto en los artículos 23 y 24 fracción II de este Código.
+
+CAPÍTULO III
+
+Valores
+
+Artículo 7º. Definición de valores. Los valores a los que deberán sujetar su actuación los Servidores Públicos son:
+
+Interés Público: Que consiste en que los Servidores Públicos actúen buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva.
+
+Respeto: Que consiste en que los Servidores Públicos se conduzcan con austeridad y sin ostentación, y otorguen un trato digno y cordial a las personas en general y a sus compañeros y compañeras de trabajo, superiores y subordinados, considerando sus derechos, de tal manera que propicien el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público.
+
+Respeto a los derechos humanos: Que consiste en que los Servidores Públicos respeten los derechos humanos, y en el ámbito de sus competencias y atribuciones, los garanticen, promuevan y protejan de conformidad con los Principios de:
+
+Universalidad: Que establece que los derechos humanos corresponden a toda persona por el simple hecho de serlo;
+
+Interdependencia: Que implica que los derechos humanos se encuentran vinculados íntimamente entre sí;
+
+Indivisibilidad: Que refiere que los derechos humanos conforman una totalidad de tal forma que son complementarios e inseparables; y
+
+Progresividad: Que prevé que los derechos humanos están en constante evolución y bajo ninguna circunstancia se justifica un retroceso en su protección.
+
+Igualdad y no discriminación: Que consiste en que los Servidores Públicos presten sus servicios a todas las personas sin distinción, exclusión, restricción o preferencia basada en el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o en cualquier otro motivo.
+
+Equidad de género: Que consiste en que los Servidores Públicos, en el ámbito de sus competencias y atribuciones, garanticen que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades a los bienes y servicios públicos; a los programas y beneficios institucionales, y a los empleos, cargos y comisiones gubernamentales.
+
+Entorno Cultural  y Ecológico: Que consiste en que los Servidores Públicos, en el desarrollo de sus actividades, eviten la afectación del patrimonio cultural de cualquier nación y de los ecosistemas del planeta; asuman una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, y en el ejercicio de sus funciones y conforme a sus atribuciones, promuevan en la sociedad la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las generaciones futuras.
+
+Cooperación: Que consiste en que los Servidores Públicos colaboren entre sí y propicien el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas gubernamentales, generando así una plena vocación de servicio público en beneficio de la colectividad y confianza de la ciudadanía en sus instituciones.
+
+Liderazgo: Que consiste en que los Servidores Públicos, sean guía, ejemplo y promotores de los principios y valores previstos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, en este Código, así como de las Reglas de Integridad, para que fomenten y apliquen en el desempeño de sus funciones los principios que las leyes les imponen, así como aquellos valores adicionales que por su importancia son intrínsecos a la función pública.
+
+IX. Transparencia: Los servidores públicos en el ejercicio de sus funciones protegen los datos personales que estén bajo su custodia; privilegian el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generan, obtienen, adquieren, transforman o conservan; y en el ámbito de su competencia, difunden de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto.
+
+X. Rendición de Cuentas: Los servidores públicos asumen plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
+
+CAPÍTULO IV
+
+Reglas de Integridad
+
+Artículo 8º. Definición y objetivo de reglas de integridad. Las reglas de integridad, son lineamientos estructurados de manera lógica con relación a los principios rectores y valores previstos en el presente Código, enfocados al ejercicio de las funciones del IPLANEA.
+
+Las reglas de integridad, tiene por objeto brindar herramientas a los Servidores Públicos para resolver dilemas éticos ante situaciones concretas.
+
+Artículo 9º. Regla de integridad de actuación pública. Esta regla consiste en que los Servidores Públicos se conduzcan con transparencia, honestidad, lealtad, cooperación, austeridad, sin ostentación y con una clara orientación al interés público.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+Abstenerse de ejercer las atribuciones y facultades que le impone el servicio público y que le confieren los ordenamientos legales y normativos correspondientes;
+
+Adquirir para sí o para terceros, bienes o servicios de personas u organizaciones beneficiadas con programas o contratos gubernamentales, a un precio notoriamente inferior o bajo condiciones de crédito favorables, distintas a las del mercado;
+
+Favorecer o ayudar a otras personas u organizaciones a cambio o bajo la promesa de recibir dinero, dádivas, obsequios, regalos o beneficios personales o para terceros;
+
+Utilizar las atribuciones de su empleo, cargo, comisión o funciones para beneficio personal o de terceros;
+
+Ignorar las recomendaciones de los organismos públicos protectores de los derechos humanos y de prevención de la discriminación, u obstruir alguna investigación por violaciones en esas materias;
+
+Hacer proselitismo en su jornada laboral u orientar su desempeño laboral hacia preferencias político-electorales;
+
+Utilizar recursos humanos, materiales o financieros institucionales para fines distintos a los asignados;
+
+Obstruir la presentación de denuncias administrativas, penales o políticas, por parte de personas compañeras de trabajo, subordinados o de ciudadanos en general;
+
+Asignar o delegar responsabilidades y funciones sin apegarse a las disposiciones normativas aplicables;
+
+Permitir que Servidores Públicos subordinados incumplan total o parcialmente con su jornada u horario laboral;
+
+Realizar cualquier tipo de discriminación tanto a otros Servidores Públicos como a toda persona en general;
+
+Actuar como abogado o procurador en juicios de carácter penal, civil, fiscal, mercantil, administrativo, laboral o de cualquier índole, que se promueva en contra del IPLANEA;
+
+Dejar de establecer medidas preventivas al momento de ser informado por escrito como superior jerárquico, de una posible situación de riesgo o de conflicto de interés;
+
+Hostigar, agredir, amedrentar, acosar, intimidar, extorsionar o amenazar a personas que sean subordinadas o compañeras de trabajo;
+
+Desempeñar dos o más puestos públicos o celebrar dos o más contratos de prestación de servicios profesionales con instituciones públicas, o la combinación de unos con otros, sin contar con dictamen de compatibilidad en términos de la Ley de Remuneraciones de los Servidores Públicos para el Estado de Aguascalientes y sus Municipios, y demás disposiciones aplicables;
+
+XVI.       Dejar de colaborar con otros Servidores Públicos y de propiciar el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas aplicables al IPLANEA;
+
+XVII.       Obstruir u obstaculizar la generación de soluciones a dificultades que se presenten para la consecución de las metas previstas en los planes y programas aplicables al IPLANEA;
+
+XVIII.    Evitar conducirse bajo criterios de austeridad, sencillez y uso apropiado de los bienes y medios que disponga con motivo del ejercicio del cargo público; y
+
+XIX.      Conducirse de forma ostentosa, incongruente y desproporcionada a la remuneración y apoyos que perciba con motivo de cargo público.
+
+Artículo 10°. Regla de integridad de información pública. Esta regla consiste en que los Servidores Públicos conduzcan su actuación conforme al principio de transparencia y resguarden la documentación e información que tienen bajo su responsabilidad.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+Asumir actitudes intimidatorias frente a las personas que requieren de orientación para la presentación de una solicitud de acceso a información pública;
+
+Retrasar de manera negligente las actividades que permitan atender de forma ágil y expedita las solicitudes de acceso a información pública;
+
+Declarar la incompetencia para la atención de una solicitud de acceso a información pública, a pesar de contar con atribuciones o facultades legales o normativas;
+
+Declarar la inexistencia de información o documentación pública, sin realizar una búsqueda exhaustiva en los expedientes y archivos institucionales bajo su resguardo;
+
+Utilizar información que se obtenga con motivo de sus funciones, para fines distintos a los autorizados por la normatividad aplicable;
+
+Ocultar información y documentación pública en archivos personales, ya sea dentro o fuera de los espacios institucionales;
+
+Alterar, ocultar o eliminar de manera deliberada, información pública;
+
+Permitir o facilitar la sustracción, destrucción o inutilización indebida, de información o documentación pública;
+
+Proporcionar indebidamente documentación e información confidencial o reservada;
+
+Utilizar con fines lucrativos las bases de datos a las que tenga acceso o que haya obtenido con motivo de su empleo, cargo, comisión o funciones;
+
+Obstaculizar las actividades para la identificación, generación, procesamiento, difusión y evaluación de la información en materia de transparencia proactiva y gobierno abierto;
+
+Difundir información pública en materia de transparencia proactiva y gobierno abierto en formatos que, de manera deliberada, no permitan su uso, reutilización o redistribución por cualquier interesado; y
+
+Difundir, proporcionar o hacer mal uso de cualquier información concerniente a una persona física identificada o identificable, en materia de protección de datos personales.
+
+Artículo 11. Regla de integridad de contrataciones públicas, licencias, permisos, autorización y concesiones. Esta regla consiste en que los Servidores Públicos que con motivo de su empleo, cargo, comisión o función o a través de subordinados, participen en la celebración, otorgamiento o prórroga de dichas figuras, se conduzcan con transparencia, imparcialidad y legalidad; orienten sus decisiones a las necesidades e intereses de la sociedad y garanticen las mejores condiciones para el IPLANEA.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+Omitir declarar conforme a las disposiciones aplicables los posibles conflictos de interés, negocios y transacciones comerciales, que de manera particular haya tenido con personas u organizaciones;
+
+No aplicar el principio de equidad de la competencia, que debe prevalecer entre los participantes dentro de los procedimientos de contratación;
+
+Formular requerimientos diferentes a los estrictamente necesarios para el cumplimiento del servicio público, provocando gastos excesivos e innecesarios;
+
+Establecer condiciones en las invitaciones o convocatorias que representen ventajas o den un trato diferenciado a los licitantes;
+
+Favorecer a los licitantes teniendo por satisfechos los requisitos o reglas previstos en las invitaciones o convocatorias cuando no lo están, simulando el cumplimiento de éstos o coadyuvando a su cumplimiento extemporáneo;
+
+Beneficiar a los proveedores, sobre el cumplimiento de los requisitos previstos en las solicitudes de cotización;
+
+Proporcionar de manera indebida, información de los particulares que participen en los procedimientos de contrataciones públicas;
+
+Ser parcial en la selección, designación, contratación, y en su caso, remoción o rescisión del contrato, en los procedimientos de contratación;
+
+Influir en las decisiones de otros Servidores Públicos, para que se beneficie a un participante en los procedimientos de contratación o para el otorgamiento de licencias, permisos, autorizaciones y concesiones;
+
+No imponer sanciones a licitantes, proveedores y contratistas que infrinjan las disposiciones jurídicas aplicables;
+
+Enviar correos electrónicos a los licitantes, proveedores, contratistas o concesionarios cuya finalidad sea la de otorgar un beneficio o información confidencial que le otorgue ventaja sobre procedimientos en los cuales se involucren;
+
+Reunirse con licitantes, proveedores, contratistas y concesionarios cuya finalidad sea la de otorgar un beneficio o información confidencial que le otorgue ventaja sobre procedimientos en los cuales se involucren, salvo para los actos correspondientes a la visita al sitio;
+
+Solicitar requisitos complementarios no previstos y sin sustento legal, que tengan como fin el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones;
+
+Dar trato inequitativo o preferencial a cualquier persona u organización en la gestión que se realice para el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones;
+
+Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo, en la gestión que se realice para el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones;
+
+Dejar de observar el protocolo de actuación en materia de contrataciones públicas y otorgamiento de licencias, permisos, autorizaciones, concesiones y sus prórrogas; y
+
+Ser beneficiario directo o a través de familiares de hasta cuarto grado, de contratos relacionados con el IPLANEA.
+
+Artículo 12. Regla de integridad de programas gubernamentales. Esta regla consiste en que los Servidores Públicos que con motivo de su empleo, cargo o comisión o a través de subordinados, participen en el otorgamiento y operación de subsidios y apoyos de programas gubernamentales, garantizarán que la entrega de estos beneficios se apegue a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y respeto.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+Ser beneficiario directo o a través de familiares hasta el cuarto grado, de programas de subsidios o apoyos del IPLANEA;
+
+Permitir la entrega o entregar subsidios o apoyos de programas gubernamentales, de manera diferente a la establecida en las reglas de operación;
+
+Brindar apoyos o beneficios de programas gubernamentales a personas, agrupaciones o entes que no cumplan con los requisitos y criterios de elegibilidad establecidos en las reglas de operación;
+
+Difundir propaganda gubernamental en relación al otorgamiento de subsidios o apoyos de programas gubernamentales, en periodos restringidos por la normatividad electoral, salvo en los casos en que ésta lo permita;
+
+Dar trato inequitativo o preferencial a cualquier persona u organización en la gestión del subsidio o apoyo del programa, lo cual incluye el ocultamiento, retraso o entrega engañosa o privilegiada de información;
+
+Discriminar a cualquier interesado, para acceder a los apoyos o beneficios de un programa gubernamental;
+
+Alterar, ocultar, eliminar o negar información que impida el control y evaluación sobre el otorgamiento de los beneficios o apoyos a personas, agrupaciones o entes, por parte de las autoridades facultadas; y
+
+Entregar, disponer o hacer uso distinto a las atribuciones encomendadas, de la información de los padrones de beneficiarios de programas gubernamentales diferentes a las atribuciones encomendadas.
+
+Artículo 13. Regla de integridad de trámites y servicios. Esta regla consiste en que los Servidores Públicos que con motivo de su empleo, cargo, comisión o función participen en la prestación de trámites y en el otorgamiento de servicios, atiendan a los usuarios de forma respetuosa, eficiente, oportuna, responsable e imparcial.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+Ejercer una actitud contraria de servicio, respeto y cordialidad en el trato, incumpliendo protocolos de actuación o atención al público;
+
+Otorgar información falsa sobre el proceso y requisitos para acceder a consultas, trámites, gestiones y servicios;
+
+Realizar trámites y otorgar servicios de forma deficiente, retrasando los tiempos de respuesta, consultas, trámites, gestiones y servicios;
+
+Exigir, por cualquier medio, requisitos o condiciones adicionales a los señalados por las disposiciones jurídicas que regulan los trámites y servicios;
+
+Discriminar por cualquier motivo en la atención de consultas, la realización de trámites y gestiones, y la prestación de servicios; y
+
+Recibir, solicitar o aceptar, cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión que se realice para el otorgamiento del trámite o servicio.
+
+Artículo 14. Regla de integridad de recursos humanos. Esta regla consiste en que los Servidores Públicos que participen en procedimientos de recursos humanos, de planeación de estructuras o que desempeñen en general un empleo, cargo, comisión o función, se apeguen a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y rendición de cuentas.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+Dejar de garantizar la igualdad de oportunidades en el acceso a la función pública con base en el mérito;
+
+Designar, contratar o nombrar en un empleo, cargo, comisión o función, a personas cuyos intereses particulares, laborales, profesionales, económicos o de negocios puedan estar en contraposición o percibirse como contrarios a los intereses que les correspondería velar si se desempeñaran en el servicio público;
+
+Proporcionar a un tercero no autorizado, información contenida en expedientes del personal y en archivos de recursos humanos bajo su resguardo;
+
+Suministrar información sobre los reactivos de los exámenes elaborados, para la ocupación de plazas vacantes a personas ajenas a la organización de los concursos;
+
+Seleccionar, contratar, nombrar o designar a personas, sin haber obtenido previamente la constancia de no inhabilitación;
+
+Seleccionar, contratar, nombrar o designar a personas que no cuenten con el perfil del puesto, con los requisitos y documentos establecidos, o que no cumplan con las obligaciones que las leyes imponen a todo ciudadano;
+
+Seleccionar, contratar, designar o nombrar directa o indirectamente como subalternos a familiares de hasta el cuarto grado de parentesco;
+
+Inhibir la formulación o presentación de inconformidades o recursos que se prevean en las disposiciones aplicables para los procesos de ingreso;
+
+Otorgar a un servidor público subordinado, durante su proceso de evaluación, una calificación que no corresponda a sus conocimientos, actitudes, capacidades o desempeño;
+
+Disponer del personal a su cargo en forma indebida, para que le realice trámites, asuntos o actividades de carácter personal o familiar ajenos al servicio público;
+
+Presentar información y documentación falsa o que induzca al error, sobre el cumplimiento de metas de su evaluación del desempeño;
+
+Remover, cesar, despedir, separar o dar o solicitar la baja de Servidores Públicos, sin tener atribuciones o por causas y procedimientos no previstos en las leyes aplicables;
+
+Evitar que el proceso de evaluación del desempeño de los Servidores Públicos se realice en forma objetiva y en su caso, dejar de retroalimentar sobre los resultados obtenidos, cuando su desempeño sea contrario a lo esperado; y
+
+Eludir, conforme a sus atribuciones, la reestructuración de áreas identificadas como sensibles o vulnerables a la corrupción o en las que se observe una alta incidencia de conductas contrarias a este Código o al Código de Conducta del IPLANEA.
+
+Artículo 15. Regla de integridad de administración de bienes muebles e inmuebles. Esta regla consiste en que los Servidores Públicos que, con motivo de su empleo, cargo, comisión o función, participan en procedimientos de baja, enajenación, transferencia o destrucción de bienes muebles o de administración de bienes inmuebles, administren los recursos con eficiencia, transparencia y honradez para satisfacer los objetivos a los que están destinados.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+Solicitar la baja, enajenación, transferencia o destrucción de bienes, cuando éstos sigan siendo útiles;
+
+Compartir información a personas no autorizadas ajenos a los procedimientos de baja, enajenación, transferencia o destrucción de bienes públicos, o sustituir documentos o alterar éstos;
+
+Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo, a cambio de beneficiar a los participantes en los procedimientos de enajenación de bienes muebles e inmuebles;
+
+Intervenir o influir en las decisiones de otros Servidores Públicos para que se beneficie a algún participante en los procedimientos de enajenación de bienes muebles e inmuebles;
+
+Tomar decisiones en los procedimientos de enajenación de bienes muebles e inmuebles, anteponiendo intereses particulares que dejen de asegurar las mejores condiciones en cuanto a precio disponible en el mercado;
+
+Manipular la información proporcionada por los particulares en los procedimientos de enajenación de bienes muebles e inmuebles;
+
+Utilizar cualquier tipo de vehículo propiedad o arrendado por el IPLANEA, para uso particular, personal o familiar, fuera de la normativa establecida;
+
+Utilizar los bienes inmuebles para uso ajeno a la normatividad aplicable; y
+
+Disponer de los bienes y demás recursos públicos, sin observar las normas a las que se encuentran afectos y destinarlos a fines distintos al servicio público.
+
+Artículo 16. Regla de integridad de procesos de evaluación. Esta regla consiste en que los Servidores Públicos que, con motivo de su empleo, cargo, comisión o función, participen en procesos de evaluación, se apeguen en todo momento a los principios de legalidad, imparcialidad y rendición de cuentas.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+Proporcionar indebidamente datos contenidos en los sistemas de información del IPLANEA, a la que tenga acceso con motivo de su empleo, cargo, comisión o función, o acceder a tal información por causas distintas al ejercicio de sus funciones y facultades;
+
+Trasgredir el alcance y orientación de los resultados de las evaluaciones que realice cualquier instancia externa o interna en materia de evaluación o rendición de cuentas;
+
+Dejar de atender las recomendaciones formuladas por cualquier instancia de evaluación, ya sea interna o externa; y
+
+Alterar registros de cualquier índole para simular o modificar los resultados de las funciones, programas y proyectos.
+
+Artículo 17. Regla de integridad de Control interno. Esta regla consiste en que los Servidores Públicos en el ejercicio de su empleo, cargo, comisión o función, que participen en procesos de control interno, generen, obtengan, utilicen y comuniquen información suficiente, oportuna, confiable y de calidad, apegándose a los principios de legalidad, imparcialidad y rendición de cuentas.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+Dejar de comunicar los riesgos asociados al cumplimiento de objetivos institucionales, así como los relacionados con corrupción y posibles irregularidades que afecten los recursos económicos públicos;
+
+Omitir diseñar o actualizar las políticas o procedimientos necesarios en materia de control interno;
+
+Generar información financiera, presupuestaria y de operación sin el respaldo suficiente;
+
+Comunicar información financiera, presupuestaria y de operación incompleta, confusa o dispersa;
+
+Omitir supervisar los planes, programas o proyectos a su cargo, o en su caso, las actividades y el cumplimiento de las funciones del personal que le reporta;
+
+Dejar de salvaguardar documentos e información que se deban conservar por su relevancia o por sus aspectos técnicos, jurídicos, económicos o de seguridad;
+
+Ejecutar sus funciones sin establecer las medidas de control que le correspondan;
+
+Omitir modificar procesos y tramos de control, conforme a sus atribuciones, en áreas en las que se detecten conductas a este Código o al Código de Conducta del IPLANEA;
+
+Dejar de implementar o de adoptar mejores prácticas y procesos para evitar la corrupción y prevenir cualquier conflicto de interés;
+
+Inhibir las manifestaciones o propuestas que tiendan a mejorar o superar deficiencias de operación, de procesos, de calidad de trámites y servicios, o de comportamiento ético de los Servidores Públicos; y
+
+Eludir establecer estándares o protocolos de actuación en aquellos trámites o servicios de atención directa al público o dejar de observar aquéllos previstos por las instancias competentes.
+
+Artículo 18. Regla de integridad de procedimiento administrativo. Esta regla consiste en que los Servidores Públicos que, en el ejercicio de su empleo, cargo, comisión o función, participan en procedimientos administrativos, tengan una cultura de denuncia y respeten las formalidades esenciales del procedimiento y la garantía de audiencia conforme al principio de legalidad.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+Omitir notificar el inicio del procedimiento y sus consecuencias;
+
+Dejar de otorgar la oportunidad de ofrecer pruebas;
+
+Prescindir el desahogo de pruebas en que se finque la defensa;
+
+Excluir la oportunidad de presentar alegatos;
+
+Omitir señalar los medios de defensa que se pueden interponer para combatir la resolución dictada;
+
+Negarse a informar, declarar o testificar sobre hechos que le consten relacionados con conductas contrarias a la normatividad, así como a este Código y al Código de Conducta del IPLANEA;
+
+Dejar de proporcionar, o negar documentación o información que la autoridad competente requiera para el ejercicio de sus funciones, o evitar colaborar con ésta en sus actividades; y
+
+Inobservar criterios de legalidad, imparcialidad, objetividad y discreción en los asuntos de los que tenga conocimiento que impliquen contravención a la normatividad, así como a este Código o al Código de Conducta del IPLANEA.
+
+Artículo 19. Regla de desempeño permanente con integridad. Esta regla consiste en que los Servidores Públicos que desempeñen un empleo, cargo, comisión o función, conduzcan su actuación con legalidad, imparcialidad, objetividad, transparencia, certeza, cooperación, ética e integridad.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+Omitir conducirse con un trato digno y cordial, conforme a los protocolos de actuación o atención al público, y de cooperación entre Servidores Públicos;
+
+Retrasar de manera negligente las actividades que permitan atender de forma ágil y expedita al público en general;
+
+Ocultar información y documentación, con el fin de entorpecer las solicitudes de acceso a información pública;
+
+Realizar actividades particulares en horarios de trabajo que contravengan las medidas aplicables para el uso eficiente, transparente y eficaz de los recursos públicos;
+
+Aceptar documentación que no reúna los requisitos fiscales para la comprobación de gastos de representación, viáticos, pasajes, alimentación, telefonía celular, entre otros;
+
+Obstruir la presentación de denuncias o acusaciones sobre el uso indebido o de derroche de recursos públicos; y
+
+Omitir excusarse de conocer asuntos que puedan implicar cualquier conflicto de interés.
+
+Artículo 20. Regla de cooperación con la integridad. Esta regla consiste en que los Servidores Públicos en el desempeño de su empleo, cargo, comisión o función, cooperen con el IPLANEA y con las instancias encargadas de velar por la observancia de los principios y valores intrínsecos a la función pública, en el fortalecimiento de la cultura ética y de servicio a la sociedad.
+
+Son acciones que, de manera enunciativa y no limitativa, hacen posible propiciar un servicio público íntegro, las siguientes:
+
+Detectar áreas sensibles o vulnerables a la corrupción;
+
+Proponer o en su caso adoptar, cambios a las estructuras y procesos a fin de inhibir ineficiencias, corrupción y conductas no éticas; y
+
+Recomendar, diseñar y establecer mejores prácticas a favor del servicio público.
+
+Artículo 21. Regla de integridad de comportamiento digno. Esta regla consiste en que los Servidores Públicos deben conducirse en forma digna sin proferir expresiones, adoptar comportamientos, usar lenguaje o realizar acciones de hostigamiento o acoso sexual, manteniendo para ello una actitud de respeto hacia las personas con las que tiene o guarda relación en la función pública.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+Realizar a personas que sean compañeras de trabajo, personal subordinado o usuarios, señales sexualmente sugerentes con las manos o a través de movimientos de otras partes del cuerpo;
+
+Tener contacto físico sugestivo o de naturaleza sexual, con personas que sean compañeras de trabajo, personal subordinado o usuarios en horarios de trabajo;
+
+Hacer regalos, dar preferencias indebidas o notoriamente diferentes en el ejercicio de su función, por tener interés sexual por una persona que sea compañera de trabajo, personal subordinado o usuario;
+
+Llevar a cabo conductas dominantes, agresivas, intimidatorias u hostiles durante horario laboral o hacia una persona que sea compañera de trabajo, personal subordinado o usuario, para que se someta a sus deseos o intereses sexuales, o al de alguna otra u otras personas;
+
+Espiar a una persona mientras se cambia de ropa o está en el sanitario;
+
+Condicionar la obtención de un empleo, su permanencia en él o las condiciones del mismo a cambio de aceptar conductas de naturaleza sexual;
+
+Obligar a la realización de actividades que no competen a sus labores u otras medidas disciplinarias en represalia por rechazar proposiciones de carácter sexual;
+
+Condicionar la prestación de un trámite o servicio público a cambio de que la persona usuaria o solicitante acceda a sostener conductas sexuales de cualquier naturaleza;
+
+Expresar comentarios, burlas, piropos o bromas hacia otra persona que sea compañera de trabajo, personal subordinado o usuario, referentes a la apariencia o a la anatomía con connotación sexual;
+
+Realizar comentarios, burlas o bromas sugerentes respecto de su vida sexual o de una persona que sea compañera de trabajo, personal subordinado o usuario;
+
+Realizar invitaciones, favores o propuestas a citas o encuentros de carácter sexual directamente o mediante insinuaciones, a una persona que sea compañera de trabajo, personal subordinado o usuario;
+
+Emitir expresiones o utilizar lenguaje que denigre a las personas que sean compañeras de trabajo, personal subordinado o usuarios, o pretenda colocarlas como objeto sexual;
+
+Preguntar a una persona que sea compañera de trabajo, personal subordinado o usuario sobre historias, fantasías o preferencias sexuales o sobre su vida sexual;
+
+Exhibir o enviar a través de algún medio de comunicación carteles, calendarios, mensajes, fotos, afiches, ilustraciones u objetos con imágenes o estructuras de naturaleza sexual, no deseadas ni solicitadas por la persona receptora, cuando ésta sea compañera de trabajo, personal subordinado o usuario;
+
+Difundir rumores o cualquier tipo de información sobre la vida sexual de una persona que sea compañera de trabajo, personal subordinado o usuario;
+
+Expresar insultos o humillaciones de naturaleza sexual; y
+
+Mostrar deliberadamente partes íntimas del cuerpo a una o varias personas que sean compañeras de trabajo, personal subordinado o usuario.
+
+CAPÍTULO V
+
+Mecanismos de Capacitación y Difusión
+
+Artículo 22. Objetivo de los mecanismos. El objetivo de los mecanismos de capacitación y difusión, es promover el conocimiento y aplicación de este Código, y facilitar su eficacia en la prevención de la corrupción.
+
+Artículo 23. Mecanismos de capacitación. El OIC promoverá la impartición de capacitaciones de Servidores Públicos, en el razonamiento sobre los principios y valores que deban prevalecer en la toma de decisiones y en el correcto ejercicio de la función pública en situaciones concretas, con base en las directrices previstas en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, así como en las Reglas de Integridad de este Código.
+
+Dichas capacitaciones se podrán impartir mediante los siguientes mecanismos:
+
+Cursos;
+
+Talleres;
+
+Conferencias;
+
+Seminarios; o
+
+Cualquier otro que estimé pertinente.
+
+El IPLANEA deberá impartir alguno de esos mecanismos a todos sus Servidores Públicos, al menos una vez al año.
+
+Artículo 24. Mecanismos de difusión. El OIC deberá publicar el presente Código y en su caso sus reformas, por los siguientes medios:
+
+El Periódico Oficial del Estado de Aguascalientes; y
+
+La página de internet del IPLANEA, asimismo, deberá entregarse un ejemplar impreso o en archivo electrónico de este Código y en su caso de sus reformas, a todos los Servidores Público.
+
+    CAPÍTULO VI
+
+Órganos de Sanción y de Vigilancia
+
+Artículo 25. Órgano de sanción. Al OIC le corresponde sancionar cualquier acto u omisión que quebrante la disciplina y respeto que, en apego a este Código, deben observar los Servidores Públicos, esto de conformidad con los artículos 109, fracción III de la Constitución Política de los Estados Unidos Mexicanos; así como 10 párrafo segundo y 49 fracción I de la Ley General de Responsabilidades Administrativas; y artículo 2 fracción I y artículo 36 fracción I de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+Artículo 26. Órgano de vigilancia. El IPLANEA contará con un Comité de Ética o figura análoga, encargado de fomentar y vigilar el cumplimiento de este Código y su Código de Conducta.
+
+En su caso, corresponderá al OIC regular la integración, organización, atribuciones y funcionamiento del órgano referido en el párrafo anterior.
+
+TRANSITORIOS
+
+ARTÍCULO PRIMERO. El presente Código iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+ARTÍCULO SEGUNDO. El IPLANEA, previa aprobación del OIC, en un termino no mayor a sesenta días naturales contados a partir de que inicie su vigencia el Código de Ética, emitirá su Código de Conducta en el cual se deberá especificar la forma en que los Servidores públicos aplicarán los principios, valores y reglas de integridad que les resulten aplicables.
+
+Dado por el ÓRGANO INTERNO DE CONTROL DEL INSTITUTO DE PLANEACIÓN DEL ESTADO DE AGUASCALIENTES, en las instalaciones de dicho instituto ubicado en Avenida Ciencia y Tecnología número 114, Parque Industrial Tecnopolo, Pocitos, C.P. 20328, en la Ciudad de Aguascalientes, Aguascalientes, a primero de julio de 2022.
+
+ATENTAMENTE
+
+INTEGRANTES DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO DE PLANEACIÓN DEL ESTADO DE AGUASCALIENTES
+
+C.P. MARÍA ESTHER ÁVILA CAMPOS
+
+TITULAR DE LA UNIDAD AUDITORA DEL ÓRGANO INTERNO DEL INSTITUTO DE PLANEACIÓN DEL ESTADO DE AGUASCALIENTES
+
+LIC. TERESA DE JESÚS VARELA RUÍZ
+
+TITULAR DE LA UNIDAD SUBSTANCIADORA Y RESOLUTORA DEL ÓRGANO INTERNO DEL INSTITUTO DE PLANEACIÓN DEL ESTADO DE AGUASCALIENTES.
+
+LIC. RAIZA NÁJERA REZA
+
+TITULAR DE LA UNIDAD INVESTIGADORA DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO DE PLANEACIÓN DEL ESTADO DE AGUASCALIENTES

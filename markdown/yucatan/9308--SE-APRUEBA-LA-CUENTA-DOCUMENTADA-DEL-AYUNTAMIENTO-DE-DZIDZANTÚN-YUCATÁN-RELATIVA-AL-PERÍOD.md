@@ -1,0 +1,166 @@
+---
+titulo: "SE APRUEBA LA CUENTA DOCUMENTADA DEL AYUNTAMIENTO DE DZIDZANTÚN, YUCATÁN, RELATIVA AL PERÍODO COMPRENDIDO DEL 1 DE ENERO AL 30 DE JUNIO DEL AÑO 2006."
+tipo: "Decreto Legislativo"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "18 de Junio de 2008"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "9308"
+---
+EDICIÓN VESPERTINA
+
+-SUMARIO-
+
+# GOBIERNO DEL ESTADO
+
+PODER EJECUTIVO
+
+DECRETO NÚMERO 90
+
+SE AUTORIZA AL H. AYUNTAMIENTO DE SUCILÁ A AFECTAR LAS PARTICIPACIONES
+FEDERALES, PRESENTES Y FUTURAS QUE LE CORRESPONDAN, A FIN DE GARANTIZAR
+EL MONTO TOTAL DEL EMPRÉSTITO A CONTRATAR CON EL BANCO NACIONAL DE
+OBRAS Y SERVICIOS PÚBLICOS S.N.C. O CON ALGUNA OTRA INSTITUCIÓN
+FINANCIERA, POR LA CANTIDAD DE $ 2´500,000.00 (DOS MILLONES QUINIENTOS
+MIL PESOS 00/100 M.N.), A PAGAR EN UN PLAZO NO MAYOR DE 120 MESES,
+CONTADOS A PARTIR DE LA FECHA DE CONTRATACIÓN	2
+
+DECRETO NÚMERO 91
+
+SE APRUEBA LA CUENTA DOCUMENTADA DEL AYUNTAMIENTO DE DZIDZANTÚN,
+YUCATÁN, RELATIVA AL PERÍODO COMPRENDIDO DEL 1 DE ENERO AL 30 DE JUNIO
+DEL AÑO 2006	4
+
+DECRETO NÚMERO 92
+
+DECRETO POR EL QUE SE CREA LA COORDINACIÓN METROPOLITANA DE YUCATÁN	6
+
+GOBIERNO DEL ESTADO
+
+PODER EJECUTIVO
+
+DECRETO NÚMERO 91
+
+C. IVONNE ARACELLY ORTEGA PACHECO, Gobernadora del Estado de
+
+Yucatán, con fundamento en los artículos 38 y 55 fracción II de la
+Constitución
+
+Política, y 14 fracción VII del Código de la Administración
+Pública, ambos del
+
+Estado de Yucatán, a sus habitantes hago saber:
+
+Que el Honorable Congreso del Estado de Yucatán se ha servido dirigirme
+el
+
+siguiente Decreto:
+
+“EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A
+
+LO DISPUESTO EN EL ARTÍCULO 30 FRACCIÓN V DE LA CONSTITUCIÓN
+
+POLÍTICA; 97, 150 Y 156 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO,
+AMBAS
+
+DEL ESTADO DE YUCATÁN, EMITE EL SIGUIENTE;
+
+D E C R E T O:
+
+ARTÍCULO ÚNICO.- Se aprueba la cuenta documentada del Ayuntamiento de
+
+Dzidzantún, Yucatán, relativa al período comprendido del 1 de enero
+al 30 de junio del
+
+año 2006.
+
+T R A N S I T O R I O S:
+
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor, el día
+siguiente al de su
+
+publicación en el Diario Oficial del Gobierno del Estado.
+
+ARTÍCULO SEGUNDO.- La presente aprobación, no exime a la autoridad
+hacendaria y
+
+fiscal responsable del Ayuntamiento de Dzidzantún, de las posibles
+responsabilidades
+
+civiles y/o penales, que en posterior momento surgieren, por datos y
+elementos que así lo
+
+presuman y sean debidamente acreditados, ante las autoridades
+competentes.
+
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA CIUDAD DE
+
+MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS DIEZ DÍAS DEL MES
+
+DE JUNIO DEL AÑO DOS MIL OCHO.- PRESIDENTA DIPUTADA MARÍA DORIS
+
+YBONE CANDILA ECHEVERRÍA.- SECRETARIO DIPUTADO RODOLFO ENRIQUE
+
+GONZÁLEZ CRESPO.- SECRETARIO DIPUTADO MARCO ALONSO VELA REYES.-
+
+RÚBRICAS.”
+
+ESTA HOJA DE FIRMAS CORRESPONDE AL DECRETO EN QUE EL
+
+H. CONGRESO DEL ESTADO APRUEBA LA CUENTA DOCUMENTADA
+
+DEL AYUNTAMIENTO DE DZIDZANTÚN, DEL PERÍODO DEL 1 DE
+
+ENERO AL 30 DE JUNIO DEL AÑO 2006.
+
+Y, POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU
+
+CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
+
+EXPEDIDO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE
+
+MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS ONCE DÍAS
+
+DEL MES DE JUNIO DEL AÑO DOS MIL OCHO.
+
+( RÚBRICA )
+
+C. IVONNE ARACELLY ORTEGA PACHECO
+
+GOBERNADORA DEL ESTADO
+
+                       ( RÚBRICA )
+
+C. ROLANDO RODRIGO ZAPATA BELLO
+
+SECRETARIO GENERAL DE GOBIERNO
+
+PÁGINA   PAGE  2
+                                      DIARIO  OFICIAL
+MÉRIDA, YUC., MIÉRCOLES 18 DE JUNIO DE 2008.
+
+MÉRIDA, YUC., MIÉRCOLES 18 DE JUNIO DE 2008.
+DIARIO  OFICIAL
+                                PÁGINA   PAGE  3
+
+Publicación periódica: Permiso No. 0100921
+
+Características: 111182816. Autorizado por SEPOMEX
+
+DEL GOBIERNO DEL ESTADO
+
+ DE YUCATÁN.
+
+DIARIO OFICIAL
+
+Dirección: Calle 90 No. 498-A entre 61 A y 63
+
+Colonia Bojórquez, (Complejo de Seguridad Jurídica)
+
+Mérida, Yucatán. C.P. 97240. TEL: 930-30-23.
+
+DIRECTORA: LIC. MARTHA LETICIA GÓNGORA SÁNCHEZ.
+
+AÑO CXI           MÉRIDA, YUC., MIÉRCOLES 18 DE JUNIO DE 2008.
+  No. 31,127

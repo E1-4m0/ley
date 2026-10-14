@@ -1,0 +1,697 @@
+---
+titulo: "LEY DE INGRESOS DEL ESTADO DE TABASCO PARA EL EJERCICIO FISCAL DEL AÑO 2009"
+tipo: "Ley"
+estado: "Tabasco"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "17 de Diciembre de 2008"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "77697"
+---
+# LEY DE INGRESOS DEL ESTADO DE TABASCO PARA EL EJERCICIO FISCAL DEL AÑO 2009
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Suplemento 6916 del Periódico Oficial del Estado de Tabasco, el miércoles 17 de diciembre de 2008.
+
+DECRETO 146
+
+QUÍM. ANDRÉS RAFAEL GRANIER MELO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 51 FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA LOCAL; A SUS HABITANTES SABED:
+
+Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
+
+LA QUINCUAGÉSIMA NOVENA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIONES I, VII y XLV, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO, Y
+
+CONSIDERANDO.
+
+Ha tenido a bien emitir el siguiente:
+
+DECRETO 146
+
+ARTICULO ÚNICO.- Se aprueba la Ley de Ingresos del Estado de Tabasco, para el ejercicio fiscal del año 2009, para quedar como sigue:
+
+LEY DE INGRESOS DEL ESTADO DE TABASCO PARA EL EJERCICIO FISCAL DEL AÑO 2009
+
+Artículo 1. En el ejercicio fiscal del año 2009, la Hacienda Pública del Estado de Tabasco percibirá los ingresos estimados, provenientes de los conceptos que a continuación se enumeran:
+
+  CONCEPTO    MONTO EN PESOS
+
+I. IMPUESTOS     $ 227,389,976.32
+
+1. SOBRE TRASLADO DE DOMINIO
+
+DE BIENES MUEBLES USADOS.  $ 16,968,371.07
+
+2. DE ACTOS, CONTRATOS E   $ 26,671,694.21
+
+INSTRUMENTOS NORIALES.
+
+3. SOBRE NOMINA (1%)    $ 160,566,462.03
+
+4. SOBRE HONORARIOS POR ACTIVIDADES
+
+PROFESIONALES Y EJERCICIOS LUCRATIVOS
+
+NO GRAVADOS POR LA LEY DEL IVA (3%). $ 4,900,719.11
+
+5. SOBRE LOTERÍAS, RIFAS, SORTEOS
+
+Y CONCURSOS DE TODA CLASE.  $ 7,884,218.00
+
+6. POR LA PRESTACIÓN DE SERVICIOS
+
+DE HOSPEDAJE (2%).    $ 10,398,511.90
+
+II. DERECHOS     $ 243,663,062.83
+
+1. SERVICIOS PRESTADOS POR LA
+
+SECRETARÍA DE GOBIERNO,
+
+RELACIONADO CON:    $ 96,044,327.44
+
+a) La Dirección General de Asuntos Jurídicos. $ 2,925,377.75
+
+b) La Dirección General del Registro Civil. $ 1,670,911.16
+
+c) La Dirección General de la Policía Estatal
+
+de Caminos.      $ 39,409,468.16
+
+d) Del Registro Público de la Propiedad y del
+
+Comercio.      $ 52,038,570.37
+
+2. SERVICIOS PRESTADOS POR LA SECRETARÍA DE SEGURIDAD PÚBLICA
+
+3. SERVICIOS PRESTADOS POR LA
+
+SECRETARÍA DE ADMINISTRACIÓN Y
+
+FINANZAS, RELACIONADOS CON:  $ 126,777,749.30
+
+a) El Catastro.     $ 4,932.58
+
+b) La Unidad de Alcoholes.   $ 21,358,539.00
+
+c) El Registro de vehículos particulares.  $ 101,570.129.00
+
+d) El Registro de vehículos del transporte
+
+público.      $ 3,844,148.72
+
+4. SERVICIOS PRESTADOS POR LA
+
+SECRETARÍA DE EDUCACIÓN.   $ 2,464,119.72
+
+5. SERVICIOS PRESTADOS POR LA
+
+SECRETARÍA DE RECURSOS NATURALES
+
+Y PROTECCIÓN AMBIENTAL.   $ 1,088,753.11
+
+6. SERVICIOS PRESTADOS POR LA
+
+SECRETARÍA DE COMUNICACIONES
+
+Y TRANSPORTES.     $ 2,723,029.64
+
+a) De transporte público.    $ 2,723,029.64
+
+7. DE LOS SERVICIOS PRESTADOS POR
+
+EL H. TRIBUNAL SUPERIOR DE JUSTICIA
+
+DEL ESTADO.     $ 1,108,536.87
+
+8. BÚSQUEDA, LEGALIZACIÓN DE FIRMAS,
+
+EXPEDICIÓN DE CERTIFICACIONES,
+
+CONSTANCIAS Y COPIAS CERTIFICADAS
+
+EN LOS ARCHIVOS DEL GOBIERNO
+
+DEL ESTADO.     $ 13,447,119.66
+
+9. OTROS NO ESPECIFICADOS EN LOS $ 9,427.12
+
+CONCEPTOS ANTERIORES.
+
+III. PRODUCTOS     $ 112,725,202.94
+
+1. ARRENDAMIENTO, EXPLOTACIÓN O
+
+ENAJENACIÓN DE BIENES MUEBLES E
+
+INMUEBLES DEL ESTADO.   $ 1,312,084.11
+
+2. INTERESES POR PRODUCTOS DE
+
+CAPITAL Y VALORES DEL ESTADO.  $ 111,232,720.17
+
+2.1. Intereses por productos de capital y
+
+valores del Estado.     $62,562,829.38
+
+2.2. Rendimientos del ramo 33 (aportaciones
+
+federales).      $ 48,669,890.78
+
+FONDO DE APORTACIONES
+
+a) Para la Educación Básica y normal (FAEB) $ 10,358,090.45
+
+b) Para los Servicios de Salud (FASSA)  $ 10,428,048.29
+
+c) Para la Infraestructura Social Estatal (FISE) $ 3,643,986.32
+
+d) Para la Asistencia Social (FAM-DIF)  $ 7,576,542.66
+
+e) Para la Infraestructura Educativa Básica
+
+(FAM BASICA)     $ 2,064,555.23
+
+f) Para la Infraestructura Educativa Superior
+
+(FAM SUPERIOR)     $ 5,866,737.63
+
+g) Para la Educación Tecnológica (FAETA
+
+TECNOLOGICO)     $ 167,775.84
+
+h) Para la Educación Tecnológica (FAETA
+
+ADULTOS)      $ 67,294.23
+
+i) Para el Fortalecimiento de las Entidades
+
+Federativas (FAFEF)    $ 8,496,860.14
+
+2.3. Rendimientos del Programa de Apoyo al
+
+Fortalecimiento de las Entidades Federativas
+
+(PAFEF)      -
+
+3. RENDIMIENTOS DE ESTABLECIMIENTOS
+
+O EMPRESAS DEPENDIENTES DEL
+
+ESTADO.      $ -
+
+4. CUOTAS POR INSERCIÓN EN
+
+ÓRGANOS INFORMATIVOS DEL ESTADO. $ 180,090.38
+
+5. UTILIDADES POR ACCIONES, Y
+
+PARTICIPACIONES EN SOCIEDADES
+
+Y EMPRESAS.     $ -
+
+6. UTILIDADES POR INVERSIONES EN
+
+ACCIONES, VALORES Y CRÉDITOS.  $ -
+
+7. RECUPERACIONES DE INVERSIONES
+
+EN ACCIONES, VALORES Y CRÉDITOS. $ -
+
+8. RECUPERACIONES PROVENIENTES DE
+
+ESTABLECIMIENTOS DEL ESTADO.  $ -
+
+9. PAPEL ESPECIAL PARA ACTOS DEL
+
+REGISTRO CIVIL.     $ -
+
+10. OTROS NO ESPECIFICADOS EN LOS
+
+CONCEPTOS ANTERIORES.   $ 308.29
+
+IV. APROVECHAMIENTOS   $ 144,334.811.50
+
+1. DONACIONES, CONCESIONES,
+
+SUBSIDIOS Y COOPERACIONES.  $ 1,887.40
+
+2. FIANZAS A FAVOR DEL ESTADO.  $ 18,839.70
+
+3. MULTAS ESTATALES.    $ 36,385,612.10
+
+a) Fiscales.      $ 2,934,589.88
+
+b) No fiscales.     $ 33,451,022.22
+
+4. RECARGOS.     $ 6,769,318.18
+
+5. GASTOS DE EJECUCIÓN.   $ 2,064,959.64
+
+6. REINTEGROS.     $ 9,908,988.51
+
+7. REMATES.     $ -
+
+8. REZAGOS.     $ -
+
+9. INDEMNIZACIÓN.    $ 33,384,512.36
+
+10. ACTUALIZACIONES.    $ 31,488.98
+
+11. VIGILANCIA E INSPECCIÓN DE OBRAS
+
+ESTATAL.      $ 2,226,957.10
+
+12. OTROS NO ESPECIFICADOS EN LOS
+
+CONCEPTOS ANTERIORES.   $ 53,542,247.55
+
+V. INGRESOS REPORTADOS POR
+
+DEPENDENCIAS Y ÓRGANOS
+
+DESCONCENTRADOS.    $168,015,720.01
+
+1. DEPENDENCIAS.    $ 73,151,335.24
+
+1.1. Secretaría de Desarrollo Agropecuario,
+
+Forestal y de Pesca.    $ 1,923.045.11
+
+1.2. Secretaría de Turismo.   $ 35,006,000.00
+
+1.2.1. Ingresos provenientes de la Feria. $ 23,606,000.00
+
+a) Arrendamiento.     $ 10,406,000.00
+
+b) Estacionamiento.     $ 3,500,000.00
+
+c) Permisos de Eventos y Ventas de
+
+Alcoholes.      $ 3,400,000,00
+
+d) Otros ingresos de Feria.   $ 6,300,000.00
+
+1.2.2. Otros ingresos.    $ 11,400,000.00
+
+1.3. Secretaría de Asentamientos y Obras
+
+Públicas.      $ 1, 000,000.00
+
+1.4. Secretaría de Desarrollo Económico. $ -
+
+1.5. Secretaría de Educación.   $ -
+
+1.6. Secretaría de Salud.    $ 33,687,321.60
+
+1.7. Secretaría de Gobierno.   $ -
+
+1.8. Secretaría de Planeación.   $ -
+
+1.9. Secretaría de Contraloría.   $ -
+
+1.10. Secretaría de Administración y
+
+Finanzas.      $ 88,968.54
+
+1.11. Procuraduría General de Justicia del
+
+Estado.      $ -
+
+1.12. Secretaría de Seguridad Pública.  $ -
+
+1.13. Secretaría de Comunicaciones y
+
+Transportes      $ -
+
+1.14. Secretaría de Recursos Naturales y
+
+Protección Ambiental.    $ 1,446.000.00
+
+1.15. Consejería Jurídica del Poder Ejecutivo
+
+del Estado.      $ -
+
+1.16. Otros Ingresos Reportados por
+
+Dependencias     $ -
+
+2. ÓRGANOS DESCONCENTRADOS.  $ 94,864,384.77
+
+2.1. SECTOR: AGROPECUARIO,
+
+PESQUERO Y FORESTAL.   $ 4,421,418.00
+
+2.1.1. Central de Maquinaria Agrícola
+
+(CEMAGRO).     $ 4,410,000.00
+
+2.1.2. Instituto para el Desarrollo de Sistemas
+
+de Producción del Trópico Húmedo de
+
+Tabasco.      $ 11,418.00
+
+2.1.3. Coordinación Ejecutiva del Plan
+
+Balancán - Tenosique.    $ -
+
+2.1.4. Promotora del Complejo Agroindustrial
+
+del Plan Chontalpa     $ -
+
+2.2. SECTOR: DESARROLLO ECONÓMICO. $ -
+
+2.2.1. Instituto para el Fomento de las
+
+Artesanías del Estado de Tabasco.  $ -
+
+2.2.2. Servicio Estatal de Empleo   $ -
+
+2.3. SECTOR: ASENTAMIENTOS Y
+
+OBRAS PÚBLICAS .    $ 53,101,011.25
+
+2.3.1. Junta Estatal de Caminos (JEC).  $ 8,500,000.00
+
+2.3.2. Sistema de Agua Potable y Alcantarillado
+
+del Estado de Tabasco (SAPAET).  $ 13,890,650.41
+
+2.3.3. Central De Maquinaria de Tabasco
+
+(CEMATAB).      $ 30,655,360.84
+
+2.3.4. Coordinación Estatal de Regularización
+
+de la Tenencia de la Tierra (CERTT).  $ 55,000.00
+
+2.4. SECTOR: RECREACIÓN Y DEPORTE. $ 1,020,000.00
+
+2.4.1. Instituto de la juventud y el Deporte de
+
+Tabasco.      $ 1,020,000.00
+
+2.5. SECTOR: COMUNICACIONES.  $ -
+
+2.5.1. Comisión de Radio y Televisión de
+
+Tabasco (CORAT).     $ -
+
+2.6. SECTOR: DESARROLLO SOCIAL. $ 227,760.04
+
+2.6.1. Instituto de Capacitación para el
+
+Desarrollo Regional de Tabasco (ICADET). $ 227,760.04
+
+2.7. SECTOR: RECURSOS NATURALES Y
+
+PROTECCION AMBIENTAL.   $ 14,270.000.00
+
+2.7.1. Centro de Interpretación de la
+
+Naturaleza (YUMKA).    $ 14,270.000.00
+
+2.8. SECTOR: SALUD, ASISTENCIA Y
+
+SEGURIDAD SOCIAL.    $ 21,824,195.48
+
+2.8.1. Administración de la Beneficencia
+
+Pública.      $ 5,944,821.46
+
+2.8.2. Sistema para el Desarrollo Integral de
+
+la Familia (DIF).     $ 15,879,374.02
+
+2.8.3. Centro Estatal de Hemoterapia.  $ -
+
+2.9. SECTOR: POLÍTICA Y GOBIERNO. $ -
+
+2.9.1. Coordinación General de Apoyo al
+
+Desarrollo Municipal (CADEM).   $ -
+
+2.10. OTROS INGRESOS REPORTADOS
+
+POR ÓRGANOS DESCONCENTRADOS. $ -
+
+TOTAL DE INGRESOS ESTATALES  $ 896,128,773.65
+
+VI. RECAUDACIÓN ESTATAL DE
+
+INGRESOS FEDERALES COORDINADOS. $ 723,562,517.00
+
+1. IMPUESTO.     $ 673,553,025.02
+
+1.1. Sobre Tenencia de Vehículos.  $ 359,251,920.94
+
+1.2. Sobre Automóviles Nuevos.   $ 72,710,273.45
+
+1.3. Fondo de Compensación del ISAN  $ 28,114,182.00
+
+1.4. Especial sobre producción y servicios
+
+a las gasolinas y diesel para combustión
+
+automotriz.      $180,000,000.00
+
+1.5. Al Valor Agregado de Personas Físicas
+
+del Régimen de Pequeños Contribuyentes. $ 4,653,785.18
+
+1.6. Empresarial a Tasa Única de Personas
+
+Físicas de Régimen Pequeños
+
+Contribuyentes     $ 2,520,941.88
+
+1.7. Sobre la Renta de Personas Físicas del
+
+Régimen de Pequeños Contribuyentes.  $ 6,558,303.59
+
+1.8  Sobre la Renta de Personas Físicas del
+
+Régimen Intermedio.    $ 6,984,337.21
+
+1.9. Sobre la Renta de la Enajenación de
+
+Bienes Inmuebles (5%).    $ 12,759,280.76
+
+2. MULTAS ADMINISTRATIVAS
+
+FEDERALES NO FISCALES.   $ 284,045.54
+
+2.1. Receptorías.     $ 195,959.67
+
+2.2. Direcciones de Finanzas Municipales. $ 88,085.86
+
+3. ACTOS DE FISCALIZACIÓN.   $ 45,794,874.00
+
+4. FONDO GENERAL DE CONTROL DE
+
+OBLIGACIONES.     $ -
+
+5. ZONA FEDERAL MARÍTIMO
+
+TERRESTRE.     $ 5,248.23
+
+6. VIGILANCIA E INSPECCIÓN DE OBRAS. $ 3,925,324.30
+
+7. INSCRIPCIÓN Y REGISTRO DE
+
+VEHÍCULOS EXTRANJEROS.   $ -
+
+VII. PARTICIPACIONES FEDERALES
+
+(RAMO 28)      $ 14,977,113,594.00
+
+I. FONDO GENERAL DE PARTICIPACIONES $ 11,983,455,171.00
+
+II. FONDO DE FOMENTO MUNICIPAL  $ 425,563,342.00
+
+III. FONDO DE FISCALIZACIÓN   $ 1,610,076,011.00
+
+IV. IMPUESTO ESPECIAL SOBRE
+
+PRODUCCIÓN Y SERVICIOS (Tabacos,
+
+Cervezas y Bebidas Alcohólicas)  $ 113,408,042.00
+
+V. FONDO PARA LAS 10 ENTIDADES CON
+
+MENOR PIB PÉRCAPITA NO MINERO Y
+
+NO PETROLERO     $ 157,306,692.00
+
+VI. FONDO DE EXTRACCIÓN DE
+
+HIDROCARBUROS.    $ 687,304,336.00
+
+VIII. (sic) APORTACIONES FEDERALES
+
+(RAMO 33)      $ 9,402,523,321.00
+
+FONDO DE APORTACIONES
+
+I. Para la Educación Básica y Normal (FAEB) $ 5,134,223,000.00
+
+II. Para los Servicios de Salud (FASSA)  $ 1,235,121,159.00
+
+III. Para la Infraestructura Social   $ l,074,161,733.00
+
+Estatal      $ 130,188,402.00
+
+Municipal      $ 943,973,331.00
+
+IV. Para el fortalecimiento de los Municipios
+
+y de las demarcaciones territoriales del
+
+Distrito Federal (FORTAMUN-DF)  $ 781,901,866.00
+
+V. Múltiples (FAM)     $ 378,579,402.00
+
+Asistencia Social     $136,680,783.00
+
+Infraestructura Educativa Básica   $102,821,727.00
+
+Infraestructura Educativa Superior  $ 139,076,892,00
+
+VI. Para la Educación Tecnológica (FAETA) $ 122,457,077.00
+
+Educación Tecnológica    $ 68,577,788.00
+
+Educación de Adultos    $ 53,879.289.00
+
+VII. Para la Seguridad Pública de las
+
+Entidades y del DF (FASP)   $ 139,409,809.00
+
+VIII. Para el Fortalecimiento de las Entidades
+
+Federativas (FAFEF)    $ 536,669,275.00
+
+IX. FIDEICOISO (sic) PARA LA
+
+INFRAESTRUCTURA DE LAS
+
+ENTIDADES FEDERATIVAS (FIES)  $ -
+
+X. FONDO DE ESTABILIZACIÓN DE LOS
+
+INGRESOS DE LAS ENTIDADES
+
+FEDERATIVAS (FEIEF)    $ -
+
+XI. APORTACIONES FEDERALES
+
+EN FUNCIONES COMPARTIDAS  $ 3,298,990,540.00
+
+TOTAL DE INGRESOS    $ 29,298,318,745.70
+
+XII.- INGRESOS EXTRAORDINARIOS. Son los ingresos que perciba el Estado y que no estén comprendidos en los conceptos anteriores.
+
+Cuando una ley que establezca algunos de los ingresos previstos en este artículo contenga disposiciones que señalan otros ingresos, estos últimos se considerarán comprendidos en la fracción que corresponda a los ingresos a que se refiere este artículo.
+
+XIII.- INGRESOS DERIVADOS POR CONTRATACION DE DEUDA. Corresponden a los ingresos que tenga la Hacienda Pública Estatal derivados de la contratación de deuda pública autorizada por el Congreso del Estado.
+
+Artículo 2. La Secretaria de Administración y Finanzas informará, trimestralmente dentro del ejercicio fiscal a la Comisión de Hacienda y Presupuesto del H. Congreso del Estado sobre las entregas de las ministraciones financieras por participaciones federales ingresos propios ordinarios o extraordinarios, los recursos provenientes de los ramos federales desagregados por tipo de fondo y de otros ingresos acordados entre el estado y la federación, conforme a la legislación de la materia vigente; así como la información concerniente a la situación económica financiera y de deuda pública de los montos de endeudamiento interno neto del estado y el canje o refinamiento de obligaciones del erario estatal; el plazo que se debe considerar para informar será en el periodo de hasta 35 días hábiles después de terminado cada trimestre.
+
+La información sobre los ingresos y las aportaciones federales, deberá presentarse en los mismos términos que las estimaciones que se señalan en este artículo, su comportamiento con respecto del mismo trimestre del año anterior y también conforme a la calendarización realizada por el Ejecutivo Estatal.
+
+Asimismo deberá presentarse la información correspondiente a los fideicomisos que el Gobierno del Estado tenga constituidos; dicho reporte contendrá los saldos, la fecha de constitución, la institución financiera donde se tiene, así como el objeto del mismo.
+
+Artículo 3. Los productos financieros que se generen por el manejo de los fondos a los que se refieren las fracciones VIII, IX y X del artículo 1 de la presente Ley serán adicionados a los mismos para que se incrementen por las cantidades que resulten. Tratándose de los productos que se generen por los ingresos obtenidos a través de convenios, previstos en la fracción XI del numeral antes citado, estos se ajustaran a lo pactado en cada uno de ellos.
+
+Los productos financieros y las economías derivados de la administración de los recursos a que se refiere el presente artículo, así como los que se generen de los recursos señalados en el artículo 4 de esta Ley, deberán ser concentrados al día hábil siguiente de que se generen a las cuentas de cheques que para tal fin apertura la Secretaría de Administración y Finanzas, para ser ejercidos y liberados a los programas y proyectos que previamente sean autorizados por las instancias correspondientes.
+
+La Secretaría de Administración y Finanzas informará en forma mensual a los administradores de recursos y a las dependencias ejecutoras de los recursos sobre los productos financieros y economías disponibles que se hubieren concentrado a las cuentas que para tal efecto haya contratado la Secretaría de Administración y Finanzas.
+
+Asimismo el Ejecutivo Estatal, por conducto de la Secretaría de Administración y Finanzas, deberá incluir esta información en el Informe Trimestral que se refiere en el artículo 2 de esta ley.
+
+Artículo 4. Los recursos federales que se transfieran al Estado por cualquier concepto deberán ser recepcionados por la Secretaría de Administración y Finanzas.
+
+Las dependencias y entidades del Ejecutivo Estatal que deban aplicar o ejercer cualquier recurso federal deberán acordar con la Secretaría de Administración y Finanzas el establecimiento de las cuentas bancarias que permitan identificar los recursos federales.
+
+La Secretaría de Administración y Finanzas transferirá de manera inmediata los recursos federales a las cuentas de las dependencias y entidades para su ejercicio correspondiente.
+
+Cuando la Secretaría de Administración y Finanzas conozca que los recursos federales a que se refiere este artículo son recepcionados en forma distinta a lo establecido anteriormente, comunicará a la instancia federal correspondiente el incumplimiento de esta disposición y al H. Congreso del Estado, a través de la Comisión de Hacienda y Presupuesto, conforme a la legislación vigente.
+
+Asimismo, la Secretaría de Administración y Finanzas, solicitará a la dependencia o entidad que haya recibido directamente recursos federales, que en un término de 10 días naturales proceda a dar cumplimiento a lo establecido en este artículo.
+
+Artículo 5. Cuando no se cubran oportunamente las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales para 2009, deberán pagarse actualizaciones desde el mes que debió hacerse el pago y hasta que el mismo se efectúe. Además deberán cubrirse recargos por concepto de indemnización al fisco estatal por falta de pago oportuno. Dichos recargos se calcularán a una tasa del 1% por cada mes o fracción de mes que transcurra desde la fecha en que debió cumplirse la obligación y hasta que se pague.
+
+Para obtener el factor que servirá de base para determinar la actualización a que se refiere el artículo 22 del Código Fiscal del Estado, se considera periodo el que transcurra entre el mes en que debió hacerse el pago, de los conceptos enumerados en su primer párrafo, y hasta que el mismo se efectúe.
+
+Artículo 6. En los casos de prórroga o a plazos por el pago de créditos fiscales, se causarán recargos mensuales sobre saldos insolutos a una tasa del 0.70 % durante el 2009.
+
+El Ejecutivo Estatal a través de la Secretaría de Administración y Finanzas deberá incluir en los informes Trimestrales que entrega al H. Congreso del Estado, un apartado con indicadores sobre la situación que guardan los créditos fiscales estatales.
+
+Artículo 7. Las infracciones a las leyes del Estado, así como los delitos que se cometieran en perjuicio del fisco estatal, serán sancionados de acuerdo con el Código Fiscal del Estado, aplicándose supletoriamente los demás ordenamientos legales cuando esté señalado por la norma.
+
+Artículo 8. Las dependencias, órganos desconcentrados y cualquier otro ente análogo de la Administración Pública Estatal centralizada deberán depositar a la Secretaría de Administración y Finanzas los ingresos de la Hacienda Pública del Estado que reciban por la prestación de servicios públicos, productos o aprovechamientos, dentro de los diez días siguientes al mes al que correspondan.
+
+Si de la revisión que realice la Secretaría de Administración y Finanzas se detecta que los órganos desconcentrados y cualquier otro ente análogo de la Administración Pública Centralizada que administre y erogue recursos públicos a que se refiere este artículo obtuvieren ingresos superiores a los depositados, dicha Secretaría les disminuirá del presupuesto asignado, si tuvieren, las cantidades que no hayan sido reportadas como ingresos.
+
+El contenido del Informe referido, así como el resultado de la revisión, deberán de hacerse del conocimiento del H. Congreso del Estado, a través de la Comisión de Hacienda y Presupuesto.
+
+Cuando las dependencias a que se refiere este artículo obtengan ingresos superiores a lo presupuestado, deberán de informarlo a la Secretaría de Administración y Finanzas, quien antes de su aplicación deberá hacerlo del conocimiento del H. Congreso del Estado. Dichos ingresos se aplicarán conforme a lo dispuesto en el artículo 23 de la Ley Estatal de Presupuesto, Contabilidad y Gasto Público.
+
+Los organismos descentralizados y fideicomisos informarán sus ingresos por los servicios que prestan en razón de su naturaleza jurídica.
+
+Las entidades sujetas a control directo, los Poderes Legislativo y Judicial, así como el Instituto Electoral y de Participación Ciudadana de Tabasco sólo registrarán los ingresos que obtengan por cualquier concepto en el rubro correspondiente de esta Ley y deberán conservar a disposición del Órgano Superior de Fiscalización del Estado, la documentación comprobatoria de dichos ingresos.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Administración y Finanzas, queda autorizado para fijar o modificar los aprovechamientos que se cobrarán en el ejercicio fiscal de 2009, por el uso o aprovechamiento de bienes del dominio público o por la prestación de servicios en el ejercicio de las funciones de derecho público por los que no se establecen derechos y que no se encuentren previstos en otras leyes. Los ingresos por aprovechamientos se destinarán, previa aprobación de la Secretaría de Administración y Finanzas del Estado, a cubrir los gastos de operación, conservación, mantenimiento e inversión en dichos bienes o mejoras de los servicios.
+
+Se faculta a la Secretaría de Administración y Finanzas para supervisar los ingresos de la Hacienda Pública del Estado y para establecer los mecanismos que en materia de ingresos deban observar las dependencias y entidades, organismos descentralizados, órganos desconcentrados, patronatos, fideicomisos y cualquier otro ente análogo de la administración pública estatal.
+
+Artículo 9. Los ingresos a que se refiere esta Ley se causarán, liquidarán y recaudarán de acuerdo a los ordenamientos de la Ley de Hacienda del Estado de Tabasco y conforme a las disposiciones de las demás leyes, reglamentos, convenios, decretos y disposiciones aplicables. Así mismo, la Secretaría de Administración y Finanzas podrá auxiliarse con terceros para la realización de dichos cobros mediante mecanismos que establezca la propia Secretaría.
+
+Artículo 10. Los recursos a que se refiere la presente Ley, así como los bienes que integran el patrimonio del estado son inalienables e imprescriptibles y no serán bajo ningún concepto objeto de embargo, ni de gravamen alguno.
+
+Únicamente podrán gravarse cuando se ofrezcan como garantía y previa autorización del Congreso del Estado, en los términos de las leyes estatales aplicables, o cuando así lo señalen las disposiciones legales del Estado.
+
+Artículo 11. El Ejecutivo del Estado queda facultado para contratar empréstitos en los términos y porcentaje que dispone la Ley de Deuda Pública del Estado de Tabasco y sus Municipios.
+
+Artículo 12. El Estado administrará libremente su Hacienda, la cual se formará con los ingresos a que se refiere el artículo 1 de esta Ley, con excepción de las limitantes que establezcan las disposiciones legales aplicables.
+
+Las leyes federales no limitarán las facultades del Estado, ni podrán bajo ninguna figura exceptuar el pago de contribuciones locales en favor de particulares, de órganos, organismos y entidades paraestatales federales, salvo las excepciones previstas en las disposiciones estatales.
+
+Artículo 13. Para los efectos del Impuesto Sobre Nómina a que se refiere el Capítulo Tercero del Título Segundo de la Ley de Hacienda del Estado, las personas físicas o jurídicas colectivas que contraten a su vez con otras personas físicas o jurídicas colectivas la prestación de servicios que deban realizarse con trabajadores de estos últimos y cuyos domicilios estén ubicados fuera del territorio del estado, deberán retener y enterar el impuesto que corresponda pagar a sus contratados, siempre que el servicio personal se preste en el territorio del estado, debiendo entregar por la retención la constancia respectiva.
+
+Artículo 14. Las cifras que se incluyen en los fondos del ramo general 33 corresponden a las previstas en el Proyecto de Presupuesto de Egresos de la Federación para 2009, las cuales podrán ajustarse al momento de publicarse las definitivas en el Periódico Oficial de la Federación, mismas que se harán del conocimiento a la H. Cámara de Diputados local, conforme a las disposiciones legales vigentes.
+
+De igual forma se hará respecto a las aportaciones que deriven de funciones compartidas de acuerdo a los convenios que se establezcan entre la Federación y el Estado, y este último tenga derecho a percibir.
+
+Artículo 15. La Secretaría de Administración y Finanzas informará a la Comisión de Hacienda y Presupuesto del Congreso del Estado sobre los recursos adicionales que reciba por concepto de excedentes de ingresos o cualquier otro ingreso adicional o extraordinario no contemplado en esta Ley, señalando los programas que se beneficiarán con los mismos, de conformidad con lo establecido en el artículo 23 de la Ley Estatal de Presupuesto, Contabilidad y Gasto Público.
+
+TRANSITORIOS
+
+Artículo Primero. El presente Decreto, entrará en vigor el día uno de enero del año dos mil nueve.
+
+Artículo Segundo. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que prestare el Gobierno del Estado, y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al gobierno municipal que corresponda, y por cuyos servicios se establecieren en esta Ley, el concepto tributario habrá de considerarse para los fines legales pertinentes que, una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de la competencia hacendaria de la autoridad municipal, y sin necesidad de un nuevo decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del municipio que proceda.
+
+Artículo Cuarto. La Secretaria de Administración y Finanzas deberá rendir un informe final pormenorizado a la Comisión de Hacienda y Presupuesto del Congreso del Estado del monto total de los recursos que ser (sic) recibieron con motivo de la contingencia que afectó el estado de Tabasco en 2007. Este informe deberá contemplar el nombre del donante, cuando ello sea posible; el número de cuenta; la institución financiera; el monto recibido; los intereses generados; y el destino del donativo; en el caso que sea en especie se debe señalar el o los bienes motivo de la donación y el destino final aplicado.
+
+Artículo Quinto. Que acorde al estimulo fiscal otorgado a través de la resolución 01/06; emitida por el Ejecutivo del Estado de Tabasco el día 24 de marzo de 2006, publicada en el Periódico Oficial del Estado de fecha 01 de abril de 2006 bajo el suplemento 6633 E, respecto del pago de derechos de inscripción ante el Registro Publico de la Propiedad del Estado de Tabasco bajo la figura jurídica de la donación que establece el artículo 60 inciso h) de la Ley de Hacienda del Estado de Tabasco, se extiende la vigencia y aplicación de dicho incentivo al ejercicio fiscal comprendido del 01 de enero al 31 diciembre del 2009, ello con independencia de lo que establece el artículo primero transitorio de la resolución en comento, conservando su naturaleza, objeto, excepciones y limitantes originales, salvo que el Ejecutivo del Estado de Tabasco disponga otra cosa.
+
+Artículo Sexto. La presente Ley no contempla los recursos derivados de refrendos del ejercicio fiscal 2008, mismos que se reflejan en el Presupuesto de Egresos 2009.
+
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS ONCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL OCHO, DIP. HÉCTOR RAÚL CABRERA PASCACIO, PRESIDENTE; DIP. MOISÉS VALENZUELA RODRÍGUEZ, SECRETARIO.- RÚBRICAS.
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+EXPEDIDO EN EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS QUINCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL OCHO.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN."
+
+QUÍM. ANDRÉS RAFAEL GRANIER MELO
+
+GOBERNADOR DEL ESTADO DE TABASCO.
+
+LIC. MIGUEL ALBERTO ROMERO PÉREZ
+
+CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.

@@ -1,0 +1,63 @@
+---
+titulo: "Declara día del Preso en el Estado de Morelos el 18 de noviembre de cada año."
+tipo: "Decreto Administrativo"
+estado: "Morelos"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "31 de Mayo de 1936"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "2747"
+---
+Gobierno del
+
+Estado de Morelos
+
+Consejería Jurídica
+
+DECLARA DÍA DEL PRESO EN EL ESTADO DE MORELOS EL 18 DE NOVIEMBRE DE
+CADA AÑO.
+
+Fecha de Aprobación           1936/05/22
+
+Fecha de Promulgación       1936/05/27
+
+Fecha de Publicación           1936/05/31
+
+Vigencia                                1936/06/03
+
+Decretó                                  000178
+
+Expidió                                  26 LEGISLATURA.
+
+Publicación Oficial                 666 PERIÓDICO OFICIAL.
+
+SE DECLARA ''DÍA DEL PRESO'' EN EL ESTADO DE MORELOS, EL 18 DE
+NOVIEMBRE DE CADA AÑO, PARA CONMEMORAR ASÍ EL SACRIFICIO DEL PRIMER
+MÁRTIR DE LA REVOLUCIÓN MEXICANA, CIUDADANO AQUILES SERDÁN.
+COMUNÍQUESE AL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO PARA LOS EFECTOS
+DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL.
+
+SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO, A LOS VEINTIDÓS DÍAS
+DEL MES DE MAYO DE MIL NOVECIENTOS TREINTA Y SEIS.- DIPUTADO PRESIDENTE,
+LIC. ADRIÁN VARELA.- DIPUTADO SECRETARIO, FÉLIX E. RODRÍGUEZ.-
+DIPUTADO SECRETARIO, HERCULANO M. ROMAN.- RÚBRICAS.
+
+CUMPLIENDO CON LO DISPUESTO EN LA FRACCIÓN I DEL ARTÍCULO 71 DE LA
+CONSTITUCIÓN POLÍTICA LOCAL Y PARA SU PUBLICACIÓN Y OBSERVANCIA,
+PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL
+ESTADO, EN LA CIUDAD DE CUERNAVACA, CAPITAL DEL ESTADO DE MORELOS A LOS
+VEINTISIETE DÍAS DEL MES DE MAYO DE MIL NOVECIENTOS TREINTA Y SEIS.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
+
+EL GOBERNADOR CONST. DEL ESTADO.
+
+José Refugio Bustamante
+
+P.A. DEL SECRETARIO GRAL. DE GOBIERNO, EL JEFE DEL PRIMER DEPARTAMENTO,
+
+Prof. Jesús Esteves Medina.
+
+Dirección General de Legislación
+
+Subdirección de Informática Jurídica

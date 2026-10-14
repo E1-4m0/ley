@@ -1,0 +1,1737 @@
+---
+titulo: "Decreto Número Quinientos Setenta y Uno.- Por el que se crea El Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos"
+tipo: "Decreto Legislativo"
+estado: "Morelos"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "17 de Febrero de 1999"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "26970"
+---
+# DECRETO NÚMERO QUINIENTOS SETENTA Y UNO.- POR EL QUE SE CREA EL COLEGIO
+DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MORELOS
+
+GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO
+LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+
+Que el H. Congreso del Estado se ha servido enviarme para su
+promulgación lo siguiente:
+
+LA QUINCUAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y
+SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA
+FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO
+LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
+
+ANTECEDENTES
+
+I.- DEL PROCESO LEGISLATIVO
+
+Con fecha 10 de diciembre del año 2015, el Secretario de Gobierno,
+Matías Quiroz Medina, notificó mediante el oficio No. SG/0254/2015, al
+diputado Francisco Moreno Merino, presidente de la Mesa Directiva de la
+LIII Legislatura del Congreso del Estado de Morelos, la Iniciativa de
+Decreto por el que se reforma de manera integral el Decreto Número
+Quinientos Setenta y Uno, que crea el Colegio de Estudios Científicos y
+Tecnológicos del Estado de Morelos. La iniciativa se somete a la
+consideración de la LIII Legislatura por el Gobernador Constitucional
+del Estado, Graco Luis Ramírez Garrido Abreu y dirigida de igual manera
+al presidente de la Mesa Directiva, Francisco Moreno Merino, con fecha
+03 de noviembre de 2015.
+
+Por acuerdo del Pleno, en Sesión Ordinaria, iniciada el día 09 de
+diciembre, continuada el 14 y concluida el 15 del mes en curso, se
+determinó enviar a la Comisión de Educación y Cultura la referida
+iniciativa, para su análisis y dictamen correspondiente.
+
+II.- MATERIA DE LA INICIATIVA
+
+En lo fundamental, la iniciativa presentada por el Gobernador
+Constitucional del Estado, Graco Luis Ramírez Garrido Abreu, aborda el
+asunto de la armonización entre la normatividad federal,
+particularmente la emanada del proceso al que se le ha denominado
+“Reforma Educativa”, con las bases jurídicas en que se sustenta el
+funcionamiento del Colegio de Estudios Científicos y Tecnológicos del
+Estado de Morelos.
+
+En el contexto de la argumentación jurídica, se específica lo
+siguiente:
+
+“Ahora bien, no debe pasar inadvertido que el veintiséis de febrero
+de 2013, tuvo lugar la denominada reforma educativa, mediante la
+publicación, en el Diario Oficial de la Federación, del `Decreto por
+el que se reforman los artículos 3º en sus fracciones III y VIII; y 73
+fracción XXV, y se adiciona un párrafo tercero, un inciso d) al
+párrafo segundo de la fracción II y una fracción IX al artículo 3º
+de la Constitución Política de los Estados Unidos Mexicanos`, que
+establece que el ingreso al servicio docente y la promoción a cargos
+con funciones de dirección y supervisión en la Educación Básica y
+Media Superior que imparta el Estado, se llevarán a cabo mediante
+concursos de oposición que garanticen la idoneidad de conocimientos y
+capacidades que correspondan; así también, señala que la
+reglamentaria fijará los criterios, términos y condiciones de la
+evaluación obligatoria para el ingreso, promoción, reconocimiento y
+permanencia en el servicio profesional con pleno respeto a los derechos
+constitucionales de los trabajadores de la educación.
+
+“Con base en la denominada reforma educativa se publicaron en el
+Diario Oficial de la Federación, el diez de junio y el once de
+septiembre, ambos de 2013, respectivamente, el Decreto por el que se
+reforman los artículos 3º, 4º, 9º, 37, 65 y 66; y se adicionan los
+artículos 12 y 13 de la Ley General de Educación, el Decreto por el
+que se reforman, adicionan y derogan diversas disposiciones de la Ley
+General de Educación, el Decreto por el que se expide la Ley del
+Instituto Nacional para la Evaluación de la Educación, y el Decreto
+por el que se expide la Ley General del Servicio Profesional Docente,
+instrumento este último que tiene por objeto regular el servicio
+profesional docente en la Educación Básica y en la Educación Media
+Superior, así como establecer criterios, términos y condiciones para
+el ingreso, la promoción, el reconocimiento y la permanencia en el
+servicio de sus integrantes.
+
+“Asimismo, a fin de armonizar las disposiciones jurídicas estatales
+con la referida reforma educativa`, se publicó el 02 de abril de 2014
+en el Periódico Oficial `Tierra y Libertad`, número 5175, el `Decreto
+número mil doscientos noventa y siete, por el que se reforman,
+adicionan y derogan diversas disposiciones de la Ley de Educación del
+Estado de Morelos.
+
+“Al respecto no debe pasar desapercibido que a recientes fechas, la
+Suprema Corte de Justicia de la Nación emitió resolución respecto de
+la controversia constitucional 63/2014, promovida por la Federación por
+conducto del Poder Ejecutivo Federal, en contra de los Poderes
+Legislativo y Ejecutivo del Estado de Morelos, mediante la cual se
+declaró la invalidez de diversos artículos del citado Decreto número
+mil doscientos noventa y siete y de la Ley de Educación señalada, al
+ser el Congreso de la Unión la autoridad competente para legislar en
+materia de servicio profesional docente; por lo que el presente
+instrumento únicamente remite a la respectiva regulación, la que debe
+ser observada por toda autoridad educativa.
+
+“De ahí que, a fin de atender las diversas reformas citadas, resulta
+necesaria la adecuación de las disposiciones jurídicas que integran el
+´Decreto número quinientos setenta y uno. Decreto que crea el Colegio
+de Estudios Científicos y Tecnológicos del Estado de Morelos´ (sic).
+
+III.- CONTENIDO DE LA INICIATIVA
+
+El proponente justifica la pertinencia de realizar, precisamente, una
+revisión integral de la normatividad correspondiente a la organización
+y funcionamiento del CECYTE, por lo que sugiere “atender las diversas
+reformas citadas”, que den lugar a la adecuación de las disposiciones
+jurídicas que integra el Decreto número quinientos setenta y uno.
+
+Así pues, luego de que en su exposición de motivos el iniciador
+describe los antecedentes jurídicos que fundamentan la vigencia de la
+institución educativa objeto de la iniciativa que se comenta, así como
+las modificaciones a diversas leyes e instrumentos jurídicos en el
+marco de la denominada “Reforma Educativa”, plantea la necesidad de
+reformar integralmente el “Decreto número quinientos setenta y uno.
+Decreto que crea el Colegio de Estudios Científicos y Tecnológicos del
+Estado de Morelos”.
+
+“En tal virtud, en razón de que el cuerpo normativo del instrumento
+que nos ocupa se afecta en más de la mitad, se plantea a esa Soberanía
+una reforma integral al mencionado instrumento legislativo, armonizando,
+entre otros aspectos, los requisitos, las funciones y las atribuciones
+del Director General y la Junta Directiva.
+
+“Asimismo, se deben armonizar las denominaciones de las Secretarías,
+Dependencias o Entidades a los que pertenecen los integrantes de la
+Junta Directiva del Colegio, de conformidad con los artículos 11 y 54
+de la Ley Orgánica de la Administración Pública del Estado de
+Morelos, destacándose que la presidencia de dicho cuerpo colegiado debe
+recaer en el Gobernador del Estado o en la persona que designe al
+efecto, como su representante. Además, se adecuaron las atribuciones de
+la Junta Directiva, conforme a lo que señala la referida Ley Orgánica.
+
+“En ese orden, se realizó la reformulación del objeto y atribuciones
+que le corresponden al CECYTE, de conformidad con lo previsto en el
+mencionado Convenio de Coordinación, dotando de mayor claridad y
+coherencia al ordenamiento jurídico de creación que por virtud de la
+presente iniciativa se propone reformar.”
+
+IV.- VALORACIÓN DE LA INICIATIVA
+
+De conformidad con las atribuciones conferidas a la Comisión de
+Educación y Cultura, en apego a la fracción II, del artículo 104, del
+Reglamento para el Congreso del Estado de Morelos, se analiza en lo
+general la presente iniciativa para determinar su procedencia e
+improcedencia.
+
+En primera instancia, se considera pertinente manifestar la coincidencia
+que esta Comisión dictaminadora tiene con el iniciador, por cuanto a la
+importancia de “alcanzar una cobertura universal de la educación
+media superior, así como establecer diversas estrategias y líneas de
+acción tales como, brindar educación de calidad en todos los niveles y
+modalidades y promover la mejora en el aprendizaje de los alumnos; en
+ese sentido, es importante continuar con las acciones que permitan
+robustecer la oferta educativa en el Estado y otorgar a los jóvenes una
+educación de calidad”.
+
+Si bien la pretensión de otorgar una educación de calidad debe atender
+a diversas causas y no solamente a una de ellas, como en este caso es la
+armonización a la que se refiere la iniciativa en comento, lo cierto es
+que el marco jurídico que permitiría implantar políticas de mejora
+continua, debe atender a las expectativas institucionales y sociales que
+se planteen para ese efecto.
+
+Atendiendo a que las modificaciones legales requeridas para el soporte
+jurídico de la llamada “Reforma Educativa”, siguieron un proceso de
+análisis y valoración, que en determinado momento incluso fue
+controvertido, esta Comisión no pasa por alto que la materia jurídica
+en la que se sustenta la iniciativa presentada por el titular del Poder
+Ejecutivo, ha sido aprobada conforme a la ley y es de orden federal,
+cuya vigencia debe atenderse. En consecuencia, el punto de vista de esta
+Comisión Dictaminadora se orienta hacia un dictamen favorable.
+
+Por lo anteriormente expuesto, esta LIII Legislatura ha tenido a bien
+expedir el siguiente:
+
+DECRETO NÚMERO MIL CIENTO NOVENTA Y UNO
+
+POR EL QUE SE REFORMA DE MANERA INTEGRAL, EL “DECRETO NÚMERO
+QUINIENTOS SETENTA Y UNO, QUE CREA EL COLEGIO DE ESTUDIOS CIENTÍFICOS Y
+TECNOLÓGICOS DEL ESTADO DE MORELOS”, RATIFICANDO Y ADECUANDO LAS
+DISPOSICIONES JURÍDICAS QUE REGULAN SU COMPETENCIA.
+
+ARTÍCULO ÚNICO.- Se reforma de manera integral el “Decreto número
+quinientos setenta y uno. Decreto que crea el Colegio de Estudios
+Científicos y Tecnológicos del Estado de Morelos”, ratificando y
+adecuando las disposiciones jurídicas que regulan su competencia, para
+quedar como sigue:
+
+DECRETO NÚMERO QUINIENTOS SETENTA Y UNO, POR EL QUE SE CREA EL COLEGIO
+DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MORELOS
+
+CAPÍTULO I
+
+DISPOSICIONES GENERALES
+
+Artículo 1.- Se crea el Colegio de Estudios Científicos y
+Tecnológicos del Estado de Morelos como un organismo público
+descentralizado, con personalidad jurídica y patrimonio propios, con
+domicilio legal en la ciudad de Cuernavaca, Morelos; sectorizado
+conforme al Acuerdo que expida el Gobernador del Estado, en términos de
+la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+Por razones debidamente justificadas y una vez realizado el estudio de
+factibilidad correspondiente, el Colegio de Estudios Científicos y
+Tecnológicos del Estado de Morelos, podrá proponer a las autoridades
+correspondientes, la creación de nuevos planteles dependientes de dicho
+organismo, en las diversas localidades del Estado, en términos de la
+normativa aplicable.
+
+Artículo 2. Para los efectos del presente Decreto se entenderá por:
+
+Colegio, al Colegio de Estudios Científicos y Tecnológicos del Estado
+de Morelos;
+
+Comisario Público, a la persona titular del Órgano de Vigilancia del
+Colegio;
+
+Consejo Consultivo, al Consejo Consultivo del Colegio;
+
+Convenio de Coordinación, al Convenio de Coordinación celebrado entre
+la Secretaría de Educación Pública Federal y el Gobierno del Estado
+de Morelos en materia de Coordinación para la creación, operación y
+apoyo financiero del Colegio;
+
+Decreto, al presente instrumento jurídico;
+
+Director General, a la persona titular de la Dirección General del
+Colegio;
+
+Estatuto Orgánico, al Estatuto Orgánico del Colegio;
+
+Gobernador del Estado, a la persona titular del Poder Ejecutivo Estatal;
+
+Junta Directiva, a la Junta Directiva del Colegio;
+
+Ley, a la Ley de Educación del Estado de Morelos;
+
+Ley Orgánica, a la Ley Orgánica de la Administración Pública del
+Estado de Morelos;
+
+Ley General del Servicio, a la Ley General del Servicio Profesional
+Docente;
+
+Manuales Administrativos, a los Manuales de Organización, de Políticas
+y Procedimientos y otros correspondientes a las unidades administrativas
+del Colegio, y
+
+Patronato, a la organización del Colegio encargada de gestionar,
+obtener recursos económicos para el Colegio y organizar planes para
+incrementar sus fondos.
+
+Artículo 3. El Colegio tiene como normativa en su actuación la
+siguiente:
+
+La Constitución Política de los Estados Unidos Mexicanos;
+
+La Constitución Política del Estado Libre y Soberano de Morelos;
+
+La Ley General de Educación;
+
+La Ley General del Servicio;
+
+La Ley del Instituto Nacional para la Evaluación de la Educación;
+
+La Ley Orgánica;
+
+La Ley de Educación del Estado de Morelos;
+
+La Ley Estatal de Responsabilidades de los Servidores Públicos;
+
+La Ley del Servicio Civil del Estado de Morelos, y
+
+Las demás que con motivo de su objeto les sean aplicables.
+
+Artículo 4. El Colegio conducirá sus acciones de manera programada,
+acorde con los objetivos, principios, estrategias y prioridades del Plan
+Estatal de Desarrollo, la Ley Orgánica, el Programa Sectorial e
+Institucional correspondientes, el Presupuesto de Egresos respectivo, el
+presente Decreto y, en general, con la normativa federal y estatal
+aplicables.
+
+El Colegio está obligado a cumplir con los lineamientos presupuestales
+que para tal efecto establezca la Secretaría de Hacienda del Poder
+Ejecutivo Estatal, conforme la normativa aplicable.
+
+CAPÍTULO II
+
+DEL OBJETO Y PATRIMONIO DEL COLEGIO
+
+Artículo 5. El Colegio tiene por objeto impartir e impulsar la
+Educación Media Superior Tecnológica en la Entidad, propiciando su
+mejor calidad y pertinencia, así como la vinculación con el sector
+productivo y las necesidades de la región, formando Técnicos
+Profesionales, Competitivos y Emprendedores, que contribuyen al
+desarrollo y bienestar de su comunidad.
+
+Artículo 6. El Colegio tiene las siguientes atribuciones:
+
+Impartir e impulsar la educación media superior tecnológica en la
+Entidad, propiciando la calidad en la preparación de los educandos y su
+vinculación con las necesidades de desarrollo regional y nacional;
+
+Establecer, organizar y administrar planteles educativos en el Estado,
+destinados al cumplimiento de sus metas;
+
+Promover actividades de carácter tecnológico respondiendo a las
+necesidades del desarrollo municipal, estatal, regional y nacional;
+
+Impulsar actitudes que estimulen la investigación e innovación
+científica y tecnológica, procurando la vinculación con el sector
+productivo;
+
+Expedir certificados de estudios y otorgar constancias de capacitación
+para el trabajo, y
+
+Las demás que sean afines con las anteriores o se deriven de este
+Decreto, del Estatuto Orgánico y demás normativa aplicable.
+
+Artículo 7. El patrimonio del Colegio se constituye con:
+
+Los recursos financieros que se le asignen presupuestalmente;
+
+Los bienes muebles e inmuebles que se le asignen, se le transfieran o
+adquiera;
+
+Los ingresos propios que genere;
+
+Las aportaciones, legados y donaciones que en su favor se realicen;
+
+Los inventos, obras literarias, proyectos productivos y demás que
+contemple la normativa en la materia, y los productos económicos
+obtenidos por la comercialización de los inventos, obras literarias y
+proyectos productivos que desarrolle el Colegio;
+
+Los bienes muebles e inmuebles y los recursos económicos y servicios
+derivados de la actividad del Patronato;
+
+Los subsidios que le otorguen los gobiernos federal, estatal y
+municipal;
+
+Los bienes, derechos y demás ingresos que adquiera por cualquier
+título legal, y
+
+ Los demás elementos que determine la normativa aplicable.
+
+Artículo 8. Los bienes patrimonio del Colegio y los ingresos que
+obtenga por los servicios que preste podrán estar exentos de impuestos,
+derechos, contribuciones especiales y, en general, de contribuciones
+estatales y, previo acuerdo, de las contribuciones de carácter
+municipal, según lo determinen las disposiciones jurídicas,
+administrativas o fiscales respectivas.
+
+El Colegio gozará de las prerrogativas y exenciones fiscales previstas
+en la normativa tributaria del Estado, de los subsidios que decrete el
+Gobernador del Estado y los que se acuerden con los municipios.
+Asimismo, tramitará, de ser procedente, la exención de los tributos
+federales y municipales.
+
+CAPÍTULO III
+
+DE LA ESTRUCTURA ORGÁNICA DEL COLEGIO
+
+Artículo 9. El gobierno, la dirección, la administración, la
+vigilancia y el control del Colegio, están a cargo de:
+
+Una Junta Directiva;
+
+Una Dirección General, y
+
+Un Órgano de Vigilancia.
+
+Además, contará con un Consejo Consultivo y Directores de Plantel;
+así mismo podrá contar con un Patronato conforme lo dispuesto en el
+presente Decreto y demás normativa aplicable.
+
+Artículo 10. El Colegio contará además con las unidades
+administrativas necesarias para el debido cumplimiento de su objeto,
+cuya organización, atribuciones y funciones se establecerán en el
+Estatuto Orgánico que al efecto apruebe y emita la Junta Directiva, de
+conformidad con lo dispuesto por la Ley Orgánica, así como en los
+Manuales Administrativos. Así mismo contarán con el personal docente,
+administrativo, técnico y manual, necesario para la eficaz atención y
+desempeño de sus atribuciones en términos de las disposiciones
+jurídicas aplicables y al presupuesto autorizado.
+
+CAPÍTULO IV
+
+DE LA JUNTA DIRECTIVA
+
+Artículo 11. La Junta Directiva es el máximo órgano de gobierno del
+Colegio y se integra de la siguiente manera:
+
+El Gobernador del Estado, quien la presidirá por sí o por el
+representante que designe al efecto;
+
+La persona titular de la Secretaría de Educación del Poder Ejecutivo
+Estatal;
+
+La persona titular de la Secretaría de Hacienda del Poder Ejecutivo
+Estatal;
+
+La persona titular de la Secretaría de Administración del Poder
+Ejecutivo Estatal;
+
+Dos personas representantes del sector productivo que participen en el
+financiamiento del Colegio, los cuales podrán ser designadas por el
+Patronato;
+
+Una persona representante del sector social, que será designado por el
+Gobernador del Estado;
+
+Dos personas representantes del Gobierno Federal, designados por la
+Secretaría de Educación Pública;
+
+La persona titular de la Dirección General de Educación Media Superior
+y Superior de la Secretaría de Educación del Poder Ejecutivo Estatal,
+y
+
+Una persona representante de los Ayuntamientos donde exista algún
+plantel.
+
+La persona titular del Consejo de Ciencia y Tecnología del Estado de
+Morelos y de la Secretaría de la Contraloría del Poder Ejecutivo
+Estatal, concurrirán a las sesiones de la Junta Directiva como
+invitados permanentes, con derecho a voz, pero no a voto.
+
+Asimismo, la persona titular de la Presidencia de la Comisión de
+Ciencia e Innovación Tecnológica del Congreso del Estado concurrirá a
+las sesiones de la Junta Directiva como invitado permanente y
+representante del Poder Legislativo Estatal quien tendrá derecho a voz
+pero no a voto.
+
+Se podrá invitar al desarrollo de las sesiones a las personas que con
+su opinión enriquezcan o aclaren algún asunto relacionado con el
+objeto del Colegio, quienes participarán con voz, pero sin voto.
+
+Los cargos de los integrantes de la Junta Directiva del Colegio serán
+honoríficos, por lo que no recibirán retribución, emolumento, ni
+compensación alguna por su desempeño.
+
+Por cada integrante propietario habrá un suplente que será designado
+por la persona titular a quien representa, el cual, deberá contar como
+mínimo con un nivel inmediato inferior, o bien, con un nivel de
+Director General, y tendrá las mismas facultades que el propietario, en
+caso de ausencia de éstos.
+
+Para el caso de que el representante que designe el Gobernador del
+Estado para fungir como presidente de la Junta Directiva, sea un
+integrante de ésta última en términos del presente artículo; dicho
+integrante deberá designar a su vez a la persona que lo supla, a fin de
+evitar la concentración de votos en una sola persona en la toma de
+decisiones.
+
+En las sesiones de la Junta Directiva participarán con derecho a voz,
+pero sin voto el Comisario Público y el Director General, fungiendo
+este último como Secretario Técnico de la Junta Directiva.
+
+Artículo 12. La Junta Directiva, además de las señaladas en la Ley
+Orgánica, tendrá las siguientes atribuciones no delegables:
+
+Determinar las políticas, normas y criterios técnicos de organización
+y administración que orienten las actividades del Colegio;
+
+Revisar, modificar y aprobar el presupuesto anual de ingresos y egresos
+del Colegio y vigilar su funcionamiento;
+
+Validar las modalidades educativas que le someta el Director General,
+para su posterior aprobación por parte de la autoridad competente;
+
+Aprobar los estudios de factibilidad realizados por el Director General,
+en la conveniencia de establecer nuevos planteles u opciones de nuevas
+carreras para el cumplimiento de su objetivo;
+
+Nombrar a los miembros del Patronato y removerlos por causa justificada,
+con excepción de su Presidente, quién será designado y removido por
+el Gobernador del Estado;
+
+Aprobar y expedir el Estatuto Orgánico, los reglamentos y Manuales
+Administrativos, así como sus modificaciones, y
+
+Las demás inherentes para el adecuado funcionamiento del Colegio y las
+demás que le otorgue el presente Decreto, el Estatuto Orgánico y
+demás normativa aplicable.
+
+Artículo 13. La Junta Directiva deberá sesionar, en forma ordinaria,
+no menos de seis veces al año y de manera extraordinaria cuando la
+urgencia de los asuntos lo amerite, en la forma y términos que
+establezca, en su caso, el Estatuto Orgánico y la normativa respectiva.
+
+Para que tenga validez la celebración de las sesiones de la Junta
+Directiva será indispensable que sesionen, cuando menos, la mitad más
+uno de la totalidad de sus integrantes, estando presente entre ellos su
+presidente o, en su caso, quien lo represente.
+
+Los acuerdos se tomarán por mayoría de los integrantes presentes y en
+caso de empate, el Presidente tendrá voto de calidad.
+
+CAPÍTULO V
+
+DE LA DIRECCIÓN GENERAL
+
+Artículo 14. La administración del Colegio estará a cargo del
+Director General que será nombrado y removido libremente por el
+Gobernador del Estado o, previo acuerdo con la Secretaría o Dependencia
+coordinadora del sector, dicha designación quedará a cargo de la Junta
+Directiva, conforme lo dispuesto por la Ley Orgánica.
+
+Artículo 15. Para ser Director General se deberán cumplir con los
+requisitos señalados en el artículo 83 de la Ley Orgánica y el
+Convenio de Coordinación; debiendo además contar con el grado
+académico de licenciatura, por lo menos.
+
+Artículo 16. El Director General, además de las atribuciones que le
+confiere la Ley Orgánica, tiene las siguientes.
+
+Presentar a la Junta Directiva, para su aprobación, el anteproyecto de
+presupuesto de ingresos del Colegio y, en su caso, el de egresos;
+
+Cumplir y hacer cumplir el Estatuto Orgánico, las disposiciones
+reglamentarias del Colegio y los acuerdos de la Junta Directiva;
+
+Efectuar, en los términos del Estatuto Orgánico y demás normativa
+aplicable, la designación de todo tipo de personal administrativo,
+técnico y manual que labore en el Colegio y nombrar, remover, otorgar
+licencias o permisos del personal del Colegio, lo que deberá integrarse
+en el informe anual que se presenta ante la Junta Directiva;
+
+Proveer lo necesario para el cumplimiento de los planes, programas y
+proyectos del Colegio y para el ejercicio del presupuesto anual de
+egresos;
+
+Otorgar las exenciones en pagos que deban efectuar los alumnos que se
+encuentren imposibilitados para realizarlo, previo estudio
+socioeconómico que al efecto realice el Colegio;
+
+Consultar a la Junta Directiva cuando la naturaleza de los asuntos así
+lo requiera, y
+
+Las demás que otorgue el presente Decreto, el Estatuto Orgánico y la
+normativa aplicable.
+
+CAPÍTULO VI
+
+DEL ÓRGANO DE VIGILANCIA
+
+Artículo 17. El Colegio contará con un Órgano de Vigilancia, el cual
+estará a cargo de un Comisario Público propietario y un suplente,
+designados por la Secretaría de la Contraloría del Poder Ejecutivo
+Estatal, de conformidad con lo dispuesto por la Ley Orgánica.
+
+El Órgano de Vigilancia formará parte de la estructura orgánica del
+Colegio, el cual dependerá de la Junta de Gobierno.
+
+La persona titular de la Dirección General proporcionará la
+información que le solicite el Comisario Público, a fin de que pueda
+cumplir con las funciones a que refiere la Ley Orgánica y demás
+normativa aplicable.
+
+CAPÍTULO VII
+
+DEL PATRONATO
+
+Artículo 18. El Colegio podrá contar con un Patronato, cuya finalidad
+será apoyar al Colegio en la obtención de recursos financieros y
+materiales adicionales a los recursos federales y estatales, para la
+óptima realización de sus funciones.
+
+Para tal efecto tendrá las siguientes atribuciones:
+
+Gestionar y obtener recursos económicos y materiales para incrementar
+el patrimonio del Colegio;
+
+Organizar planes para incrementar los fondos del Colegio, y
+
+Las demás que señale la normativa aplicable.
+
+CAPÍTULO VIII
+
+DEL CONSEJO CONSULTIVO
+
+Artículo 19. El Consejo Consultivo es el órgano colegiado que se
+encarga de coadyuvar a la planeación y organización de actividades
+propias del Colegio, tales como académicas, administrativas,
+financieras y demás inherentes a la operatividad del mismo, con la
+finalidad de cumplir en tiempo y forma con los objetivos del Colegio en
+término de la normativa aplicable.
+
+Artículo 20. El Consejo Consultivo se integrará por los Directores de
+los Planteles, Directoras de Área y el Órgano Interno de Control, el
+cual será presidido por el Director General.
+
+Artículo 21. Corresponden al Consejo Consultivo las siguientes
+atribuciones:
+
+Emitir opinión sobre los asuntos que la Junta Directiva someta a su
+consideración;
+
+Sugerir reformas a los planes y programas de estudio del Colegio;
+
+Analizar los problemas académicos y administrativos de los diversos
+planteles del Colegio y, en su caso, proponer las soluciones que estime
+convenientes;
+
+Sugerir reformas a los programas sobre actualización y superación
+profesional y académica;
+
+Proponer planes de trabajo a favor del crecimiento y consolidación del
+subsistema respectivo, y
+
+Las demás relacionadas con su objeto y que le confiera el Estatuto
+Orgánico y demás normativa aplicable.
+
+CAPÍTULO IX
+
+DE LAS RELACIONES LABORALES
+
+Artículo 22. Las relaciones laborales entre el Colegio y su personal
+docente, administrativo y técnico se regirán por la normativa
+aplicable.
+
+Artículo 23. La categoría de trabajador de confianza depende de la
+naturaleza de las funciones desempeñadas y no de la designación que se
+dé al puesto, de conformidad con lo dispuesto en la normativa
+aplicable.
+
+CAPÍTULO X
+
+DE LAS RESPONSABILIDADES
+
+Artículo 24. La responsabilidad administrativa del personal del
+Colegio, será sancionada de acuerdo a lo previsto en la Ley Estatal de
+Responsabilidades de los Servidores Públicos.
+
+CAPÍTULO XI
+
+DISPOSICIONES FINALES
+
+Artículo 25. En el Estatuto Orgánico y demás disposiciones
+reglamentarias aprobadas por la Junta Directiva, se establecerán las
+facultades y obligaciones del personal con funciones de dirección.
+
+Los Directores de Plantel durarán en su cargo un periodo de hasta
+cuatro años, sujetándose en todo momento a lo dispuesto por la Ley
+General del Servicio y demás normativa aplicable, pudiendo estos ser
+removidos por causa justificada.
+
+Artículo 26. Las agrupaciones de estudiantes del Colegio que se
+constituyan en los planteles, serán independientes de las unidades
+administrativas y órganos de éste, por lo que no formarán parte del
+mismo, y se organizarán conforme a las normas que los propios alumnos
+determinen.
+
+Artículo 27. Los casos no previstos en el presente Decreto se
+resolverán mediante acuerdo de la Junta Directiva y conforme a las
+disposiciones jurídicas aplicables. Debiéndose aplicar de forma
+supletoria y en lo conducente la Ley Orgánica.
+
+DISPOSICIONES TRANSITORIAS
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del
+Estado, para los efectos señalados en los artículos 44, 47 y 70,
+fracción XVII, inciso a), de la Constitución Política del Estado
+Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir del día
+siguiente de su publicación en el Periódico Oficial “Tierra y
+Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Dentro de un plazo de diez días hábiles contados a partir del
+inicio de la vigencia de este Decreto, el Director General del Colegio
+de Estudios Científicos y Tecnológicos del Estado de Morelos deberá
+solicitar al Registro Público de Organismos Descentralizados del Estado
+de Morelos a cargo de la Secretaría de Hacienda del Poder Ejecutivo
+Estatal, la inscripción de las presentes disposiciones jurídicas, de
+conformidad con lo dispuesto en el artículo 86 de la Ley Orgánica de
+la Administración Pública del Estado de Morelos.
+
+CUARTA. En un plazo no mayor de noventa días hábiles, contados a
+partir del inicio de vigencia del presente Decreto, la Junta Directiva
+deberá expedir el Estatuto Orgánico del Colegio de Estudios
+Científicos y Tecnológicos del Estado de Morelos, mismo que deberá
+inscribirse en el Registro Público de Organismos Descentralizados a que
+refiere la Disposición Transitoria que antecede.
+
+QUINTA. En un plazo no mayor de treinta días hábiles contados a partir
+de la entrada en vigor del presente Decreto, deberá instalarse con su
+nueva integración la Junta Directiva del Colegio de Estudios
+Científicos y Tecnológicos del Estado de Morelos.
+
+SEXTA. Se derogan todas las disposiciones de igual o menor rango
+jerárquico normativo que contravengan al presente Decreto.
+
+Recinto Legislativo, en Sesión Ordinaria a los cuatro días del mes de
+octubre del año dos mil dieciséis.
+
+Atentamente. Los CC. Diputados Integrantes de la  Mesa Directiva del
+Congreso del Estado. Dip. Hortencia Figueroa Peralta. Vicepresidenta en
+funciones de Presidenta. Dip. Silvia Irra Marín. Secretaria. Dip. Edith
+Beltrán Carrillo. Secretaria. Rúbricas.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido
+cumplimiento.
+
+Dado en la Residencia del Poder Ejecutivo, Casa Morelos, en la Ciudad de
+Cuernavaca, Capital del estado de Morelos, a los dieciocho días del mes
+de octubre de dos mil dieciséis.
+
+“SUFRAGIO EFECTIVO. NO REELECCIÓN”
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+
+GRACO LUIS RAMÍREZ GARRIDO ABREU
+
+SECRETARIO DE GOBIERNO
+
+M.C. MATÍAS QUIROZ MEDINA
+
+RÚBRICAS.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformada de manera integral el presente Decreto, por
+Decreto No. 1191 publicado en el Periódico Oficial “Tierra y
+Libertad” No. 5440 Segunda Sección de fecha 2016/10/19. Vigencia
+2016/10/20. Antes decía:
+
+JORGE MORALES BARUD, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y
+SOBERANO DE MORTELOS A SUS HABITANTES SABED.
+
+Que el H. Congreso del Estado se ha servido enviarme para su
+promulgación lo siguiente.
+
+JORGE MORALES BARUD, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y
+SOBERANO DE MORELOS A SUS HABITANTES SABED.
+
+Que el H. Congreso del Estado se ha servido enviarme para su
+promulgación lo siguiente:
+
+La  Honorable Cuadragésima Séptima Legislatura del Congreso del Estado
+Libre y Soberano de Morelos, con fundamento en lo dispuesto  por el
+artículo 40 fracción II de la Constitución  Política del Estado de
+Morelos, y
+
+C  O  N  S  I  D  E  R  A  N  D  O.
+
+Tal y como lo señala el iniciador del decreto que nos ocupa, el
+artículo 3º de la Constitución Política de los Estados Unidos
+Mexicanos, dispone que el Estado, además de impartir la educación
+preescolar, primaria y secundaria, promoverá y atenderá todos los
+tipos y modalidades educativos, incluyendo la educación superior,
+necesarios para el desarrollo de la nación y apoyará la investigación
+científica y tecnológica, por lo que la administración pública
+estatal en su plan de desarrollo 1994-2000 tiene determinado como
+política pública en materia de educación, proveer el establecimiento
+de instituciones de todos los tipos y modalidades, en especial lo
+referente a la investigación científica y tecnológica, atendiendo a
+la capacitación para el trabajo, el adiestramiento y la selección de
+personal, para obtener una formación profesional real, a la par que
+poseer mano de obra calificada, permitiendo obtener resultados positivos
+en la atracción de inversión y consecuentemente la transformación
+económica.
+
+Efectivamente se deben implementar los mecanismos administrativos y
+jurídicos necesarios con que cuenta el Estado, para dar una mayor
+atención en la prestación de los servicios educativos de nivel
+superior tecnológico, ya que esto permitirá solventar la capacitación
+para el trabajo y generar como consecuencia mano de obra calificada,
+trayendo e induciendo por un lado la inversión productiva y por otro
+una mejor calidad y vinculación con las necesidades del desarrollo
+estatal y nacional.
+
+Por lo que es una preocupación fundamental del Estado establecer
+instituciones que le permitan a los jóvenes una mejor preparación
+acorde a las características que la actualidad requiere, con la
+finalidad de que al concluir sus estudios se traduzcan en un eslabón
+que promueva el cambio y el progreso de nuestra sociedad proyectándose
+a generaciones futuras.
+
+El modelo administrativo propuesto por el titular del Poder Ejecutivo es
+el denominado por la ley como organismo descentralizado, con
+personalidad jurídica y patrimonio propios, auxiliar de las funciones
+encomendadas al propio Gobernador.
+
+No resulta óbice recordar que de acuerdo con lo señalado por el
+artículo 70, fracción XXII de la Constitución Política Local,
+corresponde al Gobernador del Estado fomentar la educación pública en
+todos sus grados, mientras que la Ley Orgánica de la Administración
+Pública permite al Ejecutivo Estatal auxiliarse de la administración
+pública descentralizada  o paraestatal.
+
+Ahora bien la creación de organismos públicos está prevista por la
+constitución política y por las leyes del estado, incluso existe un
+ordenamiento específico que se denomina Ley de los Organismos
+Auxiliares de la Administración Pública Estatal, que tiene por objeto
+establecer las normas para planear, vigilar, controlar, coordinar y
+evaluar las actividades de los fideicomisos públicos, las empresas de
+participación estatal y los citados organismos descentralizados,
+aplicable en la especie dentro de lo conducente, toda vez que en el
+artículo 4 de este ordenamiento se establece que las instituciones
+docentes se ajustarán sus actividades a lo que señalen las leyes que
+les de origen.
+
+El organismo que se propone crear quedaría debidamente sectorizado a la
+Secretaría de Bienestar Social, su domicilio legal estaría en la
+ciudad de Cuernavaca y tendrá por objeto impartir e impulsar la
+educación media superior tecnológica en la entidad, establecer,
+organizar y administrar planteles e impulsar actividades que estimulen
+la investigación y la innovación científica, por lo cual quedaría
+facultado para expedir certificados de estudios y otorgar constancias de
+capacitación para el trabajo.
+
+Por lo anteriormente expuesto y fundado, esta Soberanía ha tenido a
+bien expedir el siguiente:
+
+DECRETO NÚMERO QUINIENTOS SETENTA Y UNO.
+
+DECRETO QUE CREA EL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL
+ESTADO DE MORELOS.
+
+Título Primero
+
+Generalidades
+
+Capítulo I
+
+Principios Generales
+
+Artículo *1º.-  Se crea el Colegio de Estudios Científicos y
+Tecnológicos del Estado de Morelos como un organismo público
+descentralizado del Estado, con personalidad jurídica y patrimonio
+propios, con domicilio legal en la ciudad de Cuernavaca, Morelos y
+sectorizado a la Secretaría de Educación del Estado de Morelos.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformado por Artículo Primero del Decreto No. 358
+publicado en el Periódico Oficial “Tierra y Libertad” No. 4804 de
+fecha 2010/05/12. Antes decía: Se crea el Colegio de Estudios
+Científicos y Tecnológicos del Estado de Morelos como un organismo
+público descentralizado, con personalidad jurídica y patrimonio
+propios, con domicilio legal en la ciudad de Cuernavaca, Morelos y
+sectorizado a la Secretaría de Bienestar Social del Estado de Morelos.
+
+Artículo 2º.-  El Colegio de Estudios Científicos y Tecnológicos del
+Estado de Morelos tiene por objeto:
+
+I. Impartir e impulsar la educación media superior tecnológica en la
+entidad, propiciando la calidad en la preparación de los educandos y su
+vinculación con las necesidades de desarrollo regional y nacional;
+
+II. El establecimiento, organización y administración de  planteles en
+el Estado, destinados al cumplimiento de sus metas;
+
+III. Promover actividades de carácter tecnológico respondiendo a
+necesidades del desarrollo municipal, estatal, regional y nacional;
+
+IV. Impulsar actitudes que estimulen la investigación e innovación
+científica y tecnológica, procurando la vinculación con el sector
+productivo;
+
+V. Expedir certificados de estudios y otorgar constancias de
+capacitación para el trabajo; y
+
+VI. Las demás que sean afines con las anteriores o se deriven de este
+decreto y su estatuto orgánico.
+
+Articulo *3º.-  El Colegio de Estudios Científicos y Tecnológicos del
+Estado de Morelos tendrá como Legislación normativa:
+
+I. La Constitución Política de los Estados Unidos Mexicanos;
+
+II. La Constitución Política del Estado de Morelos;
+
+III. La Ley Orgánica de la Administración Pública del Estado de
+Morelos;
+
+IV. La Ley General de Educación
+
+V. La Ley de los Organismos Auxiliares de la Administración Pública
+del Estado;
+
+VI. La Ley General de Educación Pública del Estado de Morelos;
+
+VII. Ley Estatal de Responsabilidades de los Servidores Públicos;
+
+VIII. La Ley del Servicio Civil del Estado de Morelos, y
+
+IX. Las demás que con motivo de su objeto les sean aplicables.
+
+NOTAS:
+
+REFORMA VIGENTE.- Se adiciona la fracción VII, recorriéndose en su
+orden la actual VII y siguiente para pasar a ser VIII y IX por Artículo
+Segundo del Decreto No. 358 publicado en el Periódico Oficial “Tierra
+y Libertad” No. 4804 de fecha 2010/05/12.
+
+Título Segundo
+
+del Patrimonio
+
+Capítulo I
+
+de su Constitución
+
+Artículo *4º.-  El patrimonio del organismo se constituirá con:
+
+I.- Los recursos financieros que se le asignen presupuestalmente;
+
+II.- Los bienes muebles e inmuebles que se le asignen, transfieran o
+adquiera;
+
+III.- Los ingresos propios que genere;
+
+IV.- Las aportaciones, legados y donaciones que en su favor se realicen;
+
+V.-Los inventos, obras literarias, proyectos productivos y demás que
+contemple la legislación en la materia, y los productos económicos
+obtenidos por la comercialización de los inventos, obras literarias y
+proyectos productivos que desarrolle el CECyTE.
+
+VI.- Los bienes muebles e inmuebles y los recursos económicos
+(servicios) derivados de la actividad del patronato;
+
+VII.- Los subsidios que le otorguen los gobiernos federal, estatal y
+municipal, y
+
+VIII.- Los bienes, derechos y demás ingresos que adquiera por cualquier
+título legal.
+
+NOTAS:
+
+REFORMA VIGENTE.- Se reforma la fracción II y se adicionan las
+fracciones V y VI, recorriéndose en su orden la actual V y VI para
+pasar a ser VII y VIII respectivamente por Artículo Tercero del Decreto
+No. 358 publicado en el Periódico Oficial “Tierra y Libertad” No.
+4804 de fecha 2010/05/12. Antes decía: II.- Los bienes muebles e
+inmuebles que se le afecten, transfieran o adquiera;
+
+Artículo 5.- Los bienes patrimonio del colegio y los ingresos que
+obtenga por los servicios que preste estarán exentos de impuestos,
+derechos, contribuciones especiales y en general de contribuciones
+estatales y, previo acuerdo, las de carácter municipal.
+
+El colegio gozará de las prerrogativas y exenciones fiscales previstas
+en las Leyes tributarias del Estado, de los subsidios que decrete el
+Ejecutivo de la entidad y los que se acuerden con los municipios.
+Asimismo tramitará, de ser procedente, la exención de los tributos
+federales y municipales.
+
+TÍTULO TERCERO
+
+DE LA ORGANIZACIÓN
+
+CAPÍTULO I
+
+DE LA ADMINISTRACIÓN
+
+Artículo *6.- 	Para su administración el Colegio de Estudios
+Científicos y Tecnológicos del Estado de Morelos contará con las
+siguientes autoridades.
+
+I. Una junta directiva;
+
+II. Un director general;
+
+III. Un patronato, y
+
+IV.- Los Directores de plantel.
+
+NOTAS:
+
+REFORMA VIGENTE.- Se reforma el primer párrafo y la fracción IV por
+Artículo Cuarto del Decreto No. 358 publicado en el Periódico Oficial
+“Tierra y Libertad” No. 4804 de fecha 2010/05/12. Antes decía: Para
+su administración el Colegio de Estudios Científicos y Tecnológicos
+del Estado de Morelos contará con:
+
+IV. Los directores de cada uno de los planteles que establezca la junta
+directiva y que funcionarán como consejo consultivo.
+
+CAPÍTULO II
+
+DEL ORGANO DE GOBIERNO
+
+Artículo *7.- La Junta Directiva será el máximo Órgano de Gobierno
+del Colegio de Estudios Científicos y Tecnológicos del Estado de
+Morelos y se integrará por:
+
+I.- El Secretario de Educación quién la presidirá;
+
+II.- El Titular de la Secretaría de Finanzas y Planeación;
+
+III.- Un representante de la Secretaría  Gestión  e Innovación
+Gubernamental;
+
+IV.- Dos representantes del sector productivo que participen en el
+financiamiento del Colegio, los cuales serán designados por el
+patronato conforme a sus estatutos;
+
+V.- Un representante del Sector Social, que será designado por el
+titular del  Ejecutivo Estatal;
+
+VI.- Dos representantes del Gobierno Federal, designados por la
+Secretaría de Educación Pública;
+
+VII.- El Titular de la Dirección de Educación Media Superior y
+Superior en el Estado, y
+
+VIII.- Un representante de los ayuntamientos donde exista plantel.
+
+El Director  General del Consejo de Ciencia y Tecnología del Estado de
+Morelos, concurrirá a las sesiones de la Junta Directiva como invitado
+permanente y  tendrá derecho a voz pero sin voto.
+
+El Presidente de la Comisión de Ciencia y Tecnología del H. Congreso
+de Morelos concurrirá a las sesiones de la Junta Directiva como
+invitado permanente y  Representante del Poder Legislativo quien tendrá
+derecho a voz pero sin voto.
+
+En ningún caso la Junta Directiva podrá tener más de los 11 miembros
+titulares a que se refiere el artículo 29 de la Ley de los Organismos
+Auxiliares de la Administración Pública.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformado por Artículo Quinto del Decreto No. 358
+publicado en el Periódico Oficial “Tierra y Libertad” No. 4804 de
+fecha 2010/05/12. Antes decía: La junta directiva será el órgano de
+Gobierno del Colegio de Estudios Científicos y Tecnológicos del Estado
+de Morelos y se integrará por:
+
+I.- El titular de la Secretaría de Bienestar Social, quien la
+presidirá. En sus ausencias será suplido por el funcionario que éste
+designe; funcionario de la misma dependencia.
+
+II.- El titular de la Secretaría de Hacienda;
+
+III.- Dos representantes de la  Oficialía Mayor;
+
+IV.- Dos representantes de la Contraloría  General del Estado;
+
+V.- Dos representantes de la Secretaría de Educación Pública del
+Estado;
+
+VI.- Un representante del sector productivo que participe  en el
+financiamiento  del colegio; y
+
+VII.- Un representante  de los ayuntamientos donde existe plantel, y
+otro del sector social.
+
+Los cargos de los integrantes de la junta directiva serán honoríficos
+y por cada miembro propietario habrá un suplente.
+
+los representantes del sector productivo serán propuestos por el
+patronato ante la junta directiva.
+
+En las sesiones de la junta participará el Director General, con voz
+pero sin voto.
+
+En ningún caso la junta directiva podrá tener más de los 11 miembros
+titulares a que se refiere el artículo 29 de la Ley de los Organismos
+Auxiliares de la Administración Pública.
+
+Artículo *7 Bis.- Los cargos de los integrantes de la junta directiva
+serán honoríficos y por cada miembro titular habrá un suplente, quien
+deberá tener el nivel mínimo de Director General y solo podrá
+participar en ausencia del titular el cual deberá estar acreditado
+formalmente.
+
+NOTAS:
+
+REFORMA VIGENTE.- Adicionado por Artículo Sexto del Decreto No. 358
+publicado en el Periódico Oficial “Tierra y Libertad” No. 4804 de
+fecha 2010/05/12.
+
+Artículo *7 Ter.- El Director General del Colegio fungirá como
+Secretario Técnico de la Junta Directiva, asistirá como invitado
+permanente, con derecho a voz pero sin voto y sin formar parte del
+quórum.
+
+NOTAS:
+
+REFORMA VIGENTE.- Adicionado por Artículo Sexto del Decreto No. 358
+publicado en el Periódico Oficial “Tierra y Libertad” No. 4804 de
+fecha 2010/05/12.
+
+Artículo *7 Quáter.- El representante de la Secretaría de la
+Contraloría en el Estado asistirá a la Junta Directiva en calidad de
+invitado permanente, con derecho a voz pero sin voto y sin formar parte
+del quórum.
+
+NOTAS:
+
+REFORMA VIGENTE.- Adicionado por Artículo Sexto del Decreto No. 358
+publicado en el Periódico Oficial “Tierra y Libertad” No. 4804 de
+fecha 2010/05/12.
+
+Artículo *8.- La junta directiva será la máxima autoridad del
+organismo y tendrá las siguientes atribuciones, no delegables:
+
+I.- Determinar las políticas, normas y criterios técnicos de
+organización y administración que orienten las actividades del
+organismo;
+
+II.- Revisar, modificar y aprobar el presupuesto anual de ingresos y
+egresos del colegio y vigilar su funcionamiento;
+
+III.- Autorizar al Colegio las cuotas que deban cobrarse por los
+servicios educativos que se presten;
+
+IV.- Dado que los planes y programas de estudio de bachillerato
+bivalente son aprobados por la Secretaría de Educación Pública a
+través de la Dirección General de Educación Tecnológica Industrial;
+de igual forma se presentarán a la aprobación de la Secretaría de
+Educación las modalidades educativas que someta el Director General del
+Colegio a su consideración;
+
+V.- Resolver después de analizar los estudios de factibilidad
+realizados por la Dirección General, la conveniencia de establecer
+nuevos planteles y/o opciones de nuevas carreras para el cumplimiento de
+su objeto;
+
+VI.- Nombrar a los miembros del patronato y removerlos por causa
+justificada, con excepción del presidente del mismo, quién será
+designado y removido por el Gobernador del Estado;
+
+VII.- Nombrar y Remover a los Directores de Área y Directores de
+Plantel a propuesta del Director General;
+
+VIII.- Aprobar el estatuto orgánico que determine las bases de
+organización, facultades y funciones que competan a las diferentes
+áreas del organismo, los reglamentos y manuales de organización y
+funcionamiento interno, así como sus modificaciones.
+
+IX.- Examinar y aprobar en su caso, los informes periódicos que
+presente el Director General, con la intervención que a los comisarios
+corresponda;
+
+X.- Nombrar y remover, a propuesta del Director General, a los
+funcionarios de mandos medios, aprobar sus sueldos y prestaciones, así
+como concederles las licencias que procedan; y
+
+XI.- Todas las demás inherentes para el adecuado funcionamiento del
+Organismo, las que le señale la Ley de los Organismos Auxiliares de la
+Administración Pública del Estado de Morelos, este Decreto, el
+Estatuto Orgánico y demás disposiciones reglamentarias aplicables.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformadas las fracciones III, IV, V, VII, X y XI por
+Artículo Séptimo del Decreto No. 358 publicado en el Periódico
+Oficial “Tierra y Libertad” No. 4804 de fecha 2010/05/12. Antes
+decía: III.- Proponer a la Secretaria  de Bienestar Social las cuotas
+que deban cobrarse por los servicios educativos que se presten;
+
+IV.- Aprobar planes y programas de estudio, así como las modalidades
+educativas que someta el Director General del colegio a su
+consideración;
+
+V.- Resolver respecto de la conveniencia de establecer planteles
+destinados a impartir la educación a que se refiere su objeto;
+
+VII.- Nombrar a los directores de los planteles, propuestos por el
+Director General;
+
+XI.- Todas las demás inherentes al adecuado funcionamiento del
+organismo, las que le señale la Ley de los Organismos Auxiliares de la
+Administración Pública, este decreto, el estatuto orgánico y demás
+disposiciones reglamentarias.
+
+Observación General.- En el Periódico Oficial 4804 de fecha 2010/05/12
+en el Decreto No. 358 Artículo Séptimo, dice que se reforma la
+fracción X pero no trae texto de reforma.
+
+Artículo *9.- La Junta Directiva sesionará ordinariamente una vez cada
+dos meses y de manera extraordinaria cuando la urgencia de los asuntos
+lo determine en apego a lo establecido en el “Acuerdo que establece
+los Lineamientos para la Convocatoria y Desarrollo de las Sesiones
+Ordinarias o Extraordinarias de los Órganos Colegiados de la
+Administración Central y de los Organismos Auxiliares que integran el
+Sector Paraestatal del Estado de Morelos”, publicado en periódico
+oficial “Tierra y Libertad”, el 21 de octubre de 1999. Para que la
+sesión sea válida será indispensable la asistencia de la mitad más
+uno de sus miembros; las decisiones se tomarán por mayoría de votos de
+los presentes y en caso de empate, el Presidente tendrá voto de
+calidad.
+
+La convocatoria la hará el Presidente, con el apoyo del Secretario
+Técnico y se podrá invitar a quien con su opinión enriquezca o aclare
+algún asunto relacionado con el objetivo del Organismo y participará
+con voz pero sin voto.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformado por Artículo Octavo del Decreto No. 358
+publicado en el Periódico Oficial “Tierra y Libertad” No. 4804 de
+fecha 2010/05/12. Antes decía: La junta directiva sesionará
+ordinariamente una vez cada dos meses y de manera extraordinaria cuando
+la urgencia de los asuntos lo determine. Para que sus acuerdos tengan
+validez será indispensable la asistencia de la mitad más uno de sus
+miembros presentes en la sesión; las decisiones se tomarán por
+mayoría de votos y en caso de empate, el presidente tendrá voto de
+calidad.
+
+La convocatoria la hará el presidente, quien podrá invitar a quien
+estime que con sus opiniones coadyuvará al mejor desarrollo del objeto
+del organismo, con voz pero sin voto.
+
+CAPÍTULO III
+
+DEL DIRECTOR GENERAL
+
+Artículo *10.- Para el ejercicio de sus funciones el Organismo tendrá
+un Director General que será nombrado y removido libremente por el
+Gobernador del Estado de Morelos, previo acuerdo con la Secretaría de
+Educación, dicha designación quedará a cargo de la Junta Directiva,
+durará en su cargo cuatro años y  podrá ser ratificado por un periodo
+igual de tiempo.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformado por Artículo Noveno del Decreto No. 358
+publicado en el Periódico Oficial “Tierra y Libertad” No. 4804 de
+fecha 2010/05/12. Antes decía: Para el ejercicio de sus funciones el
+organismo tendrá un Director General, que será nombrado y removido
+libremente por el Gobernador del Estado de Morelos, o previo acuerdo con
+la Secretaría de Bienestar Social, dicha designación quedará a cargo
+de la junta de Gobierno.
+
+Artículo *11.- El Director General deberá cumplir con los requisitos
+señalados en el artículo 32 de la Ley de los Organismos Auxiliares de
+la Administración Pública del Estado de Morelos y la cláusula tercera
+del Convenio de Coordinación celebrado entre la Secretaría de
+Educación Pública y el Gobierno del Estado de Morelos en materia de
+Coordinación para la Creación, Operación y Apoyo Financiero del
+Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos;
+contará con grado de licenciatura, por lo menos.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformado por Artículo Décimo del Decreto No. 358
+publicado en el Periódico Oficial “Tierra y Libertad” No. 4804 de
+fecha 2010/05/12. Antes decía: El Director General deberá cumplir con
+los requisitos señalados en el artículo 32 de la Ley de los Organismos
+Auxiliares de la Administración Pública y contar con grado de
+licenciatura por lo menos.
+
+Artículo *12.- Son atribuciones del Director General:
+
+I.- Presentar a la Junta Directiva, el presupuesto de ingresos del
+Organismo y en su caso, el de egresos;
+
+II.- Cumplir y hacer cumplir el estatuto orgánico, las disposiciones
+reglamentarias del organismo y los acuerdos de la junta directiva;
+
+III.- Presentar a la junta directiva, anualmente y en la última sesión
+del ejercicio escolar, informe de las actividades del colegio realizadas
+en dicho ejercicio;
+
+IV.- Asistir a las sesiones de la Junta Directiva, en calidad de
+invitado permanente con voz pero sin voto, en su carácter de Secretario
+Técnico;
+
+V.- Efectuar en los términos del Estatuto Orgánico y demás
+disposiciones reglamentarias, la designación de todo tipo de personal
+que labore en el Organismo, excepto el personal sindicalizado y los
+casos que estén reservados al Órgano de Gobierno; atender los
+problemas de carácter administrativo y laboral que le sean planteados
+en el ejercicio de sus funciones; así como, nombrar, remover, otorgar
+licencias o permisos del personal del Organismo, debiendo informar del
+ejercicio de estas facultades a la Junta Directiva;
+
+VI.- proveer lo necesario para el cumplimiento de los planes, programas
+y proyectos del colegio, y para el ejercicio del presupuesto anual de
+egresos;
+
+VII.- representar al colegio ante toda clase de autoridades y personas
+de derecho público o privado, con todas las facultades, aún aquellas
+que requieran autorización especial, que correspondan a los apoderados
+generales para pleitos y cobranzas, actos de administración y de
+riguroso dominio, en los términos del artículo 2008 del Código Civil
+del Estado de Morelos.
+
+Así mismo otorgar, substituir y revocar poderes generales y especiales
+con todas aquellas facultades que requieran cláusula especial, los
+cuales deberán inscribirse en el registro público de organismos
+descentralizados.
+
+El ejercicio de las facultades señaladas en esta fracción será bajo
+la responsabilidad del Director General.
+
+La facultad para realizar actos de dominio y para otorgar, suscribir y
+endosar títulos de crédito, sólo podrá ejercerla por acuerdo expreso
+de la junta directiva;
+
+VIII.- Contará con facultades para realizar la exención de cuotas por
+inscripción o reinscripción para alumnos que se encuentren
+imposibilitados previo estudio socioeconómico que al efecto realice el
+organismo;
+
+IX.- Consultar a la junta directiva cuando la naturaleza de los asuntos
+así lo requiera; y
+
+X.- Las demás que le señale la Ley de los Organismos Auxiliares de la
+Administración Pública, este ordenamiento, el estatuto orgánico y
+otros ordenamientos jurídicos.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformadas las fracciones I, IV, V y VIII por
+Artículo Décimo Primero del Decreto No. 358 publicado en el Periódico
+Oficial “Tierra y Libertad” No. 4804 de fecha 2010/05/12. Antes
+decía: I.- Presentar a la junta directiva, con la oportunidad que
+señale la Secretaría de Bienestar Social, el presupuesto de egresos
+del organismo y en su caso, el de ingresos;
+
+IV.- Asistir a las sesiones de la junta directiva, con voz pero sin
+voto, en su carácter de secretario técnico;
+
+V.- Efectuar en los términos del estatuto orgánico y demás
+disposiciones reglamentarias, la designación y administrativo, excepto
+los casos que estén reservados al Órgano de Gobierno; atender los
+problemas de carácter administrativo y laboral que le sean planteados
+en el ejercicio de sus funciones; así como, nombrar, remover, otorgar
+licencias o permisos del personal del organismo, debiendo informar del
+ejercicio de estas facultades a la junta directiva;
+
+VIII.- Celebrar contratos, convenios y toda clase de actos jurídicos
+que sean necesarios para el cumplimiento del objeto y de los programas
+del colegio;
+
+Artículo *12 Bis.- El Director General será sustituido en sus
+funciones por ausencias temporales por el Director de Área que designe
+la Junta Directiva, en calidad de encargado de despacho, delimitando sus
+funciones.
+
+NOTAS:
+
+REFORMA VIGENTE.- Adicionado por Artículo Décimo Segundo del Decreto
+No. 358 publicado en el Periódico Oficial “Tierra y Libertad” No.
+4804 de fecha 2010/05/12.
+
+Artículo *12 Ter.- El Director General contará con facultades para
+certificar los documentos que obren en sus archivos así como los que le
+sean presentados en original y cuya devolución se solicite siempre que
+estén relacionados con los asuntos de su competencia, excepto cuando
+deban ser exhibidos en procedimientos judiciales o contencioso
+administrativo, y en general, para cualquier proceso o averiguación.
+
+NOTAS:
+
+REFORMA VIGENTE.- Adicionado por Artículo Décimo Segundo del Decreto
+No. 358 publicado en el Periódico Oficial “Tierra y Libertad” No.
+4804 de fecha 2010/05/12.
+
+Artículo 13.- El Secretario Técnico de la junta directiva tendrá las
+siguientes funciones:
+
+I.- Convocar para sesionar, a la junta directiva; previo acuerdo con el
+presidente,
+
+II.- Llevar el libro de actas de sesiones de la junta directiva;
+
+III.- Las demás que la junta directiva le asigne;
+
+Artículo *13.-  El Colegio contará con un Patronato el cual tendrá la
+finalidad de apoyar a la institución en la obtención de recursos
+financieros y materiales adicionales a los recursos Federal y Estatal,
+para la óptima realización de sus funciones.
+
+NOTAS:
+
+REFORMA VIGENTE.- Adicionado por Artículo Décimo Tercero del Decreto
+No. 358 publicado en el Periódico Oficial “Tierra y Libertad” No.
+4804 de fecha 2010/05/12.
+
+Observación General.- En el Periódico Oficial 4804 de fecha 2010/05/12
+en el Decreto No. 358 Artículo  Décimo Tercero, dice que se adiciona
+el Artículo 13 Bis, pero salió publicado como Artículo 13 le falto el
+Bis.
+
+CAPÍTULO IV
+
+DEL PATRONATO
+
+Artículo 14.- El patronato estará integrado por un Presidente, un
+Vicepresidente, un Secretario y tres Vocales, quienes serán designados
+por la junta de Gobierno y durarán en el desempeño de sus funciones 6
+años.
+
+Los cargos del patronato serán honoríficos y se designará a aquellos
+que hayan demostrado interés en los asuntos académicos y que sean de
+reconocida solvencia moral y económica.
+
+Artículo *15.- El patronato tendrá como facultades:
+
+I.- Gestionar y obtener recursos económicos y materiales para
+incrementar el patrimonio del Colegio, y
+
+II.- Organizar planes para incrementar los fondos del colegio; y
+
+III.- Las demás que le señale el estatuto orgánico.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformada la fracción I por Artículo Décimo Cuarto
+del Decreto No. 358 publicado en el Periódico Oficial “Tierra y
+Libertad” No. 4804 de fecha 2010/05/12. Antes decía: I.- Gestionar la
+obtención de recursos para el sostenimiento del organismo;
+
+Artículo 16.- El presidente del patronato podrá convocar en todo
+tiempo, a los miembros del mismo para sesionar, siempre que lo considere
+necesario o a petición de alguno de los miembros.  las decisiones del
+patronato, serán aprobadas por mayoría de votos.
+
+Artículo *16 Bis.- Cuando un miembro del patronato sea removido del
+cargo, se considerará un término de treinta días para que se lleve a
+cabo la revisión a los estados financieros del Patronato.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformado por Artículo Décimo Quinto del Decreto No.
+358 publicado en el Periódico Oficial “Tierra y Libertad” No. 4804
+de fecha 2010/05/12.
+
+CAPÍTULO V
+
+DEL CONSEJO CONSULTIVO
+
+Artículo 17.- Los directores de los planteles integrarán el consejo
+consultivo del organismo, el cual será presidido por el Director
+General del Colegio.
+
+Artículo *18.- Corresponde al consejo consultivo del organismo:
+
+I.- Emitir opinión sobre los asuntos que la Junta de Gobierno someta a
+su consideración;
+
+II.- Sugerir reformas a los planes y programas de estudio;
+
+III.- Analizar los problemas académicos y administrativos de los
+planteles y proponer las soluciones que estimen convenientes;
+
+IV.- Sugerir reformas a los programas sobre actualización y superación
+profesional y académica;
+
+V.- Proponer planes de trabajo en pro del crecimiento y consolidación
+del subsistema, y
+
+VI.- Las demás relacionadas con sus funciones.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformadas las fracciones II y IV y se adiciona la
+fracción V, recorriéndose en su orden la actual V para pasar a ser VI
+por Artículo Décimo Sexto del Decreto No. 358 publicado en el
+Periódico Oficial “Tierra y Libertad” No. 4804 de fecha 2010/05/12.
+Antes decía: II.- Elaborar proyectos de planes y programas de estudio;
+
+IV.- Proponer los programas sobre actualización y superación
+profesional académica; y,
+
+Artículo *19.- Al Consejo Consultivo corresponde coordinar los
+lineamientos de ingreso, promoción y permanencia del personal
+académico, el cual prestará sus servicios mediante nombramientos; los
+nombramientos interinos se otorgarán por semestre o fracción de éste
+y su prórroga, en caso de que proceda, deberá ser expresa y por igual
+periodo.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformado por Artículo Décimo Séptimo del Decreto
+No. 358 publicado en el Periódico Oficial “Tierra y Libertad” No.
+4804 de fecha 2010/05/12. Antes decía: Al consejo consultivo
+corresponde fijar los términos de ingreso, promoción y permanencia de
+su personal académico, el cual prestará sus servicios mediante
+nombramiento; los nombramientos interinos se otorgarán por semestre o
+fracción de este y su prórroga, en caso de que proceda, deberá ser
+expresa y por igual período.
+
+CAPÍTULO VI
+
+DISPOSICIONES GENERALES
+
+Artículo *20.- En el Estatuto Orgánico y disposiciones reglamentarias
+que expida la Junta Directiva se establecerán las facultades y
+obligaciones de los Directores de Área y los Directores de Plantel, los
+cuales deberán reunir los requisitos señalados en el artículo 32 de
+la Ley de Organismos Auxiliares de la Administración Pública y
+durarán en su cargo tres años, sin perjuicio de ser reelectos por un
+período más.
+
+Los Directores y Subdirectores de Plantel, deberán contar con
+licenciatura como mínimo; los Directores deberán reunir además los
+siguientes requisitos:
+
+I.- Preferentemente  ciudadano Morelense  por   nacimiento o por
+residencia, en este último caso, haber residido en la entidad un
+mínimo  de dos años anteriores a la fecha del nombramiento.
+
+II.- Tener conocimiento y experiencia en docencia.
+
+III.- Ser mayor de 25 años.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformado por Artículo Décimo Octavo del Decreto No.
+358 publicado en el Periódico Oficial “Tierra y Libertad” No. 4804
+de fecha 2010/05/12. Antes decía: En el estatuto orgánico y
+disposiciones reglamentarias que expida la junta directiva se
+establecerán las facultades y obligaciones de los directores de los
+planteles, los cuales deberán reunir los requisitos señalados en el
+artículo 32 de la Ley de Organismos Auxiliares de la Administración
+Pública y durarán en su cargo tres años, sin perjuicio de ser
+reelectos por un período más.
+
+Los Directores del Plantel y Subdirectores Académicos, deberán contar
+con licenciatura como mínimo. los directores deberán reunir además
+los siguientes requisitos:
+
+Artículo *21.- Serán considerados como personal de confianza el
+Director General, Directores de Área, los Directores y Subdirectores de
+Planteles, Coordinadores de Plantel, Jefes de Departamento, Jefes de
+Oficina, Supervisor, Ingeniero en Sistemas, Encargado de Orden, Técnico
+Especializado, Coordinador de Técnicos Especializados, Secretaria de
+Director General, Secretaria de Director de Área, Secretaria de
+Director de Plantel, personal de inspección, vigilancia y supervisión;
+así como el personal responsable del manejo de fondos, almacenistas,
+administradores, secretarios particulares y demás personal que por la
+naturaleza del trabajo lo determine la ley de la materia.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformado por Artículo Décimo Noveno del Decreto No.
+358 publicado en el Periódico Oficial “Tierra y Libertad” No. 4804
+de fecha 2010/05/12. Antes decía: Serán considerados como personal de
+confianza el Director General, los Directores y Subdirectores de
+Planteles, Prefectos, Jefes y Subjefes de Departamento, así como el
+personal responsable del manejo de fondos, supervisores, almacenistas,
+administradores, secretarios particulares y auxiliares.
+
+Artículo *22.- El Organismo contará con un órgano de vigilancia, el
+cual estará integrado por un Comisario Público designado por la
+Secretaría de la Contraloría.
+
+Tanto la junta de Gobierno como el Director General deberán
+proporcionar la información que solicite el comisario, a fin de que
+pueda cumplir con las funciones a que se refiere el artículo 50 de la
+Ley de Organismos Auxiliares de la Administración Pública del Estado.
+
+NOTAS:
+
+REFORMA VIGENTE.- Reformado por Artículo Vigésimo del Decreto No. 358
+publicado en el Periódico Oficial “Tierra y Libertad” No. 4804 de
+fecha 2010/05/12. Antes decía: El organismo contará con un órgano de
+vigilancia, el cual estará integrado por un comisario propietario y un
+suplente designados por la Contraloría General del Estado.
+
+Artículo 23.- El comisario asistirá a las sesiones de la junta
+directiva con voz, pero sin voto.
+
+Artículo 24.- Las relaciones laborales entre el organismo y su personal
+docente, administrativo y técnico se regirán por la Ley del Servicio
+Civil del Estado de Morelos y demás leyes que le sean aplicables.
+
+Artículo 25.- las agrupaciones de estudiantes del organismo que se
+constituyan en sus planteles, serán independientes de los órganos de
+éstos, y se organizarán conforme a las normas que los propios alumnos
+determinen.
+
+Artículo 26.- los integrantes de los órganos de Gobierno del organismo
+y su personal de confianza serán responsables por los delitos y las
+faltas en que incurran en el ejercicio de sus funciones, conforme a las
+disposiciones legales aplicables.
+
+Artículo 27.- los casos no previstos en el presente Decreto, se
+resolverán mediante acuerdo de la junta directiva y conforme a las
+disposiciones jurídicas aplicables.
+
+Se aplicara de forma supletoria en todo lo conducente la Ley de los
+Organismos Auxiliares de la Administración Pública Estatal.
+
+T R A N S I T O R I O S
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su
+publicación en el periódico oficial “Tierra y Libertad”, órgano
+informativo del Gobierno del Estado.
+
+Segundo.- El estatuto orgánico del organismo, deberá expedirse dentro
+del plazo de ciento veinte días hábiles, contados a partir de la fecha
+en que este Decreto entre en vigor.
+
+Tercero.- Para integrar la primera planta de personal académico se
+extenderá nombramientos interinos, que tendrán el carácter de
+definitivos una vez que los interesados satisfagan los requisitos
+correspondientes.
+
+Salón de Sesiones del Honorable Congreso del Estado, a los veintiséis
+días del mes de enero de mil novecientos noventa y nueve.
+
+A T E N T A M E N T E.
+
+“SUFRAGIO EFECTIVO. NO REELECCION”
+
+LOS CC. INTEGRANTES DE LA MESA DIRECTIVA
+
+DEL H. CONGRESO DEL ESTADO.
+
+PRESIDENTE
+
+Dip. Fernando Josapahat Martínez Cué.
+
+secretaria.
+
+dip. laura catalina ocampo gutiÉrrez.
+
+secretaria.
+
+dip. laura adela bocanegra quiroz.
+
+RÚBRICAS
+
+Por tanto mando se imprima, publique, circule y se le dé el debido
+cumplimiento.
+
+Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca,
+Capital del Estado de Morelos a los quince días del mes de febrero de
+mil novecientos noventa y nueve.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+
+JORGE MORALES BARUD
+
+SECRETARIO GENERAL DE GOBIERNO
+
+JORGE ARTURO GARCÍA RUBÍ
+
+RÚBRICAS
+
+Aprobación       	1999/01/26
+
+Promulgación	1999/02/15
+
+Publicación	1999/02/17
+
+Vigencia      	1999/02/18
+
+Expidió	XLVII Legislatura
+
+Periódico Oficial                                    	3966 “Tierra y
+Libertad”
+
+Aprobación       	1999/01/26
+
+Promulgación	1999/02/15
+
+Publicación	1999/02/17
+
+Vigencia      	1999/02/18
+
+Expidió	XLVII Legislatura
+
+Periódico Oficial                                    	3966 “Tierra y
+Libertad”
+
+OBSERVACIONES GENERALES.- Se reforma el Artículo 1 por Artículo
+Primero; se adicionan la fracción VII del Artículo 3,  y se recorren
+en su orden la actual VII y siguiente para pasar a ser VIII y IX
+respectivamente por Artículo Segundo; se reforma la fracción II del
+artículo 4 y se adicionan las fracciones V y VI,  recorriéndose  en su
+orden la actual V y VI  para pasar a ser VII y VIII respectivamente por
+Artículo Tercero; se reforma el primer párrafo y la fracción IV del
+artículo 6 por Artículo Cuarto; se reforma el artículo 7 Artículo
+Quinto; se adicionan los artículos 7 Bis, 7 Ter y 7 Quáter Artículo
+Sexto; se reforman las fracciones III, IV, V, VII, X  y XI del artículo
+8 Artículo Séptimo; se reforma del artículo 9 Artículo Octavo; se
+reforma el artículo 10 por Artículo Noveno; se reforma del artículo
+11 por Artículo Décimo; se reforman las fracciones I, IV, V, VIII  del
+artículo 12 Artículo Décimo Primero; se adicionan los artículos 12
+Bis y 12 Ter por Artículo Décimo Segundo; se adiciona el artículo 13
+Bis por Artículo Décimo Tercero; se reforma la fracción I del
+artículo 15 por Artículo Décimo Cuarto; se adiciona el artículo 16
+Bis por Artículo Décimo Quinto; se reforman las fracciones II y IV y
+se adiciona la fracción V del artículo 18, recorriéndose en su orden
+la actual V para pasar a ser VI  por Artículo Décimo Sexto; se reforma
+el artículo 19 por Artículo Décimo Séptimo; se reforma el artículo
+20 por Artículo Décimo Octavo; se reforma el artículo 21 por
+Artículo Décimo Noven y se reforma el artículo 22 por Artículo
+Vigésimo del Decreto No. 358 publicado en el Periódico Oficial
+“Tierra y Libertad” No. 4804 de fecha 2010/05/12.
+
+Se reforma de manera integral, el “Decreto Número Quinientos Setenta
+y Uno, que crea el Colegio de Estudios Científicos y Tecnológicos del
+Estado de Morelos”, ratificando y adecuando las disposiciones
+jurídicas que regulan su competencia, por Decreto No. 1191 publicado en
+el Periódico Oficial “Tierra y Libertad” No. 5440 Segunda Sección
+de fecha 2016/10/19. Vigencia 2016/10/20.
+
+Decreto Número Quinientos Setenta y Uno.- Por el que se crea el Colegio
+de Estudios Científicos y Tecnológicos del Estado de Morelos
+
+Última Reforma: 19-10-2016
+
+Consejería Jurídica del Poder Ejecutivo del Estado de Morelos.
+
+Dirección General de Legislación.
+
+Subdirección de Jurismática.
+
+ PAGE 2  de  NUMPAGES 34
+
+Decreto Número Quinientos Setenta y Uno.- Por el que se crea el Colegio
+de Estudios Científicos y Tecnológicos del Estado de Morelos
+
+Consejería Jurídica del Poder Ejecutivo del Estado de Morelos.
+
+Dirección General de Legislación.
+
+Subdirección de Jurismática.
+
+Última Reforma: 19-10-2016

@@ -1,0 +1,432 @@
+---
+titulo: "Acuerdo por el que se da a conocer el monto de las participaciones entregadas a los municipios del Estado de Guerrero, del Fondo Común de Participaciones, del Fondo de Fomento Municipal, del Fondo para la Infraestructura a Municipios y del Fondo de Aportaciones Estatales para la Infraestructura Social Municipal, en el Tercer Trimestre del Ejercicio Fiscal 2011"
+tipo: "Acuerdo"
+estado: "Guerrero"
+ambito: "Estatal"
+estatus: "Abrogado"
+fecha_publicacion: "13 de Enero de 2012"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "38752"
+---
+TEXTO ORIGINAL
+# 
+	Acuerdo publicado en el Periódico Oficial del Gobierno del Estado No.
+04, el Viernes 13 de Enero de 2011.
+
+ACUERDO POR EL QUE SE DA A CONOCER EL MONTO DE LAS PARTICIPACIONES
+ENTREGADAS A LOS MUNICIPIOS DEL ESTADO DE GUERRERO, DEL FONDO COMÚN DE
+PARTICIPACIONES, DEL FONDO DE FOMENTO MUNICIPAL, DEL FONDO PARA LA
+INFRAESTRUCTURA A MUNICIPIOS Y DEL FONDO DE APORTACIONES ESTATALES PARA
+LA INFRAESTRUCTURA SOCIAL MUNICIPAL, EN EL TERCER TRIMESTRE DEL
+EJERCICIO FISCAL 2011.
+
+	Al margen un sello con el Escudo Oficial que dice: Gobierno del Estado
+Libre y Soberano de Guerrero.- Poder Ejecutivo.
+
+	ÁNGEL HELADIO AGUIRRE RIVERO, GOBERNADOR CONSTITUCIONAL DEL ESTADO
+LIBRE Y SOBERANO DE GUERRERO, CON FUNDAMENTO EN LOS ARTÍCULOS 74
+FRACCIONES III, IV Y XI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y
+SOBERANO DE GUERRERO; 6o. , 10 Y 22 DE LA LEY ORGÁNICA DE LA
+ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 433; 22 DEL
+DECRETO NÚMERO 640 DE PRESUPUESTO DE EGRESOS DEL ESTADO DE GUERRERO
+PARA EL EJERCICIO FISCAL 2011, 27 FRACCIONES I, II, III, IV, V, VI, VII,
+VIII, 28, 29, 30, 31 INCISOS A) Y B), 32 INCISOS A) Y B), 33, 34 Y 48 DE
+LA LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE
+GUERRERO, Y
+
+C O N S I D E R A N D O
+
+	Que las participaciones asignadas al Estado de Guerrero para el
+Ejercicio Fiscal del 2011, deben ser redistribuidas entre los municipios
+en los porcentajes que señala el Capítulo I de la Ley de Coordinación
+Fiscal y de acuerdo a los criterios y fórmulas que se establecen en la
+Ley número 427 del Sistema de Coordinación Hacendaria del Estado de
+Guerrero.
+
+	Que la Ley de Coordinación Fiscal en el Capítulo I, artículo 6o.,
+último párrafo establece que "Los Gobiernos de las Entidades, quince
+días después de que la Secretaría de Hacienda y Crédito Público
+publique en el Diario Oficial de la Federación el calendario de
+entrega, porcentaje y monto estimado que recibirá cada Entidad
+Federativa del Fondo General y del Fondo de Fomento Municipal, deberán
+publicar en el Periódico Oficial de la Entidad de que se trate, los
+mismos datos antes referidos de las participaciones estimadas que
+entregarán a los municipios, derivadas de las participaciones que las
+Entidades reciban y de las que tengan obligación de participar a sus
+municipios". También deberán publicar trimestralmente el importe de
+las participaciones entregadas y, en su caso, el ajuste realizado al
+término de cada ejercicio fiscal. La Secretaría de Hacienda y Crédito
+Público publicará en el Diario Oficial de la Federación la lista de
+las Entidades que incumplan con esta disposición.
+
+	Por lo anteriormente expuesto y fundado, he tenido a bien expedir el
+siguiente:
+
+ACUERDO POR EL QUE SE DA A CONOCER EL MONTO DE LAS PARTICIPACIONES
+ENTREGADAS A LOS MUNICIPIOS DEL ESTADO DE GUERRERO, DEL FONDO COMÚN DE
+PARTICIPACIONES, DEL FONDO DE FOMENTO MUNICIPAL, DEL FONDO PARA LA
+INFRAESTRUCTURA A MUNICIPIOS Y DEL FONDO DE APORTACIONES ESTATALES PARA
+LA INFRAESTRUCTURA SOCIAL MUNICIPAL, EN EL TERCER TRIMESTRE DEL
+EJERCICIO FISCAL 2011.
+
+	ARTÍCULO PRIMERO. El presente Acuerdo tiene por objeto dar a conocer
+el monto de las Participaciones Federales entregadas a cada uno de los
+Municipios del Estado de Guerrero, durante el tercer trimestre del año
+2011.
+
+	ARTÍCULO SEGUNDO. El monto, de las participaciones federales que el
+Gobierno del Estado entregó a los municipios durante el periodo
+julio-septiembre de 2011, se determinó de acuerdo a lo establecido en
+los artículos 2o., 2-A, 3-A, 4o., 4o-A y 6o. de la Ley de Coordinación
+Fiscal y 27, 28, 29, 30, 31, 32, 34 y 48 de la Ley número 427 del
+Sistema de Coordinación Hacendaria del Estado de Guerrero.
+
+	ARTÍCULO TERCERO. Los montos de cada uno de los conceptos que se
+transfirieron a los municipios, durante el tercer trimestre del
+ejercicio fiscal 2011, fueron los siguientes:
+
+Participaciones Federales Entregadas
+
+a los Municipios (Pesos)
+
+Concepto	Periodo
+
+ julio-septiembre
+
+Fondo General	400,312,192.40 (1
+
+Tenencia o Uso de Vehículos	8,960,430.88
+
+Impuesto Especial sobre Producción y Servicios	5,463,513.00 (2
+
+Impuestos sobre Automóviles Nuevos	1,588,132.60
+
+Compensación del I.S.A.N.	822,898.20
+
+Fondo de Fiscalización	20,590,279.00 (3
+
+Total Fondo Común	437,737,446.08
+
+Fondo de Fomento Municipal	64,189,879.00 (4
+
+Fondo para la Infraestructura a Municipios	37,654,745.29 (5
+
+Fondo de Aportaciones Estatales Para la Inf. Soc. Mpal.	56,482,117.94 (6
+
+Total	596,064,188.31
+
+	Notas:
+
+	1)	Incluye Fondo General julio-septiembre/2011.					410,302,050.80
+
+		Menos: 1er. Ajuste cuatrimestral 2011					   -9,989,858.40
+
+					Total					400,312,192.40
+
+	2)	Incluye Impuestos Esp. sobre Producción y Servs.
+julio-septiembre/2011		7,066,552.00
+
+		Menos: 1er. Ajuste cuatrimestral 2011.					-1,603,039.00
+
+					Total					5,463,513.00
+
+	3)	Incluye el Segundo Trimestre de 2011.					14,798,220.00
+
+		Más: Diferencias del Segundo Trimestre/11.					5,792,059.00
+
+					Total					20,590,279.00
+
+	4)	Incluye Fondo de Fomento Municipal julio-septiembre/2011.
+62,781,105.00
+
+		Más: 1er. Ajuste cuatrimestral 2011.					  1,408,774.00
+
+					Total					64,189,879.00
+
+	5)	En cumplimiento a lo establecido en el artículo 30 de la Ley numero
+427 del Sistema de Coordinación Hacendaria
+
+		del Estado de Guerrero, julio-septiembre/2011.
+
+	6)	En cumplimiento a lo establecido en el artículo 48 de la Ley
+número 427 del Sistema de Coordinación Hacendaria
+
+		del Estado de Guerrero, julio-septiembre/2011.
+
+Los montos transferidos a los municipios son los siguientes:
+
+MUNICIPIO	TOTAL 3er.
+
+TRIM/2011	FONDO
+
+COMUN	FONDO DE
+
+FTO. «PAL.	FONDO DE
+
+INF. A MPIOS.	FDO. DE APORT. EST.
+
+P/INF. SOC. MPAL
+
+	SUMA	596,064,188.31	437,737,446.08	64,189,879.00	37,654,745.29
+56,482,117.94
+
+001	ACAPULCO DE JUÁREZ	151,753,609.39	103,937,372.14	24,195,332.56
+12,840,831.15	10,780,073.54
+
+002	ACATEPEC	4,568,820.04	3,511,179.82	384,867.44	260,478.16	412,294.62
+
+003	AHUACUOTZINGO	3,533,684.20	2,701,351.47	297,626.13	200,514.57
+334,192.03
+
+004	AJUCHITLÁN DEL PROGRESO	6,823,038.27	5,581,737.50	452,207.94
+305,051.30	484,041.53
+
+005	ALCOZAUCA DE GUERRERO	2,902,952.42	2,234,440.46	230,653.68
+154,316.08	283,542.20
+
+006	ALPOYECA	1,264,304.97	920,665.66	85,772.45	56,209.75	201,657.11
+
+007	APAXTLA	2,462,552.82	1,889,477.04	164,681.58	106,831.60	301,562.60
+
+008	ARCELIA	6,531,620.62	4,791,274.36	555,145.21	333,664.88	851,536.17
+
+009	ATENANGO DEL RÍO	1,642,886.86	1,243,476.36	106,950.29	70,049.62
+222,410.59
+
+010	ATLAMAJALCINGO DEL MONTE	933,949.39	722,994.51	67,133.11	45,396.37
+98,425.40
+
+011	ATLIXTAC	3,836,031.69	2,977,192.16	309,919.45	209,569.97	339,350.11
+
+012	ATOYAC DE ALVAREZ	11,061,389.44	8,608,332.74	901,243.61	566,957.33
+984,855.76
+
+013	AYUTLA DE LOS LIBRES	9,855,496.35	7,695,329.45	796,237.90	524,586.37
+839,342.63
+
+014	AZOYÚ	2,599,628.12	2,088,632.84	173,484.89	116,436.27	221,074.12
+
+015	BENITO JUÁREZ	2,977,338.59	2,247,657.98	210,129.80	134,279.16
+385,271.65
+
+016	BUENAVISTA DE CUELLAR	3,228,597.16	2,119,864.67	 236,104.50
+139,144.37	733,483.62
+
+017	CHILAPA DE ÁLVAREZ	16,568,737.67	12,403,240.93	1,582,969.34
+1,032,195.79	1,550,331.61
+
+018	CHILPANCINGO DE LOS BRAVO	36,719,56121	27,014,256.41	4,023,535.81
+2,439,324.45	3,242,444.54
+
+019	COAHUAYUTLA DE J. MA. IZAZAGA	2,481,580.82	2,032,702.09	154,075.67^
+103,908.19	190,894.87
+
+020	COCHOAPA EL GRANDE	2,449,427.34	1,842,086.36	218,491.18	148,323.00
+240,526.80
+
+021	COCULA	2,967,308.64	2,271,159.23	202,226.05	129,851.19	364,072.17
+
+022	COPALA	2,579,003.06	1,914,874.02	188,132.31	120,673.55	355,323.18
+
+023	COPALILLO	2,202,222.42	1,740,349.26	166,676.85	113,504.92	181,691.39
+
+024	COPANATOYAC	2,788,874.29	2,188,758.72	217,706,79	148,191.90
+234,216.88
+
+025	COYUCA DE BENÍTEZ	12,474,777.79	9,642,318.55	1,058,814.95
+670,026.92	1,103,617.37
+
+026	COYUCA DE CATALÁN	7,704,120.17	6,215,808.44	533,248.56	349,670.21
+605,392.96
+
+027	CUAJINICUILAPA	4,690,744.47	3,559,333.90	367,713.59	233,863.08
+529,833.90
+
+028	CUALAC	1,361,674.88	991,002.02	91,594.98	59,774.88	219,303.00
+
+029	CUAUTEPEC	2,541,199.57	2,075,215.31	171,889.14	117,638.20	176,457.32
+
+030	CUETZALA DEL PROGRESO	1,717,908.61	1,378,566.54	109,783.89	73,784.01
+155,774.17
+
+031	CUTZAMALA DE PINZÓN	4,325,906.80	3,556,778.80	264,243.23	175,706.82
+329,177.95
+
+032	EDUARDO NERI	7,322,467.56	5,628,799.47	609,691.26	396,541.27
+687,435.56
+
+033	FLORENCIO VILLARREAL	3,467,884.47	2,694,829.18	257,134.71	169,199.39
+346,721.19
+
+034	GENERAL CANUTO A NERI	1,314,389.22	1,063,103.07	75,649.89	50,797.29
+124,838.97
+
+035	GENERAL HELIODORO CASTILLO	6,095,376.12	4,849,321.67	448,409.50
+298,971.67	498,673.28
+
+036	HUAMUXTITLÁN	3,124,114.60	2,213,894.31	229,763.63	141,096.66
+539,360.00
+
+037	HUITZUCO DE LOS FIGUEROA	6,834,974.19	5,121,948.13	580,518.81
+359,240.50	773,266.75
+
+038	IGUALA DE LA INDEPENDENCIA	24,329,157.17	17,543,323.84	2,816,003.50
+1,628,254.22	2,341,575.61
+
+039	IGUALAPA	1,735,214.82	1,401,796.08	122,989.16	84,171.83	126,257.75
+
+040	ILIATENCO	2,188,677.02	1,781,501.98	128,727.35	85,881.92	192,565.77
+
+041	IXCATEOPAN DE CUAUHTÉMOC	1,408,870.03	1,059,582.92	85,744.38
+56,080.68	207,462.05
+
+042	JOSÉ JOAQUÍN DE HERRERA	2,517,219.36	2,010,294.39	181,865.15
+123,592.17	201,467.65
+
+043	JUAN R. ESCUDERO	4,232,879.59	3,264,110.18	322,718.15	209,672.27
+436,378.99
+
+044	JUCHITÁN	1,129,277.34	908,207.21	81,504.01	55,777.22	83,788.90
+
+045	LEONARDO BRAVO	4,009,070.30	3,179,431.39	295,461.14	198,708.73
+335,469.04
+
+046	MALINALTEPEC	4,198,813.03	3,259,493.67	343,025.77	233,191.40
+363,102.19
+
+047	MARQUELIA	1,919,327.59	1,521,231.20	146,840.13	100,494.15	150,762.11
+
+048	MÁRTIR DE CUILAPAN	2,550,247.10	1,947,632.73	210,772.73	141,936.29
+249,905.35
+
+049	METLATÓNOC	2,932,886.29	2,341,129.11	217,195.00	148,403.10
+226,159.08
+
+050	MOCHTLÁN	2,074,591.45	1,514,009.59	153.913.01	99,336.49	307,332.36
+
+051	OLINALÁ	4,051,120.67	3,149,450.91	310,753.54	205,439.55	385,476.67
+
+052	OMETEPEC	9,540,531.96	7,118,852.52	889,859.55	561,929.29	969,890.60
+
+053	PEDRO ASCENCIO ALOUISIRAS	1,429,894.04	1,117,862.19	86,810.14
+57,594.71	167,627.00
+
+054	PETATLÁN	8,150,425.99	6,368,102.39	633,67818	403,814.65	744,830.77
+
+055	PILCAYA 	4,644,371.50	2,715,577.67	317,779.50	171,937.29
+1,439,077.04
+
+056	PUNGARABATO	7,411,315.48	5,215,672.86	711,959.86	416,177.22
+1,067,505.54
+
+057	QUECHULTENANGO	5,732,882.27	4,528,094.06	430,432.30	285,839.54
+488,516.37
+
+058	SAN LUIS ACATLÁN	6,355,686.00	4,947,040.28	512,446.81	343,264.50
+552,934.41
+
+059	SAN MARCOS	8,604,318.20	6,691,008.49	686,083.44	436,669.05
+790,557.22
+
+060	SAN MIGUEL TOTOLAPAN	4,844,825.21	3,920,496.20	332,576.23	224,174.44
+367,578.34
+
+061	TAXCO DE ALARCÓN	18,369,467.06	14,023,321.41	1,696,661.29
+1,035,624.19	1,613,860.17
+
+062	TECOANAPA	7,330,768.22	5,933,503.49	512.991.84	348,237.93	536,034.96
+
+063	TECPAN DE GALEANA	10,471,476.89	8,236,454.60	823,042.31	534,625.34
+877,354.64
+
+064	TELOLOAPAN	9,540,618.99	7,504,631.73	740,584.12	476,118.50
+819,284.64
+
+065	TEPECOACUILCO DE TRUJANO	5,421,938.75	4,293,862.59	392,496.47
+257,322.05	478,257.64
+
+066	TETIPAC	2,582,940.07	1,947,806.72	179,621.13	115,522.46	339,989.76
+
+067	TIXTLA DE GUERRERO	6,439,906.95	4,807,395.08	570,639.04	362,521.01
+699,351.82
+
+068	TLACOACHISTLAHUACA	2,839,242.52	2,179,566.86	242,833.59	166,059.50
+250,782.57
+
+069	TLACOAPA	1,617,557.03	1,281,419.58	117,044.79	79,424.60	139,668.06
+
+070	TLALCHAPA	2,260,205.45	1,814,082.55	141,544.40	94,225.54	210,352.96
+
+071	TLALIXTAQUILLA DE MALDONADO	1,396,817.16	1,015,951.76	93,321.56
+60,781.86	226,761.98
+
+072	TLAPA DE COMONFORT	11,010,067.23	8,135,430.92	1,075,618.88
+699,993.13	1,099,024.30
+
+073	TLAPEHUALA	3,807,004.53	3,038,107.70	266,817.31	178,034.57
+324,044.95
+
+074	UNIÓN DE I. MONTES DE OCA, LA	7,077,548.86	4,547,351.75	670,991.96
+366,626.71	1,492,578.44
+
+075	XALPATLAHUAC	2,053,325.25	1,631,726.70	144,881.63	97,831.32
+178,885.60
+
+076	XOCHIHUEHUETLÁN	1,628,844.46	1,196,757.85	98,741.75	63,527.92
+269,816.94
+
+077	XOCHISTLAHUACA	4,017,882.69	3,149,239.58	319,991.36	218,821.08
+329,830.67
+
+078	ZAPOTITLAN TABLAS	1,742,487.20	1,412,726.36	120,205.82	82,118.93
+127,436.09
+
+079	ZHUATANEJO DE AZUETA	25,711,163.54	14,858,774.28	4,737,509.05
+2,412,899.62	3,701,980.59
+
+080	ZIRANDARO	3,783,347.77	3,089,919.33	228,822.93	151,011.76	313,593.75
+
+081	ZITLALA	3,261,820.65	2,466,187.81	276,618.06	184,475.72	334,539.06
+
+T R A N S I T O R I O
+
+	ARTÍCULO ÚNICO. Publíquese el presente Acuerdo en el Periódico
+Oficial del Gobierno del Estado.
+
+	Dado en la Residencia Oficial del Poder Ejecutivo del Estado, a los
+catorce días del mes de octubre del año dos mil once.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+LIC. ÁNGEL HELADIO AGUIRRE RIVERO.
+
+Rúbrica.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+LIC. HUMBERTO SALGADO GÓMEZ.
+
+Rúbrica.
+
+EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN.
+
+C.P. JORGE SILVERIO SALGADO LEYVA.
+
+Rúbrica.
+
+	  HYPERLINK "http://www.guerrero.gob.mx/consejeriajuridica/"
+http://www.guerrero.gob.mx/consejeriajuridica
+
+	  HYPERLINK "mailto:consejeria_juridica@guerrero.gob.mx"
+consejeria_juridica@guerrero.gob.mx
+
+ACUERDO POR EL QUE SE DA A CONOCER EL MONTO DE LAS PARTICIPACIONES
+ENTREGADAS A LOS MUNICIPIOS DEL ESTADO DE GUERRERO, DEL FONDO COMÚN DE
+PARTICIPACIONES, DEL FONDO DE FOMENTO MUNICIPAL, DEL FONDO PARA LA
+INFRAESTRUCTURA A MUNICIPIOS Y DEL FONDO DE APORTACIONES ESTATALES PARA
+LA INFRAESTRUCTURA SOCIAL MUNICIPAL, EN EL TERCER TRIMESTRE DEL
+EJERCICIO FISCAL 2011
+
+ PAGE
+
+ PAGE   1

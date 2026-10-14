@@ -1,0 +1,444 @@
+---
+titulo: "Código de Conducta del Fideicomiso Turismo Morelos"
+tipo: "Código"
+estado: "Morelos"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "07 de Agosto de 2019"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "87027"
+---
+# CÓDIGO DE CONDUCTA DEL FIDEICOMISO TURISMO MORELOS
+
+Al margen superior un Escudo del Estado de Morelos que dice: “Tierra y
+Libertad”.- La tierra volverá a quienes la trabajan con sus manos.-
+2018-2024. Un logotipo que dice Morelos Anfitrión del Mundo Gobierno
+del Estado 2018-2024, Y un logotipo que dice: FITUR.- Fideicomiso
+Turismo Morelos.
+
+ESTHER ELENA PEÑA NÚÑEZ, DIRECTORA GENERAL DEL FIDEICOMISO TURISMO
+MORELOS, CON FUNDAMENTO EN LOS ARTÍCULOS 1, 3, 43, 46 Y 64 DE LA LEY
+ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE
+MORELOS; 1, 22 Y TERCERA DISPOSICIÓN TRANSITORIA DEL CÓDIGO DE ÉTICA
+Y REGLAS DE INTEGRIDAD A QUE DEBEN SUJETARSE LOS SERVIDORES PÚBLICOS DE
+LA ADMINISTRACIÓN PÚBLICA ESTATAL; ASÍ COMO LOS ARTÍCULOS 17 Y 18
+DEL ESTATUTO ORGÁNICO DEL FIDEICOMISO TURISMO MORELOS, Y CON BASE EN LA
+SIGUIENTE:
+
+EXPOSICIÓN DE MOTIVOS
+
+En términos delo dispuesto en el artículo 109, fracción III, de la
+Constitución Política de los Estados Unidos Mexicanos, los servidores
+públicos deben sujetarse a los principios de legalidad, honradez,
+lealtad, imparcialidad y eficiencia, en el ejercicio de sus funciones,
+empleos, cargos y comisiones. Mientras que la Ley Estatal de
+Responsabilidades Administrativas para el Estado de Morelos, señala que
+los servidores públicos observarán en el desempeño de su empleo,
+cargo o comisión, los principios de disciplina, legalidad, objetividad,
+profesionalismo, honradez, lealtad, imparcialidad, integridad,
+rendición de cuentas, eficacia y eficiencia que rigen en el servicio
+público. En ese sentido, el artículo 109, fracción III, de la
+Constitución Política de los Estados Unidos Mexicanos, dispone que los
+servidores públicos deben sujetarse a los principios de legalidad,
+honradez, lealtad, imparcialidad y eficiencia, en el ejercicio de sus
+funciones, empleos, cargos y comisiones. Mientras que la Ley General de
+Responsabilidades Administrativas y la Ley Estatal de Responsabilidades
+Administrativas para el Estado de Morelos, señala que los servidores
+públicos observarán en el desempeño de su empleo, cargo o comisión,
+los principios de disciplina, legalidad, objetividad, profesionalismo,
+honradez, lealtad, imparcialidad, integridad, rendición de cuentas,
+eficacia y eficiencia que rigen en el servicio público. En ese sentido,
+el pasado ocho de febrero de dos mil diecinueve fue publicado en el
+Periódico Oficial “Tierra y Libertad”, el Código de Ética y
+Reglas de Integridad a que deben sujetarse los servidores públicos de
+la Administración Pública Estatal, para que en su actuación impere
+una conducta digna que responda a las necesidades de la sociedad y que
+oriente su desempeño; de acuerdo a lo dispuesto en su disposición
+transitoria tercera, las Secretarías, Dependencias y Entidades de la
+Administración Pública Estatal, contarán con un plazo de ciento
+veinte días hábiles para publicar en el Periódico Oficial “Tierra y
+Libertad”, el Código de Conducta a que se refiere el artículo 22 de
+dicho instrumento, previa aprobación de su respectivo Órgano Interno
+de Control, el cual especificará de manera puntual y concreta la forma
+en que las personas servidoras públicas aplicarán los principios,
+valores y reglas de integridad contenidos en el Código de Ética y
+Reglas de Integridad a que deben sujetarse los servidores públicos de
+la Administración Pública Estatal. En cumplimiento a lo anterior, por
+lo expuesto y considerando que resulta necesario establecer los
+elementos normativos necesarios que permitan el adecuado funcionamiento
+del Fideicomiso Turismo Morelos y la actuación ética de sus servidores
+públicos, es que tengo a bien expedir el siguiente:
+
+CÓDIGO DE CONDUCTA DEL FIDEICOMISO TURISMO MORELOS
+
+CAPÍTULO I
+
+DE LAS DISPOSICIONES GENERALES
+
+Artículo 1. El presente Código de Conducta es de observancia general y
+obligatoria para todos los servidores públicos que laboran en el
+Fideicomiso Turismo Morelos.
+
+Artículo 2. El presente Código de Conducta tiene por objeto definir,
+emitir y dar a conocer los principios rectores, valores éticos, y
+reglas de identidad que debe regir el actuar y proceder de los
+servidores públicos adscritos al Fideicomiso Turismo Morelos en todos
+sus niveles durante el ejercicio de sus funciones.
+
+Artículo 3. Para efectos de este Código, se entenderá por:
+
+I. Código de Ética, al Código de Ética y Reglas de Integridad a las
+que deben sujetarse los Servidores Públicos de la Administración
+Pública Estatal;
+
+II. Código de Conducta, al presente Código de Conducta del Fideicomiso
+Turismo Morelos;
+
+III. Comité, al Comité de Ética del Fideicomiso Turismo Morelos;
+
+IV. Fideicomiso, al Fideicomiso Turismo Morelos;
+
+V. Unidades Administrativas, a las Unidades Administrativas adscritas
+del Fideicomiso Turismo Morelos;
+
+VI. Servidores Públicos, a los servidores públicos del Fideicomiso
+Turismo Morelos; y,
+
+VII. Órgano Interno de Control, a la Comisaria Pública del Fideicomiso
+Turismo Morelos.
+
+Artículo 4. Los servidores públicos que desempeñen un empleo, cargo o
+comisión en el Fideicomiso, invariablemente deberán observar los
+principios rectores y valores que se consignan y definen en el Código
+de Ética, mismos que se establecen a continuación:
+
+I. Principios rectores:
+
+a) Legalidad;
+
+b) Honradez;
+
+c) Lealtad;
+
+d) Imparcialidad;
+
+e) Eficiencia;
+
+f) Economía;
+
+g) Disciplina;
+
+h) Profesionalismo;
+
+i) Objetividad;
+
+j) Transparencia;
+
+k) Rendición de cuentas;
+
+l) Competencia por mérito;
+
+m) Eficacia;
+
+n) Integridad; y,
+
+o) Equidad;
+
+II. Valores:
+
+a) Cooperación;
+
+b) Entorno Cultural y Ecológico;
+
+c) Equidad de Género;
+
+d) Igualdad y No Discriminación;
+
+e) Interés Público;
+
+f) Liderazgo;
+
+g) Respeto; y,
+
+h) Respeto a los Derechos Humanos;
+
+Artículo 5. Para salvaguardar los principios y valores que rigen el
+ejercicio de la función pública, el Código de Ética establece las
+reglas de integridad con las cuales deberán conducirse los servidores
+públicos en el ejercicio de sus atribuciones y obligaciones.
+
+III. Reglas de Integridad:
+
+a) Actuación pública;
+
+b) Información pública;
+
+c) Contrataciones públicas, licencias, permisos, autorizaciones y
+concesiones;
+
+d) Programas gubernamentales;
+
+e) Trámites y servicios;
+
+f) Recursos humanos;
+
+g) Administración de bienes muebles e inmuebles;
+
+h) Procesos de evaluación;
+
+i) Control interno;
+
+j) Procedimiento administrativo;
+
+k) Cooperación y desempeño permanente con integridad; y,
+
+l) Comportamiento digno.
+
+CAPÍTULO II
+
+APLICACIÓN Y ALCANCE DE LAS REGLAS DE INTEGRIDAD
+
+Artículo 6. Los servidores públicos del Fideicomiso en el desempeño
+de sus atribuciones y obligaciones invariablemente deberán conducir su
+actuación basados en los principios de honestidad, legalidad, lealtad y
+profesionalismo, conforme a lo siguiente:
+
+I. Conocer, cumplir y hacer cumplir la normatividad que regula las
+atribuciones y obligaciones que corresponden al puesto;
+
+II. Utilizar de manera racional los recursos humanos, materiales o
+financieros única y exclusivamente para el cumplimiento de las
+atribuciones asignadas y en cumplimiento del objeto del Fideicomiso;
+
+III. Abstenerse de realizar acciones fuera de legalidad para favorecer a
+terceros, o para obtener un beneficio personal, familiar o de una
+tercera persona;
+
+IV. Hacer del conocimiento de las áreas competentes, las conductas o
+hechos contrarios a la ley que detecten;
+
+V. Asegurarse que con su actuación no se obstruya el cumplimiento de
+investigaciones o procedimientos sancionatorios en contra de servidores
+públicos o particulares;
+
+VI. Ejercer sus funciones de manera objetiva, sin permitir la influencia
+indebida de otras personas.
+
+Artículo 7. El principio de rendición de cuentas y resguardo de
+información y documentación que tengan bajo su responsabilidad, será
+fundamental para el desempeño de sus atribuciones, debiendo conducir su
+actuación de acuerdo con lo siguiente:
+
+I. Utilizar la información y documentación reservada o confidencial
+para uso exclusivo del Fideicomiso, resguardándola de manera segura;
+
+II. Facilitar la consulta de información a la ciudadanía conforme a
+los mecanismos establecidos al respecto;
+
+III. Cuidar que no se oculte información y documentación, ya sea
+dentro o fuera de las instalaciones del Fideicomiso;
+
+IV. Evitar que la información y documentación se altere o elimine de
+manera deliberada, y sin fundamento legal para ese efecto;
+
+V. Impedir la sustracción, destrucción o inutilización indebida de
+información o documentación.
+
+Artículo 8. Los servidores públicos, que por sus atribuciones,
+efectúen procedimientos para la administración de recursos humanos,
+deberán apegarse a los principios de objetividad, legalidad,
+imparcialidad y rendición de cuentas, de acuerdo con lo siguiente:
+
+I. Abstenerse de contratar a personas cuyos intereses particulares,
+laborales, profesionales, económicos o de negocios puedan estar en
+contraposición de los intereses del Fideicomiso;
+
+II. Asegurar que no se contrate a personas que no cumplan con los
+requisitos y documentos requeridos para el puesto, que se encuentren
+inhabilitadas o cuando no cuenten con el perfil del puesto;
+
+III. Propiciar la actualización y capacitación para el desarrollo
+personal.
+
+Artículo 9. Los servidores públicos que participen en procedimientos
+de baja, enajenación, transferencia o destrucción de bienes muebles,
+deberán desempeñar sus funciones con eficacia e integridad, de acuerdo
+con lo siguiente:
+
+I. Evitar la baja, enajenación, transferencia o destrucción de bienes,
+cuando éstos sigan siendo útiles y/o adecuados para la operación del
+fideicomiso;
+
+II. Utilizar el parque vehicular, para el servicio público y no para
+fines particulares, personales o familiares.
+
+Artículo 10. Los servidores públicos del Fideicomiso que participen en
+procesos de control interno, generarán, obtendrán, utilizarán y
+comunicarán información suficiente, oportuna, confiable y de calidad,
+apegándose a los principios de legalidad, imparcialidad y rendición de
+cuentas, de acuerdo con lo siguiente:
+
+I. Comunicar los factores de riesgo asociados al cumplimiento de los
+objetivos del Fideicomiso, así como, los relacionados con corrupción y
+posibles irregularidades que afecten los recursos económicos del
+Fideicomiso;
+
+II. Diseñar y/o actualizar las políticas o procedimientos necesarios
+en materia de control interno e implementar, en su caso, mejores
+prácticas para evitar la corrupción y prevenir cualquier conflicto de
+interés;
+
+III. Generar la información financiera, presupuestaria y de operación
+con el respaldo suficiente, así como presentarla de forma clara y
+completa;
+
+IV. Salvaguardar información y documentos que se deban conservar por su
+relevancia o por sus aspectos técnicos, jurídicos, económicos o de
+seguridad.
+
+Artículo 11. Los servidores públicos del Fideicomiso deben
+invariablemente conducir su actuación bajo el principio de integridad,
+con una plena vocación de servicio y propiciando el trabajo en equipo,
+de acuerdo a lo siguiente:
+
+I. Conducirse con un trato digno, respetuoso y cordial, ya sea en la
+atención al público o con sus compañeros de trabajo;
+
+II. Evitar cualquier tipo de discriminación tanto en el trato con sus
+compañeros de trabajo, así como, con las personas en general;
+
+III. Conducirse con criterios de austeridad y uso adecuado de los bienes
+asignados;
+
+IV. Fomentar en sus áreas de trabajo, el respeto, la cooperación, la
+disciplina y la integridad, para el desempeño eficiente de sus
+funciones;
+
+V. Promover el apoyo y la colaboración con sus compañeros de trabajo,
+propiciando el trabajo en equipo;
+
+VI. Recomendar, diseñar y establecer mejores prácticas a favor del
+Fideicomiso.
+
+CAPÍTULO III
+
+DE LA VIGILANCIA Y CUMPLIMIENTO
+
+Artículo 12. Para la vigilancia del Código de Ética y Código de
+Conducta, se establece el Comité de Ética del Fideicomiso, mismo que
+estará integrado de la siguiente forma:
+
+I. La persona titular de la Dirección General del Fideicomiso, quien
+fungirá como Presidente;
+
+II. La persona titular de la Subdirección de Administración y Recursos
+Humanos, en carácter de Secretario Técnico;
+
+III. La persona titular del Departamento Jurídico, como Vocal;
+
+IV. La persona titular del Órgano Interno de Control, Comisario
+Público del Fideicomiso.
+
+Los integrantes contarán con voz y voto, con excepción del Órgano
+Interno de Control, quién solamente contará con voz. En caso de empate
+el Presidente tendrá el voto de calidad.
+
+Artículo 13. El Comité tendrá las funciones siguientes:
+
+I. Sesionar conforme la normativa aplicable;
+
+II. Realizar acciones para promover al interior de las Unidades
+Administrativas del Fideicomiso, el Código de Ética y Código de
+Conducta;
+
+III. Analizar los asuntos de los que se desprenda alguna presunta
+acción u omisión por parte de algún servidor público en contra de
+los principios rectores establecidos en el Código de Ética y en el
+Código de Conducta del Fideicomiso Turismo Morelos;
+
+IV. Determinar las acciones tendientes para que los servidores
+públicos, en su caso, sean sancionados conforme a la normativa
+aplicable; y,
+
+V. Tramitar ante las autoridades competentes, las acciones necesarias
+cuando del análisis a las conductas realizadas por los servidores
+públicos, se desprenda alguna infracción que pudiera ser constitutiva
+de alguna responsabilidad administrativa, penal, civil o laboral, en
+términos de la normativa aplicable.
+
+La falta de conocimiento del Código de Ética y Reglas de Integridad a
+las que deben sujetarse los servidores públicos de la Administración
+Pública Estatal y al presente Código de Conducta no los exime de su
+cumplimiento.
+
+La aclaración e interpretación que se derive del presente Código
+será presentado para resolución ante el Comité de Ética del
+Fideicomiso.
+
+El desarrollo de las Sesiones y el funcionamiento del Comité de Ética
+del Fideicomiso se desarrollarán en términos de lo dispuesto en el
+Acuerdo por el que se establecen los Lineamientos para la celebración
+de Sesiones de los distintos Órganos Colegiados que actúan y
+participan en la Administración Pública del Estado de Morelos.
+
+DISPOSICIONES TRANSITORIAS
+
+ÚNICO.- El presente Código de Conducta entrará en vigor a partir del
+día siguiente de su publicación, en el Periódico Oficial “Tierra y
+Libertad”.
+
+Dado en la Dirección General del Fideicomiso Turismo Morelos, en la
+ciudad de Cuernavaca, Morelos siendo los quince días del mes de julio
+de dos mil diecinueve.
+
+C. ESTHER ELENA PEÑA NÚÑEZ.
+
+DIRECTORA GENERAL DEL FIDEICOMISO TURISMO MORELOS.
+
+RÚBRICA.
+
+	Aprobación	2019/07/15
+
+Publicación	2019/08/07
+
+Vigencia	2019/08/08
+
+Expidió	Fideicomiso Turismo Morelos
+
+Periódico Oficial                                    	5732 “Tierra y
+Libertad”
+
+Aprobación	2019/07/15
+
+Publicación	2019/08/07
+
+Vigencia	2019/08/08
+
+Expidió	Fideicomiso Turismo Morelos
+
+Periódico Oficial                                    	5732 “Tierra y
+Libertad”
+
+OBSERVACIONES GENERALES.-
+
+Código de Conducta del Fideicomiso Turismo Morelos
+
+Última Reforma: Texto original
+
+Consejería Jurídica del Poder Ejecutivo del Estado de Morelos.
+
+Dirección General de Legislación.
+
+Subdirección de Jurismática.
+
+ PAGE 2  de  NUMPAGES 10
+
+Código de Conducta del Fideicomiso Turismo Morelos
+
+Consejería Jurídica del Poder Ejecutivo del Estado de Morelos.
+
+Dirección General de Legislación.
+
+Subdirección de Jurismática.
+
+Última Reforma: Texto original

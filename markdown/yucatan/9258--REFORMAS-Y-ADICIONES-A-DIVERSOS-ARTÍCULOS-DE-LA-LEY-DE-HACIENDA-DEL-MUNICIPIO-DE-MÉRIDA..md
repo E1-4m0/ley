@@ -1,0 +1,3813 @@
+---
+titulo: "REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA."
+tipo: "Decreto Legislativo"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "19 de Diciembre de 2007"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "9258"
+---
+-SUMARIO-
+
+GOBIERNO DEL ESTADO
+# 
+PODER EJECUTIVO
+
+DECRETO NUMERO 38
+
+REFORMAS Y ADICIONES A DIVERSOS ARTICULOS DE LA LEY DE HACIENDA DEL
+MUNICIPIO DE MERIDA	2
+
+DECRETO NUMERO 39
+
+SE DEROGAN Y SE REFORMAN DIVERSOS ARTICULOS DE LA LEY ORGANICA DEL PODER
+JUDICIAL DEL ESTADO DE YUCATAN; Y SE ADICIONAN LAS FRACCIONES IV, V Y EL
+ULTIMO PARRAFO AL ARTICULO 58 DEL CITADO ORDENAMIENTO LEGAL	50
+
+SUPLEMENTO
+
+GOBIERNO DEL ESTADO
+
+DECRETO NÚMERO 38
+
+PODER EJECUTIVO
+
+IVONNE ARACELLY ORTEGA PACHECO, Gobernador del Estado de
+
+Yucatán, con fundamento en la fracción I del artículo 55 de la
+Constitución
+
+Política del Estado de Yucatán, a sus habitantes hago saber:
+
+Que el Honorable Congreso del Estado de Yucatán se ha servido dirigirme
+el
+
+siguiente Decreto:
+
+“EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN,
+
+CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE
+
+LA CONSTITUCIÓN POLÍTICA; 97, 150 Y 156 DE LA LEY ORGÁNICA DEL
+
+PODER LEGISLATIVO, AMBAS DEL ESTADO DE YUCATÁN, EMITE EL
+
+SIGUIENTE;
+
+D E C R E T O:
+
+ARTICULO UNICO.- Se reforman los artículos 10 inciso a) y e), su
+segundo párrafo y
+
+se elimina su cuarto párrafo; 29 en su segundo, tercero y cuarto
+párrafos
+
+adicionándole un párrafo; 44 fracciones  I, II, III y IV; 55 al
+adicionarle la fracción VII;
+
+56 primer párrafo adicionando una fracción, recorriéndose las
+actuales fracciones III y
+
+IV para quedar como IV y V y se adicionan dos párrafos; 74 fracción X;
+77 fracción II,
+
+incisos a), b), c), h) e i), y se le adicionan los incisos j) y K); se
+reforma el inciso a) y se
+
+adiciona el inciso c) a su fracción XI, y se adicionan las fracciones
+XVI y XVII; 88 inciso
+
+a) y se adiciona el inciso d) a la fracción I, se reforma el inciso a)
+y se adiciona el
+
+inciso e), a la fracción II, se reforman los incisos b) y c) y se
+adiciona el inciso j) a la
+
+fracción III, se reforma el inciso b) de la fracción VI, se reforma el
+inciso b) del último
+
+párrafo de la fracción VII;  88-A; 94 fracción VI y VII; 95; 96; 97;
+el subtítulo del artículo
+
+98; 98; el Título de la Sección Octava del Capitulo II del Título
+Segundo; 100 primer
+
+párrafo, los incisos a) y b) de la fracción III, la fracción IV y VII
+y se le adicionan las
+
+fracciones VIII, IX, y X; 101-A; 126; 129-D; 129-E; 129-F; 142 fracción
+I y VII; 149; 150-
+
+B; 150-C; 161 fracción V y VI, y se adicionan los artículos 10 bis;
+81-A y 98-A; todos de
+
+la Ley de Hacienda del Municipio de Mérida, para quedar en los
+términos siguientes:
+
+ARTICULO 10.- …
+
+a).- El Cabildo;
+
+b) a  d).- …
+
+e).- El Subdirector de ingresos.
+
+f).- …
+
+Corresponde al Director de Finanzas y Tesorero Municipal, determinar,
+liquidar y
+
+recaudar los ingresos municipales y ejercer, en su caso, la facultad
+económico-
+
+coactiva.
+
+El Director de Finanzas y Tesorero Municipal………………..
+
+El Director de Finanzas y Tesorero Municipal………………...
+
+ARTICULO 10 Bis.- El Subdirector de Ingresos tendrá facultades para
+suscribir:
+
+a).- Las licencias de funcionamiento municipales, cuya expedición
+apruebe la
+
+autoridad competente;
+
+b).- Los certificados de no adeudar contribuciones municipales y;
+
+c).- Los requerimientos de pago de las multa federales no fiscales y de
+las multas
+
+impuestas por las autoridades municipales.
+
+ARTICULO 29.- …
+
+Tendrán una vigencia que iniciará en la fecha de su expedición y
+terminará el último
+
+día del periodo constitucional de la administración municipal que la
+expidió, salvo que
+
+fueran revalidadas en los términos y condiciones que marca esta Ley.
+
+No obstante lo dispuesto en el párrafo anterior, durante el tiempo de
+la vigencia de la
+
+licencia de funcionamiento, su titular deberá mantener vigentes los
+permisos, licencias,
+
+autorizaciones y demás documentos relacionados como requisitos para la
+apertura y
+
+revalidación respectivamente, así como proporcionar una copia de la
+renovación de
+
+cada uno de dichos documentos a la Dirección de Finanzas y Tesorería
+Municipal
+
+dentro los treinta días hábiles siguientes al vencimiento de los
+mismos. En caso
+
+contrario se aplicará la sanción a que se refiere la fracción I del
+Artículo 161.
+
+Los titulares de las licencias de funcionamiento deberán revalidarlas
+durante los cuatro
+
+primeros meses de cada administración municipal. Transcurrido este
+plazo, sin cumplir
+
+con esa obligación, dicha licencia quedará sin efecto. En este caso el
+interesado
+
+deberá tramitar una nueva licencia  con la obligación de satisfacer
+los requisitos a que
+
+se refiere esta Ley para la apertura.
+
+………………
+
+a).- a  h).- …………….
+
+Cuando el titular de una licencia de funcionamiento correspondiente a un
+comercio,
+
+negocio o establecimiento pretenda realizar un cambio de giro o de
+domicilio, deberá
+
+satisfacer los requisitos anteriores.
+
+….
+
+a).- a  g).- ……………..
+
+ARTICULO 44.-……
+
+I.- ………………
+
+SECCIÓN 1
+
+Calle	Tramo
+
+Colonia
+
+	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+47	50	52	CENTRO	 284.00
+
+	52	54	CENTRO	 284.00
+
+	54	56	CENTRO	 355.00
+
+	56	56-A	CENTRO	 852.00
+
+	56-A	60	CENTRO	 1,086.00
+
+	60	62	CENTRO	 752.00
+
+	62	64	CENTRO	 468.00
+
+	64	66	CENTRO	 330.00
+
+	66	70	CENTRO	 355.00
+
+47-A	64	66	CENTRO	 330.00
+
+49	50	54	CENTRO	 380.00
+
+	54	58	CENTRO	 380.00
+
+	58	62	CENTRO	 476.00
+
+	62	64	CENTRO	 355.00
+
+	64	70	CENTRO	 284.00
+
+51	50	52	CENTRO	 284.00
+
+	52	54	CENTRO	 305.00
+
+	54	58	CENTRO	 355.00
+
+	58	62	CENTRO	 476.00
+
+	68	70	CENTRO	 284.00
+
+53	50	52	CENTRO	 284.00
+
+	52	54	CENTRO	 330.00
+
+	54	58	CENTRO	 355.00
+
+	58	62	CENTRO	 568.00
+
+	62	64	CENTRO	 376.00
+
+	64	66	CENTRO	 305.00
+
+	66	68	CENTRO	 284.00
+
+	68	70	CENTRO	 284.00
+
+55	50	52	CENTRO	 284.00
+
+	52	54	CENTRO	 355.00
+
+	54	56	CENTRO	 355.00
+
+	56	58	CENTRO	 451.00
+
+	58	64	CENTRO	 568.00
+
+	64	66	CENTRO	 451.00
+
+	66	70	CENTRO	 284.00
+
+55-A	68	70	CENTRO	 426.00
+
+57	50	52	CENTRO	 518.00
+
+	52	56	CENTRO	 518.00
+
+	56	58	CENTRO	 710.00
+
+	58	60	CENTRO	 1,254.00
+
+	60	64	CENTRO	 1,404.00
+
+	64	66	CENTRO	 1,086.00
+
+	66	70	CENTRO	 518.00
+
+57-A	58	60	CENTRO	 1,504.00
+
+59	50	52	CENTRO	 702.00
+
+	52	54	CENTRO	 1,086.00
+
+	54	56	CENTRO	 1,754.00
+
+	56	58	CENTRO	 3,050.00
+
+	58	60	CENTRO	 4,430.00
+
+	60	62	CENTRO	 4,180.00
+
+	62	64	CENTRO	 2,422.00
+
+	64	66	CENTRO	 1,086.00
+
+	66	70	CENTRO	 1,086.00
+
+61	50	52	CENTRO	 543.00
+
+	52	54	CENTRO	 902.00
+
+	54	56	CENTRO	 2,300.00
+
+	56	58	CENTRO	 4,430.00
+
+SECCIÓN 1
+
+Calle	Tramo
+
+Colonia
+
+	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	58	60	CENTRO	 6,520.00
+
+	60	62	CENTRO	 15,040.00
+
+	62	64	CENTRO	 2,672.00
+
+	64	66	CENTRO	 1,002.00
+
+	66	70	CENTRO	 468.00
+
+61-A	58	60	CENTRO	 4,680.00
+
+63	50	52	CENTRO	 786.00
+
+	52	54	CENTRO	 2,760.00
+
+	54	56	CENTRO	 8,700.00
+
+	56	60	CENTRO	 10,200.00
+
+	60	62	CENTRO	 16,300.00
+
+	62	64	CENTRO	 2,504.00
+
+	64	66	CENTRO	 1,336.00
+
+	66	70	CENTRO	 568.00
+
+63-A	56	60	CENTRO	 16,300.00
+
+	56	58	CENTRO	 12,500.00
+
+65	50	54	CENTRO	 8,360.00
+
+	54	60	CENTRO	 18,800.00
+
+	60	62	CENTRO	 8,360.00
+
+	62	64	CENTRO	 1,754.00
+
+	64	66	CENTRO	 1,086.00
+
+	66	70	CENTRO	 518.00
+
+67	50	52	CENTRO	 2,130.00
+
+	52	54	CENTRO	 4,180.00
+
+	54	56-A	CENTRO	 15,040.00
+
+	56-A	58	CENTRO	 15,040.00
+
+	58	60	CENTRO	 15,040.00
+
+	60	62	CENTRO	 9,360.00
+
+	62	64	CENTRO	 1,420.00
+
+	64	66	CENTRO	 1,086.00
+
+	66	70	CENTRO	 426.00
+
+67-A	62	64	CENTRO	 1,002.00
+
+69	50	54	CENTRO	 518.00
+
+	54	58	CENTRO	 3,340.00
+
+	58	62	CENTRO	 1,670.00
+
+	62	64	CENTRO	 1,002.00
+
+	64	66	CENTRO	 752.00
+
+	66	68	CENTRO	 752.00
+
+	68	70	CENTRO	 1,086.00
+
+69-A	62	64	CENTRO	 1,002.00
+
+71	50	56	CENTRO	 305.00
+
+	56	60	CENTRO	 518.00
+
+	60	70	CENTRO	 305.00
+
+73	50	70	CENTRO	 202.50
+
+50	47	57	CENTRO	 610.00
+
+	57	59	CENTRO	 752.00
+
+	59	61	CENTRO	 568.00
+
+	61	63	CENTRO	 702.00
+
+	63	65	CENTRO	 2,550.00
+
+	65	67	CENTRO	 2,380.00
+
+	67	69	CENTRO	 1,086.00
+
+	69	71	CENTRO	 351.00
+
+	71	73	CENTRO	 284.00
+
+50-A	57	59	CENTRO	 852.00
+
+52	47	55	CENTRO	 426.00
+
+	55	61	CENTRO	 752.00
+
+	61	63	CENTRO	 852.00
+
+SECCIÓN 1
+
+Calle	Tramo
+
+Colonia
+
+	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	63	65	CENTRO	 2,130.00
+
+	65	67	CENTRO	 3,050.00
+
+	67	69	CENTRO	 852.00
+
+	69	71	CENTRO	 284.00
+
+	71	73	CENTRO	 284.00
+
+54-A	65	67	CENTRO	 4,680.00
+
+54	47	55	CENTRO	 518.00
+
+	55	59	CENTRO	 852.00
+
+	59	61	CENTRO	 1,086.00
+
+	61	63	CENTRO	 3,050.00
+
+	63	65	CENTRO	 9,360.00
+
+	65	67	CENTRO	 11,700.00
+
+	67	69	CENTRO	 6,020.00
+
+	69	71	CENTRO	 710.00
+
+	71	73	CENTRO	 376.00
+
+56	47	55	CENTRO	 702.00
+
+	55	57	CENTRO	 702.00
+
+	57	59	CENTRO	 2,840.00
+
+	59	61	CENTRO	 9,360.00
+
+	61	63	CENTRO	 11,700.00
+
+	63	67	CENTRO	 15,040.00
+
+	67	69	CENTRO	 12,540.00
+
+	69	71	CENTRO	 936.00
+
+	71	73	CENTRO	 376.00
+
+56-A	47	49	CENTRO	 3,010.00
+
+56-A	65	67	CENTRO	 15,040.00
+
+58	47	49	CENTRO	 852.00
+
+	49	53	CENTRO	 852.00
+
+	53	57	CENTRO	 1,036.00
+
+	57	59	CENTRO	 3,510.00
+
+	59	63	CENTRO	 11,700.00
+
+	63	65	CENTRO	 17,800.00
+
+	65	67	CENTRO	 14,040.00
+
+	67	69	CENTRO	 4,180.00
+
+	69	71	CENTRO	 3,090.00
+
+	71	73	CENTRO	 376.00
+
+60	47	55	CENTRO	 1,420.00
+
+	55	57	CENTRO	 4,680.00
+
+	57	59	CENTRO	 6,100.00
+
+	59	61	CENTRO	 11,700.00
+
+	61	63	CENTRO	 16,300.00
+
+	63	65	CENTRO	 16,300.00
+
+	65	67	CENTRO	 13,040.00
+
+	67	69	CENTRO	 3,510.00
+
+	69	71	CENTRO	 752.00
+
+	71	73	CENTRO	 493.00
+
+62	47	55	CENTRO	 610.00
+
+	55	57	CENTRO	 1,420.00
+
+	57	59	CENTRO	 2,840.00
+
+	59	61	CENTRO	 6,350.00
+
+	61	63	CENTRO	 15,040.00
+
+	63	65	CENTRO	 7,100.00
+
+	65	67	CENTRO	 4,260.00
+
+	67	69	CENTRO	 1,065.00
+
+	69	71	CENTRO	 852.00
+
+	71	73	CENTRO	 259.00
+
+64	47	57	CENTRO	 518.00
+
+SECCIÓN 1
+
+Calle	Tramo
+
+Colonia
+
+	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	57	59	CENTRO	 710.00
+
+	59	61	CENTRO	 915.00
+
+	61	63	CENTRO	 915.00
+
+	63	67	CENTRO	 1,320.00
+
+	67	69	CENTRO	 752.00
+
+	69	71	CENTRO	 376.00
+
+	71	73	CENTRO	 259.00
+
+66	47	53	CENTRO	 376.00
+
+	53	55	CENTRO	 376.00
+
+	55	57	CENTRO	 518.00
+
+	57	59	CENTRO	 702.00
+
+	59	65	CENTRO	 660.00
+
+	65	67	CENTRO	 710.00
+
+	67	69	CENTRO	 543.00
+
+	69	71	CENTRO	 330.00
+
+	71	73	CENTRO	 213.00
+
+66-A	61	63	CENTRO	 305.00
+
+68	47	53	CENTRO	 347.00
+
+	53	55	CENTRO	 376.00
+
+	55	61	CENTRO	 660.00
+
+	61	63	CENTRO	 518.00
+
+	63	65	CENTRO	 305.00
+
+	65	69	CENTRO	 259.00
+
+	69	71	CENTRO	 752.00
+
+	71	73	CENTRO	 188.00
+
+70	47	55-A	CENTRO	 355.00
+
+	55-A	57	CENTRO	 493.00
+
+	57	59	CENTRO	 1,630.00
+
+	59	65	CENTRO	 518.00
+
+	65	69	CENTRO	 451.00
+
+	69	71	CENTRO	 752.00
+
+	71	73	CENTRO	 213.00
+
+	COMPLEMENTO DE SECCIÓN	 177.50
+
+SECCIÓN 2
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+50	73	77	CENTRO	 230.00
+
+58	73	77	CENTRO	 230.00
+
+60	73	77	CENTRO	 255.00
+
+73	50	56	CENTRO	 177.50
+
+73	56	62	CENTRO	 252.50
+
+73	62	70	CENTRO	 177.50
+
+	COMPLEMENTO DE SECCIÓN	 177.50
+
+SECCIÓN 3
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+47	70	72	CENTRO	 355.00
+
+	72	74	CENTRO	 280.00
+
+	74	84-A	CENTRO	 202.50
+
+	84-A	Av. Itzáes	CENTRO	 263.00
+
+	Av. Itzáes	90	CENTRO	 202.50
+
+49	70	72	CENTRO	 263.00
+
+	72	74	CENTRO	 255.00
+
+	74	84-A	CENTRO	 202.50
+
+	84-A	Av. Itzáes	CENTRO	 238.00
+
+	Av. Itzáes	90-A	CENTRO	 202.50
+
+51	70	72	CENTRO	 213.00
+
+	72	74	CENTRO	 213.00
+
+	74	84-A	CENTRO	 202.50
+
+	84-A	Av. Itzáes	CENTRO	 238.00
+
+53	70	72	CENTRO	 238.00
+
+	72	74	CENTRO	 238.00
+
+	74	82	CENTRO	 202.50
+
+55	70	74	CENTRO	 238.00
+
+	74	82	CENTRO	 202.50
+
+57	70	72	CENTRO	 637.50
+
+	72	78	CENTRO	 202.50
+
+59	70	72	CENTRO	 915.00
+
+	72	74	CENTRO	 426.00
+
+	74	82	CENTRO	 319.50
+
+	82	Av. Itzáes	CENTRO	 457.50
+
+	Av. Itzáes	90	CENTRO	 263.00
+
+59-A	74-A	82	CENTRO	 227.50
+
+	82	Av. Itzáes	CENTRO	 280.00
+
+	Av. Itzáes	90	CENTRO	 319.50
+
+61	70	84	CENTRO	 202.50
+
+63	70	76	CENTRO	 202.50
+
+65	70	Av. Itzáes	CENTRO	 227.50
+
+	Av. Itzáes	90	CENTRO	 227.50
+
+65-A	76	Av. Itzáes	CENTRO	 202.50
+
+	Av. Itzáes	90	CENTRO	 227.50
+
+65-B	84	88-A	CENTRO	 202.50
+
+67	70	72	CENTRO	 238.00
+
+	72	80	CENTRO	 202.50
+
+	84	Av. Itzáes	CENTRO	 202.50
+
+	Av. Itzáes	90	CENTRO	 202.50
+
+70	47	55-A	CENTRO	 355.00
+
+	55-A	57	CENTRO	 493.00
+
+	57	59	CENTRO	 1,630.00
+
+	59	65	CENTRO	 518.00
+
+	65	69	CENTRO	 451.00
+
+	69	71	CENTRO	 752.00
+
+	71	73	CENTRO	 213.00
+
+72	47	57	CENTRO	 294.50
+
+	57	59	CENTRO	 965.00
+
+	59	61	CENTRO	 507.50
+
+	61	63	CENTRO	 280.00
+
+	63	73	CENTRO	 202.50
+
+74	47	73	CENTRO	 202.50
+
+74-A	47	59	CENTRO	 202.50
+
+SECCIÓN 3
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+76	47	73	CENTRO	 202.50
+
+78	47	73	CENTRO	 202.50
+
+80	47	73	CENTRO	 202.50
+
+82	47	59	CENTRO	 227.50
+
+	59	61	CENTRO	 361.50
+
+	61	73	CENTRO	 202.50
+
+84	47	59	CENTRO	 202.50
+
+	59	65	CENTRO	 294.50
+
+	65	73	CENTRO	 202.50
+
+86	47	59-A	CENTRO	 443.00
+
+	59-A	65	CENTRO	 564.00
+
+	65	73	CENTRO	 426.00
+
+90	47	59-A	CENTRO	 227.50
+
+	COMPLEMENTO DE SECCIÓN	 202.50
+
+SECCIÓN 4
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	ALCALÁ MARTÍN	 380.00
+
+33	50	52	CENTRO	 494.50
+
+33	52	54	CENTRO	 626.00
+
+33	54	56-A	CENTRO	 1,315.00
+
+35	50	56	CENTRO	 280.00
+
+35	56	56-A	CENTRO	 915.00
+
+35	56-A	60	CENTRO	 815.00
+
+45	56-A	58	CENTRO	 915.00
+
+45	58	60	CENTRO	 532.50
+
+45	60	62	CENTRO	 457.50
+
+45	62	64	CENTRO	 294.50
+
+45	64	Reforma	CENTRO	 213.00
+
+47	50	52	CENTRO	 284.00
+
+47	52	54	CENTRO	 284.00
+
+47	54	56	CENTRO	 355.00
+
+47	56	56-A	CENTRO	 852.00
+
+47	56-A	60	CENTRO	 1,086.00
+
+47	60	62	CENTRO	 752.00
+
+47	62	64	CENTRO	 468.00
+
+47	64	66	CENTRO	 330.00
+
+47	66	72	CENTRO	 355.00
+
+50	43	47	CENTRO	 225.00
+
+60	33	33-A	CENTRO	 1,115.00
+
+60	33-A	35	CENTRO	 737.50
+
+60	35	45	CENTRO	 557.50
+
+60	45	47	CENTRO	 752.00
+
+62	33	35	CENTRO	 507.50
+
+62	35	47	CENTRO	 336.50
+
+33-B	62	Reforma	CENTRO	 344.50
+
+33-C	62	Privada	CENTRO	 344.50
+
+27	56	58-A	ITZIMNÁ	 614.00
+
+27-A	56	56-A	ITZIMNÁ	 660.00
+
+	ITZIMNÁ	 539.00
+
+	LA HUERTA 	 355.00
+
+	SANTA CECILIA	 305.00
+
+	COMPLEMENTO DE SECCIÓN	 263.00
+
+SECCIÓN 5
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	EMILIANO ZAPATA NORTE	 476.00
+
+	FELIPE CARRILLO PUERTO NORTE	 355.00
+
+	FRACC. CAMPESTRE	 844.00
+
+	FRACC. JARDINES DE MÉRIDA	 476.00
+
+	FRACC. MONTECRISTO	 852.00
+
+	FRACC. PRADO NORTE	 380.00
+
+	FRACC. RESIDENCIAL COLONIA MÉXICO	 572.00
+
+	FRACC. RESIDENCIAL MONTECRISTO	 597.00
+
+	GUSTAVO DÍAZ ORDAZ	 334.00
+
+	ITZIMNÁ	 539.00
+
+	MÉXICO	 635.00
+
+	MÉXICO NORTE	 526.00
+
+	MÉXICO ORIENTE	 430.00
+
+	SAN ANTONIO CINTA 	 451.00
+
+	COMPLEMENTO DE SECCIÓN	 334.00
+
+SECCIÓN 6
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	ADOLFO LÓPEZ MATEOS	 284.00
+
+	FRACC. ARBOLEDAS	 263.00
+
+	FRACC. BRISAS	 355.00
+
+	FRACC. JARDINES DE MÉRIDA	 476.00
+
+	FRACC. SAN LUIS	 294.50
+
+	FRACC. SAN MIGUEL	 426.00
+
+	HÉCTOR VICTORIA	 263.00
+
+	JESÚS CARRANZA	 330.00
+
+	LAS PALMAS	 376.00
+
+	MIGUEL ALEMÁN	 401.00
+
+	NUEVO YUCATÁN	 284.00
+
+	PETKANCHÉ	 344.50
+
+	SAN ESTEBAN	 451.00
+
+	SAN JUAN GRANDE	 309.00
+
+	SAN NICOLÁS	 309.00
+
+	COMPLEMENTO DE SECCIÓN	 263.00
+
+SECCIÓN 7
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+47	48	50	CENTRO	 238.00
+
+48	55	59	CENTRO	 238.00
+
+50	43	57	CENTRO	 319.50
+
+50	57	59	CENTRO	 643.00
+
+55	46	48	CENTRO	 305.00
+
+55	48	50	CENTRO	 280.00
+
+	CHUMINOPOLIS	 202.50
+
+	ESPERANZA	 202.50
+
+	FRACC. DEL CARMEN	 202.50
+
+	FRACC. EL FÉNIX	 263.00
+
+	FRACC. VILLA FONTANA	 202.50
+
+	FRACC. WALLIS	 202.50
+
+	FRACC. WASPA	 202.50
+
+	INDUSTRIAL	 227.50
+
+	LÁZARO CÁRDENAS	 202.50
+
+	LOURDES INDUSTRIAL	 252.50
+
+	MÁXIMO ANCONA	 202.50
+
+	MAYAPÁN	 202.50
+
+	NUEVA MAYAPÁN	 202.50
+
+	COMPLEMENTO DE SECCIÓN	 202.50
+
+SECCIÓN 8
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+46	59	69	CENTRO	 202.50
+
+48	59	65	CENTRO	 238.00
+
+48	67	73	CENTRO	 182.50
+
+50	59	61	CENTRO	 319.50
+
+50	61	69	CENTRO	 557.50
+
+50	69	71	CENTRO	 280.00
+
+50	71	73	CENTRO	 202.50
+
+61	42	46	CENTRO	 202.50
+
+61	46	48	CENTRO	 202.50
+
+61	48	50	CENTRO	 228.00
+
+65	4 (Circuito colonias)	42	CENTRO	 213.00
+
+65	42	46	CENTRO	 275.50
+
+65	46	48	CENTRO	 694.00
+
+65	48	50	CENTRO	 1,165.00
+
+67	42	46	CENTRO	 187.50
+
+67	46	50	CENTRO	 441.00
+
+	CORTES SARMIENTO	 213.00
+
+	ESPERANZA	 202.50
+
+	FRACC. JARDINES MIRAFLORES	 288.00
+
+	FRACC. LOURDES	 200.50
+
+	MIRAFLORES	 213.00
+
+	COMPLEMENTO DE SECCIÓN	 177.50
+
+SECCIÓN 9
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	AZCORRA	 200.50
+
+	CANTO	 200.50
+
+42	73	77	CENTRO	 175.50
+
+44	73	77	CENTRO	 175.50
+
+46	73	77	CENTRO	 175.50
+
+48	73	77	CENTRO	 175.50
+
+50	73	77	CENTRO	 175.50
+
+	CINCO COLONIAS	 175.50
+
+	MARÍA LUISA	 200.50
+
+	SAN JOSÉ	 200.50
+
+	SANTA ROSA	 200.50
+
+	VICENTE SOLÍS	 213.00
+
+	COMPLEMENTO DE SECCIÓN	 200.50
+
+SECCIÓN 10
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	CASTILLA CÁMARA	 177.50
+
+	DELIO MORENO CANTÓN	 177.50
+
+	DOLORES OTERO	 177.50
+
+	MELITÓN SALAZAR	 177.50
+
+	MERCEDES BARRERA	 177.50
+
+	COMPLEMENTO DE SECCIÓN	 177.50
+
+SECCIÓN 11
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	CASTILLA CÁMARA	 177.50
+
+86	73	77	CENTRO	 426.00
+
+	FRACC. LOMAS DEL SUR	 177.50
+
+	FRACC. LOS REYES	 177.50
+
+	FRACC. MANZANA 115	 177.50
+
+	FRACC. NUEVA OBRERA	 177.50
+
+	FRACC. PEDREGALES DE CIRCUITO	 177.50
+
+	FRACC. RENACIMIENTO 1	 177.50
+
+	FRACC. SANTA MARÍA DE GUADALUPE	 177.50
+
+	LIBERTAD	 142.00
+
+	MULSAY	 177.50
+
+	NUEVA SAMBULÁ	 177.50
+
+	OBRERA	 177.50
+
+	SAMBULÁ	 177.50
+
+	COMPLEMENTO DE SECCIÓN	 177.50
+
+SECCIÓN 12
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	BOJÓRQUEZ	 213.00
+
+	FRACC. PRIVADA DEL CARMEN	 162.50
+
+	FRACC. SAN LORENZO	 162.50
+
+	FRANCISCO I. MADERO	 213.00
+
+	MULSAY	 177.50
+
+	XOCLÁN	 142.00
+
+	XOCLÁN SANTOS	 142.00
+
+	COMPLEMENTO DE SECCIÓN	 152.50
+
+SECCIÓN 13
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+45	Reforma	84-A	CENTRO	 213.00
+
+47	72	74	CENTRO	 255.00
+
+47	74	Itzáes	CENTRO	 213.00
+
+	FRACC. FUENTE DORADA	 177.50
+
+	FRACC. HACIENDA INN 	 284.00
+
+	FRACC. PASEO DE LAS FUENTES	 177.50
+
+	FRACC. PEDREGALES DE TANLUM	 284.00
+
+	FRACC. PRIVADA SAN PEDRO	 352.50
+
+	FRACC. VILLAS ZONA DORADA	 402.50
+
+	FRACC. X´COM	 354.50
+
+	GARCÍA GINERÉS	 394.50
+
+	INALÁMBRICA	 202.50
+
+	LUIS ECHEVERRÍA ÁLVAREZ	 204.50
+
+	MIGUEL HIDALGO	 213.00
+
+	PENSIONES	 334.00
+
+	REPARTO DOLORES PATRÓN PENICHE	 344.50
+
+	ROMA	 254.50
+
+	SAN DAMIÁN	 254.50
+
+	COMPLEMENTO DE SECCIÓN	 177.50
+
+SECCIÓN 14
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	AMPLIACIÓN PLAN DE AYALA	 597.00
+
+	BUENAVISTA	 794.00
+
+	CHUBURNÁ DE HIDALGO	 284.00
+
+	FELIPE CARRILLO PUERTO	 384.00
+
+	FRACC. ÁGUILAS CHUBURNÁ	 284.00
+
+	FRACC. BOULEVARES CHUBURNÁ	 334.00
+
+	FRACC. CAMPESTRE	 1,019.00
+
+	FRACC. COLONIAL BUENAVISTA	 284.00
+
+	FRACC. COLONIAL CHUBURNÁ	 284.00
+
+	FRACC. DEL NORTE 	 555.00
+
+	FRACC. EL CORTIJO	 284.00
+
+	FRACC. EL CORTIJO II	 284.00
+
+	FRACC. EL ROSARIO	 284.00
+
+	FRACC. JARDINES DE CHUBURNÁ	 284.00
+
+	FRACC. JOAQUÍN CEBALLOS MIMENZA	 284.00
+
+	FRACC. MÁLAGA	 284.00
+
+	FRACC. MONTEJO	 305.00
+
+	FRACC. PEDREGALES DE TANLUM	 284.00
+
+	FRACC. PRIVADA  LA HACIENDA	 284.00
+
+	FRACC. PRIVADA CHUBURNÁ DE HIDALGO	 284.00
+
+	FRACC. RESIDENCIAL LA NORIA	 284.00
+
+	FRACC. SAN JOSE CHUBURNÁ I	 334.00
+
+	FRACC. SAN JOSÉ CHUBURNÁ II	 334.00
+
+	FRACC. TECNOLÓGICO	 355.00
+
+	FRACC. VILLAS DE CHUBURNÁ	 284.00
+
+	FRACC. VILLAS PALMA REAL	 284.00
+
+	PLAN DE AYALA	 284.00
+
+	SAN VICENTE	 284.00
+
+	TANLUM	 213.00
+
+	VILLAS DE CHUBURNÁ VI	 284.00
+
+	YUCATÁN	 423.50
+
+	COMPLEMENTO DE SECCIÓN	 263.00
+
+SECCIÓN 15
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	AZCORRA	 175.50
+
+	FRACC. UNIDAD MORELOS	 177.50
+
+	MORELOS	 177.50
+
+	VICENTE SOLÍS	 188.00
+
+	COMPLEMENTO DE SECCIÓN	 175.50
+
+SECCIÓN 16
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	AMPLIACIÓN PLAN DE AYALA	 597.00
+
+	AMPLIACIÓN REVOLUCIÓN	 313.00
+
+	AMPLIACIÓN SODZIL	 463.00
+
+	BENITO JUÁREZ NORTE	 776.00
+
+	EMILIANO ZAPATA NORTE	 576.00
+
+	FRACC. CAMPESTRE	 1,019.00
+
+	FRACC. GONZALO GUERRERO	 810.00
+
+	FRACC. RESIDENCIAL SAN ANGGELO	718.00
+
+	FRACC. SAN RAMÓN	 755.00
+
+	FRACC. SAN RAMÓN NORTE	 755.00
+
+	FRACC. VILLAREAL	 1,126.00
+
+	FRACC. VILLAS DEL REY	 1,470.50
+
+	FRACC. VILLAS LA HACIENDA	 772.00
+
+	FRACC. XAMAN-KAB	 868.00
+
+	GONZALO GUERRERO	 860.00
+
+	MONTES DE AMÉ	 626.00
+
+	PRIVADA SODZIL	 970.50
+
+	REVOLUCIÓN	 344.50
+
+	SAN RAMÓN NORTE	 755.00
+
+	SODZIL NORTE	 313.00
+
+	COMPLEMENTO DE SECCIÓN	 263.00
+
+SECCIÓN 17
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	AMALIA SOLÓRZANO	 202.50
+
+	AMALIA SOLÓRZANO II	 142.00
+
+	BENITO JUÁREZ ORIENTE	 213.00
+
+	CHICHEN ITZÁ	 252.50
+
+	EMILIO PORTES GIL	 252.50
+
+	FRACC VERGEL I	 263.00
+
+	FRACC. AQUAPARQUE	263.00
+
+	FRACC. EL VERGEL	 263.00
+
+	FRACC. MISNE I	 263.00
+
+	FRACC. MISNE II	 263.00
+
+	FRACC. PASEOS DE VERGEL	 263.00
+
+	FRACC. SAN ANTONIO KAUA 	 238.00
+
+	FRACC. SAN PEDRO NOH PAT 	 117.00
+
+	FRACC. VERGEL	 263.00
+
+	FRACC. VERGEL 65	 263.00
+
+	FRACC. VERGEL II	 263.00
+
+	FRACC. VERGEL III C.T.M.	 263.00
+
+	FRACC. VERGEL IV	 263.00
+
+	FRANCISCO VILLA ORIENTE	 142.00
+
+	MIRAFLORES	 288.00
+
+	NUEVA CHICHEN ITZÁ	 252.50
+
+	SAN ANTONIO KAUA 	 263.00
+
+	SAN ANTONIO KAUA II	 238.00
+
+	SAN ANTONIO KAUA III	 213.00
+
+	SAN JOSÉ VERGEL 	 263.00
+
+	SAN PABLO ORIENTE	 202.50
+
+	COMPLEMENTO DE SECCIÓN	 192.00
+
+SECCIÓN 18
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	AMPLIACIÓN MIRAFLORES	 263.00
+
+	AMPLIACIÓN SALVADOR ALVARADO SUR	 217.00
+
+	AZCORRA	 225.50
+
+	CECILIO CHI	 92.00
+
+	FRACC. SAN ANTONIO KAUA 	 213.00
+
+	MARÍA LUISA	 225.50
+
+	MORELOS ORIENTE	 217.00
+
+	MULCHECHÉN	 156.50
+
+	NUEVA KUKULCÁN	 200.50
+
+	NUEVA SALVADOR ALVARADO SUR	 192.00
+
+	SALVADOR ALVARADO SUR	 192.00
+
+	SAN ANTONIO KAUA I	 238.00
+
+	SAN ANTONIO KAUA II	 238.00
+
+	SAN ANTONIO KAUA III	 238.00
+
+	SAN ANTONIO KAUA IV	 238.00
+
+	SAN JOSÉ TZAL	 47.00
+
+	COMPLEMENTO DE SECCIÓN	 67.00
+
+SECCIÓN 19
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	AMPLIACIÓN NUEVA MULSAY	 263.00
+
+	CIUDAD INDUSTRIAL	 288.00
+
+	FRACC. ÁLVARO TORRE DÍAZ	 192.00
+
+	FRACC. AMPLIACIÓN CIUDAD INDUSTRIAL.	 194.00
+
+	FRACC. HACIENDA MULSAY	 263.00
+
+	FRACC. JARDINES DE MULSAY	 263.00
+
+	FRACC. JARDINES DE NVA. MULSAY	 263.00
+
+	FRACC. JARDINES DE NVA. MULSAY II	 263.00
+
+	FRACC. JARDINES DE NVA. MULSAY III	 263.00
+
+	FRACC. LOL-BE	 192.00
+
+	FRACC. NUEVA MULSAY 	 263.00
+
+	FRACC. PASEOS DE OPICHEN	 167.00
+
+	MULSAY DE LA MAGDALENA	 213.00
+
+	NUEVA MULSAY 	 213.00
+
+	PLANTEL MÉXICO 	 213.00
+
+	SUSULÁ XOCLÁN	 202.50
+
+	XOCLÁN 	 202.50
+
+	COMPLEMENTO DE SECCIÓN	 177.50
+
+SECCIÓN 20
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	CINCO COLONIAS	 200.50
+
+	FRACC. BRISAS DE SAN JOSÉ	 200.50
+
+	FRACC. BRISAS DEL SUR	 200.50
+
+	FRACC. DEL SUR	 225.50
+
+	FRACC. LA  HACIENDA	 200.50
+
+	FRACC. PRIVADA ZAZIL-HA	 200.50
+
+	FRACC. SAN NICOLÁS DEL SUR	 225.50
+
+	FRACC. SERAPIO RENDÓN	 225.50
+
+	FRACC. SERAPIO RENDÓN II	 225.50
+
+	FRACC. SERAPIO RENDÓN III	 225.50
+
+	FRACC. VALLE DORADO 	 146.00
+
+	FRACC. VILLA MAGNA DEL SUR	 250.50
+
+	FRACC. VILLAS DEL SUR	 225.50
+
+	FRACC. ZAZIL-HA	 200.50
+
+	FRACC. ZAZIL-HA II	 200.50
+
+	MERCEDES BARRERA	 202.50
+
+	NUEVA SAN JOSÉ TECOH	 146.00
+
+	PLAN DE AYALA SUR	 142.00
+
+	SAN CARLOS DEL SUR II	 200.50
+
+	SAN JOSÉ TECOH	 146.00
+
+	SAN JOSÉ TECOH SUR	 146.00
+
+	SAN JOSÉ TECOH SUR II	 146.00
+
+	COMPLEMENTO DE SECCIÓN	 92.00
+
+SECCIÓN 21
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	EMILIANO ZAPATA SUR 	 121.00
+
+	EMILIANO ZAPATA SUR III	 121.00
+
+	FRAC. VALLE DORADO	 146.00
+
+	SAN ANTONIO XLUCH 	 121.00
+
+	SAN ANTONIO XLUCH Y NOCOH	 121.00
+
+	SAN JOSÉ TECOH SUR	 121.00
+
+	COMPLEMENTO DE SECCIÓN	 92.00
+
+SECCIÓN 22
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	DZUNUNCÁN	 47.00
+
+	EMILIANO  ZAPATA SUR	 121.00
+
+	EMILIANO ZAPATA SUR I Y II	 96.00
+
+	EMILIANO ZAPATA SUR III	 121.00
+
+	SAN ANTONIO XLUCH III	 96.00
+
+	COMPLEMENTO DE SECCIÓN	 71.00
+
+SECCIÓN 23
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	CARMELITAS	 192.00
+
+	FRACC. AMPLIACIÓN JUAN PABLO II	 263.00
+
+	FRACC. AMPLIACIÓN TIXCACAL OPICHÉN	 192.00
+
+	FRACC. BOSQUES DE MULSAY	 263.00
+
+	FRACC. BOSQUES DEL PONIENTE	 273.50
+
+	FRACC. JARDINES DE YUCALPETÉN	 323.50
+
+	FRACC. JUAN PABLO II	 263.00
+
+	FRACC. JUAN PABLO II 2DA. ETAPA	 263.00
+
+	FRACC. MULSAY 	 263.00
+
+	FRACC. NORA QUINTANA 	 263.00
+
+	FRACC. PASEO DE LAS CARMELITAS	 263.00
+
+	FRACC. TIXCACAL OPICHÉN	 238.00
+
+	FRACC. VILLA MAGNA	 217.00
+
+	FRACC. VILLA MAGNA II	 217.00
+
+	FRACC. VILLAS DE TIXCACAL	 217.00
+
+	FRACC. YUCALPETÉN 	 323.50
+
+	LA REJA	 213.00
+
+	NUEVA REFORMA AGRARIA	 202.50
+
+	XBECH	 192.00
+
+	XOCLÁN	 202.50
+
+	XOCLÁN CANTO	 213.00
+
+	XOCLÁN SANTOS	 192.00
+
+	COMPLEMENTO DE SECCIÓN	 202.50
+
+SECCIÓN 24
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	AMAPOLA	 225.50
+
+	AMPLIACIÓN PEDREGALES DE LINDAVISTA	 263.00
+
+	EL PORVENIR	 225.50
+
+	FRACC. FOVISSSTE	 284.00
+
+	FRACC. HACIENDA SAN ANTONIO	 263.00
+
+	FRACC. JARDINES DE LINDAVISTA	 263.00
+
+	FRACC. LAS VIGAS	 313.00
+
+	FRACC. LIMONES	 284.00
+
+	FRACC. LINDAVISTA	 263.00
+
+	FRACC. LINDAVISTA II	 263.00
+
+	FRACC. NUEVA MIGUEL HIDALGO	 313.00
+
+	FRACC. PALMAS  PENSIONES	 334.00
+
+	FRACC. PASEOS DE CHENKÚ	 309.00
+
+	FRACC. PASEOS DE PENSIONES 	 459.00
+
+	FRACC. PEDREGALES DE LINDAVISTA	 288.00
+
+	FRACC. PEDREGALES DE TANLUM	 384.00
+
+	FRACC. PENSIONES NORTE	 409.00
+
+	FRACC. RESIDENCIAL PENSIONES	 434.00
+
+	FRACC. RESIDENCIAL PENSIONES III ETAPA	 434.00
+
+	FRACC. RESIDENCIAL PENSIONES IV ETAPA	 434.00
+
+	FRACC. RESIDENCIAL PENSIONES V ETAPA	 459.00
+
+	FRACC. RESIDENCIAL PENSIONES VI ETAPA	 459.00
+
+	FRACC. RESIDENCIAL PENSIONES VII ETAPA	 459.00
+
+	FRACC. ZONA DORADA II	 434.00
+
+	FRANCISCO VILLA 	 284.00
+
+	HIDALGO	 288.00
+
+	JACINTO CANEK	 288.00
+
+	MIGUEL HIDALGO	 288.00
+
+	RESIDENCIAL DEL NORTE	 334.00
+
+	SAN FRANCISCO PORVENIR	 275.50
+
+	COMPLEMENTO DE SECCIÓN	 250.50
+
+SECCIÓN 25
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	CHUBURNÁ DE HIDALGO	 384.00
+
+	FELIPE CARRILLO PUERTO	 384.00
+
+	FRACC. AMPLIACIÓN FRANCISCO DE MONTEJO	 434.00
+
+	FRACC. ARCOS DEL SOL	 334.00
+
+	FRACC. BUGAMBILIAS	 434.00
+
+	FRACC. CÁMARA DE LA CONSTRUCCIÓN	 323.50
+
+	FRACC. CHUBURNÁ INN II	 334.00
+
+	FRACC. EL PRADO	 334.00
+
+	FRACC. FRANCISCO DE MONTEJO 	 459.00
+
+	FRACC. FRANCISCO DE MONTEJO II	 459.00
+
+	FRACC. FRANCISCO DE MONTEJO III	 459.00
+
+	FRACC. FRANCISCO DE MONTEJO IV ETAPA	 459.00
+
+	FRACC. FRANCISCO DE MONTEJO V	 484.00
+
+	FRACC. HACIENDA XCUMPICH	 484.00
+
+	FRACC. LA CASTELLANA	 484.00
+
+	FRACC. LAS MAGNOLIAS	 323.50
+
+	FRACC. LOMA BONITA	 484.00
+
+	FRACC. PASEO DEL CONQUISTADOR	 434.00
+
+	FRACC. PASEO DEL CONQUISTADOR II	 434.00
+
+	FRACC. PINZONES	 313.00
+
+	FRACC. PRIVADA LAS PALMAS	 484.00
+
+	FRACC. PUESTA DEL SOL	 334.00
+
+	FRACC. RINCONADA DE CHUBURNÁ	 334.00
+
+	FRACC. SAN ÁNGEL	 459.00
+
+	FRACC. SAN FRANCISCO  CHUBURNÁ	 334.00
+
+	FRACC. SAN FRANCISCO II	 334.00
+
+	FRACC. SAN LUIS	 338.00
+
+	FRACC. TERRANOVA	 434.00
+
+	FRACC. TULIAS DE CHUBURNÁ	 334.00
+
+	FRACC. VILLAS DE CHUBURNÁ VI	 334.00
+
+	FRACC. XCUMPICH	 323.50
+
+	JUAN B. SOSA	 363.00
+
+	MÉRIDA 	 334.00
+
+	PINZONES	 313.00
+
+	SAN FRANCISCO CHUBURNÁ 	 309.00
+
+	SAN VICENTE 	 309.00
+
+	UXMAL	 338.00
+
+	XCUMPICH	 348.50
+
+	COMPLEMENTO DE SECCIÓN	 263.00
+
+SECCIÓN 26
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	FRACC. ALTABRISA	 768.00
+
+	FRACC. MONTEALBÁN	 793.00
+
+	FRACC. MONTEBELLO	 768.00
+
+	FRACC. MONTECARLO	 705.00
+
+	FRACC. MONTECRISTO	 1,052.00
+
+	FRACC. MONTERREAL	 918.00
+
+	FRACC. MONTEVIDEO	 747.00
+
+	FRACC. RESIDENCIAL CÁMARA DE COMERCIO NORTE	 647.00
+
+	FRACC. RESIDENCIAL MONTECRISTO	 1,022.00
+
+	FRACC. RESIDENCIAL SAN ANTONIO	 818.00
+
+	FRACC. SAN CARLOS	 476.00
+
+	FRACC. VISTA  ALEGRE NORTE	 605.00
+
+	FRACC. XAMAN-TAN	 768.00
+
+	SAN ANTONIO CUCUL	 952.00
+
+	SANTA GERTRUDIS COPÓ	 267.00
+
+	SANTA RITA CHOLUL	 267.00
+
+	VISTA  ALEGRE	 530.00
+
+	COMPLEMENTO DE SECCIÓN	 392.00
+
+SECCIÓN 27
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	FRACC. AMPLIACIÓN PINOS DEL NORTE	 373.50
+
+	FRACC. DEL ARCO	 555.00
+
+	FRACC. FLORIDA NORTE	 534.00
+
+	FRACC. ITZIMNÁ POLÍGONO 108	 348.50
+
+	FRACC. JARDINES DE MÉRIDA	 626.00
+
+	FRACC. JARDINES DE VISTA ALEGRE	 555.00
+
+	FRACC. JARDINES DEL NORESTE	 359.00
+
+	FRACC. JARDINES DEL NORTE	 459.00
+
+	FRACC. JOSÉ MARIA ITURRALDE 	 313.00
+
+	FRACC. LA FLORIDA	 459.00
+
+	FRACC. PARAÍSO MAYA	 480.00
+
+	FRACC. PINOS DEL NORTE	 523.50
+
+	FRACC. PRIVADA LOS ÁLAMOS	 705.00
+
+	FRACC. REAL DE PINOS	 523.50
+
+	FRACC. RESIDENCIAL LOS PINOS	 405.00
+
+	GUSTAVO DÍAZ ORDAZ	 359.00
+
+	MAYA	 413.00
+
+	NUEVO YUCATÁN	 334.00
+
+	RESIDENCIAL DEL ARCO	 555.00
+
+	SAN PEDRO CHOLUL	 484.00
+
+	SANTA MARÍA	 338.00
+
+	SANTA MARÍA CHÍ	 225.00
+
+	VISTA ALEGRE	 555.00
+
+	COMPLEMENTO DE SECCIÓN	 313.00
+
+SECCIÓN 28
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	EMILIANO ZAPATA ORIENTE	 263.00
+
+	FRACC. ANTONIA JIMÉNEZ TRAVA 	 273.50
+
+	FRACC. ANTONIA JIMÉNEZ TRAVA II	 273.50
+
+	FRACC. BOULEVARES DE ORIENTE	 273.50
+
+	FRACC. BRISAS	 409.00
+
+	FRACC. BRISAS DEL BOSQUE	 348.50
+
+	FRACC. BRISAS DEL NORTE	 323.50
+
+	FRACC. POLÍGONO 108	 323.50
+
+	FRACC. POLÍGONO ITZIMNÁ 108	 323.50
+
+	LEANDRO VALLE	 275.50
+
+	SAN ÁNGEL 	 92.00
+
+	SAN VICENTE ORIENTE 	 273.50
+
+	UNIDAD HABITACIONAL  C.T.M.	 273.50
+
+	VICENTE GUERRERO	 275.50
+
+	COMPLEMENTO DE SECCIÓN	 225.50
+
+SECCIÓN 29
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	ÁVILA CAMACHO	 250.50
+
+4	47	51	ÁVILA CAMACHO 	 447.00
+
+	ÁVILA CAMACHO II	 250.50
+
+	FRACC. DEL PARQUE	 288.00
+
+4	51	59	FRACC. DEL PARQUE	 497.00
+
+	FRACC. FIDEL VELÁZQUEZ 	 263.00
+
+	LOS REYES	 250.50
+
+	MELCHOR OCAMPO	 250.50
+
+	MELCHOR OCAMPO II 	 250.50
+
+	NUEVA PACABTUN	 250.50
+
+	PACABTÚN	 263.00
+
+50	51	79	PACABTÚN	 373.50
+
+	SALVADOR ALVARADO ORIENTE 	 250.50
+
+	COMPLEMENTO DE SECCIÓN	 242.00
+
+SECCIÓN 30
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	EL ROBLE	 142.00
+
+	EL ROBLE AGRÍCOLA 	 142.00
+
+	EMILIANO ZAPATA SUR	 96.00
+
+	FRACC. ÁLVARO TORRE DÍAZ	 142.00
+
+	FRACC. CIUDAD INDUSTRIAL	 192.00
+
+	FRACC. LIBERTAD II	 192.00
+
+	FRACC. LOL-BE	 192.00
+
+	GRACIANO RICALDE	 142.00
+
+	MANUEL CRESENCIO REJÓN	 142.00
+
+	MERCEDES BARRERA	 177.50
+
+	SAN MARCOS NOCOH	 92.00
+
+	COMPLEMENTO DE SECCIÓN	 117.00
+
+SECCIÓN 31
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA TIXCACAL	 21.50
+
+	FRACC. AMPLIACIÓN CIUDAD INDUSTRIAL	 117.00
+
+	COMPLEMENTO DE SECCIÓN	 21.50
+
+SECCIÓN 32
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA TIXCACAL	 21.50
+
+	COMPLEMENTO DE SECCIÓN	 24.00
+
+SECCIÓN 33
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA DZITYA	 54.00
+
+	COMISARÍA SAN ANTONIO HOOL	 34.00
+
+	DZITYÁ POLÍGONO CHUBURNÁ	 117.00
+
+	FRACC. LAS AMERICAS MÉRIDA	 242.00
+
+	FRACC. REAL MONTEJO	 412.00
+
+	PARQUE INDUSTRIAL YUCATÁN	 284.00
+
+	PERIFÉRICO PONIENTE	 150.00
+
+	COMPLEMENTO DE SECCIÓN	 87.00
+
+SECCIÓN 34
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA TEMOZÓN NORTE	 179.00
+
+	NÚCLEO SODZIL	 217.00
+
+	COMPLEMENTO DE SECCIÓN	 197.50
+
+	COMPLEMENTO DE SECCIÓN II  privada laureles	 350.00
+
+	COMPLEMENTO DE SECCIÓN III resid. Del mayab	 400.00
+
+SECCIÓN 35
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA CHOLUL	 79.00
+
+	COMISARÍA TIXCUYTUN	 39.00
+
+	FRACC. CHOLUL	 150.00
+
+	FRACC. JALAPA	 213.00
+
+	FRACC. RESIDENCIAL CAMPESTRE VILADIÚ	 213.00
+
+	GRANJAS CHOLUL	 100.00
+
+	GUADALUPE CHOLUL	 24.00
+
+	SANTA GERTRUDIS COPÓ	 217.00
+
+	COMPLEMENTO DE SECCIÓN	 112.00
+
+SECCIÓN 36
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA CHICHÍ SUÁREZ	 79.00
+
+	COMPLEMENTO DE SECCIÓN	 71.00
+
+SECCIÓN 37
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	AMPLIACIÓN PLAN DE AYALA SUR	 92.00
+
+	COMISARÍA TAHZIBICHÉN	 39.00
+
+	COMISARÍA XMATKUIL	 39.00
+
+	GUADALUPANA	 92.00
+
+	JARDINES DE TAHZIBICHÉN	 39.00
+
+	LEONA VICARIO	 92.00
+
+	PLAN DE AYALA SUR	 92.00
+
+	COMPLEMENTO DE SECCIÓN	 39.00
+
+SECCIÓN 38
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA DZUNUNCAN	 39.00
+
+	COMPLEMENTO DE SECCIÓN	 24.00
+
+SECCIÓN 39
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA SANTA CRUZ PALOMEQUE	 49.00
+
+	COMPLEMENTO DE SECCIÓN	 21.50
+
+SECCIÓN 40
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA CHALMUCH	 29.00
+
+	COMPLEMENTO DE SECCIÓN	 26.50
+
+SECCIÓN 41
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA CAUCEL	 79.00
+
+	FRACC. CIUDAD CAUCEL	 123.00
+
+	FRACC. GRAN SANTA FE	 123.00
+
+	COMPLEMENTO DE SECCIÓN	 45.50
+
+SECCIÓN 42
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA CHEUMAN	 19.00
+
+	COMISARÍA NOC-AC	 19.00
+
+	COMISARÍA SAN MATIAS COSGAYA	 19.00
+
+	COMISARÍA SIERRA PAPACAL	 19.00
+
+	COMISARÍA SUYTUNCHÉN	 19.00
+
+	COMPLEMENTO DE SECCIÓN	 19.00
+
+SECCIÓN 43
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA DZIDZILCHÉ	 21.50
+
+	COMISARÍA KIKTEIL	 21.50
+
+	COMISARÍA KOMCHÉN	 21.50
+
+	FRACC. RESIDENCIAL XCANATÚN 	 655.00
+
+	COMPLEMENTO DE SECCIÓN	 40.50
+
+SECCIÓN 44
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA SAC-NICTÉ	 29.00
+
+	COMISARÍA SANTA MARIA YAXCHÉ	 29.00
+
+	COMISARÍA TAMANCHÉ	 29.00
+
+	COMISARÍA XCUNYA	 29.00
+
+	FRACC. MISNEBALAM 	 21.50
+
+	FRACC. MISNEBALAM II	 11.50
+
+	FRACC. TAMANCHÉ	 21.50
+
+	COMPLEMENTO DE SECCIÓN	 26.50
+
+SECCIÓN 45
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA CHABLEKAL	 39.00
+
+	COMISARÍA DZIBICHALTÚN	 39.00
+
+	COMISARÍA XCANATÚN	 39.00
+
+	FRACC. CEIBA	 668.00
+
+	FRACC. CEIBA II	 135.50
+
+	COMPLEMENTO DE SECCIÓN	 47.00
+
+SECCIÓN 46
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA SANTA MARIA CHI	 21.50
+
+	COMISARÍA SITPACH	 29.00
+
+	COMISARÍA YAXCHE CASARES	 21.50
+
+	COMPLEMENTO DE SECCIÓN	 24.00
+
+SECCIÓN 47
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA ON-CAN	 16.50
+
+	COMPLEMENTO DE SECCIÓN	 19.00
+
+SECCIÓN 48
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA DZOYAXCHE	 19.00
+
+	COMISARÍA HUNXECTAMAN	 19.00
+
+	COMISARÍA SAN IGNACIO TESIP	 19.00
+
+	COMISARÍA SAN PEDRO CHIMAY	 19.00
+
+	COMISARÍA YAXNIC	 19.00
+
+	COMPLEMENTO DE SECCIÓN	 19.00
+
+SECCIÓN 49
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA MOLAS	 16.50
+
+	COMISARÍA SAN JOSÉ TZAL	 16.50
+
+	COMISARÍA TEXAN CÁMARA	 16.50
+
+	FRACC. CHUNTUAK	 13.50
+
+	COMPLEMENTO DE SECCIÓN	 14.00
+
+SECCIÓN 50
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2 ($)
+
+	COMISARÍA PETAC	 16.50
+
+	COMISARÍA SAN ANTONIO TZACALÁ	 16.50
+
+	COMPLEMENTO DE SECCIÓN	 16.50
+
+II.- ………………
+
+CALLES Y AVENIDAS
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2
+
+CALLE 60	Avenida Cupules	Circuito colonias
+
+ $910.00
+
+	Circuito Colonias	Tecnológico
+
+ $1,086.00
+
+	Tecnológico	1-B (Gonzalo Guerrero)
+
+ $952.00
+
+	1-B (Gonzalo Guerrero)	C.U.M.
+
+ $1,170.00
+
+CIRCUITO COLONIAS	60 Norte	32
+
+ $1,670.00
+
+	Calle 32	28
+
+ $2,550.00
+
+	28	22 ( México Oriente)
+
+ $1,170.00
+
+	22 (México Oriente)	17 (Av. Alemán)
+
+ $810.00
+
+	17 ( Av. Alemán )	20 (Petkanché)	Avenida Alemán a Ex-Cohete	 $718.00
+
+	20 (Petkanché)	65	Ex-Cohete a Plaza Oriente	 $647.00
+
+	65	69	Plaza Oriente a Fuente Maya	 $555.00
+
+	69	28	Fuente Maya a Estadio Kukulcán	 $547.00
+
+	28	42 Sur	Kukulcán a 42 Sur	 $405.00
+
+	42 Sur	50 Sur
+
+ $426.00
+
+	50 Sur	60 Sur
+
+ $426.00
+
+	60 Sur	66 Sur
+
+ $426.00
+
+	66 Sur	Itzáes
+
+ $476.00
+
+	Itzáes	Jacinto Canek
+
+ $405.00
+
+	Jacinto Canek	I.M.S.S.-Juárez
+
+ $451.00
+
+	I.M.S.S.-Juárez	60 Norte	I.M.S.S.-Juarez a Enlace	 $1,115.00
+
+AVE. JACINTO CANEK	Itzáes	Circuito Colonias
+
+ $752.00
+
+	Circuito Colonias	Periférico
+
+ $610.00
+
+AVE. ALEMÁN	Perez Ponce	26 (Alemán)
+
+ $810.00
+
+	26 (Alemán)	36 (Pinos)	Avenida Alemán a Avenida Yucatán	 $860.00
+
+	36 (Pinos)	Periférico
+
+ $647.00
+
+33 AV. CUPULES	Montejo	60
+
+ $2,130.00
+
+CUPULES	60	72
+
+ $1,052.00
+
+	Reforma	Circuito Colonias
+
+ $860.00
+
+CALLES Y AVENIDAS
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2
+
+6 FELIPE CARRILLO PUERTO	17 (Ave. Alemán)	Circuito colonias
+
+ $760.00
+
+	Circuito Colonias	3 (Plaza Fiesta)
+
+ $852.00
+
+AVENIDA CORREA RACHO	3 (Plaza fiesta)	17 (Gasolinera)
+
+ $1,294.00
+
+	17 (Gasolinera)	14 (Bancarios)
+
+ $868.00
+
+	12 (Bancarios)	Periférico
+
+ $905.00
+
+MONTEJO	47	37
+
+ $2,740.00
+
+	37	Monumento a la Patria
+
+ $3,550.00
+
+	Monumento a la Patria	21 (Itzimná)	Monumento Patria a rieles del
+FF.CC.	 $3,050.00
+
+	21 (Itzimná)	Fuente de Circuito Col.  	Prolongación Montejo
+$2,000.00
+
+	Fuente de Circuito Col.  	49 (Villas La Hacienda)	Prolongación Montejo
+ $3,760.00
+
+	49 (Villas La Hacienda)	Paso a desnivel	Prolongación Montejo
+$4,510.00
+
+58-A	33	Monumento a la Patria	San Fernando a crucero Itzimná	 $1,586.00
+
+	Monumento a la Patria	21 (Itzimná)	Monumento Patria al crucero de
+Izimná.	 $1,000.00
+
+25 (ITZIMNÁ)	58	60 Norte
+
+ $768.00
+
+33-A (AV. COLÓN)	Montejo	60
+
+ $3,550.00
+
+	60	Av. Reforma
+
+ $2,004.00
+
+21	Reforma	Itzáes	Av. Colón	 $1,586.00
+
+56 DIAGONAL	Montejo	60 Norte	Av. Campo Deportivo	 $1,880.00
+
+AV. PEREZ PONCE	Montejo	 (Parque de Itzimná)
+
+ $1,336.00
+
+AV. REFORMA	Av. Cupules	35	Cupules a Monumento al Maestro	 $1,044.00
+
+	35	47
+
+ $618.00
+
+50	Av. Alemán	37
+
+ $936.00
+
+	37	47
+
+ $660.00
+
+56	35	47
+
+ $668.00
+
+58	35	47
+
+ $718.00
+
+AVE. ITZAES	Av. Colón	59-A
+
+ $1,010.00
+
+	59-A	65
+
+ $1,052.00
+
+	65	77
+
+ $910.00
+
+	77	Periférico
+
+ $676.00
+
+CALLES Y AVENIDAS
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2
+
+AVE. 21 (Col. México)	60 Norte	32
+
+ $1,520.00
+
+	32	28
+
+ $1,880.00
+
+	28	8 o 22 México Oriente
+
+ $1,115.00
+
+	8 o 22 México Oriente	6 (Díaz Ordaz)
+
+ $1,136.00
+
+	6 (Diaz Ordaz)	Av. Yucatán
+
+ $1,320.00
+
+AVENIDA CAMPESTRE.	Av. 21 (Col. México)	Prolongación Montejo
+
+ $1,670.00
+
+AVENIDA 9 (VILLAS DEL SOL)	60 Norte	Prolongación Montejo
+
+ $1,436.00
+
+AVENIDA 49 (VILLAS LA HACIENDA	Prolongación Montejo	Av. 52 (Benito
+Juárez)
+
+ $1,670.00
+
+	Av. 52 (Benito Juárez)	Av. 32
+
+ $1,352.00
+
+AVENIDA 37 (MONTEALBAN)	Avenida 32	24 (Montealban)
+
+ $1,536.00
+
+AVENIDA 18 (MONTECRISTO)	24 (Montealban)	14 (C. Comercio Norte)
+
+ $1,565.00
+
+AV. 18 (C. COMERCIO NORTE).	14 (C. Comercio Norte)	Monumento a las
+Haciendas
+
+ $1,068.00
+
+PERIFERICO	Carretera Progreso	Carretera Motul
+
+ $331.50
+
+	Carretera Motul	Carretera Valladolid
+
+ $221.00
+
+	Carretera Valladolid	Carretera Uman
+
+ $167.00
+
+	Carretera Uman	Carretera Caucel
+
+ $175.00
+
+	Carretera Caucel	Carretera Progreso
+
+ $225.00
+
+III.- ………………………..
+
+PLAZAS COMERCIALES
+
+Calle	Tramo
+
+Colonia	Terreno
+
+	de calle	a calle
+
+Valor Unitario por M2
+
+Tipo Económico
+
+Ubicación Óptima
+
+ $10,200.00
+
+Ubicación Media
+
+ $7,360.00
+
+Ubicación Menor
+
+ $4,350.00
+
+Tipo Medio
+
+Ubicación Óptima
+
+ $16,300.00
+
+Ubicación Media
+
+ $12,040.00
+
+Ubicación Menor
+
+ $7,360.00
+
+Tipo Superior
+
+Ubicación Óptima
+
+ $28,000.00
+
+Ubicación Media
+
+ $17,560.00
+
+Ubicación Menor
+
+ $12,540.00
+
+IV.- …………………….
+
+V.- …………………
+
+ARTICULO 55.- ……………:
+
+I.-  a VI.- ………………….
+
+VII.- La adquisición de vivienda de tipo económico, siempre y cuando
+el precio de
+
+venta no exceda de tres mil ochocientas veces el salario mínimo.
+
+ARTICULO 56.- La base del Impuesto Sobre Adquisición de Inmuebles,
+será el valor
+
+que resulte mayor entre el precio de adquisición, el valor contenido en
+la cédula
+
+catastral vigente y el valor contenido en el avalúo pericial  expedido
+por las
+
+autoridades fiscales, las instituciones de crédito, el Instituto de
+Administración y
+
+Avalúos de Bienes Nacionales, por corredor público, valuador con
+cédula profesional
+
+de postgrado en valuación expedida por la Secretaría de Educación
+Pública o perito
+
+valuador que se registre ante la Dirección de Finanzas y Tesorería
+Municipal, previo
+
+cumplimiento de los siguientes requisitos:
+
+a).- ……………..
+
+b).- ……………..
+
+…
+
+…
+
+I ANTECENDENTES:
+
+a).-……
+
+b).- Registro Municipal o cédula profesional
+
+c).- ……
+
+d).- Tipo de inmueble
+
+II UBICACIÓN:
+
+a).- a  e).- …..
+
+III REPORTE GRÁFICO:
+
+a).-Fotografías de fachada, calle de ubicación y 3 áreas interiores
+representativas.
+
+b).-Planta arquitectónica, planta de conjunto o croquis catastral
+debidamente acotado y
+
+que muestre el sembrado de las construcciones con relación al terreno.
+
+IV RESUMEN VALUATORIO
+
+a).- Terreno:
+
+a) …….	b) …….	c) ……
+
+b).- construcción:
+
+a) …….	b) …….	c) …….
+
+                          Valor …….
+
+V UNIDAD CONDOMINAL:
+
+a) ……	b) …….	c) ………
+
+Las autoridades fiscales ………………….
+
+Para los efectos……………...
+
+En la elaboración de los avalúos………………
+
+La Dirección del Catastro del Municipio de Mérida estará facultada
+para verificar la
+
+veracidad de la información contenida en los avalúos así como la
+correcta aplicación
+
+de la metodología y podrá solicitar aclaraciones al respecto y, en su
+caso, tomar las
+
+medidas pertinentes de sanción.
+
+Para cumplimiento de lo dispuesto en el párrafo anterior la Dirección
+de Finanzas y
+
+Tesorería Municipal remitirá los avalúos que reciba a la Dirección
+del Catastro del
+
+Municipio de Mérida.
+
+ARTICULO 74.- Los sujetos……………:
+
+I.- a IX.- …………….
+
+X.- Visitas de inspección de fosas sépticas.
+
+XI.- a  XIII.- ……………
+
+ARTICULO 77.- …
+
+Concepto	Veces de Salario Mínimo	Unidad
+
+I.- ………….
+
+a) a i).- ……
+
+II.- Por Factibilidad de Uso de Suelo
+
+a) Para establecimiento …………….
+
+	8	Constancia
+
+b) Para establecimiento………….	12	Constancia
+
+c). Para establecimiento con giro diferente a los mencionados en los
+incisos a), b), i),  j) y k)  de esta fracción.
+
+	1	Constancia
+
+d) a g).- …..
+
+h)  ………...
+
+	15	por radio base
+
+i) ……….
+
+	30	Constancia
+
+j) Para la instalación de  circos.
+
+	5	Constancia
+
+k) Para el establecimiento de  bancos de explotación de materiales.	30
+Constancia
+
+III.- a X.- ….
+
+XI.- Visitas de inspección:
+
+a) De fosas sépticas:
+
+1) Para el caso de desarrollo  de fraccionamiento o conjunto
+habitacional, cuando se requiera una segunda o posterior visita de
+inspección:
+
+10
+
+Visita
+
+2) Para los demás casos, cuando se requiera una  tercera o posterior
+visita de inspecció	10	Visita
+
+b) …………………………….
+
+c) Para la recepción de obras de infraestructura, en los casos en los
+que se requiera una  tercera o posterior  visita de inspección.	15
+Visita
+
+XII.- a XV.- …..
+
+XVI.- Revisión previa de proyectos de lotificación de
+fraccionamientos:
+
+a)  Por la segunda revisión
+
+	3	Constancia
+
+b) A partir de la tercera revisión:
+
+1.- De fraccionamientos de hasta 1 Hectárea.	5	Constancia
+
+2.- De fraccionamientos de más de 1 hasta 5 Hectáreas.	10	Constancia
+
+3.- De fraccionamiento de más de 5 hasta 20 Hectáreas.	15	Constancia
+
+4.- De fraccionamientos de más de 20 Hectáreas.	20	Constancia
+
+XVII.- Copia simple tamaño carta de licencias, constancias, recibos de
+pago o cualquier otra documentación contenida  en los expedientes de la
+Dirección de Desarrollo Urbano.	0.03	Hoja
+
+ARTICULO 81-A.- Los ejemplares y publicaciones en la Gaceta Municipal
+del Ayuntamiento de Mérida, causarán derechos conforme a lo siguiente:
+
+Concepto
+
+	Veces Salario Mínimo
+
+I.- Por ejemplar                                            	0.11
+
+II.-  Publicaciones, por:
+
+	a) Edictos, circulares, avisos o cualquiera que no pase de diez líneas
+de columna, por cada publicación
+
+1.50
+
+b) Cada palabra adicional	0.03
+
+c) Una plana	10.50
+
+d) Media plana	5.50
+
+e) Un cuarto de plana	3.00
+
+ARTICULO 88.- …
+
+I.- …
+
+a).- Por cada hoja simple tamaño carta de cédulas, planos de predios,
+formas de manifestación de traslación de dominio o cualquier otra
+manifestación.	0.3
+
+b).- y c).- ….
+
+	d).- Por cada hoja simple tamaño carta de Libro de Parcela con datos
+registrales.	2.0
+
+II.- …
+
+a).- Cédulas, planos, manifestaciones (tamaño carta) cada una	0.5
+
+b).- ………………….:
+
+	c).- …………………..
+
+	d).- …………………
+
+	e).- Libro de Parcela con datos registrales.	3.0
+
+III.- …
+
+a).- ……………..:
+
+	b).- Unión:
+
+	1. De 1 hasta 4 predios	3.0
+
+2. De 5 hasta 20 predios	5.0
+
+3. De 21 hasta 40 predios	7.0
+
+4. De 41 predios en adelante	10.0
+
+c).- Urbanización y cambio de nomenclatura:	1.0
+
+d).- a  i).- …
+
+	j).- Rectificación de medidas	4.0
+
+IV.- y V.- ….
+
+	VI.- ……………………..
+
+	a).- ……….
+
+	b).- Para la elaboración ……….	20.0
+
+VII.- Por los trabajos de topografía ……………..:
+
+a).- y b).-…
+
+…
+
+a).- …
+
+b).- Cuando se trate ………..	0.070
+
+ARTICULO 88 A.-  El derecho al que se refiere el inciso d) de la
+fracción III del artículo
+
+88, se considerará reducido en un 50% cuando la emisión de la cédula
+catastral se
+
+derive de licencia para construcción con superficie de hasta 40 m2 y la
+solicitud de
+
+expedición de la cédula catastral se realice dentro de un plazo no
+mayor de 60 días
+
+naturales contados a partir del día siguiente a la fecha de expedición
+de la licencia de
+
+construcción.
+
+ARTICULO 94.- …
+
+I.- a  V.- …
+
+VI.- Impresión de planos  a nivel  manzana, fraccionamiento, sección
+catastral o de la ciudad:
+
+a).- a  d).-….
+
+	VII.-Trabajos de referencia……. 	14.0 salarios
+
+VIII.-  a X.-…
+
+ARTICULO 95.- Son sujetos al pago de los derechos  establecidos en esta
+sección las
+
+personas que usen y aprovechen los bienes del dominio público del
+patrimonio
+
+municipal.
+
+ARTICULO 96.- La base para determinar el importe de estos derechos será
+el número
+
+de metros cuadrados usados y aprovechados por la persona obligada al
+pago.
+
+ARTÍCULO 97.- Los derechos establecidos en esta sección, será pagados
+
+mensualmente de conformidad con lo siguiente:
+
+I.- Por el uso de espacios en la vía o parques públicos: 10 salarios
+mínimos por metro
+
+cuadrado.
+
+II.- Por el uso y aprovechamiento  de locales o piso en los mercados
+públicos
+
+propiedad del  Municipio  0.27 salario mínimo por metro cuadrado.
+
+Cuando el contribuyente pague los derechos a que se refiere esta
+fracción II
+
+correspondientes a una anualidad, durante los meses de enero y febrero
+del año
+
+vigente de que se trate, gozará de una bonificación del  0.10 sobre el
+importe a pagar
+
+de dichos derechos.
+
+No obstante lo señalado en el primer párrafo  tratándose de los
+Mercados sobre
+
+Ruedas, cada oferente realizará el pago del derecho el día que use y
+aproveche el
+
+espacio determinado. El importe de ese derecho será el que resulte de
+dividir la cuota
+
+mensual prevista en la fracción I  de este artículo entre 30 por el
+número de metros
+
+cuadrados de dicho espacio.
+
+De la renuncia y otorgamiento de concesiones,  y permisos
+
+ARTICULO 98.- …
+
+…
+
+Por el permiso para realizar el comercio ambulante, se pagará un
+derecho de 0.18 de
+
+un salario mínimo por día.
+
+ARTICULO 98-A.- El pago de los derechos establecidos en la presente
+sección será
+
+posterior a la obtención de la autorización que otorgue la autoridad o
+dependencia
+
+municipal que corresponda.
+
+Sección Octava
+
+Derechos por el Servicio Público de Panteones
+
+ARTICULO 100.- Los derechos a que se refiere esta sección por los
+conceptos a los que se refiere el Reglamento del Servicio Público de
+Panteones del Municipio de Mérida y demás servicios conexos, se
+pagarán de conformidad con la siguiente tarifa:
+
+I.- Por el uso ………………..
+
+	II.- Por el permiso…………….
+
+	III.- Por otorgar la concesión de uso de temporalidad mínima de:
+
+a) Bóveda Grande	10.65 salarios
+
+b) Bóveda chica	4.65 salarios
+
+IV.- Por otorgar la concesión de uso de temporalidad máxima de
+bóvedas, criptas, fosas o tumbas y osarios que se encuentren dentro de
+los panteones o cementerios públicos municipales:
+
+a) a la c).- ….
+
+V.-  y VI.- …
+
+VII.-Por el registro de cambio de titular y su correspondiente
+expedición de titulo de concesión de uso a perpetuidad o a
+temporalidad máxima, cuando haya sido adquirida por herencia, legado o
+mandato judicial.
+
+3.5 salarios
+
+VIII.- Por el permiso temporal para establecer puestos semi-fijos para
+realizar actividades autorizadas en el interior de los panteones
+públicos, por día.
+
+1 salario
+
+IX.- Por el otorgamiento de la concesión para operar un panteón
+particular, por cada año concesionado.
+
+400 salarios
+
+X.- Por el otorgamiento de la concesión para operar un crematorio
+particular, por cada año concesionado.
+
+400 salarios
+
+ARTICULO 101-A.- …
+
+El Director de Gobernación o el Director de Desarrollo Social a fin de
+solicitar la
+
+disminución que se señala en el párrafo anterior, deberá tomar en
+consideración el
+
+estudio socioeconómico que para tal efecto realice la  dependencia
+correspondiente.
+
+ARTÍCULO 126.- …
+
+Los usuarios de los servicios señalados en esta sección que paguen en
+una sola exhibición el importe anual por este servicio, gozarán de las
+siguientes  bonificaciones de la tarifa que corresponda, siempre que
+dicho pago se realice durante los meses que a continuación se señalan:
+
+               Mes de pago
+
+               Enero
+
+               Febrero
+
+               Marzo	Bonificación
+
+0.15
+
+0.10
+
+0.05
+
+Artículo 129-D.-  Serán las bases para el cobro de este derecho las
+siguientes:
+
+I. Para los predios que cuenten con  medidor volumétrico en su toma de
+agua: El consumo en metros cúbicos.
+
+II. Para los predios que no cuenten con medidor volumétrico en su toma
+de agua: Por cada toma de agua instalada.
+
+III. Por la contratación para la conexión de un predio a la red de
+Agua Potable Municipal: Por la toma de agua.
+
+ARTÍCULO 129-E.- Los derechos por los servicios a que se refiere la
+presente sección
+
+se pagarán de conformidad con lo siguiente:
+
+Por el consumo de agua potable de aquellos predios que  cuentan con
+
+medidor volumétrico, se pagara conforme a las siguientes tablas:
+
+a) Para el caso de consumo para uso doméstico,
+
+Límites
+
+(metro cúbico)	Cuota Base	Cuota por metro cúbico
+
+De    0	  a            20	12 pesos	0.00 pesos
+
+De   21	  a    9999999	  0.00 pesos	1.40 pesos
+
+b) Para el caso de consumo para uso comercial e industrial,
+
+Límites
+
+(metro cúbico)	Cuota Base	Cuota por metro cúbico
+
+De    0	  a            20	38.50 pesos	0.00 pesos
+
+De   21	  a    9999999	  0.00 pesos	1.91 pesos
+
+Por el consumo de agua potable de aquellos predios en los cuales no se
+
+haya instalado medidor volumétrico, se pagara una cuota mensual de 11
+
+pesos.
+
+III. Por la contratación para la conexión de toma de agua, se pagara
+una cuota de
+
+250 pesos.
+
+Artículo 129-F.- …
+
+Cuando el Municipio de Mérida realice la reconexión de los servicios
+de agua potable, con motivo de la  reducción o suspensión del servicio
+de agua potable a que se hizo acreedor el usuario que adeudó las cuotas
+establecidas en el artículo 129-E, el usuario  deberá  pagar una cuota
+de 110 pesos por concepto de reconexión.
+
+ARTICULO 142.- …
+
+I.- Por arrendamiento, explotación, o aprovechamiento de bienes muebles
+e
+
+inmuebles, del patrimonio municipal, en actividades distintas a la
+prestación directa por
+
+parte del Municipio de un servicio público.
+
+II.- a VI.- …
+
+VII.- Por la enajenación y venta de bases para participar en
+procedimientos de
+
+licitación pública o de invitación.
+
+VIII.- ……………
+
+ARTICULO 149.- Los productos que percibirá el Municipio por los daños
+que sufrieren
+
+las vías públicas o los bienes de su propiedad, serán cuantificados
+de acuerdo al
+
+peritaje que se elabore al efecto, sobre los daños sufridos. El perito
+será designado
+
+por la Dirección de Gobernación del Ayuntamiento del Municipio de
+Mérida.
+
+ARTICULO 150-B.-  …
+
+No obstante lo anterior, el importe de los honorarios por notificación
+no excederá del
+
+que resulte de la determinación del crédito fiscal derivado de la
+obligación omitida
+
+requerida.
+
+Tratándose de los honorarios………………….
+
+Artículo 150-C.- Los honorarios por notificación mencionados en el
+artículo inmediato
+
+anterior, no serán objeto de exención, disminución, condonación o
+convenio; del total
+
+de las cantidades cobradas por este concepto se distribuirán de la
+siguiente forma:
+
+I.- El 0.70, para el personal adscrito y personal por programas de la
+Dirección de
+
+Finanzas y Tesorería Municipal, y
+
+II.- El 0.30, para invertir en equipo y herramientas necesarias para
+fortalecer el
+
+ejercicio de las funciones fiscales.
+
+Lo dispuesto en este artículo aplicará únicamente en el caso de las
+notificaciones
+
+personales realizadas por el personal señalado en la fracción I.
+
+ARTICULO 161.- …
+
+ a    IV.-  ……
+
+V.-  Multa de 50 a 60 salarios mínimos, a la establecida en el inciso
+i) y j).
+
+…
+
+…
+
+…
+
+T R A N S I T O R I O S:
+
+ARTICULO PRIMERO.- Este decreto entrará en vigor el día 1 de enero de
+2008, previa
+
+su  publicación en el Diario Oficial del Gobierno del Estado de
+Yucatán.
+
+ARTICULO SEGUNDO.- Los avalúos que se practiquen para efectos del pago
+del
+
+Impuesto sobre Adquisición de Bienes Inmuebles en el período
+comprendido entre el 1
+
+de enero y el 30 de junio del ejercicio 2008 deberán contener la
+información necesaria
+
+a fin de que se cumpla con lo dispuesto en el artículo 56.
+
+Durante el período comprendido del 1 de enero y el 30 de junio del
+ejercicio 2008 se
+
+aceptarán los avalúos practicados con anterioridad al 1 de enero de
+2008, siempre  y
+
+cuando se encuentren vigentes en los términos del artículo 57, en
+dicho caso el
+
+resumen valuatorio  podrá contener únicamente las características a
+que se refiere el
+
+texto del artículo 56 vigente al 31 de diciembre de 2007.
+
+ARTICULO TERCERO.- Los derechos establecidos en la Sección Décima
+Tercera del
+
+Capítulo II del Título Segundo de la Ley de Hacienda del Municipio de
+Mérida, serán
+
+aplicados únicamente en las áreas del Municipio de Mérida, por las
+cuales el Ejecutivo
+
+del Estado le haya transferido al Municipio atribuciones en materia de
+vialidad, tránsito,
+
+y de seguridad pública.
+
+ARTICULO CUARTO.- Si durante el ejercicio fiscal 2008 fueran modificadas
+en sesión
+
+de cabildo, las tarifas para la prestación del Servicio de Recolección
+y Traslado de
+
+Residuos Sólidos no Peligrosos o Basura; las cuotas establecidas en la
+Sección
+
+Décima Sexta del Capítulo II del Título Segundo, se verán
+incrementadas o en su caso
+
+decrementadas, en la misma proporción que las tarifas autorizadas, lo
+sean para
+
+dichos concesionarios.
+
+ARTICULO  QUINTO- Durante los ejercicios fiscales 2008, 2009 y 2010, se
+les otorga
+
+un estímulo a los contribuyentes del impuesto predial, que lo causen
+conforme a la
+
+base del valor catastral, de acuerdo a lo siguiente:
+
+I.- Se determinará el valor catastral que corresponda al inmueble
+conforme a las tablas
+
+de valores vigentes para el año 2008.
+
+II.- Se determinará el valor catastral que corresponda al inmueble
+conforme a las
+
+tablas de valores vigentes durante el año 2007.
+
+III.- Si el valor catastral del inmueble determinado en la fracción I
+de este artículo no
+
+excede de un importe de $310,000.00, se considerará como base del
+impuesto predial
+
+en su modalidad valor catastral para el cálculo del impuesto
+correspondiente a los
+
+meses comprendidos en el período de enero 2008 a diciembre 2010, el
+valor
+
+determinado conforme a la fracción II. En caso de que el valor
+catastral del inmueble
+
+determinado en la fracción I de este artículo exceda de un importe de
+$310,000.00, se
+
+considerará como base del impuesto predial en su modalidad valor
+catastral para el
+
+cálculo del impuesto correspondiente a los meses comprendidos en el
+período de
+
+enero 2008 a diciembre 2010, el valor determinado conforme a la
+fracción I.
+
+ARTÍCULO  SEXTO- Para el ejercicio fiscal 2008, en vez de aplicar lo
+dispuesto en el
+
+segundo párrafo del artículo 46, las bonificaciones se otorgarán de
+conformidad con la
+
+siguiente tabla:
+
+Mes en el que se paga el equivalente a una anualidad	Factor de
+bonificación
+
+Enero	0.12
+
+Febrero	0.10
+
+Marzo	0.08
+
+Para estos efectos, los contribuyentes que paguen el importe
+correspondiente a una
+
+anualidad en el mes de marzo no pagarán actualización y recargos sobre
+el impuesto
+
+correspondiente a los meses de enero y febrero del año 2008.
+
+ARTÍCULO SEPTIMO.-  En materia de impuesto predial, se otorga un
+estímulo
+
+consistente en el acreditamiento del monto de la inversión realizada en
+inmuebles
+
+ubicados dentro de los perímetros “A”, “B-1”, “B-2”,
+“B-3” y “B-4” de la zona de
+
+monumentos históricos en la ciudad de Mérida, demarcados en el Decreto
+
+Presidencial de Declaratoria de Zona de Monumentos Históricos,
+publicado en el
+
+Diario Oficial de la Federación el 18 de Octubre de 1982, contra el
+impuesto predial
+
+causado en los períodos comprendidos de enero 2008 a diciembre 2010,
+siempre y
+
+cuando los trabajos fueren iniciados y concluidos durante el  ejercicio
+2008 y se
+
+encuentre cubierto en su totalidad el impuesto predial, causado hasta
+por el período de
+
+Diciembre 2007; de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos
+de
+
+rescate, consolidación, restauración, o rehabilitación integral de
+inmuebles que se
+
+encuentren sin uso, al menos durante los seis meses inmediatos
+anteriores
+
+consecutivos, o en estado de abandono, y que dichos trabajos recuperen
+la
+
+habitabilidad de dicho bien, y
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos
+de
+
+integración al contexto en inmuebles distintos a los señalados como
+monumentos
+
+históricos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo transitorio se entenderá por:
+
+I.- Acreditamiento, el restar del impuesto causado en el mes que
+corresponda un
+
+importe igual de la inversión; la diferencia resultante entre el
+impuesto causado y el
+
+acreditamiento derivado del estímulo, en caso de que éste fuere menor,
+deberá ser
+
+pagada. La suma de los acreditamientos aplicados no podrá ser mayor del
+monto de la
+
+inversión a que se refiere el párrafo siguiente de este artículo.;
+
+II.- Rescate, la recuperación de elementos que hubieren sido mutilados
+o alterados;
+
+III.- Consolidación, cuando se devuelve la estabilidad a partir de lo
+existente;
+
+IV Restauración, cuando se reincorpora algún elemento original, o con
+características
+
+similares al original; y
+
+V.- Integración al contexto, cuando se lleve a cabo un proyecto que
+permita incorporar
+
+al predio en cuestión con las características de su entorno.
+
+VI.- Rehabilitación integral, el conjunto de trabajos, en interior y
+exterior, respetuosos
+
+de las características originales del inmueble que conlleve a su
+habitabilidad, y en
+
+consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente deberá obtener de la
+Dirección de
+
+Desarrollo Urbano, un dictamen aprobatorio en el cual se determine el
+importe de la
+
+inversión en los trabajos, que podrá considerarse en la aplicación
+del estímulo.
+
+La Dirección de Desarrollo Urbano emitirá un acuerdo por medio del
+cual se
+
+establezcan los requisitos que deban cubrirse, para considerarse la
+inversión como
+
+realizable en los trabajos de rescate, consolidación, restauración,
+integración al
+
+contexto, o rehabilitación integral.
+
+Una vez concluidos los trabajos señalados en el proyecto aprobatorio,
+el contribuyente
+
+obtendrá constancia de ello emitida por la Dirección de Desarrollo
+Urbano. Con en
+
+base los importes señalados en dicha constancia podrá aplicarse el
+estímulo a que se
+
+refiere este artículo.
+
+De no concluirse en su totalidad los trabajos determinados en el
+proyecto por el cual
+
+se obtuvo dictamen en los plazos que el mismo señale, se considerará
+que el
+
+contribuyente ha perdido los beneficios a que se refiere el presente
+artículo.
+
+La aplicación del estímulo a que se refiere este artículo no libera
+al contribuyente del
+
+cumplimiento de las demás obligaciones relacionadas con el impuesto
+predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este
+artículo, dará lugar a
+
+devolución de cantidad alguna.
+
+ARTÍCULO OCTAVO.- Se derogan todas las disposiciones de los reglamentos
+
+municipales que se opongan a la presente ley.
+
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN
+
+LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A
+
+LOS QUINCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE.-
+
+PRESIDENTE DIPUTADO MARCO ALONSO VELA REYES.- SECRETARIO
+
+DIPUTADO MARTÍN ENRIQUE CASTILLO RUZ.- SECRETARIO DIPUTADO
+
+CORNELIO AGUILAR PUC.- RÚBRICAS.”
+
+Y, POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU
+
+CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
+
+DADO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE MÉRIDA,
+
+YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS QUINCE DÍAS DEL
+
+MES DE DICIEMBRE DEL AÑO DOS MIL SIETE.
+
+( RÚBRICA )
+
+C. IVONNE ARACELLY ORTEGA PACHECO
+
+GOBERNADOR DEL ESTADO
+
+                        ( RÚBRICA )
+
+C. ROLANDO RODRIGO ZAPATA BELLO
+
+SECRETARIO GENERAL DE GOBIERNO
+
+PAGINA   PAGE  48
+                                       DIARIO  OFICIAL          MERIDA,
+YUC., MIERCOLES 19 DE DICIEMBRE DE 2007.
+
+MERIDA, YUC., MIERCOLES 19 DE DICIEMBRE DE 2007.                DIARIO
+OFICIAL
+                       PAGINA   PAGE  49
+
+Publicación periódica: Permiso No. 0100921
+
+Características: 111182816. Autorizado por SEPOMEX
+
+DEL GOBIERNO DEL ESTADO
+
+ DE YUCATAN.
+
+DIARIO OFICIAL
+
+Dirección: Calle 90 No. 498-A entre 61 A y 63
+
+Colonia Bojórquez, (Complejo de Seguridad Jurídica)
+
+Mérida, Yucatán. C.P. 97240. TEL: 930-30-23.
+
+DIRECTOR: LIC. SALVADOR SOLORZA CASTILLO.
+
+AÑO CX    MERIDA, YUC., MIERCOLES 19 DE DICIEMBRE DE 2007.    NUM.
+31,004

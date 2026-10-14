@@ -1,0 +1,633 @@
+---
+titulo: "Ley de Coordinación en Materia de Zonas Económicas Especiales y Áreas de Influencia del Estado de Campeche."
+tipo: "Ley"
+estado: "Campeche"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "24 de Febrero de 2017"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "76288"
+---
+DECRETO
+
+La LXII Legislatura del Congreso del Estado de Campeche decreta:
+
+NÚMERO 139
+
+# Único.- Se expide la Ley de Coordinación en materia de Zonas
+Económicas Especiales y Áreas de Influencia del Estado de Campeche,
+para quedar como sigue:
+
+Ley de Coordinación en materia de Zonas Económicas Especiales y Áreas
+de Influencia del Estado de Campeche.
+
+CAPÍTULO I
+
+DEL OBJETO DE LA LEY Y LAS DEFINICIONES
+
+Artículo 1.- La presente Ley es de orden público, interés social, de
+observancia general en el Estado de Campeche, y tiene por objeto
+determinar los lineamientos generales de coordinación, participación y
+colaboración del Estado y los Municipios en la implementación,
+desarrollo y permanencia de las Zonas Económicas Especiales y sus
+Áreas de Influencia que se establezcan de conformidad con la Ley
+Federal de Zonas Económicas y su Reglamento, respetando las bases de
+coordinación que en materia municipal se determinan en la Constitución
+Política de los Estados Unidos Mexicanos.
+
+Artículo 2.- Cuando se establezcan Zonas Económicas Especiales en
+territorio estatal, el Estado y los Municipios que correspondan, en el
+ámbito de sus competencias, y en el marco de la coordinación con la
+Federación prevista en la Ley Federal de Zonas Económicas Especiales y
+en la presente Ley, con la participación que corresponda a los sectores
+privado y social, suscribirán Convenios de Coordinación y
+participarán en la elaboración y ejecución de Programas de Desarrollo
+con el objeto de establecer políticas públicas y acciones que, con un
+enfoque integral y de largo plazo, permitan el adecuado establecimiento,
+desarrollo y operación de las Áreas de Influencia que circunden las
+Zonas Económicas Especiales establecidas en el Estado.
+
+Artículo 3.- Para los efectos de esta Ley se entiende por:
+
+Actividades Económicas Productivas: Las actividades que se podrán
+realizar en la Zona Económica Especial y en su Área de Influencia que
+resulten necesarias para el cumplimiento de los objetivos propios de
+dicha Zona, entre las que se mencionan de manera enunciativa pero no
+limitativa: la prestación de servicios que brinden soporte a las
+actividades económicas, servicios logísticos, financieros,
+informáticos, de alimentación, hospedaje, transporte y profesionales,
+así como la introducción de mercancías para tales efectos;
+
+Administrador Integral: La persona moral o paraestatal que fungirá como
+desarrollador y operador de la Zona y, con tal carácter, tendrá a su
+cargo coordinar la construcción, desarrollo, administración y
+mantenimiento de la misma, incluyendo los servicios asociados o, en su
+caso, la tramitación de éstos ante las instancias correspondientes. La
+designación del Administrador Integral se realizará por la Autoridad
+Federal en los términos establecidos en la Ley Federal;
+
+Área de Influencia: Las poblaciones urbanas y rurales aledañas o
+colindantes a la Zona, susceptibles de percibir beneficios económicos,
+sociales y tecnológicos, entre otros, derivados de las actividades
+realizadas en la Zona Económica Especial, y de las políticas y
+acciones complementarias previstas en el Programa de Desarrollo, donde
+además se apoyará el desarrollo de servicios logísticos, financieros,
+turísticos, tecnológicos, entre otros, que sean complementarios a las
+actividades económicas de la Zona Económica Especial;
+
+Autoridad Estatal: La Secretaría de Desarrollo Económico de la
+administración pública Estatal, por sí o a través de la unidad
+administrativa, organismo desconcentrado o descentralizado que determine
+el Gobernador del Estado;
+
+Autoridad Federal: La Autoridad Federal para el Desarrollo de las Zonas
+Económicas Especiales, órgano administrativo desconcentrado de la
+Secretaría de Hacienda y Crédito Público;
+
+Carta de Intención: El documento que contiene el acto jurídico
+mediante el cual los titulares del Gobierno Estatal y de los Municipios
+otorgan su consentimiento para el establecimiento de la Zona y se
+comprometen a realizar las acciones necesarias para dicho
+establecimiento;
+
+Consejo Técnico de la Zona: El órgano colegiado de cada Zona integrado
+por representantes de los sectores privado y social, cuyo objeto es dar
+seguimiento permanente a la operación de la Zona y sus efectos en el
+Área de Influencia;
+
+Dictamen: La resolución técnica previa con base en la cual la
+Autoridad Federal determina la viabilidad del establecimiento y
+desarrollo de una Zona;
+
+Convenio de Coordinación: El instrumento suscrito entre la Federación,
+el Poder Ejecutivo del Estado y los Municipios en cuya jurisdicción se
+ubique la Zona Económica Especial y su Área de Influencia, en el que
+se establecerán las obligaciones de los tres órdenes de gobierno para
+el establecimiento y desarrollo de la Zona y su Área de Influencia;
+
+Declaratoria de la Zona Económica Especial y de su Área de Influencia:
+El acto jurídico mediante el cual el Presidente de la República
+determina el establecimiento de una Zona y su Área de Influencia;
+
+Evaluación Estratégica: El proceso sistemático de análisis realizado
+por la Autoridad Federal para el desarrollo de las Zonas Económicas
+Especiales, en coordinación con las Dependencias y Entidades de la
+administración pública federal,  el Gobierno del Estado y de los
+Municipios, sobre la situación e impacto sociales y ambientales
+respecto de la Zona y su Área de Influencia;
+
+Inversionista: La empresa, que puede ser una persona física o moral,
+nacional o extranjera, autorizada para realizar actividades económicas
+productivas en el Área de Influencia de una Zona Económica Especial;
+
+Infraestructura: Las obras de transporte, comunicaciones, logística,
+energética, hidráulica, drenaje, tratamiento de aguas residuales,
+ambiental, de salud, entre otras, en el Área de Influencia de una Zona
+Económica Especial;
+
+Ley Federal: Ley Federal de Zonas Económicas Especiales;
+
+Municipios: Los Municipios del Estado de Campeche en cuya jurisdicción
+se encuentren las Áreas de Influencia determinadas por el
+establecimiento de una Zona Económica Especial;
+
+Plan Maestro de la Zona: El instrumento que prevé los elementos y
+características generales de infraestructura y de los servicios
+asociados, para la construcción, desarrollo, administración y
+mantenimiento de la Zona y su Área de Influencia, el cual será
+revisado cada cinco años;
+
+Programa de Desarrollo: El instrumento de planeación que prevé los
+elementos en materia de ordenamiento territorial y las características
+de las obras de Infraestructura de transporte, de comunicaciones, de
+logística, energética, hidráulica y otras que se requieren para la
+operación de la Zona y, en su caso, otras obras que sean complemento a
+la infraestructura exterior, así como las políticas públicas y
+acciones complementarias;
+
+Secretaría Estatal: La Secretaría de Desarrollo Económico de la
+Administración Pública del Estado;
+
+Servicios Asociados: Los sistemas de urbanización, electricidad, agua
+potable, drenaje, tratamiento de aguas residuales, saneamiento,
+telecomunicaciones y seguridad, así como los demás que se presten a
+los Inversionistas en la Zona y su Área de Influencia;
+
+Ventanilla Única: La oficina administrativa o plataforma electrónica
+encargada de coordinar la recepción, atención y resolución de todos
+los trámites que deban realizar el Administrador Integral, los
+Inversionistas y las personas interesadas en instalar u operar empresas
+en el Área de Influencia, y
+
+Zona: La Zona Económica Especial, área geográfica del territorio
+nacional, determinada en forma unitaria o por secciones, sujeta al
+régimen especial previsto en la Ley Federal de Zonas Económicas
+Especiales.
+
+Artículo 4.- En los aspectos no previstos en la presente Ley, se
+aplicarán supletoriamente el Código Civil del Estado de Campeche y la
+Ley de Procedimiento Administrativo para el Estado y los Municipios de
+Campeche, según la materia que corresponda, siempre y cuando no se
+contrapongan al objeto o a la naturaleza de esta Ley.
+
+Respecto a las disposiciones de carácter fiscal previstas en esta Ley,
+se aplicarán las leyes correspondientes a dicha materia, así como la
+Legislación Fiscal del Estado de Campeche, y la de los Municipios de
+esta entidad.
+
+CAPÍTULO II
+
+DE LAS ÁREAS DE INFLUENCIA DE LAS ZONAS ECONÓMICAS ESPECIALES
+
+Artículo 5.- El desarrollo de las Zonas y de las Áreas de Influencia
+es de interés público y corresponsabilidad social, en consecuencia,
+para lograrlo será necesaria la concurrencia de los Gobiernos Federal,
+Estatal y Municipal, de los núcleos agrarios  y de la sociedad civil
+organizada, asentados en el territorio de estas Zonas y sus respectivas
+Áreas de Influencia.
+
+Artículo 6.- Los titulares del Poder Ejecutivo del Estado y de los
+Municipios, respectivamente, podrán enviar una Carta de Intención a la
+Autoridad Federal para otorgar su consentimiento para el establecimiento
+de una Zona Económica Especial y su Área de Influencia y comprometerse
+a realizar las acciones necesarias para dicho establecimiento. La Carta
+de Intención deberá contener, para el caso de los Municipios,  la
+aprobación por las dos terceras partes del cabildo, además de los
+requisitos establecidos en el artículo 9 de la Ley Federal de Zonas
+Económicas Especiales.
+
+Artículo 7.- Las Zonas y sus Áreas de Influencia se ubicarán en las
+áreas geográficas que reúnan los requisitos establecidos en el
+artículo 6 de la Ley Federal y se sujetarán a un régimen especial
+previsto en la misma, determinándose beneficios financieros así como
+facilidades administrativas e Infraestructura competitiva, conforme a la
+legislación estatal y municipal, a favor de quienes se establezcan
+físicamente dentro de dicha Zona para cumplir con el objetivo de
+colaborar con la implementación, desarrollo y permanencia de las Zonas
+Económicas Especiales.
+
+De igual forma, al igual que los objetivos previstos en la legislación
+federal, las Zonas Económicas Especiales y sus Áreas de Influencia
+deberán fomentar la generación de empleos permanentes, el ascenso
+industrial, el crecimiento de la productividad del trabajo e inversiones
+productivas que impulsen el desarrollo económico y la creación de
+Infraestructura, con una planeación adecuada que procure el desarrollo
+sostenible y el pleno cuidado al medio ambiente y respeto a los
+derechos de las personas que habitan en dichas Zonas.
+
+CAPÍTULO III
+
+DE LA COORDINACIÓN Y PARTICIPACIÓN ADMINISTRATIVA
+
+Artículo 8.- El Estado y los Municipios decretados como Zona y Área
+de Influencia mantendrán una coordinación y participación permanente
+entre sí y con las autoridades federales de conformidad con la Ley
+Federal de Zonas Económicas Especiales, y llevarán a cabo las acciones
+necesarias para adecuar el marco normativo estatal y municipal que
+corresponda con el propósito de facilitar los trámites que realicen el
+Administrador Integral, los Inversionistas y las personas interesadas en
+instalar y operar empresas en la Zona y su Área de Influencia, a
+través de la Ventanilla Única de la Zona.
+
+Los Municipios podrán celebrar Convenios de Coordinación con el
+Estado, de plazo definido y que deberán ser revisados por lo menos cada
+año para su ajuste o renovación, para que el Poder Ejecutivo se haga
+cargo de algunas funciones o servicios públicos relativos a la Zona y
+su Área de Influencia, de conformidad con el marco normativo
+constitucional que rige a los Municipios.
+
+Lo anterior, sin perjuicio de que los Municipios celebren los Convenios
+que resulten necesarios con la Autoridad Federal conforme a lo
+establecido en el inciso i) de la fracción V del artículo 115 de la
+Constitución Política de los Estados Unidos Mexicanos, en cumplimiento
+de las disposiciones contenidas en la Ley Federal de Zonas Económicas.
+
+De igual forma, el Estado y los Municipios, en forma conjunta, podrán
+suscribir los Convenios de colaboración que resulten necesarios con
+representantes de los sectores privado y social para el cumplimiento de
+los fines y objetivos de la presente Ley.
+
+Además, el Estado y los Municipios deberán:
+
+Promover dentro del ámbito de sus competencias el desarrollo integral
+de las personas y comunidades ubicadas en la Zona y su Área
+de Influencia según lo previsto en el Programa de Desarrollo;
+
+Procurar que los programas sociales de su competencia, que fomenten
+actividades productivas sean consistentes con las actividades
+económicas de la Zona y su Área de Influencia;
+
+Fomentar la inclusión de los habitantes de las comunidades ubicadas en
+el Área de Influencia, en las Actividades Económicas Productivas que
+se realicen en el Área o que sean complementarias a éstas, según lo
+previsto en el Programa de Desarrollo;
+
+Proveer toda la información necesaria para la evaluación del
+desempeño de la Zona y los resultados económicos y sociales en el
+Área de Influencia;
+
+Brindar la seguridad pública necesaria para el establecimiento
+y desarrollo de la Zona y su Área de Influencia, así como establecer
+un mecanismo de seguimiento y evaluación para tal efecto, observando
+lo dispuesto en la Ley de Seguridad Pública del Estado de Campeche.
+
+Otorgar, en el ámbito estatal y municipal y conforme a las leyes y
+reglamentos aplicables, las facilidades y los incentivos, señalando el
+plazo mínimo durante el cual los beneficios de carácter fiscal
+estarán vigentes;
+
+Llevar a cabo las medidas administrativas necesarias para facilitar el
+establecimiento y desarrollo de la Zona y su Área de Influencia,
+incluyendo la simplificación de estas medidas para la instalación y
+operación de los Inversionistas dentro de la misma;
+
+Participar en el establecimiento y operación de la Ventanilla Única
+mediante acuerdo conjunto emitido por la Comisión Federal de Mejora
+Regulatoria y la Comisión de Mejora Regulatoria del Estado,
+considerando la comisión de servidores públicos en la misma, la
+delegación de facultades o cualquier otro esquema que permita la
+resolución de los trámites directamente en dicha Ventanilla, sin
+necesidad de acudir ante otras oficinas estatales o municipales;
+
+Coadyuvar con la Autoridad Federal para el desarrollo de la plataforma
+digital de la Ventanilla Única de la Zona, así como para incorporar en
+la misma, mediante el uso de redes informáticas abiertas e
+interoperables, todos los trámites y requisitos aplicables a los
+Administradores Integrales, los Inversionistas y  las personas
+interesadas en instalar y operar empresas en la Zona y su Área de
+Influencia;
+
+Colaborar en el ámbito de sus competencias para brindar orientación y
+asesoría respecto de los servicios complementarios que requieran los
+Inversionistas, a través de la Ventanilla Única;
+
+Participar en la elaboración de indicadores de gestión y desempeño,
+así como en los programas de evaluación que permitan promover la
+mejora continua de la Ventanilla Única y de los trámites y requisitos
+considerados en ésta;
+
+Implementar conjuntamente con la Autoridad Federal los mecanismos
+necesarios para que Administradores Integrales, los Inversionistas y
+las personas interesadas en instalar y operar empresas en la Zona y su
+Área de Influencia presenten datos, documentos y requisitos una sola
+vez al efectuar trámites ante la Ventanilla Única. En este mismo
+sentido, no podrán solicitarse datos, documentos ni requisitos que ya
+hayan sido solicitados previamente ante la Ventanilla Única;
+
+Colaborar con los Administradores Integrales, los Inversionistas y las
+personas interesadas en instalar y operar empresas en el Área de
+Influencia para que puedan conocer la situación que guardan los
+trámites que presentan ante la Ventanilla Única en tiempo real;
+
+Coadyuvar en las acciones de coordinación y participación con el
+Gobierno Federal en todo lo relativo a la Zona Económica Especial y su
+Área de Influencia, de conformidad con la legislación federal
+aplicable y su reglamentación;
+
+Crear un Fideicomiso para el desarrollo de las Áreas de Influencia, que
+permita tener una fuente de financiamiento para detonar proyectos que
+fortalezcan las actividades económicas en las comunidades urbanas y
+rurales que se encuentren aledañas o colindantes a la Zona Económica
+Especial, y establecer sus reglas de operación;
+
+Participar en la elaboración del Programa de Desarrollo y sus
+modificaciones, así como cumplir con los dispuesto por el Programa de
+Desarrollo, en el ámbito de sus competencias; y
+
+Los demás mecanismos, lineamientos, procedimientos, términos y
+condiciones que acuerden las partes en el marco de la celebración del o
+los Convenios de Coordinación.
+
+Artículo 9.- El Estado y los Municipios en cuya jurisdicción se ubique
+la Zona y su Área de Influencia designarán a sus respectivos
+representantes en el Consejo Técnico de la Zona, quienes fungirán como
+invitados, en términos de la Ley Federal.
+
+Artículo 10.- La Secretaría será el enlace con los diversos órdenes
+de gobierno, con los Administradores Integrales e Inversionistas, y
+fungirá como facilitadora dando seguimiento a los trámites de estos a
+través de la Ventanilla Única.
+
+Artículo 11.- El Estado y los Municipios deberán suscribir el Convenio
+de Coordinación relativo a la Zona y al Área de Influencia, una vez
+que se hubiere realizado el Decreto Presidencial que contenga la
+Declaratoria de Zona Económica Especial dentro del territorio del
+Estado, así como firmar y publicar el Convenio de Coordinación para el
+establecimiento de la Ventanilla Única con la Comisión de Mejora
+Regulatoria y las demás dependencias y entidades públicas que
+correspondan.
+
+Artículo 12.- El Estado y los Municipios podrán participar conforme a
+su capacidad financiera en el financiamiento de las inversiones
+públicas requeridas para establecer y desarrollar la Zona y su Área de
+Influencia, incluyendo el acceso a los servicios públicos necesarios.
+
+CAPÍTULO IV
+
+DE LA DIVERSIDAD BIOCULTURAL, SOCIOCULTURAL Y LINGÜÍSTICA
+
+Artículo 13.- La Planeación Estatal para el desarrollo de la Zona y su
+Área de Influencia será integral e incluyente enmarcada en los
+parámetros social, económico, político, cultural y ambiental regidos
+por los principios para el Desarrollo Sostenible del Programa 21 de la
+Organización de las Naciones Unidas.
+
+Artículo 14.- La planeación y los instrumentos de coordinación y
+participación que se adopten en la Zona y su Área de Influencia
+atenderán los principios de sostenibilidad, progresividad y respeto de
+los Derechos Humanos de las personas, comunidades y pueblos de las
+Áreas de Influencia.
+
+El Estado y los Municipios coadyuvarán en la Evaluación Estratégica
+sobre la situación e impacto social y ambiental respecto de la Zona y
+su Área de Influencia. Lo anterior, sin perjuicio de los trámites que
+se requieran en términos de la legislación general y estatal en
+materia de equilibrio ecológico y protección al ambiente, así como
+las demás disposiciones jurídicas aplicables.
+
+Artículo 15.- El Estado y los Municipios cumplirán con las
+disposiciones en materia de transparencia, acceso a la información
+pública y protección de datos personales, contabilidad gubernamental,
+disciplina financiera, sistema estatal anticorrupción, y demás normas
+similares.
+
+CAPÍTULO V
+
+DE LOS SERVICIOS, PERMISOS Y LICENCIAS
+
+Artículo 16.- El Estado y los Municipios, en el ámbito de sus
+respectivas competencias y de manera coordinada, deberán:
+
+Expedir los permisos y licencias en los términos de las leyes
+aplicables y de los Convenios que celebren, a través de la Ventanilla
+Única, así como llevar a cabo todas aquellas acciones que faciliten el
+establecimiento y operación de la Zona y su Área de Influencia;
+
+Proporcionar el servicio de agua potable para uso y consumo humano y los
+demás servicios básicos necesarios, vigilando su calidad, de
+conformidad con la normativa aplicable;
+
+Establecer sistemas de alcantarillado, así como realizar los trabajos y
+obras de construcción que faciliten el acceso a los servicios públicos
+necesarios, de acuerdo al presupuesto destinado a ese fin;
+
+Los Administradores Integrales e Inversionistas deberán llevar a cabo
+los trámites correspondientes ante la Ventanilla Única, de conformidad
+con la legislación aplicable y las facilidades administrativas que al
+efecto sean emitidas.
+
+CAPÍTULO VI
+
+DE LOS BIENES PROPIEDAD DEL ESTADO Y MUNICIPIOS PARA EL ESTABLECIMIENTO
+DE LA ZONA Y SU ÁREA DE INFLUENCIA
+
+Artículo 17.- El régimen y los actos de administración y disposición
+de los bienes inmuebles del Estado de Campeche y de los Municipios,
+deberán sujetarse a los parámetros, disposiciones y procedimientos
+establecidos en la Ley de Bienes del Estado de Campeche y de sus
+Municipios, y demás normatividad aplicable.
+
+CAPÍTULO VII
+
+DE LOS INCENTIVOS Y FACILIDADES
+
+Artículo 18.- Además de lo dispuesto por la legislación fiscal en los
+ámbitos federal y local, la Ley Federal, y la legislación vigente en
+el Estado, así como por los tratados internacionales de los que es
+parte el Estado mexicano, el Ejecutivo del Estado, a través de la
+expedición de acuerdos, podrá establecer los apoyos, incentivos y
+beneficios fiscales en materia de impuestos y derechos de orden estatal,
+así como facilidades administrativas de ese mismo orden que se
+consideren necesarios para impulsar el establecimiento y desarrollo de
+la Zona, los cuales serán temporales y decrecientes en el tiempo y
+deberán tener, como mínimo, una duración de ocho años.
+
+Se establecerán incentivos y apoyos adicionales a los previstos en el
+párrafo anterior, que propicien la generación de capital y empleos, el
+desarrollo de la infraestructura económica y social, y la productividad
+y competitividad de la Zona.
+
+Los HH. Ayuntamientos de los Municipios en los que se establezca la
+Zona, mediante Acuerdo aprobado por las dos terceras partes del cabildo,
+podrán establecer los beneficios fiscales, apoyos y facilidades
+administrativas de carácter municipal que se consideren necesarios para
+impulsar el establecimiento y desarrollo de la Zona, los cuales se
+ajustarán a lo dispuesto por este artículo.
+
+CAPÍTULO VIII
+
+DEL CONSEJO TÉCNICO
+
+Artículo 19.- Cada Zona contará con un Consejo Técnico
+multidisciplinario y con autonomía en sus funciones, que fungirá como
+una instancia intermedia entre la Autoridad Federal y el Administrador
+Integral para efectos del seguimiento permanente a la operación de la
+misma, la evaluación de su desempeño y coadyuvancia para asegurar el
+cumplimiento de los objetivos establecidos en esta Ley en los términos
+del presente artículo, conforme a lo siguiente:
+
+El Consejo Técnico de la Zona estará integrado por los siguientes
+representantes que residan en el Área de Influencia o, en su caso, en
+el Estado:
+
+Tres representantes con experiencia y conocimiento en las materias de
+desarrollo económico, equilibrio ecológico, protección al ambiente,
+evaluación, inversiones, y producción, que deberán provenir de
+instituciones de educación superior e investigación, o de
+instituciones de capacitación técnica del Estado; en caso de no
+existir personas con el perfil necesario, se podrá recurrir a
+instituciones del mismo carácter distintas a las del Estado;
+
+Tres representantes del sector empresarial del Estado, con experiencia y
+conocimiento en las materias previstas en el inciso a) que antecede, y
+
+c) Tres representantes de los trabajadores que se encuentren laborando
+en empresas establecidas en la Zona o en las áreas más cercanas a la
+misma;
+
+El Consejo Técnico deberá invitar a sus sesiones a un representante
+del Gobierno Federal, del Poder Ejecutivo del Estado; de igual forma,
+deberá invitar a un representante de cada Municipio en cuya
+jurisdicción se encuentre la Zona y el Área de Influencia, además de
+invitar al Administrador Integral y a un representante de los
+Inversionistas, así como a representantes de la sociedad civil.
+
+Las funciones del Consejo Técnico se regirán por lo establecido en el
+artículo 16 de la Ley Federal y las demás disposiciones aplicables que
+para tal efecto se expidan.
+
+CAPÍTULO IX
+
+DE LA VENTANILLA ÚNICA
+
+Artículo 20.- Para la implementación de la Ventanilla Única se
+establecerá una oficina para la Zona y su Área de Influencia, de
+conformidad con la Ley Federal de Zonas Económicas Especiales y su
+Reglamento. Esta oficina fungirá como único punto de contacto para
+gestionar trámites, así como para la construcción e implementación
+de portales web que faciliten la atención, realización y resolución
+de trámites, de forma física o electrónica, y la transparencia en la
+información.
+
+Las dependencias y entidades de las administraciones públicas estatal y
+municipal deberán identificar y simplificar los trámites que deban
+llevar a cabo los Administradores Integrales, los Inversionistas y  las
+personas interesadas en instalar y operar empresas en la Zona y su Área
+de Influencia, en estricto apego a las mejores prácticas y gobierno
+abierto, conforme a las disposiciones en materia de transparencia.
+
+Artículo 21.- El Estado y los Municipios en cuya jurisdicción se
+declare la Zona y su Área de Influencia deberán coadyuvar con la
+Ventanilla Única y efectuar las modificaciones normativas necesarias
+para simplificar y agilizar los trámites necesarios para construir,
+desarrollar, operar la Zona y su Área de Influencia, realizar
+actividades económicas productivas en la misma de manera eficiente y
+facilitar la instalación y operación de empresas. Además, el Estado y
+los Municipios de referencia deberán contribuir con los recursos
+materiales, humanos y financieros para el establecimiento y operación
+de esta Ventanilla Única.
+
+Artículo 22.- El Estado y los Municipios en cuya jurisdicción se
+declare la Zona y su Área de Influencia que suscriban el Convenio de
+Coordinación relativo a la Ventanilla Única, tendrán un sistema de
+redes informáticas abiertas, compatibles e interoperables para la
+implementación de dicha Ventanilla.
+
+Artículo 23.- La Ventanilla Única se regirá conforme a los
+estándares que para su operación establezca la Autoridad Federal y los
+Convenios de Coordinación para el establecimiento de la Ventanilla
+Única que al efecto se suscriban, así como por los siguientes
+parámetros:
+
+Orientar y apoyar sobre los trámites y requisitos que deben cumplirse
+en la Zona, incluyendo aquellos en materia ambiental, laboral y
+empresarial;
+
+Recibir las solicitudes relacionadas con la Zona y su Área de
+Influencia, directamente en la Ventanilla Única, considerando la
+designación de servidores públicos en la misma, la delegación de
+facultades o cualquier otro esquema que permita la resolución de los
+trámites directamente en dicha Ventanilla, sin necesidad de acudir ante
+otras oficinas estatales o municipales;
+
+Dar seguimiento a los trámites estatales y municipales correspondientes
+y, a solicitud de los Administradores Integrales e Inversionistas,
+informar sobre el estado que guardan los mismos en tiempo real;
+
+Resolver de manera oportuna los trámites correspondientes;
+
+Implementar mecanismos para que los particulares presenten, por una sola
+vez, la información que se requiera por varias autoridades competentes;
+
+Elaborar e implementar un Formato Único para la solicitud de uno o
+varios trámites que los interesados requieran para llevar a cabo
+actividades, impreso o en forma electrónica. El Formato Único se
+publicará en las páginas de internet de los Municipios y del Estado,
+así como en la plataforma digital de la Ventanilla Única;
+
+Recibir sugerencias, quejas y denuncias, y brindarles atención;
+
+Dar resolución de manera oportuna a lo solicitado por Administradores
+Integrales, Inversionistas y empresarios en la Zona y su Área de
+Influencia; y
+
+Los demás que establezca el Convenio de Coordinación, el Decreto de
+Declaratoria, la presente Ley, y demás normatividad aplicable.
+
+Cualquier persona interesada en realizar actividades económicas en la
+Zona y su Área de Influencia podrá acudir directamente ante las
+autoridades competentes para realizar los trámites. Estas autoridades
+orientarán a los solicitantes para promover el uso de la Ventanilla
+Única.
+
+TRANSITORIOS
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su
+publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Titular del Poder Ejecutivo, a propuesta de la Secretaría
+de Desarrollo Económico de la administración pública estatal, deberá
+adecuar los reglamentos que correspondan y expedir la normatividad que
+resulte necesaria dentro del ámbito de sus atribuciones para el
+cumplimiento de los objetivos y fines de la presente Ley.
+
+TERCERO.- Los HH. Ayuntamientos, deberán adecuar oportunamente los
+reglamentos que correspondan en el ámbito de sus respectivas
+competencias, para los efectos que se desprenden de este decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de
+igual o menor jerarquía del marco jurídico estatal, en lo que se
+opongan al contenido del presente decreto.
+
+Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de
+San Francisco de Campeche, Campeche, a los diecisiete días del mes de
+febrero del año dos mil diecisiete.
+
+C. Ramón Martín Méndez Lanz, Diputado Presidente.- C. Laura Baqueiro
+Ramos, Diputada Secretaria.- C. Manuel Alberto Ortega Lliteras, Diputado
+Secretario.- Rúbricas.
+
+PODER EJECUTIVO
+
+DECRETO PROMULGATORIO
+
+RAFAEL ALEJANDRO MORENO CÁRDENAS, Gobernador del Estado de Campeche,
+mediante el presente Decreto, se hace saber a los habitantes del Estado
+de Campeche:
+
+Que la LXII Legislatura del H. Congreso Constitucional del Estado Libre
+y Soberano de Campeche me ha dirigido el Decreto número 139, por lo
+que, en cumplimiento de lo dispuesto por los artículos 48, 49 y 71,
+fracción XVIII, de la Constitución Política del Estado de Campeche,
+lo sanciono, mando se imprima, publique y circule para su debida
+observancia.
+
+Este Decreto es dado en el Palacio de Gobierno del Estado, en San
+Francisco de Campeche, Municipio y Estado de Campeche, a los veinte
+días del mes de febrero del año dos mil diecisiete.
+
+EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO
+CÁRDENAS.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS MIGUEL AYSA
+GONZÁLEZ.- RÚBRICAS.
+
+ PAGE   \* MERGEFORMAT 9

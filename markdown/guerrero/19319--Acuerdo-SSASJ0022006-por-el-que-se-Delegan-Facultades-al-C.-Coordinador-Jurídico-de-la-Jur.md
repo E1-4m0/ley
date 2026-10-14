@@ -1,0 +1,132 @@
+---
+titulo: "Acuerdo SSA/SJ/002/2006 por el que se Delegan Facultades al C. Coordinador Jurídico de la Jurisdicción Sanitaria o7 Acapulco, Dependiente de la Subdirección Jurídica de la Secretaría de Salud del Estado de Guerrero"
+tipo: "Acuerdo"
+estado: "Guerrero"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "14 de Marzo de 2006"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "19319"
+---
+TEXTO ORIGINAL
+# 
+	Acuerdo publicado en el Periódico Oficial del Gobierno del Estado No.
+21, el Martes 14 de Marzo de 2006.
+
+ACUERDO SSA/SJ/002/2006 POR EL QUE SE DELEGAN FACULTADES AL C.
+COORDINADOR JURÍDICO DE LA JURISDICCIÓN SANITARIA O7 ACAPULCO,
+DEPENDIENTE DE LA SUBDIRECCIÓN JURÍDICA DE LA SECRETARÍA DE SALUD DEL
+ESTADO DE GUERRERO.
+
+Al margen superior un sello con el Escudo del Estado Libre y Soberano de
+Guerrero.- Secretaría de Salud.
+
+	DR. LUIS RODRIGO BARRERA RÍOS, Secretario de Salud del Estado Libre y
+Soberano de Guerrero, con fundamento en lo dispuesto por el artículo
+3°. de la Ley de Salud del Estado de Guerrero Número 159, y, 11 de la
+Ley Orgánica de la Administración Pública del Estado Libre y Soberano
+de Guerrero; y,
+
+C O N S I D E R A N D O
+
+	Que uno de los objetivos de la modernización administrativa es lograr
+la agilidad en la toma de decisiones y asegurar una alta eficiencia
+pública, así como congruencia en el desempeño de la función
+asignada.
+
+	Que la Ley Orgánica de la Administración Pública del Estado Libre y
+Soberano de Guerrero, establece que corresponde originariamente a los
+Secretarios de Despacho que se encuentran al frente de cada una de
+aquellas auxiliares del Ejecutivo Estatal, el trámite y despacho de los
+asuntos de su competencia para la mejor organización del trabajo, y que
+en virtud de ello pueden delegar en funcionarios subalternos cualquier
+de las facultades delegables sin perder por ello la posibilidad de su
+ejercicio directo.
+
+	Que la Ley de Salud del Estado de Guerrero Número 159, faculta al
+Secretario de Salud, para delegar sus facultades en servidores públicos
+subalternos, a fin de lograr una mejor distribución y desahogo del
+trabajo con un alto sentido de oportunidad, y eficacia que las acciones
+administrativas en estos tiempos requieren; he tenido a bien expedir el
+siguiente:
+
+A C U E R D O
+
+	Por el que se delegan facultades al Coordinador Jurídico de la
+Jurisdicción Sanitaria 07 Acapulco dependiente de la Subdirección
+Jurídica de la Secretaría de Salud del Gobierno Libre y Soberano del
+Estado de Guerrero:
+
+	PRIMERO. Se delegan en el Coordinador Jurídico de la Jurisdicción
+Sanitaria 07 Acapulco dependiente de la Subdirección Jurídica de la
+Secretaría de Salud del Gobierno Libre y Soberano del Estado de
+Guerrero, las siguientes facultades:
+
+	I.-	Representar a la Secretaría de Salud, ante toda clase de
+autoridades judiciales, administrativas, fiscales, federales, y, de
+cualquier índole;
+
+	II.-	Dictaminar las actas administrativas que se instrumenten a los
+servidores públicos de la Secretaría, incluyendo el cese de los
+efectos del nombramiento;
+
+	III.-	Formular denuncias de hechos y querellas por delitos cometidos en
+agravio de la Secretaría;
+
+	IV.-	Emitir dictámenes de no procedencia de denuncias que
+correspondan;
+
+	V.-	Promover demandas, producir contestaciones de demanda, y alegatos
+ante los Tribunales comunes y de la Federación, así como interponer
+los recursos administrativos y contencioso administrativo previstos en
+el Código Fiscal de la Federación, así como en el Código de
+Procedimientos Administrativos del Estado de Guerrero;
+
+	VI.-	Emitir dictámenes jurídicos y acuerdos de trámite en la
+substanciación de los recursos administrativos promovidos con base en
+el anterior Código Sanitario de los Estados Unidos Mexicanos, la actual
+Ley General de Salud, y, la Ley de Salud del Estado de Guerrero Número
+159; incluyendo la admisión y desechamiento de pruebas, aclaración del
+recurso y su desechamiento, en los casos en que legalmente proceda;
+
+	VII.-	Certificar constancias que obren en el archivo de la Secretaría
+para ser exhibidos ante las autoridades judiciales, administrativas, o
+del trabajo, y, en general para cualquier juicio, procedimiento, proceso
+o averiguación.
+
+	SEGUNDO. El ejercicio de las facultades que se delegan en el presente
+Acuerdo, se sujetará a las disposiciones legales y será conforme a las
+normas técnicas aplicables que emita la Secretaría de Salud del
+Estado, y con los lineamientos y criterios que prevalezcan en el
+Gobierno Federal y Estatal.
+
+	TERCERO. La presente delegación de facultades se entiende hecha sin
+perjuicio de su ejercicio directo por parte del Secretario de Salud del
+Estado Libre y Soberano de Guerrero, como Secretario de Despacho.
+
+	CUARTO. El servidor público delegado deberá informar periódicamente
+a su superior o cuando éste lo solicite, del ejercicio de las
+facultades que se le delegan.
+
+T R A N S I T O R I O
+
+	ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su
+publicación en el Periódico Oficial del Gobierno del Estado.
+
+	Chilpancingo, Guerrero, a los veintisiete días, del mes de febrero del
+año dos mil seis.- El Secretario de Salud del Estado Libre y Soberano
+de Guerrero.
+
+DR. LUIS RODRIGO BARRERA RIOS.
+
+SECRETARIO DE SALUD.
+
+Rúbrica.
+
+  HYPERLINK "http://www.guerrero.gob.mx/consejeriajuridica/"
+http://www.guerrero.gob.mx/consejeriajuridica
+
+  HYPERLINK "mailto:consejeria_juridica@guerrero.gob.mx"
+consejeria_juridica@guerrero.gob.mx
+
+  PAGE  1

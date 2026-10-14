@@ -1,0 +1,2919 @@
+---
+titulo: "Decreto Número Cinco. - Que contiene el Reglamento Interior del Trabajo para la Administración Pública Municipal de Xochiatipan de Castillo, Hidalgo"
+tipo: "Decreto Legislativo"
+estado: "Hidalgo"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "23 de Abril de 2018"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "81088"
+---
+{\rtf1\ansi\ansicpg1252{\fonttbl{\f0\froman\fcharset0 Times New Roman;}{\f1\fswiss\fcharset0 Arial;}{\f2\fswiss\fcharset0 Arial;}{\f3\fswiss\fcharset0 Arial;}{\f4\fswiss\fcharset0 Graphik Light;}{\f5\fswiss\fcharset0 Graphik Medium;}{\f6\fswiss\fcharset0 Graphik Regular;}{\f7\fswiss\fcharset0 Arial;}{\f8\fswiss\fcharset0 Arial;}{\f9\fswiss\fcharset0 Graphik Light;}{\f10\fswiss\fcharset0 Arial;}{\f11\fswiss\fcharset0 Graphik Medium;}{\f12\fswiss\fcharset0 Arial;}{\f13\fswiss\fcharset0 Graphik Regular;}{\f14\fswiss\fcharset0 Arial;}}{\colortbl ;\red0 \green0 \blue0;\red13 \green13 \blue13;\red37 \green37 \blue37;\red45 \green116 \blue181;\red255 \green255 \blue255;}{\stylesheet{\sqformat\spriority1 Normal}{\s1\li114\f10\fs20\sbasedon0\sqformat\spriority1 Body Text}{\s2\li312\outlinelevel0\f12\fs20\b1\sbasedon0\sqformat\spriority1 Heading 1}{\s3\sbasedon0\sqformat\spriority1 List Paragraph}{\s4\sbasedon0\sqformat\spriority1 Table Paragraph}}{\*\listtable{\list\listtemplateid2181{\listlevel\levelnfc1\levelstartat1\leveljc0\li834\fi-464{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd-1\expndtw-5}{\listlevel\levelnfc1\levelstartat1\leveljc0\li1194\fi-721{\leveltext\'02\'01.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd-1\expndtw-5}{\listlevel\levelnfc23\leveljc0\li2190\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3186\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4182\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5179\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6175\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7171\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8167\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}\listid1026}{\list\listtemplateid2182{\listlevel\levelnfc1\levelstartat1\leveljc0\li1194\fi-721{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd-1\expndtw-5}{\listlevel\levelnfc23\leveljc0\li2090\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2987\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3884\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4780\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5677\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6573\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7470\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8366\fi-721{\leveltext\'01\'95;}{\levelnumbers;}}\listid1027}{\list\listtemplateid2183{\listlevel\levelnfc1\levelstartat1\leveljc0\li834\fi-464{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd-1\expndtw-5}{\listlevel\levelnfc1\levelstartat1\leveljc0\li834\fi-360{\leveltext\'02\'01.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd-1\expndtw-5}{\listlevel\levelnfc23\leveljc0\li2699\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3631\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4564\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5497\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6429\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7362\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8294\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}\listid1028}{\list\listtemplateid2184{\listlevel\levelnfc1\levelstartat1\leveljc0\li834\fi-360{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd-1\expndtw-5}{\listlevel\levelnfc23\leveljc0\li1766\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2699\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3631\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4564\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5497\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6429\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7362\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8294\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}\listid1029}{\list\listtemplateid2185{\listlevel\levelnfc1\levelstartat1\leveljc0\li834\fi-360{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd-1\expndtw-5}{\listlevel\levelnfc23\leveljc0\li1766\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2699\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3631\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4564\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5497\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6429\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7362\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8294\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}\listid1030}{\list\listtemplateid2186{\listlevel\levelnfc1\levelstartat1\leveljc0\li834\fi-360{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd-1\expndtw-5}{\listlevel\levelnfc23\leveljc0\li1766\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2699\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3631\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4564\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5497\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6429\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7362\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8294\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}\listid1031}{\list\listtemplateid2187{\listlevel\levelnfc1\levelstartat1\leveljc0\li834\fi-360{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd-1\expndtw-5}{\listlevel\levelnfc23\leveljc0\li1766\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2699\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3631\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4564\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5497\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6429\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7362\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8294\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}\listid1032}{\list\listtemplateid2188{\listlevel\levelnfc1\levelstartat1\leveljc0\li834\fi-472{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd0\expndtw-1}{\listlevel\levelnfc1\levelstartat1\leveljc0\li1182\fi-472{\leveltext\'02\'01.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd0\expndtw-1}{\listlevel\levelnfc23\leveljc0\li2177\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3172\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4168\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5163\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6158\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7154\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8149\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}\listid1033}{\list\listtemplateid2189{\listlevel\levelnfc1\levelstartat1\leveljc0\li1182\fi-472{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd0\expndtw-1}{\listlevel\levelnfc23\leveljc0\li2078\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2973\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3869\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4765\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5661\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6556\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7452\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8348\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}\listid1034}{\list\listtemplateid2190{\listlevel\levelnfc1\levelstartat1\leveljc0\li834\fi-472{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd0\expndtw-1}{\listlevel\levelnfc23\leveljc0\li1764\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2695\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3625\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4556\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5487\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6417\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7348\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8278\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}\listid1035}{\list\listtemplateid2191{\listlevel\levelnfc1\levelstartat1\leveljc0\li854\fi-472{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd0\expndtw-1}{\listlevel\levelnfc23\leveljc0\li1784\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2715\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3645\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4576\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5507\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6437\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7368\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8298\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}\listid1036}{\list\listtemplateid2192{\listlevel\levelnfc1\levelstartat1\leveljc0\li854\fi-472{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd0\expndtw-1}{\listlevel\levelnfc23\leveljc0\li1784\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2715\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3645\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4576\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5507\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6437\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7368\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8298\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}\listid1037}{\list\listtemplateid2193{\listlevel\levelnfc1\levelstartat1\leveljc0\li834\fi-472{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd0\expndtw-1}{\listlevel\levelnfc23\leveljc0\li1764\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2695\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3625\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4556\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5487\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6417\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7348\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8278\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}\listid1038}{\list\listtemplateid2194{\listlevel\levelnfc1\levelstartat1\leveljc0\li834\fi-472{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd0\expndtw-1}{\listlevel\levelnfc23\leveljc0\li1764\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2695\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3625\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4556\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5487\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6417\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7348\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8278\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}\listid1039}{\list\listtemplateid2195{\listlevel\levelnfc1\levelstartat1\leveljc0\li834\fi-472{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd0\expndtw-1}{\listlevel\levelnfc23\leveljc0\li1764\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2695\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3625\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4556\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5487\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6417\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7348\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8278\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}\listid1040}{\list\listtemplateid2196{\listlevel\levelnfc1\levelstartat1\leveljc0\li834\fi-472{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f10\fs20\b0\expnd0\expndtw-1}{\listlevel\levelnfc23\leveljc0\li1764\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2695\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3625\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4556\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5487\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6417\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7348\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li8278\fi-472{\leveltext\'01\'95;}{\levelnumbers;}}\listid1041}}{\*\listoverridetable{\listoverride\listoverridecount0\listid1041\ls16}{\listoverride\listoverridecount0\listid1040\ls15}{\listoverride\listoverridecount0\listid1039\ls14}{\listoverride\listoverridecount0\listid1038\ls13}{\listoverride\listoverridecount0\listid1037\ls12}{\listoverride\listoverridecount0\listid1036\ls11}{\listoverride\listoverridecount0\listid1035\ls10}{\listoverride\listoverridecount0\listid1034\ls9}{\listoverride\listoverridecount0\listid1033\ls8}{\listoverride\listoverridecount0\listid1032\ls7}{\listoverride\listoverridecount0\listid1031\ls6}{\listoverride\listoverridecount0\listid1030\ls5}{\listoverride\listoverridecount0\listid1029\ls4}{\listoverride\listoverridecount0\listid1028\ls3}{\listoverride\listoverridecount0\listid1027\ls2}{\listoverride\listoverridecount0\listid1026\ls1}}{\info{\author POD}{\creatim\yr2018\mo4\dy22\hr19\min29\sec48}{\revtim\yr2018\mo5\dy11\hr19\min9\sec28}{\subject Prueba Piloto}}\jexpand\dntblnsbdb\viewkind1\paperw12240\paperh15840\margl920\margr840\margt920\margb280\sectd\sbknone\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f0\fs6\b0\i0\par
+\trowd\irow0\trgaph0\trrh-1597\trql\trleft109
+\clvertalt\clbrdrt\brdrnone\clbrdrl\brdrnone\clbrdrr\brdrnone\clbrdrb\brdrnone\cltxlrtb\cellx10365
+\pard\plain\intbl\s4\nooverflow\nocwrap\ri231\qr\sl240\slmult1\sb9{{\*\bkmkstart bookmark0}{\*\bkmkend bookmark0}\expnd0\expndtw0\charscalex100{\*\bkmkstart bookmark1}{\*\bkmkend bookmark1}\expnd0\expndtw0\charscalex100\f9\fs20\b0\expnd1\expndtw3 TOMO\expnd2\expndtw9  \expnd1\expndtw4 CLI\b0\expnd0\expndtw0\charscalex100\par}\pard\plain\intbl\s4\nooverflow\nocwrap\li8198\fi-634\ri228\qr\sl276\slmult1\sb39{\f9\fs20\b0\expnd1\expndtw3\charscalex100 Pachuca\expnd2\expndtw10  \expnd0\expndtw2 de\expnd2\expndtw9  \expnd1\expndtw4 Soto,\expnd2\expndtw10  \expnd1\expndtw4 Hidalgo\f9\expnd6\expndtw28\charscalex100  \expnd0\expndtw2 23\expnd2\expndtw10  \expnd0\expndtw2 de\expnd2\expndtw10  \expnd1\expndtw3 Abril\expnd2\expndtw11  \expnd0\expndtw2 de\expnd2\expndtw10  \expnd1\expndtw3 2018\b0\expnd0\expndtw0\charscalex100\par}\pard\plain\intbl\s4\nooverflow\nocwrap\li9280\fi-22\ri233\qr\sl276\slmult1{\f9\fs20\b0\expnd1\expndtw3\charscalex100 Alcance\f9\expnd5\expndtw26\charscalex100  \expnd1\expndtw3 N\'FAm.\expnd2\expndtw12  \expnd0\expndtw2 17\b0\expnd0\expndtw0\charscalex100}\cell\row
+\trowd\irow1\trgaph0\trrh-2607\trql\trleft109
+\clvertalt\clbrdrt\brdrnone\clbrdrl\brdrnone\clbrdrr\brdrnone\clbrdrb\brdrnone\cltxlrtb\cellx4178
+\clvertalt\clbrdrt\brdrnone\clbrdrl\brdrnone\clbrdrr\brdrnone\clbrdrb\brdrnone\cltxlrtb\cellx10365
+\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs12\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\li1082\sl200{\f0\fs20{\*\shppict{\pict
+{\*\picprop\shplid62{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}}
+\picscalex48\picscaley48\piccropl0\piccropr0\piccropt0\piccropb0\picw6852\pich8281\picwgoal3885\pichgoal4695
+\pngblip{\*\blipuid 707eb9e0d375c94a856700af65835ddc}
+89504e470d0a1a0a0000000d49484452000001030000013908020000001b52d2
+5700000006624b474400ff00ff00ffa0bda793000000097048597300000ec400
+000ec401952b0e1b0000200049444154789ced7d2d74dbcaf6efe8ae0b5c26b3
+2a4c612e73d975d15558ca5ce63cf47a98cb52e63c741df47a98c35aa8a0d732
+87397fe41c66338739172587c9ac61f3c08e7726f3a5d168f46147bfd5d5e548
+a3d1cc68f6ec8fd9b3b7472925841042daed83f8e7f7e3e8983468b0ef383f3f
+3f3b3bc3c94f08f907febabefe7f1f8f3e7a9ef7c67b73757d5545f31a342816
+67675f3ccff33c8f23034208a10c86a743eec9ef93096dd060c7214eec2449b8
+3284fbdbf70329318dc7e3b29adda0811b0c067d9cc0be1f2c1673f81dc7b158
+98a704ba6519be1fb0152146a361f15d68d0c01e511489724d1086f067afd795
+3e25a104ba25865eaf9b24894ae41a9e3624d1a046e8f5badc145dadd6945264
+0500d5e3f21b4800c001c6e3b18a1ea48ca6418332c189f4acd8c2ddd254e251
+4e83dee2f2f2f2e4e40408abd30909219ee7494baa6a68d0a01ce0ccc4b94a08
+592e6fdebfffc016d34fd47fa86e0c060310addebd3bc48aa6b3291688e3d8aa
+d90d1ab8c48f8b0bf8c19281e7791c19ac56eb948af47c475a0caf40ed8341df
+92ab3568901bdc64962ed0265354291d2190f5b025bf7cfd32f936c1bba99534
+68501058a17db19873ac0060323f95d291580bbe72b9bcb9f8f302fe54ed3f34
+6850024e4e3ec10fb0dc74bb3db18ce1329dce1308219bcda6dd6e63bd2c15fa
+7eb0d93c046178bf4e93c31a34700da948c2ce4f7369259d2710427cdfc75d36
+ce82b4d93c10421eeeee0e0e0f0d5fd9a08113e054f45e020b6412da8d288110
+12c73ff5051eeeee3ccf3b3a3a327f77830676e066bc14596d9ba6944008a194
+7e9f4c168b39a774b3f6a9ebeb6bcff3cecebe646a4483068668b70f54341084
+214cc8c562fe7d32190c06996a36d21352aa50b42c8ee3acad69d04085a3a3a3
+ebeb6b7d19764b212bf252422a935a2ce6528dbe4103437cf9fae5e2cf0bc3c2
+d6f3391725a49201220fb13678b5f87171f1c797cc92b6dd94cea02770c8642c
+7af7eed0f3bccd6663fdba06af0a57d7579ee75990013c6bf194254fb8babefa
+78f4d1e24142489224beefdb3ddb60ef217ace59c062565b5282b95c2485ef07
+49729fa78606fb87dbdb3b74f7cc8fac13db463aca49068490cde6c1f3bc0f1f
+dee7aca7c17e60b3d9789ee7900c0821b7b77799ca67a604f4f4c88f9b9ba5e7
+790e2b6cb08bf0bc37e8cbe31059e92a33255c5efed217c8bab77779f9abd98c
+7b9d38383cf43c8f90c7e2ea372f9c8d124ce4a29bc54dfaa90801e7e7179ee7
+e1a98b06fb8da3a323cff31eeeb209305991ad7ef32311a3111f34460ad8f4fe
+3e9958369f90e96c6adeaa06bb0531f450d1306c58064ac8faee4ea793a70310
+98a0c1de401317a250184e24532b6a267b11150ef758a3d97cd803607488aa60
+32c98df404ebbd61690bb8c04c7ab4dbed76fbc0eeed0d2ac7eded9de779d592
+0121c4c41e63c413b22eed547b86a8dd3e80f33d99d06cc6ed16d8738e7540ea
+3c4fe709bfaef2c6cdc6d830d01a8e0c0cc533d88c6b4ec6ed043ccfab151910
+42d2cf90a56a12166f154ff34451245688b1cab28605606b6b502b10d2b29830
+e520a5e5fadb8696530efa58f350860ddb2d0d459c6a876d6215d70aad1ad300
+401ff5c834f25726e09a2d35609197d4d9eb75d949effb41a657379b0f9503c3
+50d71f9a5ee8eed93104c2cce6200cb910c2dc9f499260607b7ceaa965592026
+86685002cadf26cb094d406b2d95d8826505e4255722426049df0f601eb3da85
+dd16b5c5b76c6087dd8d8aabea91f2865d574559856b01db14dc74146fa93a90
+a7ab0d9cc0c2a9ac5650f54b7d2323545a32bbc70ed5a2a6cb5d27324a60d94b
+26e2a48db8e41a9ab4327506341effe4847084334ad08ca0b430fb27500b3671
+3a9b72097b40bc1393a6e8a1ea7383acd8511a609303b22a8db48fbaec5259a1
+1a4771bb20491298d6acfd549a000b14064dab5219852aaf560323243b19055d
+ba08e25da9fce2921234f939d962f02798de8012c048058a355b09fb087dc9e0
+5885c4a46dcde68305eca641e5501912d93292bbe225e93e97210cc7b4eb8784
+90d97c4e08d926846bc5710ce44185e43d50491086acda00749fc99faf492f6d
+88ac82684da0df3b63530f8a77955968ad4129158912e62b8a49746b29e2fe27
+8404616892258ea845a6200c578b85a685cd669c0679d6c16a61d23b2c2c668e
+159ecf2d177e9f4c58ed64783a848d02c23850504a7f4ea7f003f61346a32130
+047112730d44cae6fac65e34d9f1119da35e39aa3a49931fe69f927d8abfc5fd
+ed64e79c521a1d7fe62e3e4df4d59a6cb5582809a73d41d421825989db14445a
+42870e2c099a00529d219acd694ae9cf6f2929016a8bacbe98ec6608774bf83b
+3750e5e5644d60bbd81428031311a57f717eb36d631937db60d655292b25005e
+2d3db0fad8cec1aecbf83867e079519db5d9187c87c4b7721c86be540ce89621
+88de2048457845aa3cac56ebd562411922e17a9ba90b7623bba3d8e9ade23c96
+0fb69e17d7d93fec4423fd8bd9193c1a0d412e5aadd6a9664db6c3dc1b596a66
+0d02e2ee350b93debd92cd078baf5c1360ba106bb06cf0c598e41fa0d4c6b185
+e9962168d6e0d56acd599938a81a0c1741ff9ecea69ccc636e15d9e30cd399bf
+6e9de04a88c50a5fb88a3a19a654bb2496d4ecbe5163f18ccaa6b574398fe3b8
+eb8776bd130d6d3b8d1d3a4520423f6db202ab65e7cc3325e43424a7be1eb7c0
+28a55239cff00ca7ca619bab0dbd30c4fe6782db6f500976749b0ce17c40d845
+012fe69d28d21613428230947b77c84e4be4099827be9df544423927a782b8a3
+9b71bbbb4d062828fa9bd496ea9212582598bdeefb017b8bd32b341572477c34
+8032a2371e3eceedb5a1a52b4bff76292c9ff579c39aa068550d5f84dff459cb
+74d20156a79116605ba36705a27aa459d761c79a03cb7c801ab93aed4e23d57c
+f361774f93214a18257c1792dcd35bfbc76ed828bb6a4aa96b364f5f8cf51b87
+e6216154352085e411a0f37c8682b0d35b0480d25c60d8590457ecb7a258a896
+49e9faa47f9dc98a6bb2332a7d1088138d423983f3b4482beb0728083b7a9286
+45fe8d824c107715f25242aae387a8b4a9d877d6b1d0b44a7f504355035048d6
+1128f9138ac8dae01aa2fc4163d78ea761cc3f9aa96f359167ecfa63581b1bbf
+9eb568e14594d9ac87a292b07c764dad153461574a1bbd275f359adb0dcbc463
+475f03161375e8546149ac8ddd2e112be49ee56acb296694b6f990a791f54139
+63953a86a034cbf76b8be892f814bb3ce314647776c1b53bd543893bb6c655c8
+42aa90b1ed77628067398c73ecfa3619a0b8f1310736e6e9440075b4c070eff0
+fd00bc44a5efe61e01a3878a51120362c0b51fa8cbf003881eaf4e8602e0dcd8
+ba7301e7a4a88f0f0b1f7f883afafcdc2eac58e0fb64c2add36c61b195dcd1fe
+d45d5e3815adf1ae51854ee222f6b1805d881ca3e2861ef6608b00803daac39e
+3d77acd919251061361b9617754db8c579d489f58bd01bd45565f475668a18a0
+82353db05f6ba7a15a6eb8fe1241b80014c449d866e4a2045035906b8b328cfe
+7128c3592161b5600f73b2b5a5f64d450c9af6180e567e64a2873dd82603883e
+c2701de3e1224064c03f51e22d8e81602329a5de6ab5ce9acd9c055bddd1c73f
+66d3ef5c014d662a4ae97279f323be0cdac15bdf27846c1e89df22cbbbdb87db
+875f57bf602cdef7ba8490e437b9bebafcebafdb6fdffe93fc26ed3704fe6fb5
+02f2b8212d9f3c6e0821a4e52f977f7189bd40649266e71d8d865fbf3ecb8b3e
+f1376483390e9da74832c991757b7b97e78bd40ac0d3aeaf977e8b1042368fe4
+f171f3903c74c327bbf6f2ee36fef10bc7c4f39ed39dc1e02f16f36eb7473684
+1490771227671cc7e9093b52614e791c0683feee9e256fe010947119d4cf9c82
+0e2a8c464392df22f1739acebc54cfee8d2ed8200f601252c636008a81d464ec
+d02887754651e4f57add9b9b65ce9e68e63a422a26c5710c928c490d86d86c36
+0f7777a4e513429e0427e6c772f997eac1df49f2f7664308f9fdfbe1cd9ba77d
+71fcbd5ae9a289fdfdb73251efe36372f7b0f15badcde323fc1f063e5ef99d3c
+1242deb45baa0261e0b75a4a09eded5ba5d0d00e82a01da8ba13aa8d6cfe5b3f
+6c07aa01ec749c9d7d3b3bfb727e7e410809c2f0e1ee2e8aa2ebeb6bf8ad790a
+e4f95eaf3b9febbe88090e0e0fe15d5933fd296178105e53832b2a6fb043602d
+d4e0e8c0fa2bc4710cb2d06231679983e832648d424e32b13c0b252edf0fa228
+1a8fc7711c831d4d4f093577fd6fe00af0a1716f8bf57dc432aaad21d6ae9dd3
+baeae4b0a47236232c9e2da4590dea07f027e074545012523d82c5205ad67019
+f88c6d9648a0e66f6a28e155019c62c490a1804c569c3cbb0d2e372e4dd893c9
+362d4b09d61ddb392449b25aade1ffaadb52124034079e8013434c41e67606aa
+c06e5ffe23d35b455cfc79717979a92f339bcdb276ef95c0f7fd4e2784ffab6e
+4ba9f89d248410bff564f81a8d46784bb3152bc5edf2d6ae0d9bcd86ddc1cc4b
+098490939393cd46694344d08a3cc996cb9bf3f3f393934f279ffe383f3fbfba
+be2abf0d0d38bc69b709219bc7e76963eddf75737d63f1d4d5f515e73df04fbb
+d77368b7dbecaa7f7b7bf7ebd7254be880c16030180cdaed83cde6c1c97bf590
+ac2ebf9e7f3e6de337a802bf85d3239a8d113d1ec963d6474e3efd71f9eb87dd
+eb8cc00961b05b210d5c737f2f770895d663078b06372801523d416f61d723eb
+b959d5269a03e908c1adc14972bf5aad2f2f7f799ee779de870feff1561084b4
+98242e27279fe05d869b269ee71d1cee89bbdb0e0178c2331f78dc105b3f834c
+ccc4f3bc72e41179a007ce00cc96e1128bb0bf2dc0be257558bf4f2662d09b06
+9960b81eb39631b09c723c01b796a5eb97fe70b989db1b403f1fdc436ad59276
+0692c9c26fb6ad861dd3f7338a22fd915ff111bbf7be66a83e375786fd13e6fa
+d37e02a325ab0424fd715cf3afa6a9c1250c739c68fc9cd8e61af62db5ab9afe
+8f464336f40ba00e470a770b2dd2d27f2f22288a523d01205d2eb11efdccd1a0
+6c8ba55dfe43ae3fecefac10eb1c9e0e55b4272d6fce671b009e8c22fdcfe22d
+4eee45b03cc14497a3944e675355c9d425b89a5020e6fe73e2b3ec75c34a58a8
+4449e9bba228925aaff78c271806d5924eb2accec5f0274e00bc2e5a0e353c01
+c08550a094b648cbf703e9a266d8bc0ac012c36231d7470e651f64af987c03ae
+1e55b7a5ce86aac2a0b4647d7b6d410c18b5fe6b9ae40dc3c3c7647ba04cfcac
+2c5ee8092ffd8e808d408c12b686f1782cf54bd59f5fd3774d02676714b69036
+4815270f7bc816d68fbeb4fe4c8f94565bb580be6818b5dd0745c0cc61eb1143
+b0ad56eb288a3a9d0e3e25b51d714fe16f98362a6b7b6adfb3a188c30a5cb3d8
+5770110db25a5157ab350ca2f8c6fccd163d6729a5711cefa8d4a4fa1cdc5d13
+a86a109940eae3523d01945af8930a5c851002e23e9ba04c05bb9820be1ff062
+991d327d187c37cd4e0950401ab3287f2fa49460dec1fa00db0f134864c8590f
+afab628f73afe31e01a621cd80caf104ae92e96c0acffa7e108421c6fa4ffd16
+d6276f7abd2e2f96d9c13072ba26401d3ba69a1aa0406994808ab849efca0717
+031301d308e6198cd5fdfd0baf6f8bc1e18472989768a064e51c8c5525be97aa
+f713d8c1873d8a16690d4f873fa753b401ead59e3c66a2d168e8ec28bda187fd
+6a213f85cd7e21cde34fef122a51f50236ef5e3460b55611e42ef204aec1b800
+07610834b05aad7d9fb7fa4bbb9f0a961834ea257bcbf77993899427885f040d
+5f7098c622647a26c4715c6034c84ced66afa73e68c21352d994a820ed1c4f00
+706d06c325bb650bbdc0c994e7a056fff8c92a6a6268919a62a57a02dc4a9204
+b2ca53664b8e5dc854b65debee2056abb54b4ae0261ff64a0a4e5465bb94fad5
+53290157942449c46fa68ad1b98b3c01c0090652930bcafa4ed265a4e63957ad
+4452db519224a9bb1f64eb2ac6ca48aed26ad19c71514588921c3835a8bc53d8
+a65047d2118ea97edd12dbb0a33c01c1ea8b20648bbb5400dd27344010867a43
+8b2687ac4a4f188d86ec929f2449a7d3198d865012d7bee1e910173287a79029
+50422a7d67ad9403bb847363e4dc76842b9f7953913bed284f189e0ed905955d
+26395e81654c06470f2963e9f5baa91667cd3966d08ca1d86834f4fd60783a1c
+f43f837e3218f4d95c026e5dfa295082db1415aa4d34eeab8043af734a8062e6
+b4cd565b154f003152d53613e094ea743adf2793388e911fb28c1139b6abbce5
+168108a47bcc10e46b30e8a332331e8f09690d4f8752f6e2dc9b880225380f50
+aeb276695e0405d8df52400195740496a24cab05f05f580b4ae609499248bf28
+88c2595f6a42fcac8caa7abb39ec92054af50469c9d16828a5b43c6d960216e5
+74af5743f47addc1a00fec4c2326520541b3cdb0185f001780df10a4c44c8108
+8d0e03eba2454770a58fa288e30c00d6eb81ba96050c1bc94a479cedc8040e1b
+8c80c63c85abcf1a5a430af3868a2902d866e4e9b0e77999fc47fedeb4afaf7e
+ac56eb32e3ac2c9737efdf7f50ddc5a1b01b8793934f9797bfa4b786a7c3c9b7
+67ad3aff47b7f86ad0bce96c7a1c1d1f1d1d5d5f5f1b3eeb3c9705e2e9ed6e49
+cd9cb8e94be6c036235325f9978df283b16ac474343e5a34cc44fa4701c94948
+50f343290858a740b136f1230238f18450015ec1db4f5cd56b0834843db58610
+62a587b1c8dae0f2e3cfe91ab34d589a6924f5c182d086810600870ec859fb0e
+7a42264a283ae928bce529b6c5f8cc994deae8e888fdad8f90d76a39f609df75
+3c92dff8fbf6f6cef029883248295d2ce6dfbe4d46a321d81c61c21142daed03
+4288effb50ece4b33307642e6a492adefacf465e8c81a7c1c1e1e1c59f17362d
+33c3b3a50129cf61edac5541b417f57a5d340b48ada87916690b3b58c9eab27e
+3f883df665217b48819563280af10cb71d06833e8864e68dc9241d3969a41e38
+570ba10422c8b8a913946d431e4ab0d87714bdc40a85e1b811e32394ae5e6d08
+d6ea8fd59ab7c19c129cb43615f8bae7c85f6e8fec3c3cbc7008e974425a4a66
+d52f5fbe647d64b3c91c4ed01aa9e61a4cfbe9fb41feac5ff852007a617d9f4c
+cce390c2ce31cefe38fe898db4c0637a04dda7365bbfc212cea9307555902edb
+6c03506bb440416d76824c2dc1247c4ede8bec85b8b69501459997677942ff58
+b29f50665016d61fc2653448402a3577bb3daaf7883450a4dcc224d6774e182e
+72a82583e1df49a44a4a299b9cefe2c2a502faeddb7fac9fdd080ce2e8e888cb
+a55d288643460e62c9d1952b1e27796be45db46ac39ff0db5a4fc8e39565f746
+43985b2dd9d3677864de21b22ab826c854a1464f701e5c22152f7ac1fee1d0cd
+5574c366efa2c7a22bdb91ab66dbf9d2b86d1ef7a0f378028410cdb991ac80b5
+ccbcbc6a3fc1d517b41e6a7e4bdfa1a6222628f87171f18742a3a5ccbefd6ab1
+e8743338874977fbafaeaf5a2dfffaeaf2cd9b009310c38fdfbf1fa2e3c1e3e3
+e6383a661fb9bcbc3c393929e2ab641ad524495025cdef7e226d8cc30a3dcf0b
+c2f07e6d6a0b61bd2d3e7dfcf4eb4aee185202f8667324eb96434957054d3033
+f89d9527c0d2927339e762153b4456bf06ce7f91b8d67109211030224992e96c
+3a1a0dadf3d910b513be0a52e9a812708619fec38b393e7242f33dc4624f4dcc
+2e1db9d270b2bed704399b911a85372b5494e9fb81ef3fc55ddc06596931179f
+6f0d067deb75476a3baa045cc32443ecf67d9a8d5231d93afcb6d398f337b508
+25c1ae256225f4651682a2b158cc9defeb01a47a4225e01a26b1a2ba3a10047c
+135405a999d2f77df95e9be1ee0b0327ea8d61ea4473b852ba7c3ff03c0ffdd8
+3dcf2bdaecfbf5ebfff9df0379b2e49c60fd8e2a84b86b21a104d6f66c8dc562
+9e24f7f8a7effb9ef706763a4f4e3e2d97da7c8959f613369b8d432dbfdd6ebb
+4acee9b05549724fb71605a8b6204ffdcd6673757d757078787d7ddd7b694ed8
+330c0603fe92948539799958ad467764df6b2206b8ccaeae8061603f1139c3a8
+10f50804618811e61cca722805409db05ee6d9e94f7d17484745c4e435813cb8
+a5b4b9ae1c84a44a82b4247b2b9512d883f6711c4751e444630ec210ce3dd22d
+d15a186d9c0c5dea2c87f994b56d2ac0e851617d49cd1c65019612aad213e4d3
+52d562576f95fa3c8b43c0be347535c22f5728d886657d2a3f4c5e64d5ad6c2d
+777ea00f2801d21771f9134a83b4614abf2357f164cecece44e799d96ca68b5e
+96a62784814f1817cb93934f3f2e2eaeaeaf96cb9bcd6693559bdc6c36cbe5cd
+d5f5d5e5e5e5c9c9a783c34314c72b8449037e38f220bababe52bdae2085a4d5
+228410f2687a14c92194e243d645c21ad257e02e1bfb464373611cc78341dfb9
+b38aef07d1f167c31c8a00e47b6e63a8e96524927d574b8a541125ff2b58b0d2
+5125fb09aa86e9fae9fcfca8f80ae767d6e49d341b0b3b60a47ff145458c1802
+98b693c6ebe1d04989d6404f50354ce795cd4604c98f0c8b77f6fd043d58630e
+75ea72d36ebf819cef9bcd431102d5f9f9b9ead67098779d3a3a3ada6c1e542a
+3e6acfe7e72ebdb85bad42c42d43e8647e3d05bbd216d022c9c62d1c9e0eb17e
+b80bbfcb0f366181a2032e20540db00b73c63dae3146534176750238425d154f
+d034ccc846911facddcab9075e2570322c26d0b7c149fb45af825eaf0b5f41cc
+42921330fb2bd113f41b44e967d69c18c8d9906fecde7383547cf99af9647656
+fce7ff3e8bc12049cee70b70ee4892df51143974ee787c7cb6198a67d60a85de
+753c9d125c854964c568aa5f53cb1d203b9476c0aa88683fb7b777c819922439
+faf0b44ead56eb8f471fc93668d5c9c92742c86c36cb73845f03937847a5c1e8
+1c73cac43506ebd2a3abb34e03b49780d58d7561821d3474f2bbbebe9ecde7ed
+20f8f0e1bde7794e8e538b289327a4cee17f1a56d4eb75f3071df978f4916d10
+a5b4f20d2c6bbc69b78a0f035006f08b70ae8751af77f4e103a5f4c387f7aee2
+cd90aa6d471a98c6b670e2a04a84add3122220158487bb0af647dd02c3d30340
+2e4240948d1f1717f3f9c295504008797878705595394cd2b16588f2e22abb5b
+ba8fc02ee80965a2a0d3087ae9fff1f161b55a7fcebd6bc121089ef5abb76f4b
+12834df49c0c94e0fbbe136f02d5a1fe67347ac24b5c5db93932a1817862a4db
+ed15915382e5097fff5dc69267c8d0b245fe320f61a007ca48cbe55f4e2adc6f
+ac56da834d2ef0f1d3ff2afa1500e0098f1080b3555ef69654648e81e74a6404
+3f8232039e3984793cf7a27176e666b701d49eef9389ab64842ac07e4269bea8
+e6d3d5261aa493c89567676710d45f82daeb095fbefc51e6ebee6ee5318c7d3f
+383fbfd067a83001e8218341fff370181d0f88eb70d12ad46a3fc17223ddd5be
+126ce6935df3b670d2f74c486d49ceee609025b0e6e5a94d0fd617d5793259c3
+4193c23242b02b8f8977efdca4b42813ae8efc3b01ddae4ad6f6a5dbdbbbd56a
+1dc73fe1cfc7c732ac9c8f2f991cad281a240bfb58d9f95b4f29bd7ba8bb2024
+82b3bb570e58958643cb93909d4ec8da881637cb12e6e5939e5024b2f62257d4
+f8fc4326df9faab19e00ae38e543afa3af566b55e6d9acb87bb875528f0ab0c7
+fc28283e6ec9cfc6673ea7d8671d6d051e97fe595b3dc1d5690d3ba41ee62c6d
+1cf2803d9f807a02dc723856160dcb9b49a4dbed959904a5421c1c1e9e9d9d55
+d880548bf34e3871bdd84fd802f6f55c11839d0b8f839c3a83c120ab111a1c37
+440f47b727e25de1f2f2d2f3bcca1d8df4830cccd9f3bc94f8825503f698393d
+813dbe921f965be3aeb85e26c981be0c0f8ccd00d65950f4350bd4cd4150df5a
+f63064c9a975cd018d8478479c1595ba086d68dd3097c2a52131c0213a690780
+27dcdfd7424fc81fd4d12d4c62ba2c1673e4abaed239bb85663f01c823cf1065
+8acdc3c1b19a65420c54600884e309f5d098f37c12e7c89a632a6b4accd2c0c6
+c01377d668be61cfd330c7b93747a391490a195564b58d685dab023f2e2e6aa5
+7df67adde38c91ab67b319a9b10eadd94fb076f4c84945eeb3d07e1e0eada53d
+1f46a8bafd84dbdb3bcff3d2fdc6cbc5f1b1cd26062839556d80a8c09e5913f7
+557f5c5cbc7bf7dea25a07066e272c4f84e6580f47bbb80912c771857a82ab73
+4845c0ba53606eca233d3b07ee2740d77abd2e1b27b8d7eb92c066ff397fc38a
+1525558de6ae4c6753a087aaf4048ba12f0d39839fc290d6c794040a0c443aa2
+822ba75d2c30270d2b5ca9d26f1174fd1043c093ed7e429994506daa2f13e4ef
+23212d42481445f9abca0fa04cec1a2164b5783e226f61b67695afba0cf382a8
+433f31c7a005ea51a7d301d5a24c9e50677108e0241436a088b88e7680a5875d
+fe08a32567dd5a759816b1a4a111a71d6ad5e0190fbfcba4048ba95926dc46a8
+a6b52106dc4f205b3605adf2fdc0c2d0e2b061ee6d4752f8be4f5f0a85efdf7f
+189e0e7f4ea7fffdef1d6fecabb12f6a3958add6e3b1cb40e5849024b987a5d7
+f3bc3f0b88ab6781ebeb6bcff3c6e3711cc76fdaadac3e17d4ed72e690aa4ca0
+6f4c69b6a37a3a38010aed38326787a25726b03c210f9c27cf368d81570efc56
+eb8190cd860445061daded7e13b173accf0260ce9ee741c2075aba94e824065e
+14459234b2f95092745407c0ae599dc98014130f5804dd9a31ca1f0d2731f060
+07dd2dcaa604cd22f4ec8552809ec0e6b8af39ca0921f37938a42fb39d978320
+37bb2f888f55c013543d99cf17e077e43b0d1208b9341d565828168b791191e7
+54a05b95a9347a409e40139b095d9c38578d74846a0a9b639c6cfd8e1c4601ad
+c3091b438049b1dbed95fcdefbf51abf0226f63d3a3ababcbc2c228a07f084a0
+ed135f92cb478f62fde4dd2ae059c1e5deacb349a78143c09651264ac0884c05
+a1628d39085e5812fc12a27f34b082fedc4fd6252c6b54a5200c31225341a898
+121e1e5eec3d9b9f4f180cfadc56f462318f8e3fb748434b2e815e3d20b66d36
+9be5f2e6728bcd660311c7eed74fdfc2303862ab954d6f76159a5a8782788d1e
+a2d51c9c0b58f72c11bd5ed744521c9e0e93242927b2e71e03169a4c814b7abd
+2e6427496511c0610cab2d674e564009aa0e0f4f87aa11b49ed6f94f88bf42c4
+716c72f0500fbd83a3f977296f5a96f626809e7b8a3cc14928e2a223d1ee13dc
+e6145539bd1b7a5f973933ebe577a4978e1aec0d4c7842c933b35e7e470d0a82
+ef076fda2dbfd5da3c3efe4e1e379b0ad2feb148d59853174df72899f2d857fb
+7ec071cfacc638df0f0683fe783c1e8f5ee8827200001a0d49444154c78d0884
+f0fdc0fcb8e6f7c9a4fc6d1c96270461c84d03e767334c50991595527a7cfcaf
+dbbbbbe96cfaec2a6cbc9f00968d9b9b79d48bdefafe5bdf9f6ccfadbf5aab11
+9ecfbcb99ebef57d7033d1a0dd3e38f9f4c79b761b6da0457bc2229027504afb
+fde3dbbbbbef93097eb8376f8a744556a164ca8397b25ef28490d16808c60a13
+3d61b55aa72eff8bc5fcf5a81cbe1fdcdfaf9dc4f18ea208ec9b45730998f494
+39b0c6dead24fe40c51a73108630ade156ea7e42b6e1ee5b26d7d815445154dc
+2a1ec77171dc15a63edd06bbc7ebf0dbd521fd6c33b3ecf7c92c68a3d1f0e774
+4aea1a2bfb35c3ad5115c12e7f2c4061a8240c47059400ffc3e6251c6586fe0f
+06fdfd136906837e1cc752a71d74298390c980c562ce4accfb0a5c0dc7e331eb
+3780aa7339b391456594309d4d59d1168ea566e209bd5e571505a3c230d7acb8
+323c1dead7541c130ebe1fc01a418b4f5059096069600707c661341a42dcbe72
+66238bca2881bc0c9a0d770d7902c89149928c46c35eaf8b03eafb41a7d3619d
+f3f27b0d1802222efe9c4e5102a6dbecaec013c0218705f61d394692248bc55c
+14d0e956aaa4191d816a0bce2bfb796e244fe1d68b9b812a544309604ea6d9cf
+272c16f34cf97ba2e3cfb4e0fc68abd53a49128ce63918f4813e599927e78871
+5d06aa2b33e9db60d09fcea6abd51a3abb5aad178bf97436cde30f465f520267
+4d723274d9c6b9ecf711323c7d3a410bae8b6ccf353c61d0ff9c479f2e3a3b4e
+a7d329670067f3a73d2908d35250778230cc1a7f6db55a9b87d61479026126c6
+abb0a262184010e59112f4debcae64658736478c175455e020568a70d52974ab
+a694ae56ebc1a06f683bf2fd16f8ccc3b3a9bc82e3099c4859fa58525a955736
+fee08666576c474118820682d6c04a3018f461191e9edae7ac00c022edce66d5
+fa3e9968f8b0787a1328107e573298959d4f607fe3d0ecca7e020aeee58f9e14
+84904ea7838253262c16f382360d0052159fe309280e91ea86b422fa132861b7
+78c2a0ff99525a9338ec80aa87241ba4b62356462a1f9579e071d175c025ab26
+79d652f1dfbf179ee75d5f5f57dd90276c361b58560b5ddd1d427aa27fb379a8
+30ed6f65f18ee0078a43303445c7b6d007683037d583df2b21e4fcfcbcc8f69a
+c2f7fdb3b33388765a44fde038ed708f4f3c9fd06e1f10eba4e24e500eeb1101
+6fc7c12d544f4083a0decc876ef1a95bd4500c2c510e9359e40121c4f75bdfbe
+39d849cc64c4b433c789fb0964ab3457852a753ec25042417a02b5b58780f787
+a65a4ae9783c466e5e550e69983d987dd96e94d84e514a4dfcde115114e10c36
+7f9734f25715e3f78c8a29811b1a873cc195c429ad876d3f156c20f06709db43
+511421fb1287d410e009e22adfdc6ab536f170e17802a99a21d06a298116633b
+2a228920a78942e3916ec194c4ca09b4788320d000be8864e70985aaa7fafd0d
+58f8d82f55e85899a0e216e058ecd67e02349e93bb7c3f80850db65af1faf074
+b85aada9c192072e3d9a029c4703d4ccb6cab0fda58db36a55e216bebcd3c805
+2a6e04e78fe9504f00c7e6e1e993335c10860e2d8cd0789518f0f3db4f70a199
+cea6aa39d7e97446a3611cc7b3f97cb1988350111d7f1e8fc783417f369f7f9f
+4ca4a1d08230041d06dce09224419317dd9d5d058e275436ff18d42556b6139e
+1045511445a9023a3851e611a2a01ef99e6ed082a51dfe1af43faf160b289f24
+0950a68a2645a7baae1f46518439c5c0119d6d06cb16e8ee5082683baa1c3bcf
+138230cca99b5a90043e2bde4a1689780c8505d0ea6c3e070f67b6252dd28201
+015a82c34caa31811d6e96789c6798fe3e9900bf1a8d86104dc7955825dd63ae
+16bbca13be6f63ba3884f987d43c42152e8686d5c6716c68a1a7cc310fb8925f
+031e9e0e55674d45c4716c4d1b0d4fe061c1130cc3427d9f4ca2281a0cfa34a1
+7054da84780cf9039697b68d585102e8d9c0df0cdb405e26f7b67347edf5baf9
+9795ac7cb5e1093c90125279829e00a6b3e9f07408c1f0f4ab54ea710293b360
+5858755d7a37b54e50c14d1ee44c4c7031d3c1ce82dc070ddfdef0041ea93cc1
+f7836fdf26fa6d17f3cfcf023e833470622a31d0ad23aa789d85b9e4c079e7a7
+3e287d91e1a16d431a88e318aaed743a3fa74f4630b089e96162a36b78020f0d
+4f485dbc57abb5dbb8576ce57ad7232adbc9928ad726efc59ec2717e4ae9fdbd
+4ee2173d9dc6e331588dcd3b28026ccd1ad31622f588b66126117c91beb67250
+174ae078426a14b49c1bc9eca7eafa21a4e1e15ea17158a25b4a60eb91b6d3a4
+31591f140b2f167331ce2e22550dc81424410a9157e83f10b7f0e99b570eea42
+093834683bcf54c9743615871e550b742983180dfada4ca46dbaa504a4169547
+6a6a552a5945ff7671046003912b996a0572eb99c2d183465ae3a2afea1b590e
+ea42091c4fe8f5ba16249113e65eab744b09e8050da18ac43a53a79aaa31aa75
+9ae55d20ca83acd23f7ed178135f71c3ceaa009b0c10d5e6dbb789d87d8dbad5
+f0041e86b623280c7184a4928c1d8057f47addac4b23dd52c26ab160ae3c1d33
+e2c8583f9934cd53bd5a2412caf8ff59e72d862d70b65a565583fdb5271faab4
+514dd5341a9ec083e309dcc2968a3ca764f20493a32f370d548719b080a61e0d
+c4f2b0fc4beb111760d0a1adc7c70e8603d8f0041e1c25584719f1fda0d7eb4a
+79348bef93894500561194396345141391a405e7028d45baca828e2b3612ee4a
+db03c1c6558096c471ecfb018c15045dcd8f200c5ba495d5bbb1e1093c38e9c8
+798ce8fe711ff469b77ec8741be498a61d0ca0eaf38d54ab53b283c3bd575a58
+d3063dd099dc02766f24dbcfdd78653f83e309d1f16ee4fea09492ad75123eaa
+a6244d6c0427b15a76f72d6b6d86008e01de47aa4f465c24196978020f57d251
+c9a0f4290e36f442a370834b36771164157d6721d02af752150ff1fd20ff9e80
+0a4118f68f4dc3421aa2d1137870d291b9c6dceb7521d67e11673553018d477d
+3db5b0f47193b7e0fcd6a81c28f71b34bc2e6878028f4c3cc1a4c2c2bfe1b625
+f0159324495d2ce94bbb272cf6264b2cdb2355efe0fc00784f65e840d5687802
+0f8e2748f504f09033e1fe4118cee673c3c239c11ea8d7037aaafa5303565590
+3e42b7527bcef0c0e5a3e1093c76544fe00029365477312d00f7db049452df0f
+44ed9932c774762502248bc676c423e7ce5a1d40997c302a1185324b7ba69365
+3850f85492243068711ca71ed78ca248b525bc58cca3e3cf2d526cf84d151a9e
+c0a3e8fd8472b03d52dc02bd56b4f0c0452efa8b0970a008b3c3a0da6906d89d
+ea864db7ec5db744a327f0d8d1fd04299e7c2e8216115204d16dd8c6ac2e1ea0
+8df87e003f8006a4eb05ee004c67d34ca17cc14b0a37d7ca51391a9ec0633ff4
+0416b0f0c3371e0cfa30c3606a9a9f2b42d5bfeb879452c8b3281d9f200cb9d0
+2ff9210d5aea160d4fe061bd9f5073407cc8e96cca1ecb22cc2787c010b025c2
+8593582ce6cf9b24412b4912e9861ac42b28b417e3f1b8207a6878028ffde309
+1c30da85b9d481a9fb56abf5ae84c7cc8ac676c4c3643fa150403273089ed7e9
+740ad51a07fdcfb3b9244539026242162a96d4040d4fe0513e4f40d9dda46d6e
+23063440d4504fa82ccf9a148f9ba26ac6e3cb279f3f9f8dcfdaed032f0d61f8
+ce6f3d9168d1092a5f1ba479d62a46a574c84b47ce671b88e94e4c2b41184e67
+53c398427b034856c27db5c5629e937bb3163652f52404d4851260e9cdfbdd18
+c4715c94c01db47e7efb5948cdb50118674dbea09d00c99d1c2c769299610f29
+a1348d732f555b7435fff9ed676a0751e9caea090b3ca1b11d3d838dfd4f7727
+a74e4e40a4fbd1e82951487d7a4d6d8d16b0f96dde91262e2a0f8e124af0a6ae
+0a101a481fc40912e40c06fdf2b98dabe30d867a14e4da6a72ea3c83a3047996
+9a9d0528d9d683e33c33487d001d6c28e119f8b12d72fad616869938ccb17307
+715201fd6aa4a3672025a02f71755fc7010c6900923cc0a91df0ed3179b0eace
+39038682c5a881b6d3c725aa6f048c050622df45d723fd3c8ee378d0ff0cb934
+f51b26a9990d4aeb51a110f9bf93899413d537421c8e2abe8e255283845ad5da
+82c07241188af53bee4015e0fa9227a4a743544f09623a09b7e30e4185a32872
+689049fd78499238b48d72e14d2b096ce30a2806a3952975352907d55302e68f
+61bfb7f540674a9e67673a4cadd6baf1524845a6dd75821247c9fc7b158a5ab4
+431c94ac0b2a3e689e6b4c9ab44f0fbbf8a1d24455685dc5bb26e9cf9c58fdcd
+0dbbcee98d7d355eb418d222508b7620bb374c3b80582ce6ae8cee4018faf46a
+00eb04057990b37739dbecc48ccb6663c095ce552a8cfca8052550c50aa119d6
+e24ceca0031816c6af0b7129f3eca371c02c2779d41b6c5e9224d6fc643c1ee3
+7ccde304805d63172f57c3951f75698a34619974852e4d44ce69cfb58bb602c8
+afdc8f464393489516d087395381ed1d5eac0f43a0f5a104ca0c106b9edf8ff3
+00902e64b55a6bbe3df875e617f64a3b016bce1fd86e2291a766192e1935a204
+15d3cc9306aace98cea6abd57a369fd7c717b508b09f925dd7ca9d5ce9a85783
+585996bb55c5476c9017ec176465dd5ac945807a51027d693fe5c66b778de8af
+105c5a51768d7368577088da51027d490c9c433f6ec3d5164118465114c7f16a
+b55e2d16abd57a3a9b8265e99550b2a800b006804c5b9f65a28e94405f3a1488
+235b37355a9aec15d45f952bc14e7b4c68208a3decdd7a7203404d29810ad35d
+3ced65b20b562860795b2ce6837e3673cd60d0c739b15bb97054901a82386aaf
+a16ec0a2be9400e0465ceaff5cb22337786a38f4e753655fde0948b74d38032b
+badcd71975a7042adbd754c99a451f831e9e0e0b3d613c1a155bbf2bf87ea03a
+902dae4ace4ff015841da004803845a4eefb88ef93090611d9355493e7460f56
+a2938eb6f8489e5df6f2b1339400902a9abe1f985824a6b3e9783cdec5337165
+220843386167b296ab98f06ed10060c72801a0df7506d7864c152649b258ccbf
+4f261883688f1145d16834fc399d5ac82dd3d9546ff5aac9b11b0b787497b76f
+7f5c5cfcf1e54b6ab14ea7d3ed763e7efcd4edfeabd3b19ce8b7b777770fb7cb
+bf96abd5e2f2f2975d25452308c37fffabfbf1e327ffad1f069d3c9dfdf5eb72
+b55afccf5fcb87bbbbd4f2d3d9f4383ab67b575d503529bac16ab5b6167b602f
+6c341ae6d1ed6007ad347d17a4767bbb6442e3380605dd7abf8ff5d6de03ec09
+257080c464aea65d1086411842043b73eeeff60485269fac88d56a3d1e8fdde6
+4601656c77859f54ec272548013bbe711cbbcd0fd222ad4ea7c3b9d9b0b0f0e6
+67e79faa5a08ddee56ab81e8078bc57c8f67bc0aaf88125201a4028189706658
+cf2adf0f58138ac5c103ae7941185a2ff0df27137876783a046ff07d126c9ca0
+a10425703a82a92ad962b198ab6278414258ee166b8637f49862a7a9a8ff8cc7
+e3388e4567935eaf3b1e8fd9590e761ebacd72f00a577a733494a00312034c6e
+7d4976d517b514d6e3404f06fa6268c4842669c427a03a1075488d9d406b8286
+125280b3939ba66231561f5019b2f4e15ff10cb74a0a62b5023d25001fc31cb8
+3be1f9532d1a4a4807ce240d3164d25cb15a16108845af4e88f6286963c0bf15
+b2a36b8a3560d18c513ae07850ffb84fb7134bea8103823b9044aabd0844798e
+0c52b744d8022a6e00bc02984f4306e66886c90830b38133a0a42eeec4f58ffb
+38f9f4739a6c0577f21c61c9c8f10e6b5e2d16dcdbb1612c99153f367b8266a4
+4c810747e1cf9662e2c2f93593394d98c3be86e5c99615a81409783bfa655534
+543b8966b0b20166983e86a9384135b7a412115b9b38e935f62254334ca2ac36
+60d1504266b07b02ac80942ce431e7d8fd3593e3cba2b9535a8cdbb663edb645
+8fc05ea219354b989ca2d68779e3cc44fad799843f6b4ca579b0db5ed975c3ed
+ed1d79dc3c92dfdd6ecfa4fc7279f3fefd0762a6613fbf65b9242ddfdae3ba81
+140d253468400821ffa8ba010d1ad4020d253468404843090d1a001a4a68d080
+9086121a34003494d0a001210d25346800f8a77869b9bc69b582c7c707d5ff86
+db46b5057650d391cbcb4bf831180cca6a974b5c5d5f7dfdf2f5f6f696101284
+e17f4e4f3f0f8b0d1abbeb90ecac799ea77fc67c33cee17cc2205f83413f8e7f
+e6a90a3ba8e98858c6e4a99a40f50557ab75d69de91dea754e487882437c3d3b
+83086a7982cf01deb4dbf0a31dbc8acc34d6d02c64efde1d2649e2fb7e99edd9
+15e82861b55a93c70d69f92017e16f8bd70441dbb6853c92bb47575569b05aad
+83a0fdf09037276cc9383f3fc7dfec2a8ee4d16eb7f77e75b7834e63ee74c24e
+b7dbe984dd6e8ffdcd96b9babe6ab70f3ccf6bb70f3e7c78afaaeaf76f7e4a9d
+9c7c6ab70fdaed8383c3c3abeb2be9530787875080bdd80ef923320787879ee7
+799ef7c67ba3aa2a2b6eaeaf7ec6f18da2b6e5f206da7672f289bbf5e79f173f
+2e2e402c3c3bfbc2add0979797d0eb76fb809db5227e5c5c40559bcd46ac5ff5
+ecb76f17f043747455bde8e8e8c8db42ec0e8bdbe552d56b00dbbb1f1717dc2d
+b6d9f0c9f0ee66b3819aa5b3e8fae666b9bc592e6fa00daa62801f171730213d
+cfe3664e0a44f754cd2d554916784644f52e55083ab66631e4169e0a60939af9
+befce09861b33395c12be22104368e105c61dbaf1f2e55042e0c11c0b976eb1b
+8f4f4953bf7150055f12bb436441d0b896eb7b870733c42e481f948e9bd806ee
+40b9b41e4367751d2544c79f07837e144583411f7f6331764270e1ae54cdd2f7
+1c0be85dffe1f03b4d3bf5a2ebb35519cdbbf4c50c7b6dd206ecb22af82437b9
+7d3fd044fbb2eb4ed6625ccbb95b9a200638cbf3b7c124d3a18e120c5f8c57f0
+d8141ea7c2250ad706e9d2ce55857f22e1b1bc1e1f141bc05ed4443b943e985a
+06afb08b345ec46c4bec58611bf07bb3cfe20a87618eccdb60d27211d262ecdb
+c58bd2c7f10a10a4947de145f8882c25c022cd45f7c007f15b636dfaa6c29fec
+128065d8a0389a117baa30d3504a8783a873a8889420820d8822ed2400e70d84
+f16169832d86a92c353cd1647434fd658bb1929ea698ea8dfa96881cc0a4e554
+cb2d91a31a36493fc84426ed48abc226a9c85e7c4aa4045d3b832739990b3862
+3862544f09fa2755b1aea4654c644a785635c5f1f822f004d5c8aa1ecfda41b1
+8cfca9c468eaa8fa9ba9a9d83555b63f115239533f0816c54c7a87df4b145454
+c1ceb251425a3b67f394e418f6de16f7ebb554f7f53c8f33778805d83f0da3c7
+75bbff821f60457dfbf6c928feef7f57bae15da269bebddd5131dfa63c8e8ec5
+39c159754a46abf562c83e7c788ffd0230d4ebd284fdd7fffc4f4a09913834b7
+54f83e997081abe0bac813b000abf3714f491b8054073ce1e7742a2d86a2a1e6
+34bd4907c532d2a7d8455753cc624801d86b5186ccda35fc16182c555ad2a43b
+1ce33569982a5c9a66b8ec78824afad0b4eda9a4e492c1c32a2184bb88a37f7f
+bfced92bbc087a426a559ad0d0261d14cbe0155638c18b62e85f696d9c6cd0eb
+75e19f494b00fac8ef584c5493b851c53fd9a929868a113bc85e04ad43dab624
+49d8de212570528a385c6c30705519f1226b83d2d7af1c3ac9a53448c7284912
+d14282943018f46198f029984f5cfc506e2ce0c16fdf5e580645db112104b2a6
+8a55c9fbac856ac964cb0461c8d92bf543cf2e1c90278a65267adb3fd73c4d49
+2aa4b4821c39dc068858129ac48aa9d6bd860fcdc6a481f134e4096cfd992881
+6b2a975ecc644bc19e123489ccb02ace5a4cd3526968da80f60ae4099aa6ea13
+c6e87bc7c6d6d5370921e512dc4bd5c3d5d27f212ed291be30556f5c8a8fab42
+4aa27d49df6b56be55251fc22998ca13d847e087efb734432a5ed46c43a50e1a
+955282ef0790634ff50f4b8a41cc45e2c3a0b9d820d60607ac136b66bf013bb8
+303ba10cb7a9c47d037db02d930e8258257696bdc2ce214e5c111fe45ecdb6d6
+30bb47a62f8acde03e8d343ea4b83071ddc1b1e2ea940a695cefd80562783aec
+fa611086625865b65ae9e04b875435ce5c77d819a54713ef6807f07a5ca32b44
+7366adeef8f2f529f5badb349b0d38343ca1d660f75e9a2f55281a9eb01b7098
+68bd81140d4f68d0809086273468006828a14103421a4a68d000d05042830684
+141de5a5fe308902968a1f1717108446f497166f9d9d3ded0f8cc73ac7138b86
+699ad12015afdd76e464fb5653897504318b86355bd179d048470d1a10d25042
+f9003f59d591c50655e1d5510286098348522a60f4a876fbe0f6f6ce61032e2e
+2e7e5c5cfcf8c16795dd06507ba339fb7a76f6c5f3de40c33471d614351f40cd
+e7e7e7d2d861d865cff38e8e8eb2f4692f60e8b3ba07107dc83b9d8e380e2aaf
+7d4dcd9a32e22df18ae849218d59226d15eb966c52337bda018ba94e17e88f79
+ec195e91c6ac8f010ee37072f2e9f2f297b480ef0749729fb1e616218f6cfd44
+d06b379b0d77a45dda304de35535eb9fc262b7b777efde29a326be9ee9f15aa4
+233694272e036231240376b5802b9b8d4568e4f460c64806d2806222b00c2ee4
+2a318f8d0aaaa919c9803d638d77d1277cffe192c1d418d85feeb015370ed261
+c1f390aa006799c6d9e48d5c682dc31e99d42c4a47d26286a134f609afa69f8a
+efca5e1715090ed203909acaa5b74c26a2f4ba2a84289e87b4a8194d582de138
+f56ba384d7bec7cce221d1052cab169cc4effbc1bb776f6f6e96849056cb416a
+9596ef2cc1c58ea2a184671c47c7f043a31c97038ddd966e576bb4a23e3e3e10
+627ab013f37d0130bf0ea705e9a318ee255e8bc68cb651d60cafca34c14d0b34
+b473d3c82d58033f67ccc15bacfe000c81a879027699e527272727aa06b0b33f
+0cdfc10f7d68febd42d5e25979607b2d060512cb8cc763c368629a02e22dee0a
+abc2fa7e202a03f4a5fe9a24499224eca6874a4f48ddc686625cd01df64f4d97
+f70fafa8ab9aa415d299cac12e2183a67ebc22eee5b12bb1aa55580683268935
+1beeaca93613cd8372ef015e1125d09761d230c3851899940b3b971af25f13de
+54bc252dcc4e59080e291613b316f57a5d68bfbe1983413f0843313988a6cb26
+01d4f60caf688fb90121e4fcfcfcecec8c101284e1fd7a9d5afef5a0a184bdc5
+c1e12124c32632c78ae6bb736828619f61e2add400f05aaca8af1354a60d7361
+f11b00fe3f4b6ed783856779710000000049454e44ae426082}}\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1\sb9{\f0\fs18\b0\i0}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs20\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1\sb11{\f0\fs29\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\li737\sl200{\f0\fs20{\*\shppict{\pict
+{\*\picprop\shplid68{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}}
+\picscalex56\picscaley56\piccropl0\piccropr0\piccropt0\piccropb0\picw14525\pich4312\picwgoal8235\pichgoal2445
+\jpegblip{\*\blipuid 5b0f1e38110d834e9a10cf610afe12e7}
+ffd8ffe000104a46494600010101006000600000ffdb00430003020203020203
+03030304030304050805050404050a070706080c0a0c0c0b0a0b0b0d0e12100d
+0e110e0b0b1016101113141515150c0f171816141812141514ffdb0043010304
+0405040509050509140d0b0d1414141414141414141414141414141414141414
+141414141414141414141414141414141414141414141414141414141414ffc0
+00110800a3022503012200021101031101ffc4001f0000010501010101010100
+000000000000000102030405060708090a0bffc400b510000201030302040305
+0504040000017d01020300041105122131410613516107227114328191a10823
+42b1c11552d1f02433627282090a161718191a25262728292a3435363738393a
+434445464748494a535455565758595a636465666768696a737475767778797a
+838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7
+b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1
+f2f3f4f5f6f7f8f9faffc4001f01000301010101010101010100000000000001
+02030405060708090a0bffc400b5110002010204040304070504040001027700
+0102031104052131061241510761711322328108144291a1b1c109233352f015
+6272d10a162434e125f11718191a262728292a35363738393a43444546474849
+4a535455565758595a636465666768696a737475767778797a82838485868788
+898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4
+c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9
+faffda000c03010002110311003f00fd50a28a2a0b0a28a2800a28aad7371159
+5b4b3cf22c5046acceedf7556803f043f6dcf19cbe39fdacfe286a7240b6cf06
+b12e97b17fbb668b6bbbfe07f67ddff03af0fabdaf6b77de27d7b50d6b55ba6b
+cd4f52ba96eaeae1fefcb2cafbddff00efa7aa35601451450014514500145145
+00145145001451450015dafc11f0b69de38f8d1e00f0e6aaaefa66b3e21b0b0b
+c446daef14b708aff37f0fc8f5c557d45ff04d3f0ddd7887f6c4f06cf0d8fdb2
+d74b8af350bc7dbb9205fb2cb124bff7f658bfe04eb401fb8d45145400514514
+0051451400514514005145140051451400514514005145140051451400514514
+0051451400514514005145140051451400514514005145140051451400514514
+0051451400514514005145140051451400514514005145140051451400514514
+00515f993fb4bffc14fbc7bf0abe3cf8c3c23e0fd2fc25aaf87f46ba5b28aeb5
+0b3ba7b8f35624fb42bbace8bf24fe6a7ddfe1af34ff0087c1fc64ff00a16bc0
+9ff80379ff00c95401fb035e2dfb64f8ab4ff087ecaff14efb529192de5d02eb
+4f528bb8f9b729f668bff22ca95f9d1ff0f83f8c9ff42cf817ff00006f7ff92a
+bd23e067ed1be2ff00f828dea7e24f83bf1020d13c3fe13b8d27fb52f2e3c356
+72c57afe45ddaec4496796545f9dd59b3137cabb7e5dfb96c47e67d15fb03ff0
+e7ef837ff432f8ebff0003ecff00f9128ff873f7c1bffa197c75ff0081f67ffc
+89405cfc7ea2bf603fe1cfbf06ff00e865f1d7fe07d9ff00f22d7e4ffc43d3b4
+3d23c7fe24b0f0c5ecba9f86adb53ba834cbd99b7bcf6ab2bac52bfcabf79763
+7dd5a0673f45145001457d83fb007ec71e16fdab63f1bdcf8b6ff5fd3ad3447b
+34b47d1e58a2f35a5fb46fdcd2c4ff0073ca4fbbfdfafaff00fe1cfbf06ffe86
+5f1d7fe07d9fff0022d007e3fd15fb03ff000e7ef837ff00432f8ebff03ecfff
+00912b1bc59ff04a8f81be0af0aeb7e23d53c51e3a874cd22d27bfba75bfb36d
+b1448cee7fe3d3fbab408fc97a28a281857e837fc11d3c1b35f7c57f1ff8a967
+54b7d2f458b4a6b7dbf3335d4eb2ab7fc07ec6ff00f7dd7e7cd7eb27fc11dfc2
+7616df077c71e258d5bfb4350d7d34e98eef97cab6b78a48b1ff0002ba97f3a0
+47e82514515030a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a2
+8a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a2
+8a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a2
+8a2800a28a2800a28ae0be39789b50f04fc15f881e22d26558755d23c3f7f7f6
+8ecbb95258adddd3e5ff007945023f9fcf8a7e324f889f13fc61e2c8ad9ace1d
+7b58bcd516dddb7f95e7caf2ecff00c7eb97a28ab1857e92ff00c11b3c316f3e
+adf147c432d81fb5c1058585adfb061b1647b87b8897f87fe595bb7fdf35f9b5
+5fb2bff049cf0b5ef87ff6579afee845e46bbe20bcd42cf63671122456a777bf
+996b2d007da745145401cbfc4bf17c5f0efe1d78a3c593dbb5dc5a169573aa3c
+08db5a55822694aeef7db5fcdfd7ef17edfde27bff0007fec7ff00136ff4d28b
+712d8c560e5d777eeae6e22b6978ff00ae72bd7e0ed58828a28a067ec9ff00c1
+263c2b7da0fecb173a85dc48b0eb7e22bcbfb3646fbd12a456ff00fa36096bed
+5af08fd883c1b1f81bf64cf861a7473b5ca4fa447aa077ecd78cd75b3fe03e7e
+dff80d7bbd4082bc1ff6e7f19b7813f649f8a1a92db2dcf9fa53697b19ba7db1
+d2d77ffc07ed1bbfe035ef15f107fc15abc5171a37ecc5a7e9b6b76224d67c45
+6d6975006f9a78122967c7fdfd8a06ff00be6803f1da8a28ab1857ee77fc139f
+c2f2f867f63ef002dcd8fd82eef12eafe4cae1a5596ea568a5ff008145e57fc0
+76d7e18d7f469f07fc213fc3bf84be0af0b5e4a935d689a1d96993cd1fdd7782
+04899bff001ca047694514540c28a28a0028a28a0028a28a0028a28a0028a28a
+0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a
+0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a
+0028a28a0028a28a0028a28a002be54ff8297788ad7c3bfb1e78c209ef7ec575
+ab4f6361649b9b75c4a6ee295e2ffbf514a7fdd56afaaebf3c7fe0b1de318ac3
+e187c3ff000ab5b33cdaa6b32ea8b71bbe454b583ca64dbfed7db57fef9a047e
+52d14515630afdf4fd88fc1f07827f64ff00861a6c134b7114fa345a9969ba87
+bbcdd3affc05a765ff0080d7e08d9d9cfa95d45676704973773cab1456f0a6f7
+959bee22a7f1357f49ba0e8761e1ad174fd234cb68ad34db0823b5b5b78976a4
+5122ed455fa28a046ad14515033e37ff00829e7c3ff16fc4bf815a1e81e0bd0b
+53d7f527f10c373716ba7c0d29fb3a5bcfb99bfe06f1ff0095afcc6ff8631f8e
+5ff44afc4dff00802f5fd00d1401fcff00ff00c3187c72ff00a257e26ffc017a
+3fe18c3e397fd12bf137fe00bd7f4014558191e1bd0ac3c25e1fd3343d2e05b3
+d334eb68acad6dd7fe59c512ed45ff00be56b5e8a2a002bf2d3fe0b2de28b39f
+c4df0c7c390ce46a167677fa85c423eef973b44913ff00df56f3d7ea5d7e29ff
+00c153fc62de28fdadf55d35a0584787749b2d2d1ffe7aef4fb56fff00c9ad9f
+f00ab888f90e8a28a06767f06bc2569e3ef8c3e05f0c6a0cc9a7eb7aed869b3b
+43f7fca96e1227ff00c75ebfa35afc31ff00826f786dbc49fb627817758fdbed
+2c3edba84ff2ee4b7db6b2f952bffdb578bfe05b2bf73a800a28a2a002b91f89
+bf133c39f083c13a878bbc5b7c749f0f69de57daaefc8966116f916343b63566
+fbeca385ef5d757cc7ff000529ff00932bf88bff0070dffd395ad002ff00c3ca
+7f671ffa28c3ff00047a97ff0023d5df0e7fc1407e03f8cbc47a4f87b45f1dfd
+b758d5ef23d3eced868f7e9e6cf23aa22ef7802a9dcc3ef1afc25af4efd987fe
+4e5be12ffd8dda4ffe96c55623fa1aac2f15789ec3c19e18d5f5fd5ee0da693a
+4da4b7d77702267f2a08919ddf6afccd8553f76b76bcc7f69fff009368f8b7ff
+00628eafff00a452d401e65ff0f29fd9c7fe8a30ff00c11ea5ff00c8f47fc3ca
+7f671ffa28c3ff00047a97ff0023d7e19515607f4d15f31ffc3cabf671ff00a2
+8dff00942d4bff0091ebe9cafe65ea067ee6ff00c3ca7f671ffa28c3ff00047a
+97ff0023d7bd7837c61a4f8fbc2fa6789342bc37fa26a9025d59cfe53c7e644d
+f75b6baab2e7fda15fcdc57f409fb1dffc9ad7c29ffb176cff00f450ab10df8b
+dfb5cfc27f813e26b6f0ff008f3c56341d5ee2d12fe280e9d7571ba0667457dd
+144ebf7a27effc35c57fc3ca7f671ffa28c3ff00047a97ff0023d7c35ff0581f
+f9398f0d7fd8a36bff00a5b7b5f0bd007ee6ff00c3ca7f671ffa28c3ff00047a
+97ff0023d69f85bf6f8f803e31d5934eb1f89ba6db5cb23316d5a0b8d3a123bf
+ef6e6244cffb3babf07e8a00fe90bc1ff103c33f10b4c9b50f0b78874af1369d
+0cbe43dde8f7d15d42b26d56d85e3661bb0ca71fed0ae9abf9aaf0df89f57f06
+6b36fabe83aadf689aadaeff002351d32e9adee22dc9b1f63afccbf23ba7fc0e
+bf48bf63dff829e5eeb5aee99e0af8c935b66f1becf69e2e444b7db2b3fca974
+8bf22aff00079abb76ed5de9f7e5500fd33a28a2a06666a7aa5a687a6ddea17f
+730d8e9f69134f71757122c714512aee67766fbaaabdeb83ff00869ff837ff00
+456fc09ff852597ff1daf28ff828f7c51ff855ff00b2a789c5acef06a3e2478f
+c3b6ceb12ca87cfdfe7a3eefbbbade3b85ddfded95f87b408fe86bfe1a83e0df
+fd15bf02ff00e14967ff00c76ae7877e3c7c35f17eb96da4787fe2178575ed62
+eb7791a7e99addb5c5c49b54b36c4472cdf2ab313e8b5fcecd7a17ecf5f1425f
+831f1bbc17e34496786df49d4e296f3ecf12bcad6adf25c2a2b7f13c4f2aff00
+c0aac0fe89a8a28a819c8fc4cf895e1df841e09d47c5de2ebefec9f0f69de57d
+a6f0432cde56f91635f9235666f9dd470bdebc4bfe1e53fb38ff00d1461ff823
+d4bff91e8ff8294ffc9957c45ffb877fe9cad6bf0caac47eed786ffe0a05f01b
+c65e23d23c3da2f8f3edbaceaf791e9f676cba3dfa79b3caeaa8bbde00abf330
+fbe6be8eafe78ff660ff009396f849ff00637693ff00a5b157f4395030a28a28
+00a2b3357d5ecb41d26ef52d4eee1b0d3eca179ee6eee2558a2822552cceeedf
+75557ab57e457ed85ff0525f13fc50d76fbc3bf0bf55bdf0b781621e4b6a36ff
+00b8bed51b7ffaddff007e08be5f95176b32eff37eff0094a08fd29f8a7fb557
+c26f82b74f6be30f1ee95a66a114eb04ba642cd757b133a6f4df6f02bcaabb79
+deca17e64e7e75cf867897fe0ac9f03b41d564b4b28bc51e23b745ff008fed33
+4c4485bfeffcb13ffe3b5f8d345581fb87e18ff82917ecff00e2afecd89bc6ed
+a3dedf3a462d354d36ea1303b3edc4b2f96d120e9f36fd8bfdeafa23c31e2ad1
+bc6ba2dbeb1a06ab63ae69371b8437da65ca5c5bcbb58a36d74f95b0cacbd7f8
+6bf9b4aefbe0efc74f1bfc05f13c3ae782b5db8d1ee03a99e046df6b78abb936
+5c45f7255f99fef7dddfb976b7cd401fd15515f3dfec75fb55e99fb54fc327d6
+1ade2d27c4fa5ba5aeb3a644fbd2295972b2c59f9bca97e7dbbbf891d7e6d9b9
+be84a818565eb5ace9fe1cd2aef52d56fadf4cd36d2269ae2f2ee458a28635fb
+ccecdf2aad795fed37fb4c785ff65ef87f2f883c4131bcd4aeb743a4e876f205
+b9d42e3fba3fb91ae577cbfc3c7de66547fc4ff8edfb4d7c43fda2b5afb6f8cb
+5e96e6d227df6ba35a1f2ac6d7effdc8bfbdf3ecdcfba5d9f799a811faf5e32f
+f828efc02f05ff0068c1ff0009b0d76fec38fb268b653dd7da1bfbb14fb3c86f
+f7bcddbfed571fe16ff82aefc0bf105f1b6d424f127866309bfed7aae97be227
+fbbfe8cf2b7fe3b5f8cb45581fd0b7c2afda5be17fc6e28be0af1b697adde3ef
+2ba7f99e45eed4fbcdf67976cbb7fdadbb6bd4abf99a499a1952589992546dca
+e9fc35fa2bfb0f7fc148b52d3f5ab5f037c64d69efb4aba64874cf15deb7ef6c
+dfee88aedff8e26ff9f87f9958fcece8fba200fd50a28a2a0615f92dff00058a
+f14dede7c67f047872529fd9da7787dafe0017e732dcdc4b14bff8edac55fad3
+5f855ff0513f1241e27fdb17e204b677df6cb5b596d74f57fe089a2b589254ff
+00804a92ff00c0eac0f9b28a28a00f62fd8e7c2d7de32fdaa3e16e9fa7ac6d2c
+5afdadfb79adf2f956aff6a97ff2144d5fd0357e2dff00c129bc210789bf6b1b
+6d4a59a5865f0ee8b79aa46a9ff2d19f6daed7ff0080dd337fc06bf692800a28
+a2a0028a28a0028a28a0028a28a002bf9eefdacbc4f75e30fda67e27ea575749
+7c7fe121bcb48274fe282295e28bff00212a257efa78c3c5563e07f096b7e23d
+55cc5a668f653dfdcbaae76c31233b9ffbe54d7f36eeecefb9aac4328a28a067
+e807fc11d7c277779f183c75e26578bec1a7684ba7489fc7e6dcdc24a9ff008e
+dacb5fad15f9e9ff000474f085b597c24f1e78a964737ba9ebb169b2a1fb8b15
+b5baca8dff0093afff007cad7e85d4005145140057cc7ff0529ff932bf88bff7
+0dff00d395ad7d395f31ff00c14a7fe4cafe22ff00dc37ff004e56b401f8675e
+9dfb30ff00c9cb7c25ff00b1bb49ff00d2d8abcc6b4fc31e24d4bc19e26d2bc4
+3a35cfd8f55d26f22bfb3b8daafe54f13a3a3ec6f95be64fe3ab03fa55af31fd
+a7ff00e4da7e2dff00d8a5abff00e914b5f901ff000f28fda37fe8a37fe50b4e
+ff00e47ac8f137edfdf1ebc65e1bd57c3facf8f3ed7a46ad672d85e5b8d1ec13
+ce82546475dc96fb97e46fe1a047cf745145033fa68afe65ebfa68afe65e800a
+fe813f63bff935af853ff62ed9ff00e8a15fcfdd7f409fb1dffc9ad7c29ffb17
+6cff00f450a047e71ffc1607fe4e63c35ff628daff00e96ded7c2f5f747fc160
+7fe4e63c35ff00628daffe96ded7c2f401f5f7fc13f7f642f077ed587c783c59
+a96bba6ff617d83ecdfd8d3c516e13fda37eff0036297fe7dd3fbbd5abdb3e32
+ff00c1209ac34ad4752f861e2fbad4aeede00f6da0ebd145e6dd32fdf4fb5aec
+4566fe1df16dddf7997efad9ff00822f75f8c5ff00706ffdbdafd35a00fe6835
+5d2af343d52ef4fd42ce7b0d42ca56b7bab4bb89a296de557d8e8e8df7591bf8
+2ab57d5dff00053af87d1f813f6b2d6eeedc5bc769e23b2b6d6d2de08845b19d
+7c897763ef334b6f2cacff00f4d6be51a067ee37fc13c3e386a1f1c3f66ed36f
+358b9b9bef10687732e8b7d777477bdd18d51e297ef6e7fdd4b12b337ccce8f9
+afa8abf31bfe08c578be7fc5bb3666f9d3499513ff0002b7ff00e8695fa73502
+3f25ff00e0af7f14e3d73e27f84fc05673c6f0f87ac5f50bcf2a70db6e2e9d36
+c52a7f0b2c512baffb3715f9ff005e89fb437c4e6f8cbf1c3c69e34124935bea
+da9cad66f7112c4eb6abfbab55755fe3589225ff0080d65fc1ef87d27c55f8ad
+e10f07c6d3a7f6deab0584b2dbc5e6bc1134a8b2cbb7fd84dedff00ab199be35
+f065f780f5b8b4ad4da07bb974eb0d4bf75bfe48aead62ba893e644f9912e115
+bfdadff7ab06bf423fe0b0bf0f63d1fe23780fc630ed58b56d325d2e58921da1
+1eda5deaccff00edadd6dffb655f9ef401fbc5fb05fc538be2d7ecb3e08be696
+07d474ab5fec3be48a5f31a296d7f749bcff0079e2114bff006d6be86afcbbff
+00823bfc52962d5bc79f0e2e5ee248a4822d7ec620a9e4c2cacb05c7cdf7f73e
+fb5ff67f74df77f8bf512a00f993fe0a53ff002655f117fee1dffa72b5afc32a
+fdcdff008294ff00c9957c45ff00b877fe9cad6bf0caac48f4efd987fe4e5be1
+2ffd8dda4ffe96c55fd0d57f3cbfb30ffc9cb7c25ffb1bb49ffd2d8abfa1aa06
+145145401f9a9ff0573f8f77da559f87fe1269de64106a902eb5ac3ecff5f12c
+acb6b0a3eeff009eb0c8eebb7f822dadf7abf30abddbf6e9f17c1e37fdadbe27
+ea56d0cb04506a7fd96cb37f7ace25b566ff0081340edff02af09ab03bdf823f
+053c53f1ff00e2069fe0ff0008da2dcea574ad2cb712ef5b7b3897efcb70c88f
+b553e4ff008132aafcccab5fa63a27fc11ebe185be936916b5e30f175fea6a9f
+bfb9b196dad6191bd56278a565ff00bedab1bfe08ebe01b2b6f873e3af1c6f59
+752bfd55346456897f7115bc4b2fcaff007be76baf997fe99257dede2af13d87
+837c31abebfabdc7d9349d26d25bebbb81133f950448ceefb57e66c2a9fbb408
+fc87fdb63fe09eaffb377867fe134f08eb77de20f087daa3b5b9b4d460ff004a
+d3b72aa24af2a2ed955e5dcbbb645b77c49f3eedd5f1657ed678f3f6e8fd953e
+267856f7c37e26f18c3ace857a53ed1633e89a9ec976baca99db6ffde546af25
+ff0084dbfe09e9ff003eba47fe09757ffe35401f22ff00c13a7e2a3fc2efdab3
+c2a924ed0e9be2367d02f1122f37cdf3ff00e3dd7fd9ff00485b7f9ffbbbebf7
+42bf3df42f8a7fb03785b5dd3759d2bfb2f4fd5b4eb98ef6ceea3d1756df0cb1
+3ee47ff55fc2cbfa57d93f1bfc4f7de10f81ff00107c43a54e22d4b4bf0f6a1a
+859cacbf7658ad5dd1bfefa5a00fc53fdb73e3fdcfed05f1fbc41aac579f69f0
+d6973b695a1c492ef8becb13ecf353e44ff5afbe5f9be6f9d17732a2d781514f
+86196e6e228a25df2cadb153fbf40cfb7ff634ff00826ddc7c7cf0843e38f1e6
+a97be1ef0a5eeffeccb2d3367db6f93e74798bbab2c49bbeeee5677f9feeaec6
+7fa13c4dff00047cf86f71a2ddc5a078c7c55a76aedb04177a935ade5ba9ddf3
+ef8962899fe5ddd1d7aeef9b1b6bee9f0b786b4ff07786b4ad074883ec9a5695
+691595a41b99bcb86245444f9bfd9502b66a047f38bf16be176b9f05be22ebbe
+0af12c7043ade933f952fd9db7452a6cdc92abff0075d5d5d7eeb7cff3aad723
+5fa2ff00f0593f09d959f8dbe19f89e3dffda5a8e9d79a6cfb9fe5f2ada58a58
+b6ff00b5baea5ffc76bf3a2ac67ed57fc1347e3adefc62fd9e60d2b52be867d7
+fc2130d226c957965b5dbbad6574454d9f26e8b3f36e36ecc58b16c15f98ff00
+b33fed69e30fd968f88ffe113b4d36e3fb745afda7edf149215f23cd081482bc
+7ef5bb51408fdf6afe713e2e78be0f883f15fc6be2ab685eded35bd6af3528a2
+7fbeab3dc3ca8bff008fd7f407f1afc5579e05f837e3cf12e9e57fb4346d06fe
+fedb77ddf362b7774ffc79457f39f4005145140cfd28ff008235785e092fbe29
+788e7b13f6a8a3d3ec2daf997f81bed0f2c4bff7c5bb7fdf35fa815f177fc127
+bc2777e1cfd957fb42e4a795af6bf79a95b6c6ff00964a915afcdff03b592bed
+1a800ae5be26f8bd3e1e7c38f1578b2581aed341d2aeb546b74ff96be444f2ed
+ff00c72ba9af9dbfe0a05e29bbf087ec7bf122ef4f9116eae2ce2d370ffc515c
+dc4504abff007ea57a047e5dff00c3ca3f68dffa28dff942d3bff91e8ff87947
+ed1bff00451bff00285a77ff0023d7cc94558cfa6ffe1e51fb46ff00d146ff00
+ca169dff00c8f5fa63ff0004fef88ff10fe2d7ecfb1f8b7e22eb035ad4353d56
+e5b4ebb5b5820ff438ca45b76428abfeb62b8ea377fe3b5f8675fbe7fb127842
+3f047ec9ff000c34d82779d27d1a2d50b48bb4efbb2d74c9ff000169f6ff00c0
+6811eeb4514540cf03fdba7c672f813f649f89fa9476eb76d71a57f65ec66db8
+5bc952d5df3fec2ce5bfe035f8275fb0dff056cf14dd68dfb32e9ba6da5e9b64
+d63c456d6d7307cbfe916eb14f2ecff77cd8a06fc16bf1e6ac4145145033f71b
+fe09b7e194f0dfec7be0766d37fb3aef517bcbfb9df1ec7b8df752ac52b7f7b7
+44916d6fee6cafa8ab87f82de12bdf007c1ef02786351781f50d1340b0d36ebe
+cedb93cd82dd227dbfecee4aee2a04145145030af98ffe0a53ff002657f117fe
+e1bffa72b5afa72be63ff8294ffc995fc45ffb86ff00e9cad6803f0ceace95a5
+5e6b9aa5a69fa7d9cf7fa85ecab6f6b6969134b2dc4acfb111117ef33b7f0556
+af4efd987fe4e5be12ff00d8dda4ff00e96c55601ff0cc1f193fe892f8efff00
+09bbcffe3554f55fd9dfe2c689a5dd6a1a87c31f18d869f671bcf737777a05d4
+51411226e766768be5545fe2afe89abcc7f69fff009369f8b7ff006296afff00
+a452d023f9e5a28a2819fd3457f32f5fd3457f32f40057f409fb1dff00c9ad7c
+29ff00b176cfff00450afe7eebfa04fd8eff00e4d6be14ff00d8bb67ff00a285
+023f38ff00e0b03ff2731e1aff00b146d7ff004b6f6be17afba3fe0b03ff0027
+31e1affb146d7ff4b6f6be17a00fd31ff822effcd63ffb837feded7e9bd7e497
+fc12a3e357813e0eff00c2cfff0084dbc51a6f86ff00b47fb2fec7f6e9767da3
+cafb56fdbfeeef4ffbeabeaaf8a1ff000544f827e0ad0af27f0fead73e37d695
+9e1874cd36d278159f63fced3ca8a9e5ef555dc9bdbe61b51ea00f887fe0ab9e
+2cb6f11fed5cfa7419f3741d0ecf4db9dcbff2d5bcdbaf97fe017495f1c5747f
+123c7facfc54f1e6bbe2ef10cff69d6359bc6ba9df7bec5ddfc09bddf6aa27c8
+a9fc2a88b5ce558cfd2aff008231da2b5ffc59b9dcdba28f4b88affbcd77ff00
+c457d77fb75fc544f84dfb2e78e75349e38b50d4acce8b62ad3f94ed2dcfeeb7
+467fbc91b4b2ff00db2af3cff825dfc1f9fe1afecd56fad6a36de4eabe2fbc6d
+5f125bf952adaec58add1bfbcbb51a54ff00667af04ff82c4fc5399f52f027c3
+5864992de289fc457d1bc68629599deded5d5fef6e4d975b97e55fdea7dffe10
+47e6c57dafff00049df86fff000957ed273f89e782efec9e15d2a7b88ee223fb
+a4ba9ffd1d125ff7e27ba65ffae5fec57c5145033f6c7fe0a77f0f25f1efeca1
+acdddbadc4f75e1abfb6d723b6b68f7991577412efff0065229e59777fd32afc
+4ea28a047b17ec83f1362f843fb4a7803c4f732dbc1a7c5a9ada5e4d752ec8a2
+b59d1ade595bfdc5959ffe015fd0357f32f5fd047ecabf13a6f8d3fb3d7813c5
+d72d3dc5fdfe98b0df5cdc469134d750bb4170fb13e50ad2c4eebd3e56fbabf7
+680384ff008294ff00c9957c45ff00b877fe9cad6bf0cabf737fe0a53ff2655f
+117fee1dff00a72b5afc32a011e9dfb30ffc9cb7c25ffb1bb49ffd2d8abfa1aa
+fe753e01ebda7f857e3b7c38d7354b94b3d2b4ef1269d7b7970ff7228a2ba89d
+dbfe02a95fb59ff0de9f00bfe8a7693ff7ea7ffe22803dfe8af9ff00fe1bd7e0
+0ffd14ed27fefd4fff00c457a5fc34f8b9e11f8cfa0dc6b1e0ad6e1f1069305d
+3594b756eadb165555664f997fbae9ff007d5401f861fb64f85ef7c1dfb53fc5
+4b0d40466e2e35fbad494c4dbbf7572ff6a8bff214ab5e375f777fc15a7e0dcf
+e17f8cba5fc43b2b56fec9f1559a5b5dcc199b6dfdba6cf9be5da9ba0f236fcd
+f37932d7c235633f5cff00e08fba8dacbfb3c78aec05cc6f79078a25964811be
+758ded6d511d97b2b794ff00f7cb57d4dfb517fc9b47c5bffb14756ffd2296bf
+217f602fdab2d7f663f8a37a9e22338f05788e38ad7536b7891dada556fdd5d6
+cd9bd9137caac898f96566daccaab5fb11e12f889f0ffe3c785aed3c3fafe89e
+33d0eead825f5b433473a7932a1fdd5c45d5372eedd14abfde565a811fcec515
+fadbfb567c4cfd98be0bfc3dd622f0d783fe187893c7d3a4f6ba7d9695a2e9d7
+5f63ba5f97cd9f646cb1794cfbb63fccdb36ff007997f24aac02bfa14fda4626
+ff008662f8a51aa9f33fe10fd5136afafd8a5afc26f817f0c6e7e347c61f07f8
+2ad967ff0089cea315bcef6fb77c56ff007ee254ddfdc891dffe015fd144b12c
+f1b452a878d976b2b7f15007f339562cef1ac2f2dee62dbe6c52a4abbffd9aec
+3e397c2cbdf829f16fc55e08d40c924ba3df3c114d2aaabcf6ff007a2976abbe
+ddf13a3edff6eb87a067f4c10cf15dc51cb13acb148bb95d1be565ab15f9e5fb
+04fedf5e0b9be18e81f0efe226b96de18f1168707d82c353d5365bd8ded9c4ad
+e57ef70ab134512795fbddbbb627ccceeeabf4cf8d3f6caf825e06f0ddeeb171
+f12bc39aa476cbe61b2d135282feea56fe1448e27666ebfeeaff00132af35023
+e2ff00f82ccea7693ea5f09b4e5b9864bdb78b54b8960471e6c513b5aaa332ff
+00759a293fef86feed7e6dd7aefed4ff00b41ea5fb4bfc60d4bc637d135a69fb
+56cb4ab1dabfe8b66aefb11ffbcdbddddbfda76fe0d95e455633d13e12fecf1e
+3ef8f4355ff8427c3efae8d2bca37644b1a79465dfb061997af94e3a7f0d15fa
+87ff0004a5f82d75e00f8137fe30d4acc43a9f8cae9678926671fe8106f4b762
+acbf7999ee1f7ff1a346dde8a0477bff000526f1145e1cfd8fbc6c3eddf62bbd
+45acf4fb51bf6b4ecf77133c43fed924bff01dd5f8775fabff00f058cf165b59
+fc27f01785d918deea7ae4ba944ffc2ab6d6ed13e7ff000313fef9afca0a0028
+a28a067efb7ec53e11b5f047ec9ff0bf4fb695a486e34583526793fbf79fe94e
+bff7dcecb5ee55f0468fff000567f81de1ed22cb4ab0f08f8dad34fb08120b6b
+7874eb3d91468bb5157fd2bfbb577fe1f07f06ff00e85af1dffe0059ff00f255
+408fbaabe09ff82bef8a2d6c7e01f85741fb7791a8ea5e214b95b356c1b8b782
+de5f3491fc4aaf2c1ff7d2d5eff87c17c1bffa16bc75ff0080167ffc955f1c7f
+c1403f6c1f0afed5979e075f0ae97ace9b69a0a5e79adacc7144f2b4ff0067fb
+ab14aff77c8ffc7aac0f91a8a28a063edada5bcb88a082269a595b62a22ef777
+fee57f4a1a068561e1ad134ed174bb64b4d374eb68ed6dadd3eec5122ed45fc1
+40afe777e0df8becfe1f7c5ff0478a75149a4d3f44d72c352b98ad115e568a0b
+8595913732aefda9fdeafd4fff0087c17c1bff00a16bc75ff80167ff00c95408
+fba28af857fe1f07f06ffe85af1dff00e0059fff002551ff000f83f837ff0042
+d78eff00f002cfff0092aa0678e7fc1657c536179e2ef861e1d8d99b55b0b1bf
+bf9d36fcab14ed1244777fbd6b2d7e7257e95fc73fd9dbc6bff051ad6340f8c9
+e02b8d0344f085c697fd93a75b7886e678b506582eae165695228a5897f7af2e
+dd8eff002aa1fbdf2d79e7fc39f3e327fd0cde05ff00c0ebdffe45ab11f0bd75
+df08fc216bf113e2bf82bc2d793c96d69af6b567a54f35bfdf8927b8489dd7fd
+af9ebebaff00873e7c64ff00a19bc0bff81d7bff00c8b5e9bfb317fc1317c7bf
+093e3c7843c61e30d4bc23abf87f479daea4b5b1baba926f35627fb3ba23dba2
+fc92f94ff7bf82819fa67451454005145140057cc7ff000529ff00932bf88bff
+0070dffd395ad7d395e63fb447c1b87f681f839e21f015cea72e8d06ae6df75e
+c31895e3f2ae229feeff00db2dbf8d023f9e5af4efd987fe4e5be12ffd8dda4f
+fe96c55f7e7fc399f42ffa29fa97fe09e2ff00e3b5d17c39ff00824fe8df0e3e
+22f85fc590fc44d42fa6d0b55b5d552cdf4c45595e09525dbbbcdf9776d1f9d5
+81f7e5798fed3fff0026d1f16ffec51d5fff0048a5af4eae53e2678363f88bf0
+e7c57e1392e1eca3d7b49bad29aea34dcd12cf13c5bf6ff16ddf5007f385457e
+a57fc399f42ffa29fa97fe09e2ff00e3b4ff00f8734e81ff00453b53ff00c14c
+7ffc76ac0fd1bafe65ebfa68afce2ff8734681ff00453f53ff00c14c5ffc7681
+9f9695fd027ec77ff26b5f0a7fec5db3ff00d142be46ff008734681ff453f53f
+fc14c5ff00c76beebf84de008fe15fc2ff000cf83e3bc7d423d12c22b15bb923
+d8d2ec5dbb8ad023f2c7fe0b03ff002731e1affb146d7ff4b6f6be17afdb1fda
+c3f604d37f6a8f889a7f8b2f7c6177e1e96cb4a8b4a5b5b7b14b84755965977e
+e675ef2ffe3b5e31ff000e67d0bfe8a7ea5ff8278bff008ed007e5ad15fa95ff
+000e67d0bfe8a7ea5ff8278bff008ed749a27fc11e7e18c3621758f1878b6fae
+ff008a5b196dad53fef868a5ff00d0a803f246bed2fd88ff00e09f9acfc6cd6a
+c3c57f1074ebcd17e1dc3e5ddc56f2a34171adeef9d122fe2480aec6697f895f
+645fc4d17e87fc24fd83fe0b7c19bab1bed23c1f0ea7ad59c4889aaebb2b5ecc
+5d595d650aff00ba8a5dc8bf34489d2be87a008a285208d6345548d46d555fe1
+afe7fbf6bef89b17c5efda57c7fe27b59619f4f97517b5b19ad5f7c52dac08b0
+452aff00beb123ff00c0ebf7a3c5b61a8eb3e16d6ac347d51f42d5ee6ce682d3
+548e0598d9cce8ca93f94dc3ec6c36d3f7b6e3bd7e73ff00c397ff00eab17fe5
+b3ff00ddb401f99b5fad5e16ff0082427c357f0c68e3c45e22f162f8845a45fd
+a3fd997d6bf64fb4ec4f37c9df6bbbcadfbb6eff009b6d61f803fe09170781fc
+7de1af11de7c4e8b5bb3d2353b5bf9b4c97c39b16f162951da266fb537deda57
+eeb7deafd1aa00f85ffe1cfbf06ffe865f1d7fe07d9fff0022d7e7a7eda1fb3d
+5b7ecd1f1c6f7c29a6c97d73e1f96ce0d434cb8d4678a5b996274dacefe5222f
+faf59d7ee7dd54afdf3af943f6cafd862cff006b4d63c33ab45e258bc23a9693
+04f6b3dd0d2bed92de44cc8d123379d1ed589bcd3fc5feb5a803f11abf50ff00
+e08edf1422b9f0ef8efe1e4f2c29716d7316bf669b9bcd95244582e3fe028f14
+1ff7f6b3bfe1cbff00f558bff2d9ff00eedaf58fd973fe09d1a87ecc5f172cbc
+6b67f148eb36c6da7b2bed286822dfed713a7ddf37ed0fb76cab149c2ffcb3a0
+0f43ff008294ff00c9957c45ff00b877fe9cad6bf0cabfa1afda27e0e43fb40f
+c1bf10f80ae7529746875736fbaf618848f1f957114fc2f7cf95b7f1af8c3fe1
+cd1a07fd14fd4fff0005317ff1da00fcb4a2bf52bfe1ccfa17fd14fd4bff0004
+f17ff1da3fe1ccfa17fd14fd4bff0004f17ff1da00fcb5afd7ff00f823effc9b
+4f897fec6ebaff00d22b2ae2bfe1ccfa17fd14fd4bff0004f17ff1dafabbf64e
+fd9a6d3f656f875a8784ecf5c9bc4115deab2eaa6ee7b658195de28a229b559b
+fe79039ff6a80377f687f819a1fed13f0a755f056b8120178be6d96a1e42cb25
+85d282629d01ff00be5be65dc8ee9b86eafc2bf8d7f023c67fb3ef8cae3c39e3
+3d225b0b8577fb2df2a3b5a5faa7fcb5b797f8d3e74ff6977ed6456f96bfa27a
+e3fe21fc33f0b7c5cf0ddc787fc63a05978874794b116f7b117f29caba79b137
+de8a50acdb6542acbbbe56a803f9c7a2bf5abe25ff00c120fe1ff882e9ee7c15
+e2cd63c1b24b3b4ad697712ea36d145ff3ca25dd14abfef34af5e57adffc11b7
+c4d05dc4ba47c49d2efedbfe5a497ba64b6aebf4557977ff00df55607e74d4d6
+7673dfdd456d6d04973773b24514312ef795dbee2227f157e9ae87ff000467b3
+8352b19359f8a9737ba7abafdaad2c7435b795d3f8d52569df6ffbdb5bfddafa
+cbe00fec5ff0abf67568aefc37a11bed7e3ddff150eb0cb737c3effdd7daab17
+cb2ba7ee95372fdedd401e13ff0004defd8c6fbe0b69571f10bc73a72d978cf5
+683cad3f4fb843e76956adf7f77f76597e4f97ef222edf959e545fbc68a2a067
+c5bff0507fd8a65fda1b4383c61e11b707e2068b6ff6716be6ec4d4ed7733f95
+f37c8b2a33b32bff0016e656fe0d9f8e5aae9579a1ea977a7ea1673d86a1652b
+5bdd5a5dc4d14b6f2abec74746fbac8dfc15fd2fd7847c7cfd8dbe167ed14cd7
+3e28d07ecde2064c2ebfa549f67bd1f73ef37dd97e54d8be6abec52db36e6ac4
+7e07515fa6de22ff008235db3de5fcba17c5296ded0bbb5a5a6a1a179ae8b8f9
+51e54b850c7fda58bfe03589a07fc11abc4172b2ff006dfc4ed374e6dd98ff00
+b3f4896eb78ff6b74b16dffc7a819f9c95f4dfec65fb16788ff694f17d86a3a9
+59dce95f0e6ce4496ff5696364178aafff001ef6bfdf76dbb5997e58bef37cdb
+11bef2f837ff0004adf855f0eaeb4fd4bc533ea1f10b56b73b9a1d48a5be9ed2
+79bbd5fece9f3b7cabb364b2ca8fbdf72f4dbf64693a559e87a65a5869d690d8
+d85946905bdadb46b1450c6aa155111785555e8bf95020d2b4db4f0ee9969a6e
+976b069d61690a5bdbda5b5b158a08d142a46889c22a800051d28ad3a2a00fc9
+5ff82c4f8b6f2f3e30f817c32e917d834ed0df5289ff008fcdb9b8789fff001d
+b58bff001eaf806be97ff828f789ff00e128fdb13c75e5ea4751b4b0fb2e9f6f
+b65f3520d96b179b127f776cfe6ee4fef6eaf9a2ac6145145001451450014514
+500145145001451450014515ade12f0c5f78dbc55a2787f4a8966d4b56bcb7d3
+ed91dfefcb2ba227fe3cf401fbe3fb257866d7c23fb317c2fd32d2cdac09f0fd
+9dd4f6cc36b24f3c4b3cf9ff006bcd95dabd86a28e358d76aaaaaafdd54a96a0
+4145145030a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a28
+00a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a28
+00a28a2800a28a2800a28a2800a28a2800a28a2800a28ae43c41f15bc15e11d4
+7fb3f5ef18681a1ea1b37fd9751d4e0b7976ff007b6bb50075f4556b5ba8af2d
+e29e095668645dd1caadb9597fbd5f98ff001f7fe0a5df13fe177ed37ad786ec
+fc356117857c3da8be9efa25edb3a5dea517eebf7be6ff0006edaef13a2eddb7
+09b925f92811fa8345145030a28a2800a28a2800a28a2803f9c6f8c3e2fb5f88
+3f16bc6fe2ab08e68ac35bd72ff528629d312ac53dc3caaadb7f8b6bd7215fd3
+4515607f32f457f4d145007f32f457f4d145007f32f457f4d145007f32f457f4
+d145007f32f457f4d145007f32f5ee9fb0d78317c71fb5a7c30d35a76b6306ac
+9aa074ff00a7356badbff02fb3edff0081d7efa5140051451500145145001451
+45001451450014514500145145001451450014514500145145001451450079df
+c67f8d3e16fd9ffc0179e2ef17dfad9e9d6c7c98a38c6fb8bc9db3b2de04fe39
+1b6fd30accdb555997e15d53fe0b2d6306a9791e99f0a6eef34f59596d6e2efc
+40904b245fc2cd12dbbaa37fb1bdbd99abc63fe0ab7f13ee7c5ffb492f84ff00
+7e9a7f8434e8add227dbb1a7b9449e5957fde46b74ff00b655f7e7c04fd88be1
+a7c34f853e1fd1b5ef017873c43e20fb24536aba86b1a6c17f2cb76cabe6a2bc
+a876c4adf2a2ff00747762ccd6233bf656ff008280f82bf69ad597c382d2e3c2
+7e3430bdc0d22f2649a2ba452db85ace36f9ac8aaaccac88df7f6ab2a3bae1fe
+d79ff05023fb29fc49d33c267c07ff00094fdaf478b55177fdb06d0a6f9678b6
+6dfb3cbff3c3ef6efe3af3ed07fe098579f0f3f68ed2bc79e08f19c5a3f8674d
+d720d46db482b37da12d77ab4d6be707f995977c5f36edcadf3eef9abc1bfe0b
+03ff002731e1affb146d7ff4b6f6803e95f8b5ff00054df09fc38d1fc331e9fe
+10bdd7bc55a9e91a76b17fa625dfd9ed34f4bab55b8f2bed1e53b4b2aabc5f76
+2dbb5befab7c95f53fc68f8d1e16fd9ffe1fdff8bbc5f7df63d3ad8f971471a9
+69ef266cecb7813f8e46fcb0accc5555997e33fd90bfe09cdf0cf56f823e1ef1
+67c46d226f146b9e23b58b548e21a85c416f656f2fcd0aa794d13333c6e8cfbf
+77cd955e07cdf3ff00fc1587e26cfe2cfda26cfc289249fd9fe14d3228cc0e89
+b7ed572ab3cb22bfdef9a2fb2afcdc7ee8d007b16abff0599b18755bb5d33e14
+dd5e69eb2b2db5c5e6beb04b2c5fc2cd12c0ea8dfec6f6ff007abe89fd96ff00
+6f7f037ed3d7b1e822da7f0a78d7634dfd877b32c893a272df679fe5f376ae19
+936a37dec2b2a3357cd3fb3e7fc1433e00fc0af839a1782ecbc11e2a4922b38b
+fb625b7d36cd92fef5a24fb44afbaeb73ef6fef7dc5dabf2aaa2d7c77acfc63f
+0d783ff6a83f12be17d86a5a2786adb598b56b4d2a709652a2fcad716bfb8728
+b13fef62445ff964fb2803f6efe32fc66f0afc02f015ef8bbc5f7e2c74cb76f2
+6248d77cf773b67641027f1c8df97caccdb555997e16d63fe0b2f6506ad769a6
+7c28babcd3d656fb2dc5e6be904b2c5fc2cd12dbbaab7fb1bdbfdeaf27ff0082
+b6fc43b8f11fed03a378512e19b4df0d6929fe8ce89f25d4efe6cadbfef7cd12
+daff00df3fefd7db9fb30fec6ff0b7c1df02fc2116b9f0fb45d6fc43a869d6fa
+8ead75e20d3a0bfb9fb54b12bcb107656d91a37caa89f2fcbfc4ccccc00cfd94
+ff00e0a01e0afda6f543e1d3653f847c69e534e9a45f4cb34376abbb70b69c6d
+f3591555995915b97dbbd51dd7d9fe33fc6cf0afc01f00df78bbc5d7c6cf4bb7
+3b228621bee6f2e0fdc8204246f91b69e3ee8019999555987c72bff04bebdf08
+7ed0963e3ef0278a6cb48d0f4ed6edf57b1d1aea295de2457595e0f357f8376e
+55ff0063ef6faf9abfe0aa7f12af7c5ffb4e5cf8625f3a2d33c276305ac10f9f
+b924967892e659767f0b3acb145ff6c17fdda00f71d4ff00e0b2f676fa85dc7a
+7fc27b8bad39256f22e2efc4296f2cb16ef959d16ddf637fb1b9bfde6afa6bf6
+58fdb93c13fb512b69b6304fe1ff0018410bcf71a15ebf99fba5d9ba58a55f92
+55cb8feebffb3b7e6af97fe0cffc1407f674f829f08b4ff00e97e0af164da62d
+b795aa349a45991aa4ee9b279a746bb6dc65fee3fdd4da9c2aaad7c89a37c57f
+0af857f6cad27c7ff0f20d5341f07a78920d420b1b88a2b7b88ad6575fb55bed
+8999162d8d3c4a9ff3cb65007ef8572fe3ef1de85f0d7c21ab7897c4daac3a3e
+85a5c7e7dcdf4fc2a2e463dd9998855551b9999557e635d457e5e7fc1637e25c
+afabf807e1dc134890456f2ebf7916d5d92b3b3416edfef2ecbaff00bfb5006f
+789bfe0b25a45a6b1711f877e18ea3aae96bb7cabad4f584b29dbe5f9b74490c
+aab86e3efb7fecb5ea9fb347fc14c3c11f1e3c5b69e13d6745b8f01f893509da
+2d3d6e6f16eacae5be5db17da36a6d95f2db15936b6d55572cea959ffb05fec7
+5f0f74cfd9eb40f1278b3c1da2f89fc49e2687fb4a6935bb38ef92de0666fb3c
+702ca9fbb5311577fe26676dcdb5515792f8ddff0004ac8bc55f1527f157c36f
+12d9f80ec2764ba5d316ddf659dd6ef9dedf66df297ee3aa7f0b6edbb576aad8
+1fa017fa85be9765717779711dadac11b4b2cf3b6c48d57966663c2af15f05fc
+56ff0082ba7827c25e22fecdf05f856f3c7d67112b2ea72de7f6642cdf2f112b
+c4eecb82df7953ee71bbef576fff000548f1f6b7e04fd95dad34b9c5acbe23d5
+60d16fa489dd58dbbc52cb2aabab27def2151b770c8ee9fc55e23ff04a0fd9e7
+c15e31f05789be21788f43b1f106a916ae349b08b53b659e2b358a282e0caa8d
+f279acd2a7cfb772f95f2b7ced900ec7e1a7fc1603c1be25f102d878d3c197be
+0cb097e45d52d6ff00fb49226cf3e6aac31b2aff00bbbdbfd9afb92fbc5d663c
+1771e25d3a68756d3d6c1b50b69ada60d15d45e5f988c8ebbbe565e8df8d7e78
+7fc157bf67bf02f843c07e1cf883e1fd06d740d7ae35a5d2ef174d812dedef16
+58ae27f366455f9a5578bef8f99b77cdbb626defff00e09d3e38d4fc5bfb10f8
+a74fd4ee7ed31f87ae351d3acbe42596dbeca93aa16fe2f9a597fe03b57b5006
+5fc31ff82b6787bc5da96aff00f094f81a6f0b68fa7e9d2dfcb756dabfdbe591
+d1d552048bc88b73bbbaae776d5fe3dabb9872f7bff0597b58b50b84b1f8513d
+d582ccde44d75e2158a578b77cace8b6ae11f6ff000066ff0079abe52fd81be1
+2689f19bf696d0747f12da41a8e856904fa95d595c6edb75e52fc89f2ffd3575
+6dbfc4a9b6bee1ff00828efecbff000e348fd9c355f18786bc21a2f84b59f0f5
+c5acab3e89a74569f698e7b88a078a511aaeeff5aaf96cb2ecf97ef36403eb7f
+829f1a3c2df1fbc03a7f8c3c217df6cd36e498a68a50a9716770b82f6f3a7f0c
+8bedd55959772b2b1fc40fdac3f68aff00869ef8afff0009affc23dff08dff00
+a04565f61fb67dabeeeff9f7f94bfdff00eed7dcdff046bd7ef67f067c4dd1a4
+9c7f6759ea365790447f86596295256ffbe608bfef9af997fe0a65e0cf0ff80b
+f697feccf0d687a6f87b4c1a2dacbf61d2ace2b58b7379bb9f6aaaaeea803ede
+fd863f6eaff868af1345f0f07827fe11f3a2787bed7fda6756fb579fe53dbc01
+7caf29366ef3777defe1ae1ff69afdb53c11f093f69ed4fc3da97c06d03c57e2
+6d12e2c3c9f15ddcf6e9761da08ae236576b5764f2bcdf97e7fe1fe1afaebe07
+7c26f04782fc27e1bd6bc3fe0fd0342d62eb45b68a6d434cd320b7b895592266
+57951773866556ff00808afc93ff0082877fc9f6f8d7febbe97ffa6fb5a00fd9
+bf1e78e344f873e10d57c4be23d522d1f43d321f3ee6f67fbb1af418eacccc70
+aaaa0b3332aafcc6be03f127fc164747b1d6ee13c3ff000c6ff56d2171e45d6a
+9ad2594f2e57e6dd12432aa61830fbedff00013f2d6c7fc160fe21ea1a27c33f
+02f83ad9a586d3c43a84f7976f14acbe6a5aac5b6275fe252f708ff37f144957
+3fe098dfb34f8447c08b5f881e20f0e689e21d6b5dd4279ad2f2f2c96e24b282
+ddde0544f341f2d8c89336f4fbcac9bbeef16050d6ff00e0afbe16b6f0768ba8
+e8fe06bcd475b9e5963d4b47bad485afd8caa2323c52ac4eb3c6db9d7f8197ca
+f9d1772d7d7bfb367c673fb41fc17f0efc40fec6fec1fed7f3ff00e25e2ebed5
+e5795712c1c4bb53767ca2df77f8abf3e3fe0ab3fb3b784be1c2782bc67e10d0
+b4df0e457f2dc69ba8da699025bc5236df362956244dbbbfd6ee7ff72bddbf66
+4f1d5c7c33ff00825b41e29b1b9fb26a1a668baddc594fe52becbafb6dd795f2
+b7defdeeda00d9fda47fe0a5de02f80de27bcf0ce8da6dc78f3c53a7cc61be82
+d6e56dad2d9bf8e269f6bee957fba88db70eacc8cacb5e49e1eff82cbe9371ab
+db45af7c2ebdd374a6dde7dde9fad2dddc2617f822782257f9b8fbeb5f377fc1
+377e0bf877e3afed1371178cb4f6d6b4bd1f4c975916b37cf6f7574b7112225c
+7f7d7f7aedb3f8f67cfb977ab7e82fedabfb2e7c3cf16fecdde31bdb2f0a68be
+1fd67c39a44ba969daa5869b1452c4967134bf67cc7b7f74e8af16c6f9577eed
+bb916803e83f869f147c33f163c1d63e27f08eaabaf68979911dcdba30c329c3
+2b2b0dc8c0ff000b7228afc44fd997f6c8f1ff00ecc3a66bba6f856d349d5f4f
+d56586e64b4d6fcf9a1b79115937c48b2aed675d81db1f388e3feed1401fbd54
+514540c28a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a002
+8a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a002
+8a28a00fc7ff00f82b1fc1bbdf0b7c70b5f8816ba75dff00c23fe27b3822bad4
+59b7c2b7f12f95e57fd323e445032eefbdfbddbf75b6fd4bf02ffe0a55f08f51
+f851e1eff84ebc572e85e2db3b18a1d52dee74fba9bcd9936a3ca8d144cadbdb
+e6dbf79779e3e5afac7c7de03d03e24784b55f0e789747875cd17528bcabab4b
+85255d7b639dc8ca70cacb86560197e615f246b1ff00048ff82da96ab75796da
+9f8cb4ab69a5675b2b4d46dda1b75fee279b03bedff7d99bdeac4784785bf6e9
+f8c1fb427ed7ba5786be1e6b973a2f81757d6a28a0d2a4b1b09658b4d88a9ba9
+bcd962ddbda28a5976ee6dbbf6aeff0092b97ff82c0ffc9cc786bfec51b5ff00
+d2dbdafd18f807fb297c38fd9b6ce51e0ed15d3569e1fb3dceb77f279f7b709b
+836d67e8abf2a7c88aabf2afcb5cc7ed11fb0b7c3efda6bc7367e29f15dfebd6
+da8da69c9a6c69a4dcc5147e52cb2c9921a27cb6e95b9a00f41fd983fe4da3e1
+27fd8a3a47fe91455f9aff00f056ff008397de1df8c3a5fc45b5b193fb13c456
+715a5d5f26e654bf8032ec7fe14df6eb16dfef7952ff0076bf54fc0be10b1f00
+781fc3fe16d39a67d3f44d3adf4db669df74ad14512c6bb8f76dab5178efc0da
+17c47f096a9e1bf1369506b1a1ea31f95736338cac8b918f75657c32b29dcaca
+acbf35401f147ecf3f15ff0064af1cfc21d22f3c4ba1fc34d17c57a769b6ebae
+5bebbe1fb0b295ae95192468b745b65dcd13bec8b732aba6f5466db5e6961fb5
+17c25f885f1d2cfc01f0d3f664f037896cb51d4e2b0d3b56bbd22de0f353f8ee
+1e25b5765893e797fbeb12ef755f9953daf59ff82497c16d5757bbbbb4d4bc5f
+a45bdc4aceb6365a8dbb436ffec279b6eefb7fdf666f7af6bfd9fbf63cf869fb
+34acb378434a966d6a78fcab8d775597ed17b2a6f77d9bb0ab1afcf83e52a6ed
+a9bb76d15607c0dff0573f849a8e8df16b40f8876d60c344d6b4f5d3ee6ed119
+f6df45bbe57f976aef8bcadbf37cde54bfdcaf7ffd993fe0a39f0961f819e17d
+2fc6de23b8f0c789b41d3e0d36f61bcb3babbfb5f908910b8496289b779bc36d
+fbeadbfef2aef6fb1bc77e06d0fe23f84b54f0e78974a8758d0f518fcab9b19c
+65645c8c7bab2b00caca432b2ab29dc2be48d63fe0921f05b52d56eeeedb52f1
+86956d3caceb6369a8dbb436ebfdc4f36077dbfefb337bd007817fc3727c5df8
+f1fb5ad9f843e14f8c6ef47f046b1abc1656308d1ec66962b2554fb45d7ef62d
+e7e44967daff00757e5ae5ff00e0abdf06b54f0afc7687e20c3637b3787fc556
+7024fa8bed6b78efe24f2bc8f97ee7ee2289fe7fbffbdd9f75f6fe8afc00fd92
+be1bfecd76f2bf8374697fb5ae61fb3dd6b7a8cde7df5c47bf704dff007513ee
+e5625556d89b87ca2bd13c7de02d03e26784f53f0e789b49b7d7345d46330dcd
+a5cc7f2b0eb91fc4aca70caeb8656c32f3401f197c11f8cffb22fc40f8556dac
+f897c35f0cbc37e25b1d3a3975bd3351f0ddadaba4fb5fccfb3ab44de7abb44e
+eab16e7dae9b9559b6d799f873f6a3f83fe3efda0349f00fc3ff00d9b3c1bafe
+93a8eaf169f63adc9a35bc334916e4f36ebc85b5664895774bf37cde52ee6d9f
+36cf63d63fe091ff0005b52d56eeeedb53f196956d3c8ceb6569a8dbb436ebfd
+c4f36077dbfefb337bd7b7fecfdfb227c36fd9b619a4f0769331d66ea0105d6b
+9a94ff0068be9e2dfbf66ffba8bf772b12a2b6c4ddb8ae6803dcabf357fe0b01
+f066f750d3fc21f1374cd3e4b8b7d3e27d2358bb4dcfe444cfbed59bfb8bbdee
+177ff7e5897f8ebf4aab3357d1ecf5cd32ef4ed4ad21bfb0bd8dedee6d2ea359
+629e3652ac8e8dc32b2f55a803f3dbf61fff008282fc37f0a7c08d23c17f1235
+e97c3fad78751ed60b89ada7b84bcb6f99e1d9e544db362feeb6b7ded89b376f
+dabe77f1f7fe0a2ff113c7df1df4ff000ffc01f11cf6fa0ddfd974bb14934cb5
+6fed3bd795bf7abf698b745bb7245b1f6fdcddf2eeafa27c49ff00049af821af
+6b325ed94fe29f0e5bb05dba7e99a944f6f1e17f87cf8a593ff1faf4ff00805f
+b0efc2afd9cefd756f0ee9975a9f89937247af6b332dc5dc48df2954daa91c7f
+2ee4dc88adb5997760d581c67fc145fe0b6bdf143f65292db4cb9b8d5f58f0ad
+d5beb92ee817ced41228658a76f976aab6c95e5f917fe596d45f996be4bff826
+d7ed9fe05f80be16f14782be205fbe8361717dfdaf63aa259cd708d2b24514b1
+38895997e58a275f936ffaddcff7377eb7d7c9df18bfe09aff00063e2f7881f5
+bfecfd47c1da84aecf747c313c704374c5157e68a58a5893eee7f74a9b99999f
+73735007c89ff0520fdb3fc03f1ebc19e1af05f80aeee35db683505d66f75692
+da5b548d92296248112555666fdeb3b3eddabf26ddfb9b67d2bfb08fc26d57e1
+6fec47ac49ac010dd78a12fb5f8ede44f9e2825b548a2ddfefa42b2ffdb5db5d
+17c21ff826b7c16f853af36b3269fa8f8cafa1756b61e289e29e281b6b0e228a
+2891feff00fcb557dbb55976e2bea4d67498359d22fb4f999960bc85e09367de
+daebb4d581f8e3ff0004a3ff0093ae8bfec0b7bffb257e827fc14a7fe4cabe22
+ff00dc3bff004e56b4ff00805fb037c38fd9cfc78be2ef0c6a3e22b9d516da5b
+4dba9de452c5b5f1bbe54893fbb5eb5f1afe11e8ff001dfe19eb1e06f114d7b6
+da3ea822fb43e9b2aa4ebe54a92aed67561f7e34fe1a00f84bfe08c7ff0020df
+8b5ff5d74aff00d06eabc5bfe0ad7a7bdafed4965348eaeb77e1bb59e30bd97c
+db88bff4256afd25fd9aff00648f06fecb31ebf1f842f357bb4d69a07bafed69
+e294af95e66cd9b224c7fad7ab1fb437ecbbe07fda63c376ba778d6d6e7ed160
+eed63a9e9f398aeacf715dfb3ef2b6ed8bf2ba30ff00817cd401cdfecabfb577
+c39f8d7e1ff0f785bc35aeb5d78b2c3c3d05d6a1a5359dc27d9762c514abe6b4
+4b13ec91d53e46afcc8ff82877fc9f778d7febbe97ff00a6fb5afd2bfd9cbf61
+0f017ecbfe37bef14f85b56f116a1a85e69efa6cb16b37304b108da58e52c047
+027cfba25e6b3be2effc13bfe19fc6af8a9aa7c40d7b53f11c5adea4d03cb158
+ddc096e4c514512955685987cb12ff001500739ff0536fd9f755f8cdf04ed359
+f0de9c752f10f852e9ef56dd59bcd92cd93fd212241f7db290b95ebb626dbf36
+15be3bfd863fe0a0765fb37784b52f0678d34cd5357f0d09daf74cb8d25926b8
+b595b66f8b64b2a2f90df7fe4dbb1f7fdff37e4fbe7f6e4f8ede3ffd9cfe1758
+78cfc13a5693ac5bc5a8a5aea916ad693ceb0452236d9b7452a6c5deaa9f37f1
+4a95f1f7c27fda23f65ff8e48fadfc75f02f873c29e3e82f1e592ef4cd3ef16c
+b53deef2f9ceb06fdd26eceff3f7eee1b736eda801e35fb74fed5979fb55de78
+7751d2bc317ba1780b4496ead74ebbbe4fdf5e5d3a42d2efdafe57cabe47ee93
+76cdfb99bf7aaabf747ec91e0497e2a7fc133b4ff08c0d0a5deb5a46b7616cf7
+59f2a29def6ed6277dbfdd7dadf857c57ff0501fda2fe1afc5f7f03784fe13d9
+c50f84bc311ddcc92db69ff60b46967f29b6430322ba85d8e5be55dccfff0002
+6fd2afd85fc05adfc31fd957e1ff0087bc4764da66b315b4f733da4aac8f0f9f
+752ce8ae8df71f6cabb93f81b2bda803f2c3f626f8d965fb25fed1f7b73e39d3
+af6c6d67b69fc37aaed5c4da5bfda226795e2fbcfb1e0dac8bf36d6665decbb1
+feccfdad3fe0a29f0a35df807e2cf0ff00c3ff00113f8a7c49afd9be90b6efa5
+dd4514104ebb6795da548bfe5917dbb777cec9f295dd8fa03e3ffec55f0abf68
+dbb9352f11e8b369be236d88daf689225bdf32aecfbff2b24bf2a2a66546655f
+b9b6bca3c3bff049af823a06b315e5ecfe2af11c0036eb0d4b52896de4f97f8b
+c886293fef96a00f8cbf62eff827fde7ed3de13d6fc4dafea97de13d0619a283
+4abd5b28e65d45fe7f3ca07656da9fba5df8dacccea3946a2bf64745d1ac7c3b
+a55a69ba469f6ba769d6b12c36f676d12c70c11af0aa88830ab8e98a2a00d4a2
+8a28185145140051451400514514005145140051451400514514005145140051
+4514005145140051451400514514005145140051451400514514005145140051
+4514005145140051451400514514005145140051451400514514005145140051
+45140051451400514514005145140051451400514514005145140195abe9765a
+ed8dc699a95a41a869d7d1b5bdd5a5d46248a789e321d1d5b20a91c107835f8a
+bff0524f835e0ef80df1df4dd03c09a30d07499fc3516a525badc4d3eeb86b8b
+952c5a5766c111a0db9dbf28e28a2ac47d19ff0004aff801f0ff00c65e02b9f8
+85ae786adf54f17687e2bb8b6d3efee659596048ecada48ff73bbca6647919d5
+d90b2b6d2082aa47e99d14540c28a28a0028a28a00ffd9}}\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs20\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs20\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1\sb8{\f0\fs17\b0\i0}\cell\row
+\trowd\irow2\trgaph0\trrh-5119\trql\trleft109
+\clvertalt\clbrdrt\brdrnone\clbrdrl\brdrnone\clbrdrr\brdrnone\clbrdrb\brdrnone\cltxlrtb\cellx4178
+\clvertalt\clbrdrt\brdrnone\clbrdrl\brdrnone\clbrdrr\brdrnone\clbrdrb\brdrnone\cltxlrtb\cellx10365
+\pard\plain\intbl\s4\nooverflow\nocwrap\ri52\qc\sl240\slmult1\sb183{\f11\fs22\b0\expnd1\expndtw4\charscalex100 LIC.\expnd0\expndtw0  \expnd1\expndtw4 OMAR\expnd1\expndtw3  \expnd1\expndtw4 FAYAD\expnd0\expndtw1  \expnd1\expndtw4 MENESES\expnd0\expndtw0\charscalex100\par}\pard\plain\intbl\s4\nooverflow\nocwrap\ri44\qc\sl240\slmult1\sb44{\f13\fs22\b0\expnd0\expndtw0\charscalex100 Gobernador\expnd-2\expndtw-10  \expnd0\expndtw0 del\expnd-2\expndtw-9  \expnd0\expndtw0 Estado\expnd-2\expndtw-8  \expnd0\expndtw0 de\expnd-2\expndtw-9  \expnd0\expndtw0 Hidalgo\expnd0\expndtw0\charscalex100\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1\sb7{\f0\fs18\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\ri55\qc\sl240\slmult1{\f11\fs22\b0\expnd1\expndtw4\charscalex100 LIC.\expnd0\expndtw-1  \expnd1\expndtw4 SIM\'D3N\expnd0\expndtw0  \expnd1\expndtw4 VARGAS\expnd0\expndtw1  \expnd1\expndtw4 AGUILAR\expnd0\expndtw0\charscalex100\par}\pard\plain\intbl\s4\nooverflow\nocwrap\ri52\qc\sl240\slmult1\sb44{\f13\fs22\b0\expnd0\expndtw0\charscalex100 Secretario\expnd-2\expndtw-12  \expnd0\expndtw0 de\expnd-2\expndtw-12  \expnd0\expndtw-1 Gobierno\expnd0\expndtw0\charscalex100\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1\sb6{\f0\fs18\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\ri52\qc\sl240\slmult1{\f11\fs22\b0\expnd1\expndtw4\charscalex100 LIC.\expnd0\expndtw1  \expnd1\expndtw4 ROBERTO\expnd0\expndtw2  \expnd1\expndtw4 RICO\expnd1\expndtw3  RUIZ\expnd0\expndtw0\charscalex100\par}\pard\plain\intbl\s4\nooverflow\nocwrap\ri42\qc\sl240\slmult1\sb44{\f13\fs22\b0\expnd0\expndtw0\charscalex100 Coordinador\expnd-3\expndtw-17  \expnd0\expndtw0 General\expnd-3\expndtw-16  \expnd0\expndtw0 Jur\'EDdico\expnd0\expndtw0\charscalex100\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1\sb6{\f0\fs18\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\ri53\qc\sl240\slmult1{\f11\fs22\b0\expnd1\expndtw3\charscalex100 L.I.\expnd0\expndtw0  \expnd1\expndtw4 GUSTAVO\expnd0\expndtw-1  \expnd1\expndtw4 CORDOBA\expnd0\expndtw1  \expnd1\expndtw4 RUIZ\expnd0\expndtw0\charscalex100\par}\pard\plain\intbl\s4\nooverflow\nocwrap\ri43\qc\sl240\slmult1\sb44{\f13\fs22\b0\expnd0\expndtw0\charscalex100 Director\expnd-2\expndtw-10  \expnd0\expndtw0 del\expnd-2\expndtw-9  \expnd0\expndtw-1 Peri\'F3dico\expnd-2\expndtw-9  \expnd0\expndtw-1 Oficial\expnd0\expndtw0\charscalex100}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\ri121\qc\sl-1241{\f11\fs96\b0\expnd0\expndtw0\charscalex100 PERI\'D3DICO\par}\pard\plain\intbl\s4\nooverflow\nocwrap\ri120\qc\sl240\slmult1\sb194{\f11\fs96\b0\expnd0\expndtw0\charscalex100 OFICIAL\par}\pard\plain\intbl\s4\nooverflow\nocwrap\li276\ri396\qc\sl1110\sb55{\f11\fs72\b0\expnd0\expndtw0\charscalex100\cf3 DEL ESTADO DE HIDALGO\expnd0\expndtw0\charscalex100\cf1}\cell\row
+\trowd\irow3\trgaph0\trrh-2069\trql\trleft109
+\clvertalt\clbrdrt\brdrnone\clbrdrl\brdrnone\clbrdrr\brdrnone\clbrdrb\brdrnone\cltxlrtb\cellx4178
+\clvertalt\clbrdrt\brdrnone\clbrdrl\brdrnone\clbrdrr\brdrnone\clbrdrb\brdrnone\cltxlrtb\cellx10365
+\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1\sb1{\f0\fs13\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\li1158\sl200{\f0\fs20{\*\shppict{\pict
+{\*\picprop\shplid95{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}}
+\picscalex48\picscaley48\piccropl0\piccropr0\piccropt0\piccropb0\picw6244\pich6244\picwgoal3540\pichgoal3540
+\pngblip{\*\blipuid b03f66c3ad94514b8898944f6d7bab40}
+89504e470d0a1a0a0000000d49484452000000ec000000ec0802000000f8b1dd
+4300000006624b474400ff00ff00ffa0bda793000000097048597300000ec400
+000ec401952b0e1b0000200049444154789ced9d7f5814e5f6c0075860111016
+10654140844848122c117f96688a3e99969a5626a5d953969557bdfad0e5a669
+16999a5837d42b8a57532bac34c1ca5fa08857241521155011e5972c3f848565
+7759be7ff87de69ecec8991d77f136def7f39767e7bcefbc33f3ca3367ce2f8e
+bb8fbcf3ce3b1d2403070e248687858541e5f3e7cfd3a74b4a4a22ce959d9d4d
+0f4f494981fa191919b47e5b5b1b7d75042d2d2df4e473e7ce85fa353535b43e
+4d7070305a40fffefda142616121b1dabcbc3c34615959195478e79d772c599e
+546cefe7c9188cae806d6286ec619b98217bd82666c81e0592fffad7bf464747
+5b6bf603070e6cdebcd95ab39597973ffbecb3bca852a9d2d3d3a1c2bc79f32a
+2b2b79312d2dede4c993bc181a1aba6ad5aa7b3e7b6464243a1de285175e3099
+4cbcf897bffc65e8d0a1f77cbabffded6f919191bc585c5c0cafbdadaded9e67
+e638aeb2b212cec671dcbbefbeab52a978b177efdef0e8ce9d3bbffdf65b5ef4
+f4f444b7c2cbcb8b38dd9c3973c68f1f6fc98221a74e9dfae4934f288df4f4f4
+7b36b185242727c3c92dfc3a81e8dfbf3f1a1e1c1c4ce8c7c4c44065a95f2744
+71707080c377edda65fe58e1d7898c8c0ca890929262fe9db907ce9f3f4f2c2f
+2121012a0f1c3890be1cf475223939d9fc5b218af04f097b9d60c81eb68919b2
+876d6286ecc1861de2ca952b274e9c307fba3163c6f4ead5cbb225994b4343c3
+f6eddbe12f4d4d4d508c8a8a0a0f0fe745f4c6eceded3d73e64c627e8d4603e7
+57abd5b1b1b150e1ebafbf361a8dbc08ad3a8ee3b2b3b3f57abdf865701cc771
+068301fd72f8f0e15bb76ef1626e6e2e3caa542aa74e9d4a4c98999909878787
+87474545f1625353d3f7df7f6fe6daac4e5555d52fbffc62befed0a143838282
+249c00197669696992d677e8d02138bc4b0d3b5168b7b32873e7ce85b38d1b37
+0e293839395971b592e8d1a307bdf8989818a8bf68d12278b4b8b8184d783f0d
+bb43870e49bad8b4b434389c19768c0710b68919b2876d6286ec1131ecfebb44
+44444073a4a1a1419239929797b775eb56f3f5a74f9fae542a7971c89021d032
+f3f0f040b3b5b7b79b3f799f3e7d468e1cc98b269309da1b767676b495897075
+75a515264c98101a1aca8b4aa5122ebeb5b5353e3e1eea43779d281a8d06dd8a
+a953a73a3b3b9b3f43d7f2a732ec121212e0d1c2c2422b5c61e7d4d4d4106b13
+8d27a679fef9e7e16cc86fece4e444df190b494a4a82a713c613d320c34e081d
+4fcc0c3b064304b68919b2876d6286ecf9531b766d6d6d8d8d8dbc881c727676
+762e2e2ef097a6a626e43623f4dbdbdb9b9b9ba1c2eddbb761249a9393131415
+0a859b9b1bd2efe8e830f35a0c0603bc1651679e56ab85ee400be9e8e8808b77
+7676868b11c5c2c8cfaee64fbd8957af5ebd7af5eace8e868585a15cd1909090
+929292cef4070d1a949393c38bc78f1f1f3e7c3854407ee9949414e8b41b3d7a
+7443430354e8d6ad5b6b6babd845fc3fe9e9e974383262ca9429999999e6ebd3
+2c5ab4082ebea4a4c4dddddd5a93ffd761af130cd9c3363143f6b04dcc903d6c
+1333648f88613766cc1849fe1598db284a4d4dcd8c1933e02f972f5f86e28b2f
+bef8eaabaff26259591914af5ebd8a027c3ffef863e83eddb871e3eeddbb79b1
+a8a808ea0bcdf3efbefb0e9a3b0f3ffc303c7afaf4e9254b96c05f90cd9e9999
+696f6fcf9987c16018376e9c99ca42dcddddbffbee3bf8cb3befbc73e1c20533
+87fbfafaa2c73a67ce9cab57aff2e2962d5b020202cc5f8fb7b7b7f9ca919191
+923655585818ad20b2897bf5ead57541ee3a9deef0e1c384426060e0a851a378
+b1a8a8081e6d6e6e46c3535252e0170664dd373636d2a71b3e7c788f1e3d3a3b
+aad168e8e14f3ef924ca1525303f5efeaed8dbdbc33bc3719ca4af0d4e4e4e68
+38fa58191d1d2dba75ee19954a85ce6e21ec7582217bd82666c81eb68919b207
+bf131f3870e0e6cd9bd69a3d2b2b4b92feb469d3a089a05028366cd8c08b7abd
+feadb7dee2458d46f3f5d75f9b3f79af5ebda64c99c28b151515b40bedc89123
+30f853abd5c2b3731cf7d5575f119ee183070fc254b6909090b163c79abf5a44
+7878f8934f3ec98b767676f0ce701c1713133360c0005efcf6db6fabaaaa3a9b
+adb1b111e5d83ef5d45330dc393333131a0083070f7eecb1c778b1a6a666cf9e
+3d70f8ac59b3881067a9db80e6dcb973569c4d32289eb8acac0c29e4e5e54185
+152b56c0a3a2f5898b8b8ba1c2a2458be051d10a40289e586aa228aa4ffcfcf3
+cfc3a352e389d1b70bd1fac4d9d9d950c1c2445164d5ad58b1021e65f589190c
+2bc3363143f6b04dcc903d8afbf9fa024d078ee35c5d5dd1d90f1d3a74fcf871
+5e341a8d5001b95dbcbcbcd070fa837f6565e5e79f7fce8b57ae5ca1571b1b1b
+0bdf7a9d9c9ce0f03bcb2386c7c5c5c1054bf2650a29282880676f6f6f47d77e
+e2c4893367cef0e2881123060d1ac48b68f1b038d05d99397326b40be154e680
+1e7497d3f167824e14950a32ec44b130515452e319a9861d42580168d8b06150
+212727071e4589a242e80a400851c3ee3ec35e2718b2876d6286ec619b98217b
+14d7af5f87b2979757b76edd3ad3d66ab51a8d86176d6d6dfdfcfca0424d4d8d
+4ea7eb6cb8abab2b0c95341a8d1515155001c576353636c2e5d9dbdbfbf8f874
+7a291c575151018daddbb76f13ca426edcb841e4cc89f63f2c2f2f97148a492b
+787b7bfbfbfbf3627373735d5d1d2f9a4c26f4e0dcdddda1bea3a3233cdabd7b
+777854486d6d2d9a90a0aeae0ecd565d5d0d45954a051d78f5f5f530c957a954
+4a0add940cddb3233535152abbb9b921053ac44ed46347833c7642e89e1d7f66
+442b0089f6ec401e3ba9a08ea234c2d2ae684faf5bb70e1e45eefa51a34659b2
+5421ec7582217bd82666c81eb68919b2876d6286ec5120efcb575f7db572e54a
+5e1c3f7efcf2e5cb79f1e9a79f86fa767676f4ecd3a64d5bbc78312f1e3a7408
+86a50af3ccb66fdfdeaf5fbfce66abacac84c3859497974371fefcf92fbffc32
+2f9e3f7f1ee6990e1830c08add4e2dc4d6b66bff9aa4a5a5ad5fbf9e5058b162
+85afafaf99b311dfafcce1f4e9d3e8391e3d7a1426f92d5bb66cdfbe7dbcb87c
+f972d890f4c89123c817ab409e5e8d46035df028aed4d3d3d3d3d3d3fce57a7b
+7bc3f98f1f3f0e2717d2af5f3fa2f74c5151113d1ce1e7e7076743ff675c5c5c
+acdbe7e6cf4c7575357debfaf4e923e9038525343535a1c5a072e5d7ae5d830a
+f0ab2ec7710d0d0d68387b9d60c81eb68919b2876d6286ec5140338ee3b84b97
+2e41b1a0a0002a4444443cfdf4d3bcd8d6d6864aaf5ebb760d8a79797970b8d1
+68a4bb3fd05e652f2f2f7af8975f7e595f5fcf8b870f1f86efc1c8ec2b2f2f47
+d78e183f7e3c0c022e2d2dddb56b17a1bf64c91268e9eeddbb17557b91c4f4e9
+d3fbf6ed6bbe7e5a5adab163c73a3b0aa3b4efcaa64d9b7af6ec69e6b97c7c7c
+a0892ccad8b1636175e46bd7aeedd8b1032aac5ebd1ab6fc11664f5a93f8f878
+e8ee43f57a45116d3c6321d6753ba7a4a4c0c9a5c613a34451a9646464c0d944
+ddcef713a96e67046b3cc36060d82666c81eb68919b24741173f6c68684021bf
+34010101446749a905366b6b6b89285ea552191414440cefd9b327e19a696969
+416628a2b2b2125a66757575f4bdb2b1b181a2afafaf258525ebeaeae0d9753a
+1d9ccd6834a232b888c0c040e857d3683430e4d7c1c14192fd505353535b5b0b
+17836cd6c0c040e872f3f0f0307f72216ab51ae6fc6ab55a78ba1b376ee001b4
+a9843a8a8a1a76a8a3a885a00a4088fefdfb237df46092929288c98515806884
+1580ba14a915801074a268577714a51135ec525353a1be68c360f63ac1903d6c
+1333640fdbc40cd9d3b5cd18351a0db40b3d3d3dd56a352f1a0c868b172f42fd
+e0e060546a9240a7d3151414c05fe81e022d2d2da5a5a5bc08ff7dffe9e8e8a0
+5b6ca0f6a9a2f4eddb175a7274b4a45eaf47b78ec6d6d6968e712b2d2d853d50
+7c7c7cbcbcbc78b1a2a20246a289d65e42f4eedd5b24c28e7e07b7d0b04b4e4e
+86472d2ced2a1564d8c176a2f780750d3ba98d66a5967645885600a241a55d85
+484a1415051976a2b0d70986ec619b98217bd82666c81eb68919b2077f9d9837
+6fdecf3fffcc8bb1b1b1b0bf43f7eedda1b2abab2beafeb064c992d75f7f9d17
+9f7efa69a880ea07abd56a34bc77efde507cf3cd376140634949495c5c1c7131
+bffefa2bec83897cce919191f07467ce9c993e7d3a311b222b2b2b2424845028
+2a2a22ca58fdf4d34fefbefb2e2f767474d0a7fbe73fff3962c4085e4477deea
+ecdfbf3f34349417e3e2e24a4a4aac35796262a2a432d86bd6ac81a1de9f7efa
+e9a4499378f1e79f7f9e376f1ed4c79bb8b2b212ae3e26268670b2dbdadaa2a3
+f5f5f570b8c16020862b140ada83af52a960ed36d12e9c010101c4844aa5121e
+259a0bdd95969616fab9d2fbb2b9b959d2b650abd5f7b32a97bfbf3f3c9df9ad
+51cda1478f1e44ab5621adadadf05ea1af8d5aad16dd49f63ac1903d6c133364
+0fdbc40cd963838aa974efde1d96b60d0f0f87c557103a9d2e313111feb27bf7
+6e58e6362a2a2a36369617870d1b3671e2c47b5eab46a3d9b2650ba150575787
+ca7010d8dbdb234373d9b2655aadb633fdd0d0d0d9b367c35f1212126099e105
+0b161025911c1d1da171d6dedebe74e952b81894b5dad8d848d8002d2d2d5f7c
+f105fc253b3b1bb5ed80fcfbdfff26d248398eabafaf87a59d552a9542f11f7b
+69d8b061a8bb232225250556836e6e6e86959e274d9a3464c8105e2c2929d9b8
+71231cbe7cf97298289a9191017df24d4d4db0e835ba937781ae4f8c9075a2e8
+b061c3d070daf810ed284a6361475151ac5b9fb8b0b0d092d9d0b788e4e46478
+54184fdcd0d040cc86e289274f9e8c14d8eb0443f6b04dcc903d6c1333648f02
+bdb0a314bf5bb76ec10fcbdedede74599ab0b03058eb05e1e8e878f2e449f317
+e7e7e7877c789096969673e7cec15ffaf5eb07df6bcbcaca882cd7a6a626b418
+d40c2628280816c511d69c8d8e8e86afb6b9b9b91dc0df11121202636a3d3c3c
+e0e9e86ea4427af6ec09b3620d0683b0232241454505dd21a5a5a585385a5e5e
+0ed3335d5c5cd03b747e7e3ebc158e8e8e705f494d10960cfd866edd44d175eb
+d6495a1bdd515458eca8b8b8182a48ed288a40158044415eae5dbb76c1a37409
+2c51c3ee3ec71323c30e258a5abd021033ec18ffebb04dcc903d6c1333648f82
+2efa89cacc545757437d9d4e87bc44e5e5e5c484427dc4d9b3679b9b9b3b3bda
+d2d2929f9fcf8bc24ccfbcbc3c189b7697523124d1d1d13096b2b9b9195e8b4a
+a50a0f0f87fa39393926938917636262a0bf5052dc9690f0f070782b901fc7de
+de1edd49e4c43a77ee1c0cfe32180c505fa7d349b20b030202e07018b47957ae
+5cb9026f5d5050104c10767777478b87de4151341a8d68a55a0958d85154086a
+a2810cbbc2c242ab2dfd6ed4d4d4c0d3cd9d3b171e15f5d8a1d2ae08a9869d85
+a08f4e8b162d82475118b710a91e3bbae72ef2d849855500623cf8b04dcc903d
+6c1333640fdbc40cd9a340be9ff8f8f803070ef0e2d4a95361dceaae5dbbe6cf
+9f6ffeecb367cf5eb56a152f6edfbedddbdb9bd0dfb3670ffc02806a31858686
+d2254da3a3a3af5ebdca8b7ffffbdf6146615e5e1e111bcd715cbf7efd60674f
+d14252d7af5fef007e66224b54149d4e47df99975f7e19f6f8d1683444eb558e
+e376ecd83160c0005e14ed017aecd83138a1850586114b972e857d694559bf7e
+3d91c33b7efcf8ad5bb7c25f14e84b108c88e7384ea9544205575757f397c271
+9c9393131c6e676777ebd62d42dfd5d595f832656767477fb74231e9cecece50
+1f85c00b419d2b4581a11116d2d1d141df19f43fca6432d1fa2e2e2e92bef1a9
+542a0bbf0912343737135f4e85c01078218e8e8e68a9ec7582217bd82666c81e
+b68919b247c4dd979b9b0b2bfa202f746b6b2b3cca711caa377ce4c811a8e0ed
+ed4d371584f57b845456567ef0c107bce8ebeb8bd2543ffcf04398ae181d1d4d
+cc161c1c8c6235172e5c28b52a3064debc79304af8b5d75e7becb1c7ee79b6f9
+f3e7431b9736e3388e5bb46811744dd32d79840fc2d7d7d7fcb59595957df4d1
+47f097baba3a284e9b360d2608232e5ebcb876ed5af8cbba75eba0fbf3f2e5cb
+70dbe4e6e642e5df7efb0ded3a1c4f3c79f264f32f462a16268a22b7b3b0f10c
+0daa4f6c79a228c292786221a8a328426a3cb175118dbbb0309e383e3e5ed2bd
+62af130cd9c3363143f6b04dcc903d8acccc4c28c3be931cc7a9d5ea8888085e
+bc79f3a6a48625fefefeb00fa6a87542e3e2e20233cf3c3d3dd1e2697efffd77
+49a70b0f0f8769aa010101e87463c68c81ee95a79e7a0a1a76d5d5d550bfbaba
+5a523d94b2b23238bc77efded0ce73707040b35dbe7c193a14060f1e0c9d3b57
+af5ebd74e91271baa14387129eace2e26218bd2db5eaebefbfff0ed354cbcbcb
+d1e2513c71fffefda5d68ea1983973267ce34e4d4d9534fcadb7deea12cba2a3
+a3e36e89a2921035ec50a2684646069aa1a5a585581eacaccc092a008942278a
+0a4161e674475121e7cf9f272617ed288aa01bcf8c1a354ad2ad1085bd4e3064
+0fdbc40cd9c3363143f6b04dcc903d36a87ed1f4e9d37ffcf1475eb4b3b3838e
+a81933666cd8b081171b1b1b7d7c7c88d9150a85a428db13274e4446467676f4
+e2c58b515151bc181616969d9d4dcc96909000dd9bd1d1d1478e1ce1455b5b5b
+1477eaeded0de31b1d1c1ce0c787d8d8d83d7bf6407d3f3f3f588517a1d7eb61
+f233ba93a2a0e1a277f2a79f7e1a3c78302f3a3a3ac2d868a3d1888a742190fe
+c08103e1c71cd1e1087b7b7bf8c1c16030c0ef36c23b8fd8b871e34b2fbdc48b
+73e6ccd9b973272f4e9c3811b93f1528651785e4b6b7b7c3e7643299a0be6827
+18a3d128a9e818cc80bfeb51b818bd5e4f5708461f6e6c6d6d25551446576734
+1ad1f0d6d656621323d09d948ae89db4b7b727ae4ea150484a8bd7e97496acd6
+6030109b1e3d4721e84af57a3d7aee489fbd4e30640fdbc40cd9c3363143fe20
+e7070ac57cf1c517db000683012a0b4bbb1e3c78b0cd6c84de4b7b7b7b87ce89
+888880c3f57a3dedc8311a8d503f3b3b1bcef6c4134f207dbd5e0ff5e7cc9903
+d7666b6b8bd68316dfd4d464feb58b062eefdbb7cffcd9dadada468e1c09d776
+f2e44978699f7df61971631d1c1c0a0a0a885b811016992e2929317fa9070f1e
+44c36fddba0515dadbdbe162500520e1831079d9bf3380d68128140af3f585e6
+366d021b8d46498bb1b3b38376aa9d9d1db4098476125a0fb4d6398e33994cb4
+217bd79d7dcf48ba931cc7b5b7b7c3e575fcb1bd293a2a04e9d35f428447effc
+f53173a9421353d270e18360af130cd9c3363143f6b04dcc903d22efc4d9d9d9
+442d16512fcec1830761f4665c5cdcac59b3cc5fdce4c9936140635353135c8c
+bfbf3f1d61b863c78e7dfbf6f1a2686d94b973e7c23cd3c8c848e8193a77ee1c
+ac6624cae79f7f0e0da0989818d4a2d0126edfbe8d2acfce983103463c3ef4d0
+4396ccbf70e142a2ba737d7d3d3d7cdbb66d3072f595575e193b76acf967ffc7
+3ffe01fb9f0e1c38103e88d3a74f7ff6d9677f18407f9d900a6a3c939c9c0c8f
+a24451ba9f0f27569f583451946e3c63793c31a2ed8ff589e978e2b63f761415
+62dd4451a9f1c43095c11ccacacae0700b3b8aa244d1b4b43478343d3d1d0d67
+af130cd9c3363143f6b04dcc903d8addbb774339303010bdcc11180c06e10b0a
+24242404ce468459de61cc9831b0a8286a5b2995471f7d149ebdb6b616be8dd5
+d6d6a26b8f8b8b83afaaf5f5f55001752f150575cd40a2544a4b4b61c9126880
+dee1f0e1c3376fdeec6c785b5b1bfd587373738b8a8a7871c89021c4cdafabab
+fbe5975f88d9222323e1e942424208658ee3d2d3d361f1d91e3d7ac0e1555555
+f041545454886cd1f4f474c23e4048ed288a101a7679797984be752b0009a11b
+cf88d246369e414835ece8f25fa2a0c63342d096a51bcf082b0021c38e4668d8
+21525353a13eeb28ca78f0619b98217bd82666c81e1c2a250cdd22b262841e3b
+a3d1289ab3440c37180cc47014c566498f8cced603cf6e6363438756a1a59a7f
+e1e628a33bd9f1c7aa9b1d1d1db4bb54a150c04789b2ce84c351d01c3a3b8a07
+14423f3884a48c35b3a0dfc1d3d2d2ac7c3e0b080b0b33df7a10226ad82190c7
+4e88a48c3d0b411580e8063c9ca0021042d85194f6d8ad58b1021e95d452f71e
+60861de37f0eb68919b2876d6286ec51a00a00a862889d9d1d7cf313cd72c1b3
+4b2c9e8240353b50bd021b1b1ba55279cf930b4b78e874ba8e3f66e940a45e3b
+ba935287a36a26c8c4b4b1b1a1dfc891818eee24dd28ce7250f11484c964a27d
+3da8d004da84767676223531688fdd7d2eedba62c50a62f2aeeed921351413d1
+a53d3ba4626128a654c34e6acf0e1a168ac978f0619b98217bd82666c81eb689
+19b24742a5c47be0c71f7f84657e264d9a847b415a95d9b3675754544071ca94
+29bcd8af5f3f689ca9542a7ab6f5ebd7efddbb971703020224d9761919195bb7
+6ee5c5caca4a7854a150c0245621df7ffffde79f7fded95137373764292e5cb8
+1086aaae59b3c692363f292929b08dcdc99327e3e2e278d1dbdb1bdd8a59b366
+893a11ef99d5ab57c3d2ae7dfbf6157910d6fd3a8190da5154ead709d81796e3
+b8a4a42449a7b3b0a328820edc767070a087d3ed837af4e881f4ef67e3998103
+0722057f7f7fa860ddaf1308e676663c80b04dcc903d6c1333648f0265921517
+176fdcb8b1336de4f472707090d4107dc8902192161719190997575f5fffcd37
+df489a01525d5dfdc30f3f100a53a74e85a1aed9d9d97413d22d5bb640fd3973
+e640676f6c6cac9b9b5b67639157d668346ed9b205fef2c8238fc017cddf7fff
+1d3628d1e974e831555555114b15e5db6fbf85f58aa64e9d4a18beb5b5b5e8ec
+d00ae4382e272787f08a373535a15db775eb56e8937fe28927880a4677493746
+efc8922a00b9b9b911efef564734519436ec2c4c14151a76e839494a1445a0f6
+3f9cc589a2520d3b044a1495da519446d85114fd6f47f1c4a2b0d70986ec619b
+98217bd82666c81e056c3fc8719c52a9a4bff943ba77ef8e7e696c6c24a2669d
+9c9c5c5c5c78d16432d1e556bb75ebe6ecec6ce662ee3f5e5e5ee607e6b6b5b5
+09cbf6c0a3e8b6b7b6b6c247832c275b5b5b4f4f4fe2745aad160e37994c70fe
+f6f6f6baba3aa8af52a9a0ad79fbf66d38dcc6c6060e371a8da8baab87870791
+49dadcdc0c23800d0603da751e1e1e30609a0e13a7ef24c749ac002464d4a851
+c4e45d5ddaf53e1b7692a0e3899d9c9c90be548f1d0255cd421580ac9e284a57
+00828593ef0a2aed4ac3e289190f206c1333640fdbc40cd9c3363143f628a033
+93e3b87ffdeb5f6bd6ace1c5b163c7befffefbbc989191f1d1471ff1a28b8b0b
+1dd9f9ecb3cfbef7de7bbc78e2c489e1c387f3a230e575f3e6cda1a1a1bcd8bb
+776f62f22b57aec0d9388e230af4721c171e1e8e2e16e1eeee4e1c3d75ea143a
+9d2422222288b3a3e4642113274e842d48b45a2dbd98b7de7a0b7ae97c7d7dcd
+5e29c771dcf6eddba113312020001e0d0d0d45d7d2b3674ff3278f8a8a42a1d2
+92be418d1831029d5d81e250d7ac5973fcf8715eecd3a70f3c5a5d5d0d8f12b1
+017750abd570fe3367cec0e142060c183070e0407a4e1ead564bcf86e8debd3b
+ba5849d4d7d74b3a1dc2d7d7d792b3f7ead50b0ebf75eb16bd98a4a4244bca7a
+47454511475d5c5c2cb9167777774b867b7a7aa2e1ec7582217bd82666c81eb6
+8919b24781627ce3e3e3a10171e6cc19a8f0f8e38f43bf974ea743c3df78e30d
+981877fcf871a8307cf870da6df6c9279f108d2c7bf6ec0987979696a2a29f34
+172e5ca0db701c387080b0ed060f1e0c4d5e2123478e84a5a23efcf0c3d8d858
+5e3c7bf62cbc150a85222b2b8b986dcd9a35898989bc989b9b0b870b8b137ff5
+d557111111bcf8c8238f1093fbf9f9a107f1c1071fc054d61d3b764073282525
+65dbb66dbc181a1a4a675bae5bb76ecf9e3dbc3879f26478ba9292123ab23c21
+2161c28409bcb87cf9f2cccc4c421f83dccea83e717c7c3c3c2ada7886ee282a
+84b6ea507de2f3e7cfd3d7729fddcea85c1a5dc64a345114211a4f4c77141585
+6e3c239a288a90da511441d72716c25e2718b2876d6286ec619b98217b7005a0
+efbfff1ed6ecd1e974d0ce532a959f7efa292f76083ad9e7e6e69e397386175b
+5b5ba102fa467dfbf66df4aa575d5d4dac55a3d1c0b38ba6461e3b760c8a28f2
+d3cfcf6fc68c19f017d8d4f21e58b060417b7b3b2f3efcf0c396cc46d3ad5bb7
+79f3e6c15fb2b2b260a62762d0a04123478ee4c5fafafacd9b37430514e0bb65
+cb16e884532814f0392a140af820388e7bfdf5d785c1e53c870e1d82f1c47083
+dd0321212193264d923060e6cc99f0151bd9a4c24451144f4cd727168d27ee52
+84f589115d1a4f6ca161275a0108211a4f4c23359e18197652618d6718ff73b0
+4dcc903d6c1333648f02e5a55556566ab55a5e6c6a6a82afe1a87ca7c964422f
+e9a8234863632354707777f7f2f2facfb915f8ec88fafa7a2293d4c1c1011563
+44d4d6d60add313c3a9d8eb63044b211059496967674deb70699a11d1d1df4d9
+d56a356168b6b7b7a3e19e9e9ef066deb8710326b136343440fd8a8a0aface23
+d06a6b6a6ad0f09b376fc204617b7b7ba870ebd6adc6c6465e747272a243435d
+5d5d89a35aad16df3af48e2ca9029054babab42b027d39b110a91e3b0b915a01
+0879ece838cce0e060490fc2c2d2ae2851545801888679ec180f3e6c1333640f
+dbc40cd9c3363143f62860102a27f0cd229e79e6990f3ffc90179b9a9a860e1d
+0a15366dda141d1dddd970baf212c771d3a74f2f2a2ae2c5499326c178cbd2d2
+526877161717a3c5efdfbf1f5a18efbdf71e6113e4e7e7a3e2ca478f1ef5f0f0
+e84c1f16e0bac3a04183e01780dcdc5c58096af1e2c5300a76dcb8713073d360
+30989f4d2844a55221a77a5050101451a6676a6aeadab56b79f1faf5ebe8d67d
+f7dd772121219d9deeedb7df862d48ae5ebd8a86a3b63a88a54b9742f7a7d54b
+93290a0a0accd756a95430f0147e37b9435050108a4c95444949095ccfc48913
+e16ca8da974ea7438b4765e07c7c7c7c7c7c3a3b9770f1616161e6d7a1e338ee
+c2850bf09362787838fc4081b268dddcdce0b548eaf32c44a150d0f7b96fdfbe
+5044f741afd7a35b471795ebd9b3270ca5100ea751abd56ab5da7c7da9b0d709
+86ec619b98217bd82666c81e05aa974a43d7c811b273e7ce952b577676d4c7c7
+e7d75f7f9534a1259c3d7bf6c5175fe421619220000009ef4944415445619b8c
+61c386a17e3034e83d72c08001363636bc4864bc721c676f6f4fdf79daa35e57
+57171e1e0e7fd9be7d3b5df18466d2a449745560080a2e10f2f1c71fc3ce3409
+09092fbcf0022f9e3a75ead5575f85fab9b9b984ab79d5aa554b962ce1c54387
+0ecd9f3f1f2a2850255aeb52575707bf362050e1e8aea6b5b595580cc771972f
+5fb6647ebad512c2c6c6c6923bdfdede8eae45f87f521257ae5cb16438a2aaaa
+0ac68aa082de5aad162dde643211b3f9fafac2588b4b972e2105f63ac1903d6c
+1333640fdbc40cd983ed989d3b77d22f8e10616d56c4e0c1838970ca8e8e0e58
+3796e3b8679e7906fae48c462354b0b1b1a18333453d8290808080d75e7b0dfe
+b26ad52a184b8d08090999356b16fc65d9b265c24a3cf786c16058b66c19fc65
+d6ac59840b4dc8a64d9b8832390a8582be7534bffefaebd1a347cdd79f306102
+8c051d3c78303c1a1414841663be4dc9715c585818be1614bb69613c31aa0044
+237471e7e5e54105b4565401482aa8029030519476d7897614a579fef9e789b5
+59bda32802258a4a456a4751144fdcd5b0d70986ec619b98217bd82666c81e05
+2cd8c3719ca7a7271122a8d168ae5dbb66feec353535e5e5e5bce8eded4db7e1
+40f8f8f8c0c5f8f8f8c0d53a3939217fc1850b17a0ade9e7e70763af9c9d9de1
+6cb039c81d1e7df451d4281322c9cc12525f5f8f6e354418994914d43187871f
+7e18463c2a14f84123c2c2c2e02b7e616121f447dadadac2e5b5b4b4d09e9df2
+f272fa7488010306100d49af5dbb06f385dddddd518c1e86ee284a57a5e52496
+761535ec10167614b53a920c3b1a6147518454c32e2727070e87a1cc77c5c28e
+a216427714651580180f3e6c1333640fdbc40cd9c3363143f628907505cb4c09
+993a752a2ade8af0f6f686e2ac59b3264e9cc88b747922211b366c8075700303
+03e16aededed91feb163c78c46232f7ef9e597b015665454d4debd7b79f1f4e9
+d353a64c81c3f3f3f3a1e37ae9d2a53b77ee249687e2898b8b8bcd2f02a4d7eb
+2df9dce1e9e9999f9f4f28d02d3e030303519e29918c680e393939e6372dcdc9
+c94195a169d6ae5d0b7db7595959a8c3a9820ebe46383b3b4b4a5575757595ba
+71218d8d8dd7af5fe7451717177ab5281bd16432c1e1e82eb7b5b5c1a39c20aa
+b5aeae0e29d0f8fbfb4bdac4e6cf2cc4d6d656d283432814d29ebb28bebebee6
+4f28b5c8b6a7a727fce3e2ecec8c9e0b7b9d60c81eb68919b2876d6286ec51bc
+fbeebbf7ed6423478e84a19e2a956addba75500139a5c78c1903ebeee8f57ab8
+5ab55abd78f162a8bf72e54ad840c5c3c303cedfab572f7a79efbfff3e74c211
+7d5ccc61dbb66dbffdf61b2f464646a270649a949414e8dabd70e1023cdadcdc
+8c1edcfcf9f35111204b58b264094c8ca30bc50ad9bb772f341c9f7beeb9e1c3
+8713fa4b972e25cc89975e7ae9b1c71ee3c5888808b46dee2b52eb1323aceb76
+cececeb6eed5b5b5b5c1f961dd274e104f8cf209846ee771e3c6493a3bdd5114
+b99da5d62746486d3c23b5a328222d2d8d5e0f7b9d60c81eb68919b2876d6286
+ecc189a273e6cc79f4d147ad357b5656d637df7cd3d9d1fafafac4c444f8cbe2
+c58ba16d77f0e0c1fdfbf7f322aac12124313111d6ba446567117dfbf64591a2
+5259b060019128faca2bafc0068952fd736fbef9e684091378f1c48913a89d23
+62eddab5bb77ef866bebd3a70f2f8e1e3d1a5e2caad869759e7bee39689f8c18
+3182d64f4a4a22e25a2f5ebcf8f6db6f4b383d1d4f2c150be3892d6c3cd3d5a0
+fb8e0c3b1a51c30e61613cb1751135ec6884869da4786221ec7582217bd82666
+c81eb68919b247a49269555595f90581388e8b8c8c54a954662a2b954a14d879
+f1e2456899994c26a8a0d56a4f9d3a454c78f2e449a2eaa89b9b1bcc766c6868
+40d18cc3870f178677f268349a73e7cec15f50d4dbd1a347cdaf0c0b4346ef4c
+75f8f06142ffe2c58b50b4b7b7473eb0fcfc7cd83ef5cc9933f056f8fbfb434b
+abb5b595f647464747c370c52b57aec0046161f9d09c9c1cf363d3a023f30e59
+5959f074fdfaf5b3283414197669696992864b4a141582327e131212e051a91e
+3b444c4c0c54167aec6a6a6a88b565646448ba155d4a8f1e3dd0f2e0971021a8
+02507171313d7f616121d4975a01c842525353e1d99961c778f0619b98217bd8
+2666c81eb68919b247429f15ab73e3c68d471e7904feb27fff7ed86330393919
+b6baa13b3b701c979f9f0f75121313d7af5f6ffe7a82838361e79875ebd6a196
+a388caca4ac259faeaabafa6a7a79b796aa552099b5c701c3765ca14d895273e
+3e1e06d16a341ad404085556fef9e79f070d1ac48b292929503f3030107eca10
+82daa7befffefb8b162de2c5b367cf3ef1c413e405fd81a4a424d851342b2b0b
+a60f0b79f3cd3761b4f4dab56be90081ffe62636994ca8ada793931374ebdbd8
+d808fb7e12a0a45447474749ebb97dfb3614457339dddcdc884d4c7cad136263
+6383e219d0d73a070707a8a0d7ebe93be3e2e242dc49ad562b297c42a954c23a
+d8c20ec134e8b18ae61ab7b6b6c2ef830a85825e2d7b9d60c81eb68919b2876d
+6286ecf96fbe137b7a7aa25ab1dbb66ddbb061032f9e3f7f1e1e55abd5b03fa9
+56ab7de59557a0c2279f7c024b104d9b360d9628a55b7208d9b66d1bf4cddebc
+7953d2700b59b06001ccd27be8a18768fda54b97421d54c1372e2e0e5e7e6b6b
+2bba7588952b57c24a34e9e9e9fbf6ede345582db82b983d7b367440161616d2
+abc5fca9dcce08d478066d718ee38a8b8be9f92196278ab6b4b410f3a344511a
+d17862444d4d0d9a814e1445dc67b7b3d44451e67666fccfc1363143f6b04dcc
+903d2286ddd0a14325bd165bd2395e949b376fbefcf2cbbc483489b9c3ae5dbb
+0e1c38c08bc1c1c1302ff5a1871ea22f2d3535f5c89123bc181111b170e142a8
+f0c61b6f4007e1962d5ba08762debc7930d3f3d4a9535f7cf14567e7d2ebf5f0
+d244b1b7b7478bdfb367cfc68d1b79313131910e4c457cf4d1477e7e7ebc989c
+9c0c5d8067cf9ea587af5dbb9668e70a7d877725252505ba8d860c19028fbefe
+faeb63c68ca167f803f7335154086dd889820c3be829e504f1c4a2404f296746
+47513a5194ce55968a683c319d282a34ece8c633a27469a2a828ec7582217bd8
+2666c81eb68919b2071b767426a654506625a2a5a5e5e0c183f097c8c8485835
+ffd2a54b304dd5d5d575f4e8d1c484393939050505bce8e8e8082bc9a216a21a
+8d262b2b0bfe327efc7849816f13274e84916efbf6edb3b5fdcf1f85c71f7f1c
+9a4a7e7e7e70312693e9871f7ee0453b3b3b3a3af1dab56b30bfb2adad0df61f
+e1382e3c3c1cfae40a0a0a506c27a4a9a9092e861334301d3d7a34bc5d454545
+972e5d229697999969be43b4aaaa0a9d9d8ef8cbcbcb837d69d56a757474b499
+e7b23e165600421e3b211696764589a2a2861d0255d8ddb56b17a16cf50a40c8
+63475714965adad5ba89a2a3468d927476d65194f1e0c3363143f6b04dcc903d
+6c133364cfff01f41c1a37d365eceb0000000049454e44ae426082}}\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1\sb2{\f0\fs19\b0\i0}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1\sb1{\f0\fs13\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\li1007\sl200{\f0\fs20{\*\shppict{\pict
+{\*\picprop\shplid100{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}}
+\picscalex48\picscaley48\piccropl0\piccropr0\piccropt0\piccropb0\picw14843\pich6244\picwgoal8415\pichgoal3540
+\pngblip{\*\blipuid 89ebeca80a8be543b396082bf4e2dcbd}
+89504e470d0a1a0a0000000d4948445200000231000000ec08020000000a3260
+7b00000006624b474400ff00ff00ffa0bda793000000097048597300000ec400
+000ec401952b0e1b0000067749444154789cedd54188ce5b1cc7e1d3dd282645
+64c346164216969a2ca42865331a4a66c742991dab69c2624a220b9488103b4d
+d908899464a4b1a3290d52425252a274eee25f6fa7de3bb3bc7d17cfb33be7fc
+ce9977fe9b4f298de1e1e15a6bad75f7eeddedb233343454faecddbbb79db975
+eb567b3a3939d93bfaf3e74fb7b96fdfbef6caae5dbbfa9fddbf7f7fadf5d7af
+5fede6c8c8487bf1dab56bfd17172d5ad4ce5cbd7ab594323030d02daf5cb9d2
+2e77ecd8d1ff4267f1e2c5ddccf6eddbfb4f0f1c38506bfdfefd7bb7bc7fff7e
+adf5e2c58bddf2c18307bd1ff0eddbb7f6e2d2a54bebdc2e5cb8504a59b66c59
+bb79fefcf952caf2e5cbbbe5b973e7da071f3f7e3cd76b9f3e7dea669e3c79d2
+ee0f0e0e9652464747e7f9259b376feefd89952b57769b67ce9c69979dd3a74f
+975256ad5ad56ebe7fff7eae0f5b4a3972e448ad757676b65b4e4d4dd55a4f9e
+3cd92d5fbc78d17be7eddbb7edc5d5ab57cff39b272626dae1e9e9e9ded1cccc
+cc7ffe9257af5eb52f6cdcb8b194323636566b7dfdfa753b393e3ede4e1e3f7e
+bc94b26eddba6eb97efdfafec78f1d3bd65e191f1f2fa56cd8b0a15bae5dbbb6
+9472e2c48976666c6cac7de1cd9b3773fdb3d3d3d3ddcccccc4cbbbf66cd9a52
+cac4c444adf5e5cb97ed6b9b366d9ae7eb1d3d7ab41d9e9d9ded1d4d4d4d759b
+a74e9daab53e7ffebc5bbe7bf76eaed79e3d7bd6cd7cf8f061ae99a74f9f7633
+1f3f7e6c979db367cfb6c3a3a3a3a594c1c1c176f3f0e1c3fd9f7dcb962ddde9
+8a152bdafdcf9f3ff72e3e7af4a8dbfcf2e54badf5d0a143ddf2ebd7afbd9987
+0f1fb6d7b76edd3acfd73b78f0602965dbb66ddd72c99225fd3fecd2a54bb5d6
+7bf7eef51ff55cbe7cb9d67af7eedd6ef9e3c78ff6af0c0c0cf45ff9f9f3673b
+b370e1c2ded1ce9d3bbbcd919191fe8bd7af5fafb5deb973a75bdeb871a37d67
+c18205edf0efdfbf7b47939393edd1cd9b37fb3fc8eddbb7fff31ffcfbf76fad
+75cf9e3da594a1a1a16e787878b89df9679e0f0400ff274d0220852601904293
+0048a14900a4d024005268120029340980149a04400a4d022085260190429300
+48a14900a4d024005268120029340980149a04400a4d02208526019042930048
+a14900a4d024005268120029340980149a04400a4d02208526019042930048a1
+4900a4d024005268120029340980149a04400a4d02208526019042930048a149
+00a4d024005268120029340980149a04400a4d02208526019042930048a14900
+a4d024005268120029340980149a04400a4d02208526019042930048a14900a4
+d024005268120029340980149a04400a4d02208526019042930048a14900a4d0
+24005268120029340980149a04400a4d02208526019042930048a14900a4d024
+005268120029340980149a04400a4d02208526019042930048a14900a4d02400
+5268120029340980149a04400a4d02208526019042930048a14900a4d0240052
+68120029340980149a04400a4d02208526019042930048a14900a4d024005268
+120029340980149a04400a4d02208526019042930048a14900a4d02400526812
+0029340980149a04400a4d02208526019042930048a14900a4d0240052681200
+29340980149a04400a4d02208526019042930048a14900a4d024005268120029
+340980149a04400a4d02208526019042930048a14900a4d02400526812002934
+0980149a04400a4d02208526019042930048a14900a4d0240052681200293409
+80149a04400a4d02208526019042930048a14900a4d024005268120029340980
+149a04400a4d02208526019042930048a14900a4d02400526812002934098014
+9a04400a4d02208526019042930048a14900a4d024005268120029340980149a
+04400a4d02208526019042930048a14900a4d024005268120029340980149a04
+400a4d02208526019042930048a14900a4d024005268120029340980149a0440
+0a4d02208526019042930048a14900a4d024005268120029340980149a04400a
+4d02208526019042930048a14900a4d024005268120029340980149a04400a4d
+02208526019042930048a14900a4d024005268120029340980149a04400a4d02
+208526019042930048a14900a4d024005268120029340980149a04400a4d0220
+8526019042930048a14900a4d024005268120029340980149a04400a4d022085
+26019042930048a14900a4d024005268120029340980149a04400a4d02208526
+019042930048a14900a4d024005268120029340980149a04400a4d0220852601
+90e25f821c5c10eb7df9f90000000049454e44ae426082}}\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1\sb2{\f0\fs19\b0\i0}\cell\row
+\trowd\irow4\trgaph0\trrh-2533\trql\trleft109
+\clvertalt\clbrdrt\brdrnone\clbrdrl\brdrnone\clbrdrr\brdrnone\clbrdrb\brdrnone\cltxlrtb\cellx10365
+\pard\plain\intbl\s4\nooverflow\nocwrap\li1305\ri1469\qc\sl276\slmult1\sb154{\f13\fs22\b0\expnd0\expndtw0\charscalex100 Calle\expnd-1\expndtw-7  \expnd0\expndtw0 Matamoros\expnd-1\expndtw-7  \expnd0\expndtw0 No.\expnd-2\expndtw-8  \expnd0\expndtw-1 517,\expnd-2\expndtw-8  \expnd0\expndtw0 Col.\expnd-1\expndtw-7  \expnd0\expndtw0 Centro,\expnd-2\expndtw-8  \expnd0\expndtw0 Pachuca\expnd-2\expndtw-8  \expnd0\expndtw0 de\expnd-1\expndtw-6  \expnd0\expndtw0 Soto,\expnd-2\expndtw-8  \expnd0\expndtw0 Hidalgo,\expnd-1\expndtw-7  \expnd0\expndtw-1 M\'E9xico\f13\expnd6\expndtw29\charscalex99  \expnd0\expndtw0\charscalex100 Tel.\expnd-1\expndtw-5  \expnd0\expndtw0 +52\expnd-1\expndtw-6  \expnd0\expndtw0 (771)\expnd-1\expndtw-6  \expnd0\expndtw-1 281-36-30,\expnd10\expndtw48  \expnd0\expndtw0 +52\expnd-1\expndtw-5  \expnd0\expndtw0 (771)\expnd-1\expndtw-5  \expnd0\expndtw-1 688-36-02\expnd10\expndtw48  \expnd0\expndtw0 y\expnd0\expndtw0\charscalex100\par}\pard\plain\intbl\s4\nooverflow\nocwrap\ri163\qc\sl240\slmult1{\f13\fs22\b0\expnd0\expndtw0\charscalex100 +52\expnd-2\expndtw-8  \expnd0\expndtw0 (771)\expnd-2\expndtw-8  \expnd0\expndtw-1 717-60-00\expnd-1\expndtw-7  \expnd0\expndtw0 ext.\expnd-2\expndtw-8  \expnd0\expndtw0 6790\expnd0\expndtw0\charscalex100\par}\pard\plain\intbl\s4\nooverflow\nocwrap\li3341\fi1\ri3507\qc\sl276\slmult1\sb44{{\field {\fldinst { HYPERLINK "mailto:poficial@hidalgo.gob.mx" }}{\fldrslt\f11\fs22\b0\expnd0\expndtw0\charscalex100\cf2 poficial@hidalgo.gob.mx}}
+\f11\fs22\b0\expnd0\expndtw0\charscalex100\cf2\f11\expnd0\expndtw0\charscalex99  {\field {\fldinst { HYPERLINK "http://periodico.hidalgo.gob.mx/" }}{\fldrslt\expnd0\expndtw0\charscalex95\cf1 http://periodico.hidalgo.gob.mx\expnd0\expndtw0\charscalex100}}
+\expnd0\expndtw0\charscalex95\cf1\expnd0\expndtw0\charscalex100\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1\sb6{\f0\fs29\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\ri164\qc\sl240\slmult1{\f11\fs22\b0\expnd0\expndtw0\charscalex100 Registrado\expnd-1\expndtw-6  \expnd0\expndtw0 como\expnd-1\expndtw-6  \expnd0\expndtw0 art\'EDculo\expnd-1\expndtw-6  \expnd0\expndtw0 de\expnd-1\expndtw-7  \expnd0\expndtw0 2\'AA.\expnd-1\expndtw-6  \expnd0\expndtw-1 Clase\expnd-1\expndtw-7  \expnd0\expndtw0 con\expnd-1\expndtw-4  \expnd0\expndtw0 fecha\expnd-1\expndtw-7  \expnd0\expndtw0 23\expnd-1\expndtw-7  \expnd0\expndtw0 de\expnd-1\expndtw-7  \expnd0\expndtw0 Septiembre\expnd-1\expndtw-7  \expnd0\expndtw0 de\expnd-1\expndtw-6  \expnd0\expndtw0 1931\expnd0\expndtw0\charscalex100}\cell\row\pard\sect\sectd\sbkpage\pgnrestart\pgnstarts2\headery592\footery641
+{\header
+{\shp{\*\shpinst\shpleft1222\shpright2053\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz0\shplid113{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw0\charscalex100 P\'E1gina\expnd0\expndtw-1  \expnd0\expndtw0 2\par}}}
+
+{\shp{\*\shpinst\shpleft5118\shpright7115\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz1\shplid117{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 PERI\'D3DICO OFICIAL\par}}}
+
+{\shp{\*\shpinst\shpleft10218\shpright10971\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz2\shplid121{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Alcance\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright1279\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz3\shplid125{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 2\par}}}
+
+{\shp{\*\shpinst\shpleft3649\shpright3706\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz4\shplid129{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 0\par}}}
+
+{\shp{\*\shpinst\shpleft6075\shpright6132\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz5\shplid133{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 1\par}}}
+
+{\shp{\*\shpinst\shpleft10912\shpright10969\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz6\shplid137{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 8\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10893\shptop856\shpbottom926\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz7\shplid141{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelesta\expnd-1\expndtw-6  \expnd0\expndtw-1 dodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3di\expnd-1\expndtw-5  \expnd0\expndtw-1 cooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehid\expnd-1\expndtw-6  \expnd0\expndtw-1 algoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestado\expnd-1\expndtw-6  \expnd0\expndtw-1 dehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgo\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10969\shptop895\shpbottom1005\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz8\shplid145{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 Peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dic\expnd-1\expndtw-5  \expnd0\expndtw-1 ooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadod\expnd-1\expndtw-6  \expnd0\expndtw-1 ehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicoo\expnd-1\expndtw-6  \expnd0\expndtw-1 ficialdelestadodehidalgo\expnd0\expndtw0   \expnd1\expndtw3  \expnd0\expndtw0 2\expnd0\expndtw1  \expnd0\expndtw0 0\par\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb5\f10\fs3\b0\expnd0\expndtw0\charscalex100 1 8\par}}}
+\pard\plain\s1\nooverflow\nocwrap\sl14\slmult1\fs20\par}
+{\footer
+{\shp{\*\shpinst\shplid152
+\shpleft3826\shptop14999\shpright8366\shpbottom15219\shpfhdr0\shpbxpage\shpbypage\shpwr3\shpwrk0\shpfblwtxt1\shpz9{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lTxid}{\sv 65536}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{
+\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn fBehindDocument}{\sv 1}}
+{\shptxt\pard\plain \ql\li0\ri0\widctlpar\sl220\slmult0\pvpara\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0
+{{\*\shppict{\pict
+{\*\picprop\shplid152{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}}
+\picscalex48\picscaley49\piccropl0\piccropr0\piccropt0\piccropb0\picw16668\pich820\picwgoal9450\pichgoal465
+\pngblip{\*\blipuid b09e741e10e74c48a1f6254c0aab80d4}
+89504e470d0a1a0a0000000d49484452000002760000001f0802000000e55217
+1500000006624b474400ff00ff00ffa0bda793000000097048597300000ec400
+000ec401952b0e1b0000035449444154789cedd53f28fd5f1cc7f1d377a02b03
+2951b230b8ae0c18b8924442b2a89bc570491125a20c94840c77f12749195cdc
+d44dd762405162e00e37934c57d91828e67b7ec3bbbe9defe9d367f975b6e763
+3beffb3aef7b5cc34ba97f259349ad752e9793632412d1ff1a1c1c545ececece
+cc582291b002a954ca0c9c9c9cc8fcfcfcdc9c1f1d1d79ee1f1e1e96403c1e37
+e78140c07a617f7fbfe7868b8b0b33f6fbfb2bf368342a93dede5ea5546161a1
+1c0f0e0e3cf7fc353a3a2ac9eeee6ecfc0d5d595d6faebeb4b8e63636392efea
+ea524a1517175b2fdfdbdb33af979494685fbbbbbb92bcb9b931e71f1f1f329f
+9c9c94497b7bbbb9796a6aca7ff3d6d69624efeeeeccf9e6e6a6ccefefeffd37
+84c361f31b67666664ded2d2a294aaa8a8b0f2cdcdcd4aa9caca4a6b1e8bc5fc
+ff0b4f4f4f5aeb6c362bc7f9f979b9d8d4d42493743a6d2edcd8d830af575555
+f9ff21ebebebd63766321933b0babaeaf9b0c5c5456b557d7dbd52aaa6a6468e
+2b2b2b663e180c5af95028a494aaadad95e3f2f2b2e717854221eb623018544a
+d5d5d5c971696949922f2f2f66ecf9f9d95af5fafaeaf35364321989adadad59
+1f5557572ba51a1a1ae4b8b0b060ae6d6c6cf459abb54ea7d3d64bb2d9ac1998
+9b9b93f9dbdb9bd6faf1f1518eb158cc7ff3ececac24dfdfdf7d620f0f0f120b
+87c332999e9e36dfd3dada6a5d292f2f574ab5b5b559f3b2b232cf7fd3f6f6b6
+044a4b4bcdf9cece8e79fdf6f656e61d1d1d3299989890c9e7e7a7991c1f1f37
+f7747676faff14d7d7d792dcdfdf9749515191e753bfbfbfb5d69797979e9ffe
+d5d3d3237b46464664f2f3f3637e63341af5bcd8d7d767bdada0a0c00c1c1e1e
+ca3c1008786e88c7e312c8cfcf574a0d0c0c580bf3f2f2ccfcf1f1b1f9692a95
+b216261209cf1f6d6868c8f301a7a7a71288442232c9e5725aeb64326925ff78
+de070000ff13150b008013542c00004e50b100003841c50200e004150b008013
+542c00004e50b100003841c50200e004150b008013542c00004e50b100003841
+c50200e004150b008013542c00004e50b100003841c50200e004150b00801354
+2c00004e50b100003841c50200e004150b008013542c00004e50b100003841c5
+0200e004150b008013542c00004e50b100003841c50200e004150b008013ff01
+9a25c32eabd31f5c0000000049454e44ae426082}}
+\par}\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {
+\par}}}}\pard\plain\s1\nooverflow\nocwrap\sl14\slmult1\fs20\par}\marglsxn980\margrsxn1040\margtsxn980\margbsxn840\cols1\colno1\colw10220\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb6\f0\fs10\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li163\ri154\qc\sl240\slmult1\sb69\f12\fs24\b1\expnd0\expndtw-1\charscalex100 SUMARIO\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb10\f12\fs20\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li154\sl240\slmult1\f10\fs20\b0\expnd0\expndtw-1\charscalex100\cf4 Contenido\expnd0\expndtw0\charscalex100\cf1\par\pard\plain\s1\nooverflow\nocwrap\li154\fi-3\ri140\qc\sl276\slmult1\sb137\tqr\tx10077{\field {\fldinst { HYPERLINK \\l "bookmark0" }}{\fldrslt\f10\fs20\b0\expnd0\expndtw0\charscalex100 Decreto\expnd7\expndtw33  \expnd0\expndtw-1 N\'FAmero\expnd7\expndtw34  \expnd0\expndtw0 Uno.\expnd7\expndtw34  \expnd0\expndtw-1 -Que\expnd7\expndtw34  \expnd0\expndtw-1 contiene\expnd7\expndtw34  \expnd0\expndtw0 el\expnd7\expndtw33  \expnd0\expndtw0 Bando\expnd7\expndtw34  \expnd0\expndtw0 de\expnd7\expndtw34  \expnd0\expndtw0 Polic\'EDa\expnd7\expndtw34  \expnd0\expndtw0 y\expnd7\expndtw33  \expnd0\expndtw0 Gobierno\expnd7\expndtw34  \expnd0\expndtw-1 Municipal\expnd7\expndtw34  \expnd0\expndtw0 de\expnd7\expndtw34  \expnd0\expndtw-1 Xochiatipan\expnd7\expndtw34  \expnd0\expndtw0 de\expnd7\expndtw35  \expnd0\expndtw-1 Castillo,}}
+\f10\fs20\b0\expnd0\expndtw0\charscalex100\expnd7\expndtw33\expnd0\expndtw-1\expnd7\expndtw34\expnd0\expndtw0\expnd7\expndtw34\expnd0\expndtw-1\expnd7\expndtw34\expnd0\expndtw-1\expnd7\expndtw34\expnd0\expndtw0\expnd7\expndtw33\expnd0\expndtw0\expnd7\expndtw34\expnd0\expndtw0\expnd7\expndtw34\expnd0\expndtw0\expnd7\expndtw34\expnd0\expndtw0\expnd7\expndtw33\expnd0\expndtw0\expnd7\expndtw34\expnd0\expndtw-1\expnd7\expndtw34\expnd0\expndtw0\expnd7\expndtw34\expnd0\expndtw-1\expnd7\expndtw34\expnd0\expndtw0\expnd7\expndtw35\expnd0\expndtw-1\f10\expnd14\expndtw69\charscalex100  {\field {\fldinst { HYPERLINK \\l "bookmark0" }}{\fldrslt\expnd0\expndtw-1 Hidalgo.\tab \expnd0\expndtw0 3}}
+\expnd0\expndtw-1\expnd0\expndtw0\par
+{\shpgrp{\*\shpinst\shplid183
+\shpleft1095\shptop119\shpright11096\shpbottom165\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz0
+{\sp{\sn groupLeft}{\sv 1095}}
+{\sp{\sn groupTop}{\sv 119}}
+{\sp{\sn groupRight}{\sv 11096}}
+{\sp{\sn groupBottom}{\sv 165}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid184
+{\sp{\sn relLeft}{\sv 1104}}
+{\sp{\sn relTop}{\sv 127}}
+{\sp{\sn relRight}{\sv 11088}}
+{\sp{\sn relBottom}{\sv 147}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 9984}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(9984,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 10414}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid185
+{\sp{\sn relLeft}{\sv 1104}}
+{\sp{\sn relTop}{\sv 156}}
+{\sp{\sn relRight}{\sv 11088}}
+{\sp{\sn relBottom}{\sv 176}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 9984}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(9984,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 10414}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\li165\ri154\qc\sl240\slmult1\sb166{\field {\fldinst { HYPERLINK \\l "bookmark1" }}{\fldrslt\f10\fs20\b0\expnd0\expndtw0\charscalex100 Decreto\expnd-3\expndtw-13  \expnd0\expndtw-1 N\'FAmero\expnd-3\expndtw-13  \expnd0\expndtw0 Dos.\expnd-2\expndtw-12  \expnd0\expndtw-1 -Que\expnd-3\expndtw-13  \expnd0\expndtw0 contiene\expnd-3\expndtw-13  \expnd0\expndtw0 el\expnd-3\expndtw-13  \expnd0\expndtw-1 Reglamento\expnd-3\expndtw-13  \expnd0\expndtw-1 Interior\expnd-2\expndtw-12  \expnd0\expndtw0 del\expnd-3\expndtw-13  \expnd0\expndtw0 Ayuntamiento\expnd-3\expndtw-13  \expnd0\expndtw-1 de\expnd-3\expndtw-13  \expnd0\expndtw-1 Xochiatipan\expnd-3\expndtw-14  \expnd0\expndtw0 de\expnd-3\expndtw-13  \expnd0\expndtw0 Castillo,\expnd-3\expndtw-13  \expnd0\expndtw0 Hidalgo.}}
+\f10\fs20\b0\expnd0\expndtw0\charscalex100\expnd-3\expndtw-13\expnd0\expndtw-1\expnd-3\expndtw-13\expnd0\expndtw0\expnd-2\expndtw-12\expnd0\expndtw-1\expnd-3\expndtw-13\expnd0\expndtw0\expnd-3\expndtw-13\expnd0\expndtw0\expnd-3\expndtw-13\expnd0\expndtw-1\expnd-3\expndtw-13\expnd0\expndtw-1\expnd-2\expndtw-12\expnd0\expndtw0\expnd-3\expndtw-13\expnd0\expndtw0\expnd-3\expndtw-13\expnd0\expndtw-1\expnd-3\expndtw-13\expnd0\expndtw-1\expnd-3\expndtw-14\expnd0\expndtw0\expnd-3\expndtw-13\expnd0\expndtw0\expnd-3\expndtw-13\expnd0\expndtw0\par\pard\plain\s1\nooverflow\nocwrap\ri138\qr\sl240\slmult1\sb34{\field {\fldinst { HYPERLINK \\l "bookmark1" }}{\fldrslt\f10\fs20\b0\expnd0\expndtw0\charscalex100 16}}
+\f10\fs20\b0\expnd0\expndtw0\charscalex100\par
+{\shpgrp{\*\shpinst\shplid186
+\shpleft1095\shptop152\shpright11096\shpbottom198\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz1
+{\sp{\sn groupLeft}{\sv 1095}}
+{\sp{\sn groupTop}{\sv 152}}
+{\sp{\sn groupRight}{\sv 11096}}
+{\sp{\sn groupBottom}{\sv 198}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid187
+{\sp{\sn relLeft}{\sv 1104}}
+{\sp{\sn relTop}{\sv 160}}
+{\sp{\sn relRight}{\sv 11088}}
+{\sp{\sn relBottom}{\sv 180}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 9984}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(9984,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 10414}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid188
+{\sp{\sn relLeft}{\sv 1104}}
+{\sp{\sn relTop}{\sv 189}}
+{\sp{\sn relRight}{\sv 11088}}
+{\sp{\sn relBottom}{\sv 209}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 9984}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(9984,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 10414}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\li154\fi-5\ri138\qc\sl275\slmult1\sb199\tqr\tx10079{\field {\fldinst { HYPERLINK \\l "bookmark1" }}{\fldrslt\f10\fs20\b0\expnd0\expndtw0\charscalex100 Decreto\expnd1\expndtw6  \expnd0\expndtw-1 N\'FAmero\expnd1\expndtw7  \expnd0\expndtw-1 Tres.\expnd2\expndtw9  \expnd0\expndtw-1 -Que\expnd1\expndtw7  \expnd0\expndtw-1 contiene\expnd2\expndtw8  \expnd0\expndtw0 el\expnd1\expndtw6  \expnd0\expndtw-1 Reglamento\expnd1\expndtw6  \expnd0\expndtw0 de\expnd2\expndtw8  \expnd0\expndtw0 Tr\'E1nsito\expnd1\expndtw7  \expnd0\expndtw0 y\expnd1\expndtw5  \expnd0\expndtw0 Seguridad\expnd1\expndtw7  \expnd0\expndtw-1 P\'FAblica\expnd1\expndtw7  \expnd0\expndtw-1 Municipal\expnd2\expndtw8  \expnd0\expndtw0 de\expnd2\expndtw8  \expnd0\expndtw-1 Xochiatipan}}
+\f10\fs20\b0\expnd0\expndtw0\charscalex100\expnd1\expndtw6\expnd0\expndtw-1\expnd1\expndtw7\expnd0\expndtw-1\expnd2\expndtw9\expnd0\expndtw-1\expnd1\expndtw7\expnd0\expndtw-1\expnd2\expndtw8\expnd0\expndtw0\expnd1\expndtw6\expnd0\expndtw-1\expnd1\expndtw6\expnd0\expndtw0\expnd2\expndtw8\expnd0\expndtw0\expnd1\expndtw7\expnd0\expndtw0\expnd1\expndtw5\expnd0\expndtw0\expnd1\expndtw7\expnd0\expndtw-1\expnd1\expndtw7\expnd0\expndtw-1\expnd2\expndtw8\expnd0\expndtw0\expnd2\expndtw8\expnd0\expndtw-1\f10\expnd18\expndtw89\charscalex100  {\field {\fldinst { HYPERLINK \\l "bookmark1" }}{\fldrslt\expnd0\expndtw0 de \expnd0\expndtw-1 Castillo, Hidalgo.\tab \expnd0\expndtw0 40}}
+\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw0\par
+{\shpgrp{\*\shpinst\shplid189
+\shpleft1095\shptop120\shpright11096\shpbottom166\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz2
+{\sp{\sn groupLeft}{\sv 1095}}
+{\sp{\sn groupTop}{\sv 120}}
+{\sp{\sn groupRight}{\sv 11096}}
+{\sp{\sn groupBottom}{\sv 166}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid190
+{\sp{\sn relLeft}{\sv 1104}}
+{\sp{\sn relTop}{\sv 128}}
+{\sp{\sn relRight}{\sv 11088}}
+{\sp{\sn relBottom}{\sv 148}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 9984}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(9984,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 10414}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid191
+{\sp{\sn relLeft}{\sv 1104}}
+{\sp{\sn relTop}{\sv 157}}
+{\sp{\sn relRight}{\sv 11088}}
+{\sp{\sn relBottom}{\sv 177}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 9984}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(9984,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 10414}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\li154\fi-6\ri138\qc\sl275\slmult1\sb167\tqr\tx10079{\field {\fldinst { HYPERLINK \\l "bookmark1" }}{\fldrslt\f10\fs20\b0\expnd0\expndtw0\charscalex100 Decreto\expnd0\expndtw1  \expnd0\expndtw-1 N\'FAmero\expnd0\expndtw1  \expnd0\expndtw-1 Cuatro.\expnd1\expndtw4  \expnd0\expndtw0 -\expnd1\expndtw3  \expnd0\expndtw0 Que\expnd1\expndtw3  \expnd0\expndtw-1 contiene\expnd0\expndtw1  \expnd0\expndtw0 el\expnd1\expndtw3  \expnd0\expndtw-1 Reglamento\expnd0\expndtw2  \expnd0\expndtw0 de\expnd1\expndtw3  \expnd0\expndtw0 la\expnd1\expndtw3  \expnd0\expndtw-1 Comisi\'F3n\expnd1\expndtw3  \expnd0\expndtw-1 de\expnd1\expndtw3  \expnd0\expndtw-1 Honor\expnd1\expndtw3  \expnd0\expndtw0 y\expnd0\expndtw2  \expnd0\expndtw-1 Justicia\expnd1\expndtw3  \expnd0\expndtw-1 para\expnd1\expndtw3  \expnd0\expndtw0 la\expnd0\expndtw1  \expnd0\expndtw-1 Direcci\'F3n\expnd1\expndtw3  \expnd0\expndtw-1 de}}
+\f10\fs20\b0\expnd0\expndtw0\charscalex100\expnd0\expndtw1\expnd0\expndtw-1\expnd0\expndtw1\expnd0\expndtw-1\expnd1\expndtw4\expnd0\expndtw0\expnd1\expndtw3\expnd0\expndtw0\expnd1\expndtw3\expnd0\expndtw-1\expnd0\expndtw1\expnd0\expndtw0\expnd1\expndtw3\expnd0\expndtw-1\expnd0\expndtw2\expnd0\expndtw0\expnd1\expndtw3\expnd0\expndtw0\expnd1\expndtw3\expnd0\expndtw-1\expnd1\expndtw3\expnd0\expndtw-1\expnd1\expndtw3\expnd0\expndtw-1\expnd1\expndtw3\expnd0\expndtw0\expnd0\expndtw2\expnd0\expndtw-1\expnd1\expndtw3\expnd0\expndtw-1\expnd1\expndtw3\expnd0\expndtw0\expnd0\expndtw1\expnd0\expndtw-1\expnd1\expndtw3\expnd0\expndtw-1\f10\expnd20\expndtw101\charscalex100  {\field {\fldinst { HYPERLINK \\l "bookmark1" }}{\fldrslt\expnd0\expndtw-1 Seguridad\expnd0\expndtw0  \expnd0\expndtw-1 P\'FAblica\expnd0\expndtw0  y\expnd0\expndtw-2  \expnd0\expndtw-1 Tr\'E1nsito Municipal\expnd0\expndtw0  de \expnd0\expndtw-1 Xochiatipan\expnd0\expndtw0  de \expnd0\expndtw-1 Castillo, Hidalgo.\tab \expnd0\expndtw0 76}}
+\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-2\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw0\par
+{\shpgrp{\*\shpinst\shplid192
+\shpleft1095\shptop119\shpright11096\shpbottom165\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz3
+{\sp{\sn groupLeft}{\sv 1095}}
+{\sp{\sn groupTop}{\sv 119}}
+{\sp{\sn groupRight}{\sv 11096}}
+{\sp{\sn groupBottom}{\sv 165}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid193
+{\sp{\sn relLeft}{\sv 1104}}
+{\sp{\sn relTop}{\sv 127}}
+{\sp{\sn relRight}{\sv 11088}}
+{\sp{\sn relBottom}{\sv 147}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 9984}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(9984,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 10414}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid194
+{\sp{\sn relLeft}{\sv 1104}}
+{\sp{\sn relTop}{\sv 156}}
+{\sp{\sn relRight}{\sv 11088}}
+{\sp{\sn relBottom}{\sv 176}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 9984}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(9984,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 10414}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\li154\fi-4\ri138\qc\sl275\slmult1\sb166\tqr\tx10079{\field {\fldinst { HYPERLINK \\l "bookmark2" }}{\fldrslt\f10\fs20\b0\expnd0\expndtw0\charscalex100 Decreto\expnd8\expndtw42  \expnd0\expndtw-1 N\'FAmero\expnd9\expndtw45  \expnd0\expndtw-1 Cinco.\expnd9\expndtw45  \expnd0\expndtw0 -\expnd9\expndtw46  \expnd0\expndtw0 Que\expnd9\expndtw45  \expnd0\expndtw-1 contiene\expnd9\expndtw44  \expnd0\expndtw0 el\expnd9\expndtw46  \expnd0\expndtw-1 Reglamento\expnd9\expndtw44  \expnd0\expndtw-1 Interior\expnd9\expndtw44  \expnd0\expndtw0 del\expnd9\expndtw45  \expnd0\expndtw0 Trabajo\expnd9\expndtw43  \expnd0\expndtw0 para\expnd9\expndtw45  \expnd0\expndtw0 la\expnd9\expndtw44  \expnd0\expndtw-1 Administraci\'F3n\expnd9\expndtw45  \expnd0\expndtw-1 P\'FAblica}}
+\f10\fs20\b0\expnd0\expndtw0\charscalex100\expnd8\expndtw42\expnd0\expndtw-1\expnd9\expndtw45\expnd0\expndtw-1\expnd9\expndtw45\expnd0\expndtw0\expnd9\expndtw46\expnd0\expndtw0\expnd9\expndtw45\expnd0\expndtw-1\expnd9\expndtw44\expnd0\expndtw0\expnd9\expndtw46\expnd0\expndtw-1\expnd9\expndtw44\expnd0\expndtw-1\expnd9\expndtw44\expnd0\expndtw0\expnd9\expndtw45\expnd0\expndtw0\expnd9\expndtw43\expnd0\expndtw0\expnd9\expndtw45\expnd0\expndtw0\expnd9\expndtw44\expnd0\expndtw-1\expnd9\expndtw45\expnd0\expndtw-1\f10\expnd19\expndtw97\charscalex100  {\field {\fldinst { HYPERLINK \\l "bookmark2" }}{\fldrslt\expnd0\expndtw-1 Municipal\expnd0\expndtw0  de\expnd0\expndtw-2  \expnd0\expndtw-1 Xochiatipan\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 Castillo, Hidalgo.\tab \expnd0\expndtw0 98}}
+\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-2\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw0\par
+{\shpgrp{\*\shpinst\shplid195
+\shpleft1095\shptop119\shpright11096\shpbottom165\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz4
+{\sp{\sn groupLeft}{\sv 1095}}
+{\sp{\sn groupTop}{\sv 119}}
+{\sp{\sn groupRight}{\sv 11096}}
+{\sp{\sn groupBottom}{\sv 165}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid196
+{\sp{\sn relLeft}{\sv 1104}}
+{\sp{\sn relTop}{\sv 127}}
+{\sp{\sn relRight}{\sv 11088}}
+{\sp{\sn relBottom}{\sv 147}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 9984}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(9984,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 10414}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid197
+{\sp{\sn relLeft}{\sv 1104}}
+{\sp{\sn relTop}{\sv 156}}
+{\sp{\sn relRight}{\sv 11088}}
+{\sp{\sn relBottom}{\sv 176}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 9984}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(9984,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 10414}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\li165\ri154\qc\sl240\slmult1\sb166{\field {\fldinst { HYPERLINK \\l "bookmark1" }}{\fldrslt\f10\fs20\b0\expnd0\expndtw0\charscalex100 Decreto\expnd0\expndtw-2  \expnd0\expndtw-1 N\'FAmero\expnd0\expndtw0  \expnd0\expndtw-1 Seis. \expnd0\expndtw0 - \expnd0\expndtw-1 Que\expnd0\expndtw0  \expnd0\expndtw-1 contiene\expnd0\expndtw-2  \expnd0\expndtw-1 el\expnd0\expndtw0  \expnd0\expndtw-1 Reglamento\expnd0\expndtw-2  \expnd0\expndtw0 del\expnd0\expndtw-1  Tianguis\expnd0\expndtw-2  \expnd0\expndtw-1 Municipal\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw-2  \expnd0\expndtw-1 Xochiatipan\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 Castillo, Hidalgo.}}
+\f10\fs20\b0\expnd0\expndtw0\charscalex100\expnd0\expndtw-2\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw-2\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw-2\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw-2\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw-2\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-1\par\pard\plain\s1\nooverflow\nocwrap\ri138\qr\sl240\slmult1\sb34{\field {\fldinst { HYPERLINK \\l "bookmark1" }}{\fldrslt\f10\fs20\b0\expnd0\expndtw0\charscalex100 108}}
+\f10\fs20\b0\expnd0\expndtw0\charscalex100\par
+{\shpgrp{\*\shpinst\shplid198
+\shpleft1095\shptop154\shpright11096\shpbottom200\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz5
+{\sp{\sn groupLeft}{\sv 1095}}
+{\sp{\sn groupTop}{\sv 154}}
+{\sp{\sn groupRight}{\sv 11096}}
+{\sp{\sn groupBottom}{\sv 200}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid199
+{\sp{\sn relLeft}{\sv 1104}}
+{\sp{\sn relTop}{\sv 162}}
+{\sp{\sn relRight}{\sv 11088}}
+{\sp{\sn relBottom}{\sv 182}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 9984}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(9984,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 10414}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid200
+{\sp{\sn relLeft}{\sv 1104}}
+{\sp{\sn relTop}{\sv 191}}
+{\sp{\sn relRight}{\sv 11088}}
+{\sp{\sn relBottom}{\sv 211}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 9984}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(9984,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 10414}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\li154\fi-3\ri138\qc\sl274\slmult1\sb201\tqr\tx10079{\field {\fldinst { HYPERLINK \\l "bookmark1" }}{\fldrslt\f10\fs20\b0\expnd0\expndtw0\charscalex100 Decreto\expnd-3\expndtw-13  \expnd0\expndtw-1 N\'FAmero\expnd-2\expndtw-12  \expnd0\expndtw-1 Siete.\expnd-2\expndtw-12  \expnd0\expndtw0 -\expnd-2\expndtw-11  \expnd0\expndtw-1 Que\expnd-2\expndtw-11  \expnd0\expndtw-1 contiene\expnd-2\expndtw-12  \expnd0\expndtw0 el\expnd-3\expndtw-13  \expnd0\expndtw-1 Reglamento\expnd-3\expndtw-13  \expnd0\expndtw0 de\expnd-2\expndtw-11  \expnd0\expndtw-1 Protecci\'F3n\expnd-3\expndtw-13  \expnd0\expndtw0 Civil\expnd-2\expndtw-12  \expnd0\expndtw0 del\expnd-3\expndtw-13  \expnd0\expndtw-1 Municipio\expnd-3\expndtw-13  \expnd0\expndtw0 de\expnd-2\expndtw-11  \expnd0\expndtw-1 Xochiatipan\expnd-2\expndtw-12  \expnd0\expndtw-1 de\expnd-3\expndtw-13  \expnd0\expndtw-1 Castillo,}}
+\f10\fs20\b0\expnd0\expndtw0\charscalex100\expnd-3\expndtw-13\expnd0\expndtw-1\expnd-2\expndtw-12\expnd0\expndtw-1\expnd-2\expndtw-12\expnd0\expndtw0\expnd-2\expndtw-11\expnd0\expndtw-1\expnd-2\expndtw-11\expnd0\expndtw-1\expnd-2\expndtw-12\expnd0\expndtw0\expnd-3\expndtw-13\expnd0\expndtw-1\expnd-3\expndtw-13\expnd0\expndtw0\expnd-2\expndtw-11\expnd0\expndtw-1\expnd-3\expndtw-13\expnd0\expndtw0\expnd-2\expndtw-12\expnd0\expndtw0\expnd-3\expndtw-13\expnd0\expndtw-1\expnd-3\expndtw-13\expnd0\expndtw0\expnd-2\expndtw-11\expnd0\expndtw-1\expnd-2\expndtw-12\expnd0\expndtw-1\expnd-3\expndtw-13\expnd0\expndtw-1\f10\expnd21\expndtw105\charscalex100  {\field {\fldinst { HYPERLINK \\l "bookmark1" }}{\fldrslt\expnd0\expndtw-1 Hidalgo.\tab \expnd0\expndtw0 120}}
+\expnd0\expndtw-1\expnd0\expndtw0\par\sect\sectd\sbkpage\headery592\footery641
+{\header
+{\shp{\*\shpinst\shpleft1222\shpright2165\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz10\shplid204{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw0\charscalex100 P\'E1gina\expnd0\expndtw-1  \expnd0\expndtw0 98\par}}}
+
+{\shp{\*\shpinst\shpleft5118\shpright7115\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz11\shplid208{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 PERI\'D3DICO OFICIAL\par}}}
+
+{\shp{\*\shpinst\shpleft10218\shpright10971\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz12\shplid212{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Alcance\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright1279\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz13\shplid216{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 2\par}}}
+
+{\shp{\*\shpinst\shpleft3649\shpright3706\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz14\shplid220{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 0\par}}}
+
+{\shp{\*\shpinst\shpleft6075\shpright6132\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz15\shplid224{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 1\par}}}
+
+{\shp{\*\shpinst\shpleft10912\shpright10969\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz16\shplid228{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 8\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10893\shptop856\shpbottom926\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz17\shplid232{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelesta\expnd-1\expndtw-6  \expnd0\expndtw-1 dodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3di\expnd-1\expndtw-5  \expnd0\expndtw-1 cooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehid\expnd-1\expndtw-6  \expnd0\expndtw-1 algoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestado\expnd-1\expndtw-6  \expnd0\expndtw-1 dehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgo\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10969\shptop895\shpbottom1005\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz18\shplid236{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 Peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dic\expnd-1\expndtw-5  \expnd0\expndtw-1 ooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadod\expnd-1\expndtw-6  \expnd0\expndtw-1 ehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicoo\expnd-1\expndtw-6  \expnd0\expndtw-1 ficialdelestadodehidalgo\expnd0\expndtw0   \expnd1\expndtw3  \expnd0\expndtw0 2\expnd0\expndtw1  \expnd0\expndtw0 0\par\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb5\f10\fs3\b0\expnd0\expndtw0\charscalex100 1 8\par}}}
+\pard\plain\s1\nooverflow\nocwrap\sl14\slmult1\fs20\par}\marglsxn1020\margrsxn1060\margtsxn980\margbsxn840\cols1\colno1\colw10160\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb7\f10\fs18\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li114\ri124\qj\sl240\slmult1{\*\bkmkstart Decreto N\'FAmero Cinco. - Que contiene el Reglamento Interior del Trabajo para la Administraci\'F3n P\'FAblica Municipal de Xochiatipan de Castillo, Hidalgo.}{\*\bkmkend Decreto N\'FAmero Cinco. - Que contiene el Reglamento Interior del Trabajo para la Administraci\'F3n P\'FAblica Municipal de Xochiatipan de Castillo, Hidalgo.}\expnd0\expndtw0\charscalex100{\*\bkmkstart bookmark2}{\*\bkmkend bookmark2}\expnd0\expndtw0\charscalex100\f12\fs20\b1\expnd0\expndtw0 El\expnd11\expndtw53  \expnd0\expndtw-1 Ciudadano\expnd11\expndtw55  \expnd0\expndtw0 Manolo\expnd11\expndtw53  \expnd0\expndtw-1 Guti\'E9rrez\expnd11\expndtw55  \expnd0\expndtw-1 Hern\'E1ndez,\expnd11\expndtw55  \expnd0\expndtw-1 Presidente\expnd11\expndtw53  \expnd0\expndtw-1 Municipal\expnd11\expndtw54  \expnd0\expndtw-1 Constitucional\expnd11\expndtw53  \expnd0\expndtw0 de\expnd11\expndtw54  \expnd0\expndtw-1 Xochiatipan\expnd11\expndtw55  \expnd0\expndtw0 de\f12\expnd24\expndtw119\charscalex100  \expnd0\expndtw-1 Castillo, \expnd0\expndtw0 Estado de\expnd0\expndtw-1  Hidalgo\f10\b0\expnd0\expndtw-1 , \expnd0\expndtw0 a sus \expnd0\expndtw-1 habitantes\expnd0\expndtw0  \expnd0\expndtw-1 hace saber:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri125\qj\sl240\slmult1\f10\fs20\b0\expnd0\expndtw0\charscalex100 Que\expnd7\expndtw34  \expnd0\expndtw0 el\expnd7\expndtw33  \expnd0\expndtw-1 Ayuntamiento,\expnd6\expndtw32  \expnd0\expndtw-1 en\expnd7\expndtw33  \expnd0\expndtw0 uso\expnd7\expndtw33  \expnd0\expndtw0 de\expnd7\expndtw34  \expnd0\expndtw-1 las\expnd7\expndtw35  \expnd0\expndtw-1 facultades\expnd7\expndtw34  \expnd0\expndtw-1 que\expnd7\expndtw34  \expnd0\expndtw0 le\expnd7\expndtw33  \expnd0\expndtw-1 confieren\expnd7\expndtw33  \expnd0\expndtw0 las\expnd7\expndtw34  \expnd0\expndtw-1 fracciones\expnd7\expndtw34  \expnd0\expndtw0 I\expnd7\expndtw34  \expnd0\expndtw0 y\expnd7\expndtw33  \expnd0\expndtw0 II\expnd6\expndtw32  \expnd0\expndtw0 del\expnd7\expndtw33  \expnd0\expndtw-1 art\'EDculo\expnd7\expndtw33  \expnd0\expndtw-1 115\expnd7\expndtw33  \expnd0\expndtw0 de\expnd7\expndtw35  \expnd0\expndtw-1 la\f10\expnd17\expndtw85\charscalex100  \expnd0\expndtw-1 Constituci\'F3n\expnd-1\expndtw-5  \expnd0\expndtw-1 Pol\'EDtica\expnd-1\expndtw-4  \expnd0\expndtw0 de\expnd-1\expndtw-4  \expnd0\expndtw-1 los\expnd-1\expndtw-4  \expnd0\expndtw-1 Estados\expnd-1\expndtw-5  \expnd0\expndtw-1 Unidos\expnd-1\expndtw-4  \expnd0\expndtw-1 Mexicanos,\expnd-1\expndtw-5  \expnd0\expndtw0 los\expnd-1\expndtw-5  \expnd0\expndtw-1 art\'EDculos\expnd-1\expndtw-4  \expnd0\expndtw-1 115,\expnd-1\expndtw-5  \expnd0\expndtw0 116,\expnd-1\expndtw-6  \expnd0\expndtw0 122,\expnd-1\expndtw-4  \expnd0\expndtw0 123\expnd-1\expndtw-4  \expnd0\expndtw0 y\expnd-1\expndtw-5  \expnd0\expndtw-1 141\expnd-1\expndtw-4  \expnd0\expndtw-1 fracciones\expnd-1\expndtw-4  \expnd0\expndtw0 I\expnd-1\expndtw-5  \expnd0\expndtw0 y\expnd-1\expndtw-5  \expnd0\expndtw0 II\expnd-1\expndtw-6  \expnd0\expndtw0 de\f10\expnd21\expndtw105\charscalex100  \expnd0\expndtw0 la\expnd1\expndtw6  \expnd0\expndtw-1 Constituci\'F3n\expnd1\expndtw6  \expnd0\expndtw-1 Pol\'EDtica\expnd1\expndtw7  \expnd0\expndtw0 del\expnd1\expndtw5  \expnd0\expndtw0 Estado\expnd1\expndtw6  \expnd0\expndtw-1 Libre\expnd1\expndtw5  \expnd0\expndtw0 y\expnd1\expndtw5  \expnd0\expndtw-1 Soberano\expnd1\expndtw6  \expnd0\expndtw-1 de\expnd1\expndtw6  \expnd0\expndtw-1 Hidalgo,\expnd1\expndtw6  \expnd0\expndtw0 47\expnd1\expndtw5  \expnd0\expndtw0 y\expnd1\expndtw5  \expnd0\expndtw0 56\expnd1\expndtw6  \expnd0\expndtw0 fracci\'F3n\expnd1\expndtw5  \expnd0\expndtw0 I\expnd1\expndtw6  \expnd0\expndtw0 inciso\expnd1\expndtw5  \expnd0\expndtw0 b)\expnd1\expndtw6  \expnd0\expndtw-1 de\expnd1\expndtw5  \expnd0\expndtw0 la\expnd1\expndtw6  \expnd0\expndtw0 Ley\expnd1\expndtw6  \expnd0\expndtw-1 Org\'E1nica\f10\expnd16\expndtw81\charscalex100  \expnd0\expndtw-1 Municipal\expnd0\expndtw0  \expnd0\expndtw-1 vigente\expnd0\expndtw0  en\expnd0\expndtw-1  \expnd0\expndtw0 la \expnd0\expndtw-1 Entidad, \expnd0\expndtw0 ha \expnd0\expndtw-1 tenido\expnd0\expndtw0  a bien \expnd0\expndtw-1 expedir\expnd0\expndtw0  el\expnd0\expndtw-1  siguiente\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li312\ri319\qc\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Decreto\expnd0\expndtw-2  \expnd0\expndtw-1 N\'FAmero \expnd0\expndtw0 Cinco\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f12\fs20\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li312\ri320\qc\sl240\slmult1\f10\fs20\b0\expnd0\expndtw0\charscalex100 Que \expnd0\expndtw-1 contiene \expnd0\expndtw0 el\expnd0\expndtw-1  Reglamento Interior\expnd0\expndtw0  del\expnd0\expndtw-2  \expnd0\expndtw0 Trabajo\expnd0\expndtw-1  para\expnd0\expndtw-2  \expnd0\expndtw0 la \expnd0\expndtw-1 Administraci\'F3n\expnd0\expndtw0  \expnd0\expndtw-1 P\'FAblica\expnd0\expndtw-2  \expnd0\expndtw-1 Municipal\expnd0\expndtw0  de\expnd0\expndtw-2  \expnd0\expndtw-1 Xochiatipan\expnd0\expndtw0  \expnd0\expndtw-1 de\f10\expnd23\expndtw115\charscalex100  \expnd0\expndtw-1 Castillo, Hidalgo.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li312\ri318\qc\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Considerando:\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f12\fs19\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri119\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 PRIMERO.\expnd0\expndtw0  -\expnd0\expndtw-2  \f10\b0\expnd0\expndtw0 Que \expnd0\expndtw-1 uno\expnd0\expndtw0  de \expnd0\expndtw-1 los\expnd0\expndtw0  \expnd0\expndtw-1 pilares\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  un \expnd0\expndtw-1 gobierno democr\'E1tico\expnd0\expndtw0  y\expnd0\expndtw-2  \expnd0\expndtw-1 eficiente, radica\expnd0\expndtw0  \expnd0\expndtw-1 en\expnd0\expndtw0  la\expnd0\expndtw-1  adecuada\expnd0\expndtw0  \expnd0\expndtw-1 organizaci\'F3n\f10\expnd21\expndtw107\charscalex100  \expnd0\expndtw0 de\expnd-3\expndtw-13  \expnd0\expndtw0 sus\expnd-3\expndtw-13  \expnd0\expndtw-1 trabajadores,\expnd-3\expndtw-13  \expnd0\expndtw0 lo\expnd-3\expndtw-13  \expnd0\expndtw-1 que\expnd-3\expndtw-13  \expnd0\expndtw0 da\expnd-3\expndtw-13  \expnd0\expndtw0 pie\expnd-3\expndtw-13  \expnd0\expndtw0 a\expnd-3\expndtw-13  \expnd0\expndtw-1 una\expnd-3\expndtw-14  \expnd0\expndtw-1 delimitaci\'F3n\expnd-3\expndtw-13  \expnd0\expndtw-1 clara\expnd-3\expndtw-13  \expnd0\expndtw0 de\expnd-3\expndtw-13  \expnd0\expndtw-1 las\expnd-2\expndtw-12  \expnd0\expndtw-1 responsabilidades\expnd-2\expndtw-12  \expnd0\expndtw-1 que\expnd-3\expndtw-13  \expnd0\expndtw0 cada\expnd-3\expndtw-13  \expnd0\expndtw-1 uno\expnd-3\expndtw-13  \expnd0\expndtw0 de\expnd-3\expndtw-13  \expnd0\expndtw-1 ellos\expnd-2\expndtw-12  \expnd0\expndtw-1 asume,\f10\expnd23\expndtw117\charscalex100  \expnd0\expndtw0 as\'ED\expnd5\expndtw26  \expnd0\expndtw0 como\expnd5\expndtw26  \expnd0\expndtw-1 los\expnd5\expndtw26  \expnd0\expndtw-1 derechos\expnd5\expndtw27  \expnd0\expndtw-1 que\expnd5\expndtw27  \expnd0\expndtw0 los\expnd5\expndtw27  \expnd0\expndtw-1 amparan\expnd5\expndtw27  \expnd0\expndtw0 en\expnd5\expndtw27  \expnd0\expndtw0 el\expnd5\expndtw27  \expnd0\expndtw-1 ejercicio\expnd5\expndtw27  \expnd0\expndtw0 de\expnd5\expndtw27  \expnd0\expndtw0 sus\expnd5\expndtw27  \expnd0\expndtw-1 funciones,\expnd5\expndtw27  \expnd0\expndtw0 siempre\expnd5\expndtw27  \expnd0\expndtw0 bajo\expnd5\expndtw27  \expnd0\expndtw0 la\expnd5\expndtw25  \expnd0\expndtw-1 perspectiva\expnd5\expndtw27  \expnd0\expndtw0 de\expnd5\expndtw27  \expnd0\expndtw0 la\f10\expnd16\expndtw81\charscalex100  \expnd0\expndtw0 equidad,\expnd0\expndtw-1  \expnd0\expndtw0 la\expnd0\expndtw-1  \expnd0\expndtw0 \'E9tica,\expnd0\expndtw-1  \expnd0\expndtw0 la \expnd0\expndtw-1 responsabilidad,\expnd0\expndtw0  el\expnd0\expndtw-1  compromiso\expnd0\expndtw0  \expnd0\expndtw-1 con\expnd0\expndtw0  la \expnd0\expndtw-1 ciudadan\'EDa \expnd0\expndtw0 de este\expnd0\expndtw-1  municipio\expnd0\expndtw0  y\expnd0\expndtw-1  \expnd0\expndtw0 la\expnd0\expndtw-1  justicia\expnd0\expndtw0  \expnd0\expndtw-1 laboral.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri123\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 SEGUNDO.-\expnd2\expndtw10  \f10\b0\expnd0\expndtw0 Que\expnd2\expndtw10  \expnd0\expndtw-1 las\expnd2\expndtw10  \expnd0\expndtw-1 nuevas\expnd2\expndtw10  \expnd0\expndtw-1 tendencias\expnd2\expndtw10  \expnd0\expndtw0 en\expnd2\expndtw10  \expnd0\expndtw-1 materia\expnd2\expndtw9  \expnd0\expndtw0 de\expnd2\expndtw10  \expnd0\expndtw0 la\expnd2\expndtw10  \expnd0\expndtw-1 administraci\'F3n\expnd2\expndtw9  \expnd0\expndtw-1 p\'FAblica,\expnd2\expndtw9  \expnd0\expndtw-1 basadas\expnd2\expndtw10  \expnd0\expndtw-1 en\expnd2\expndtw10  \expnd0\expndtw0 los\expnd2\expndtw10  \expnd0\expndtw-1 principios\expnd2\expndtw10  \expnd0\expndtw0 de\f10\expnd21\expndtw105\charscalex100  \expnd0\expndtw-1 paradigmas\expnd0\expndtw1  \expnd0\expndtw-1 en\expnd0\expndtw0  boga \expnd0\expndtw-1 como\expnd0\expndtw0  la nueva \expnd0\expndtw-1 gesti\'F3n\expnd0\expndtw0  \expnd0\expndtw-1 p\'FAblica,\expnd0\expndtw0  \expnd0\expndtw-1 obligan\expnd0\expndtw1  \expnd0\expndtw0 a \expnd0\expndtw-1 plantear\expnd0\expndtw1  \expnd0\expndtw-1 las\expnd0\expndtw1  \expnd0\expndtw-1 bases s\'F3lidas\expnd0\expndtw1  \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 una\expnd0\expndtw0  plantilla \expnd0\expndtw-1 laboral\f10\expnd22\expndtw109\charscalex100  \expnd0\expndtw-1 organizada,\expnd-2\expndtw-10  \expnd0\expndtw-1 responsable\expnd-2\expndtw-9  \expnd0\expndtw-1 en\expnd-2\expndtw-9  \expnd0\expndtw0 su\expnd-2\expndtw-9  \expnd0\expndtw0 ejercicio\expnd-2\expndtw-10  \expnd0\expndtw-1 profesional\expnd-2\expndtw-9  \expnd0\expndtw0 y\expnd-2\expndtw-9  \expnd0\expndtw0 que\expnd-2\expndtw-9  \expnd0\expndtw0 ejerza\expnd-2\expndtw-9  \expnd0\expndtw0 su\expnd-2\expndtw-10  \expnd0\expndtw0 labor\expnd-2\expndtw-8  \expnd0\expndtw0 bajo\expnd-2\expndtw-9  \expnd0\expndtw-1 una\expnd-2\expndtw-9  \expnd0\expndtw-1 reglamentaci\'F3n\expnd-2\expndtw-9  \expnd0\expndtw-1 adecuada\expnd-2\expndtw-9  \expnd0\expndtw0 que\f10\expnd18\expndtw91\charscalex100  \expnd0\expndtw0 d\'E9\expnd0\expndtw-2  \expnd0\expndtw0 pie\expnd0\expndtw-2  \expnd0\expndtw0 a\expnd0\expndtw-2  \expnd0\expndtw0 un\expnd0\expndtw-2  \expnd0\expndtw-1 desempe\'F1o\expnd0\expndtw-2  \expnd0\expndtw0 m\'E1s\expnd0\expndtw-2  \expnd0\expndtw-1 eficiente\expnd0\expndtw-2  \expnd0\expndtw0 en\expnd0\expndtw-2  \expnd0\expndtw0 pro\expnd0\expndtw-2  \expnd0\expndtw0 de\expnd0\expndtw-2  \expnd0\expndtw0 la\expnd0\expndtw-2  \expnd0\expndtw-1 ciudadan\'EDa,\expnd0\expndtw-2  \expnd0\expndtw-1 por\expnd0\expndtw-2  \expnd0\expndtw0 lo\expnd0\expndtw-2  \expnd0\expndtw0 que\expnd0\expndtw-2  \expnd0\expndtw0 los\expnd0\expndtw-2  \expnd0\expndtw-1 gobiernos\expnd0\expndtw-2  \expnd0\expndtw-1 municipales\expnd0\expndtw-2  \expnd0\expndtw-1 deben\expnd0\expndtw-2  \expnd0\expndtw0 estar\f10\expnd17\expndtw85\charscalex100  \expnd0\expndtw0 a la\expnd0\expndtw-1  \expnd0\expndtw0 altura de\expnd0\expndtw-2  \expnd0\expndtw-1 estas\expnd0\expndtw0  \expnd0\expndtw-1 exigencias.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri121\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 TERCERO.-\expnd-1\expndtw-4  \f10\b0\expnd0\expndtw0 Que\expnd-1\expndtw-3  \expnd0\expndtw0 con\expnd-1\expndtw-4  \expnd0\expndtw0 la\expnd-1\expndtw-3  \expnd0\expndtw-1 presente\expnd-1\expndtw-3  \expnd0\expndtw-1 iniciativa,\expnd-1\expndtw-4  \expnd0\expndtw0 los\expnd-1\expndtw-3  \expnd0\expndtw0 miembros\expnd-1\expndtw-3  \expnd0\expndtw0 del\expnd-1\expndtw-3  \expnd0\expndtw-1 Ayuntamiento\expnd-1\expndtw-3  \expnd0\expndtw-1 estamos\expnd-1\expndtw-3  \expnd0\expndtw-1 asumiendo\expnd-1\expndtw-3  \expnd0\expndtw0 un\expnd-1\expndtw-3  \expnd0\expndtw-1 compromiso\f10\expnd21\expndtw105\charscalex100  \expnd0\expndtw-1 hist\'F3rico,\expnd8\expndtw42  \expnd0\expndtw0 al\expnd9\expndtw43  \expnd0\expndtw-1 sentar\expnd9\expndtw43  \expnd0\expndtw-1 las\expnd9\expndtw44  \expnd0\expndtw-1 bases\expnd9\expndtw44  \expnd0\expndtw-1 de\expnd9\expndtw43  \expnd0\expndtw0 una\expnd9\expndtw43  \expnd0\expndtw-1 organizaci\'F3n\expnd9\expndtw43  \expnd0\expndtw-1 laboral\expnd9\expndtw44  \expnd0\expndtw-1 responsable,\expnd9\expndtw43  \expnd0\expndtw-1 justa\expnd9\expndtw43  \expnd0\expndtw0 y\expnd9\expndtw43  \expnd0\expndtw0 que\expnd9\expndtw43  \expnd0\expndtw-1 obligue\expnd9\expndtw44  \expnd0\expndtw0 a\expnd9\expndtw44  \expnd0\expndtw-1 plantear\expnd9\expndtw43  \expnd0\expndtw-1 las\f10\expnd22\expndtw111\charscalex100  \expnd0\expndtw-1 modificaciones\expnd0\expndtw0  \expnd0\expndtw-1 necesarias\expnd0\expndtw-2  \expnd0\expndtw0 a la\expnd0\expndtw-1  din\'E1mica \expnd0\expndtw0 de la \expnd0\expndtw-1 administraci\'F3n\expnd0\expndtw0  \expnd0\expndtw-1 p\'FAblica\expnd0\expndtw0  \expnd0\expndtw-1 municipal.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri120\qj\sl240\slmult1\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Por\expnd-2\expndtw-8  \expnd0\expndtw0 lo\expnd-2\expndtw-8  \expnd0\expndtw-1 anteriormente\expnd-2\expndtw-10  \expnd0\expndtw-1 expuesto\expnd-2\expndtw-8  \expnd0\expndtw0 y\expnd-2\expndtw-9  \expnd0\expndtw-1 fundado,\expnd-2\expndtw-9  \expnd0\expndtw0 los\expnd-2\expndtw-8  \expnd0\expndtw-1 integrantes\expnd-1\expndtw-7  \expnd0\expndtw-1 del\expnd-2\expndtw-8  \expnd0\expndtw-1 Honorable\expnd-2\expndtw-8  \expnd0\expndtw-1 Ayuntamiento\expnd-2\expndtw-8  \expnd0\expndtw0 de\expnd-2\expndtw-8  \expnd0\expndtw-1 Xochiatipan\expnd-2\expndtw-8  \expnd0\expndtw0 de\expnd-2\expndtw-9  \expnd0\expndtw-1 Castillo,\f10\expnd27\expndtw133\charscalex100  \expnd0\expndtw0 Estado de\expnd0\expndtw-2  \expnd0\expndtw-1 Hidalgo, han\expnd0\expndtw0  \expnd0\expndtw-1 tenido\expnd0\expndtw0  a\expnd0\expndtw-1  bien\expnd0\expndtw0  \expnd0\expndtw-1 expedir\expnd0\expndtw0  el\expnd0\expndtw-1  siguiente:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li312\ri319\qc\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Decreto\expnd0\expndtw-2  \expnd0\expndtw-1 N\'FAmero \expnd0\expndtw0 Cinco\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f12\fs19\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri119\qj\sl240\slmult1\f10\fs20\b0\expnd0\expndtw0\charscalex100 Que\expnd6\expndtw28  \expnd0\expndtw-1 contiene\expnd6\expndtw29  \expnd0\expndtw0 el\expnd6\expndtw29  \f12\b1\expnd0\expndtw-1 REGLAMENTO\expnd6\expndtw29  \expnd0\expndtw-1 INTERIOR\expnd6\expndtw29  \expnd0\expndtw-1 DEL\expnd6\expndtw28  \expnd0\expndtw-1 TRABAJO\expnd6\expndtw29  \expnd0\expndtw-1 PARA\expnd6\expndtw28  \expnd0\expndtw0 LA\expnd6\expndtw29  \expnd0\expndtw-1 ADMINISTRACI\'D3N\expnd6\expndtw29  \expnd0\expndtw-1 P\'DABLICA\f12\expnd19\expndtw93\charscalex100  \expnd0\expndtw-1 MUNICIPAL\expnd0\expndtw-2  \expnd0\expndtw0 DE \expnd0\expndtw-1 XOCHIATIPAN, HIDALGO.\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f12\fs17\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li4208\fi-1\ri4214\qc\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 CAP\'CDTULO\expnd0\expndtw0  I\f12\expnd5\expndtw25\charscalex100  \expnd0\expndtw-1 GENERALIDADES\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f12\fs18\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li4235\fi-1\ri4235\qc\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 CAP\'CDTULO\expnd-2\expndtw-8  \expnd0\expndtw0 I\f12\expnd4\expndtw22\charscalex100  \expnd-1\expndtw-5 GENERALIDADES\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f12\fs17\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri119\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd5\expndtw25  \expnd0\expndtw-2 1.\expnd5\expndtw26  \f10\b0\expnd0\expndtw-2 El\expnd5\expndtw24  \expnd-1\expndtw-4 presente\expnd5\expndtw25  \expnd-1\expndtw-5 reglamento\expnd5\expndtw25  \expnd-1\expndtw-5 interior\expnd5\expndtw24  \expnd0\expndtw-2 de\expnd5\expndtw25  \expnd-1\expndtw-5 trabajo\expnd5\expndtw25  \expnd-1\expndtw-3 es\expnd5\expndtw26  \expnd-1\expndtw-4 aplicable\expnd5\expndtw24  \expnd0\expndtw0 a\expnd5\expndtw25  \expnd-1\expndtw-4 todos\expnd5\expndtw26  \expnd-1\expndtw-4 los\expnd5\expndtw26  \expnd-1\expndtw-5 funcionarios\expnd5\expndtw26  \expnd0\expndtw0 y\expnd5\expndtw23  \expnd-1\expndtw-5 trabajadores\expnd5\expndtw25  \expnd0\expndtw-2 de\expnd5\expndtw25  \expnd-1\expndtw-3 la\f10\expnd18\expndtw91\charscalex100  \expnd-1\expndtw-5 presidencia\expnd-2\expndtw-9  \expnd-1\expndtw-4 municipal\expnd-2\expndtw-9  \expnd-1\expndtw-3 de\expnd-2\expndtw-8  \expnd-1\expndtw-5 Xochiatipan\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 Castillo,\expnd-2\expndtw-10  \expnd-1\expndtw-4 Hidalgo,\expnd-2\expndtw-9  \expnd-1\expndtw-3 ya\expnd-2\expndtw-9  \expnd-1\expndtw-4 sea\expnd-2\expndtw-9  \expnd-1\expndtw-5 sindicalizados,\expnd-2\expndtw-10  \expnd0\expndtw0 o\expnd-2\expndtw-9  \expnd-1\expndtw-3 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 contrato.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs17\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-2\expndtw-9  \expnd0\expndtw-2 2.\expnd-2\expndtw-8  \f10\b0\expnd-1\expndtw-4 Las\expnd-2\expndtw-9  \expnd-1\expndtw-5 disposiciones\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 este\expnd-2\expndtw-9  \expnd-1\expndtw-4 Reglamento\expnd-2\expndtw-8  \expnd-1\expndtw-4 tienen\expnd-2\expndtw-9  \expnd-1\expndtw-3 por\expnd-2\expndtw-9  \expnd-1\expndtw-4 objeto\expnd-2\expndtw-9  \expnd-1\expndtw-4 abordar\expnd-2\expndtw-8  \expnd-1\expndtw-4 los\expnd-2\expndtw-9  \expnd-1\expndtw-5 siguientes\expnd-2\expndtw-9  \expnd-1\expndtw-4 aspectos:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs17\b0\i0\par\pard\plain\s1\ls1\ilvl0\nooverflow\nocwrap\li834\fi-464\ri124\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-4\charscalex100 Plantear\expnd-4\expndtw-20  \expnd-1\expndtw-3 las\expnd-4\expndtw-21  \expnd-1\expndtw-4 normas\expnd-4\expndtw-19  \expnd-1\expndtw-4 b\'E1sicas\expnd-4\expndtw-21  \expnd-1\expndtw-3 que\expnd-4\expndtw-20  \expnd-1\expndtw-4 permitan\expnd-4\expndtw-21  \expnd-1\expndtw-3 una\expnd-4\expndtw-20  \expnd-1\expndtw-5 adecuada\expnd-4\expndtw-21  \expnd-1\expndtw-5 organizaci\'F3n\expnd-4\expndtw-20  \expnd0\expndtw-2 en\expnd-4\expndtw-20  \expnd-1\expndtw-5 funcionamiento\expnd-4\expndtw-20  \expnd-1\expndtw-3 de\expnd-4\expndtw-20  \expnd0\expndtw-2 la\expnd-4\expndtw-22  \expnd-1\expndtw-5 administraci\'F3n\f10\expnd16\expndtw80\charscalex100  \expnd-1\expndtw-4 p\'FAblica\expnd-2\expndtw-9  \expnd-1\expndtw-5 municipal;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs16\b0\i0\par\pard\plain\s1\ls1\ilvl0\nooverflow\nocwrap\li834\fi-515\ri124\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-4\charscalex100 Se\'F1alar\expnd10\expndtw49  \expnd-1\expndtw-3 las\expnd10\expndtw49  \expnd-1\expndtw-4 reglas\expnd10\expndtw48  \expnd-1\expndtw-4 para\expnd10\expndtw50  \expnd0\expndtw-2 el\expnd10\expndtw49  \expnd-1\expndtw-5 desarrollo\expnd10\expndtw49  \expnd-1\expndtw-5 arm\'F3nico\expnd10\expndtw50  \expnd0\expndtw0 y\expnd10\expndtw48  \expnd-1\expndtw-4 eficiente\expnd10\expndtw49  \expnd0\expndtw-2 de\expnd10\expndtw50  \expnd-1\expndtw-3 la\expnd10\expndtw49  \expnd-1\expndtw-5 administraci\'F3n\expnd10\expndtw50  \expnd-1\expndtw-4 p\'FAblica\expnd10\expndtw48  \expnd-1\expndtw-4 municipal,\expnd10\expndtw49  \expnd-1\expndtw-3 de\f10\expnd15\expndtw73\charscalex100  \expnd-1\expndtw-5 conformidad\expnd-2\expndtw-9  \expnd-1\expndtw-3 con\expnd-2\expndtw-9  \expnd0\expndtw-2 lo\expnd-2\expndtw-9  \expnd-1\expndtw-4 previsto\expnd-2\expndtw-9  \expnd-1\expndtw-3 por\expnd-2\expndtw-8  \expnd-1\expndtw-4 las\expnd-2\expndtw-8  \expnd-1\expndtw-4 leyes\expnd-2\expndtw-9  \expnd-1\expndtw-5 estatales\expnd-2\expndtw-8  \expnd0\expndtw0 y\expnd-2\expndtw-9  \expnd-1\expndtw-5 federales;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs16\b0\i0\par\pard\plain\s1\ls1\ilvl0\nooverflow\nocwrap\li834\fi-567\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-4\charscalex100 Se\'F1alar\expnd-2\expndtw-8  \expnd-1\expndtw-4 las\expnd-2\expndtw-9  \expnd-1\expndtw-4 bases\expnd-2\expndtw-8  \expnd-1\expndtw-3 de\expnd-2\expndtw-8  \expnd-1\expndtw-3 la\expnd-2\expndtw-8  \expnd-1\expndtw-5 modalidad\expnd-2\expndtw-9  \expnd-1\expndtw-4 para\expnd-2\expndtw-8  \expnd-1\expndtw-3 la\expnd-2\expndtw-9  \expnd-1\expndtw-4 prestaci\'F3n\expnd-2\expndtw-8  \expnd-1\expndtw-3 de\expnd-2\expndtw-9  \expnd-1\expndtw-5 servicios\expnd-2\expndtw-8  \expnd-1\expndtw-5 p\'FAblicos\expnd-2\expndtw-8  \expnd-1\expndtw-3 en\expnd-2\expndtw-9  \expnd0\expndtw-2 el\expnd-2\expndtw-9  \expnd-1\expndtw-4 \'E1mbito\expnd-2\expndtw-9  \expnd-1\expndtw-4 municipal;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb10\f10\fs15\b0\i0\par\pard\plain\s1\ls1\ilvl0\nooverflow\nocwrap\li834\fi-593\ri124\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-4\charscalex100 Fijar\expnd7\expndtw35  \expnd-1\expndtw-3 las\expnd7\expndtw35  \expnd-1\expndtw-4 bases\expnd7\expndtw34  \expnd-1\expndtw-3 que\expnd7\expndtw36  \expnd-1\expndtw-5 permita\expnd7\expndtw36  \expnd-1\expndtw-3 una\expnd7\expndtw33  \expnd-1\expndtw-5 interacci\'F3n\expnd7\expndtw36  \expnd-1\expndtw-5 constante\expnd7\expndtw35  \expnd-1\expndtw-4 entre\expnd7\expndtw34  \expnd0\expndtw-2 la\expnd7\expndtw34  \expnd-1\expndtw-5 presidencia\expnd7\expndtw35  \expnd-1\expndtw-4 municipal,\expnd7\expndtw35  \expnd-1\expndtw-4 las\expnd7\expndtw35  \expnd-1\expndtw-4 \'E1reas\expnd7\expndtw35  \expnd-1\expndtw-3 que\expnd7\expndtw36  \expnd-1\expndtw-3 la\f10\expnd17\expndtw83\charscalex100  \expnd-1\expndtw-5 conforman\expnd-2\expndtw-8  \expnd0\expndtw0 y\expnd-2\expndtw-9  \expnd-1\expndtw-3 la\expnd-2\expndtw-9  \expnd-1\expndtw-5 ciudadan\'EDa\expnd-2\expndtw-9  \expnd-1\expndtw-3 del\expnd-2\expndtw-8  \expnd-1\expndtw-4 municipio;\expnd-2\expndtw-10  \expnd-1\expndtw-3 y,\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls1\ilvl0\nooverflow\nocwrap\li834\fi-542\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-5\charscalex100 Desarrollar\expnd-2\expndtw-8  \expnd-1\expndtw-3 un\expnd-2\expndtw-9  \expnd-1\expndtw-4 marco\expnd-2\expndtw-9  \expnd-1\expndtw-5 reglamentario\expnd-2\expndtw-8  \expnd-1\expndtw-3 en\expnd-2\expndtw-9  \expnd0\expndtw-2 el\expnd-2\expndtw-9  \expnd-1\expndtw-4 municipio.\par\sect\sectd\sbkpage\headery592\footery641
+{\header
+{\shp{\*\shpinst\shpleft1222\shpright1975\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz19\shplid288{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Alcance\par}}}
+
+{\shp{\*\shpinst\shpleft5156\shpright7153\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz20\shplid292{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 PERI\'D3DICO OFICIAL\par}}}
+
+{\shp{\*\shpinst\shpleft10028\shpright10971\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz21\shplid296{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw0\charscalex100 P\'E1gina 99\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright1279\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz22\shplid300{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 2\par}}}
+
+{\shp{\*\shpinst\shpleft4449\shpright4506\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz23\shplid304{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 0\par}}}
+
+{\shp{\*\shpinst\shpleft7676\shpright7733\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz24\shplid308{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 1\par}}}
+
+{\shp{\*\shpinst\shpleft10902\shpright10959\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz25\shplid312{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 8\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10893\shptop856\shpbottom926\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz26\shplid316{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelesta\expnd-1\expndtw-6  \expnd0\expndtw-1 dodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3di\expnd-1\expndtw-5  \expnd0\expndtw-1 cooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehid\expnd-1\expndtw-6  \expnd0\expndtw-1 algoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestado\expnd-1\expndtw-6  \expnd0\expndtw-1 dehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgo\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10957\shptop895\shpbottom1005\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz27\shplid320{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 Peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dic\expnd-1\expndtw-5  \expnd0\expndtw-1 ooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadod\expnd-1\expndtw-6  \expnd0\expndtw-1 ehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicoo\expnd-1\expndtw-6  \expnd0\expndtw-1 ficialdelestadodehidalgo\expnd0\expndtw0  \expnd0\expndtw1  \expnd0\expndtw0 2 0\par\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb5\f10\fs3\b0\expnd0\expndtw0\charscalex100 1 8\par}}}
+\pard\plain\s1\nooverflow\nocwrap\sl14\slmult1\fs20\par}\marglsxn1020\margrsxn1060\margtsxn980\margbsxn840\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb4\f10\fs12\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri114\qj\sl240\slmult1\sb74\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-3\expndtw-14  \expnd0\expndtw-2 3.\expnd-3\expndtw-13  \f10\b0\expnd-1\expndtw-3 La\expnd-3\expndtw-14  \expnd-1\expndtw-5 autoridades\expnd-2\expndtw-12  \expnd-1\expndtw-5 encargadas\expnd-2\expndtw-12  \expnd-1\expndtw-3 de\expnd-3\expndtw-14  \expnd-1\expndtw-4 aplicar\expnd-3\expndtw-14  \expnd0\expndtw-2 el\expnd-3\expndtw-14  \expnd-1\expndtw-5 presente\expnd-3\expndtw-14  \expnd-1\expndtw-5 reglamento\expnd-3\expndtw-14  \expnd-1\expndtw-4 ser\'E1\expnd-3\expndtw-13  \expnd-1\expndtw-3 el\expnd-3\expndtw-13  \expnd-1\expndtw-5 Ayuntamiento\expnd-3\expndtw-13  \expnd-1\expndtw-4 Municipal,\expnd-3\expndtw-13  \expnd0\expndtw0 a\expnd-3\expndtw-13  \expnd-1\expndtw-5 trav\'E9s\expnd-3\expndtw-13  \expnd-1\expndtw-3 del\f10\expnd21\expndtw105\charscalex100  \expnd-1\expndtw-5 Presidente\expnd-2\expndtw-10  \expnd-1\expndtw-4 Municipal,\expnd-2\expndtw-11  \expnd-1\expndtw-4 quien\expnd-2\expndtw-11  \expnd0\expndtw0 a\expnd-2\expndtw-10  \expnd-1\expndtw-3 su\expnd-2\expndtw-10  \expnd-1\expndtw-4 vez\expnd-2\expndtw-11  \expnd-1\expndtw-3 se\expnd-2\expndtw-10  \expnd-1\expndtw-5 respaldar\'E1\expnd-2\expndtw-10  \expnd-1\expndtw-3 en\expnd-2\expndtw-11  \expnd0\expndtw-2 el\expnd-2\expndtw-10  \expnd-1\expndtw-4 \'E1rea\expnd-2\expndtw-11  \expnd0\expndtw-2 de\expnd-2\expndtw-11  \expnd-1\expndtw-5 Recursos\expnd-2\expndtw-11  \expnd-1\expndtw-4 Humanos,\expnd-2\expndtw-11  \expnd0\expndtw0 y\expnd-2\expndtw-11  \expnd-1\expndtw-5 delegar\'E1\expnd-2\expndtw-10  \expnd0\expndtw0 a\expnd-2\expndtw-10  \expnd-1\expndtw-4 los\expnd-2\expndtw-10  \expnd-1\expndtw-5 titulares\expnd-2\expndtw-10  \expnd-1\expndtw-3 de\expnd-2\expndtw-10  \expnd-1\expndtw-4 las\f10\expnd22\expndtw109\charscalex100  \expnd-1\expndtw-5 dependencias\expnd-3\expndtw-15  \expnd0\expndtw0 y\expnd-3\expndtw-15  \expnd-1\expndtw-5 entidades,\expnd-3\expndtw-15  \expnd0\expndtw0 y\expnd-3\expndtw-16  \expnd-1\expndtw-4 dem\'E1s\expnd-3\expndtw-15  \expnd-1\expndtw-5 servidores\expnd-3\expndtw-15  \expnd-1\expndtw-5 p\'FAblicos\expnd-3\expndtw-15  \expnd-1\expndtw-4 municipales,\expnd-3\expndtw-15  \expnd-1\expndtw-4 las\expnd-3\expndtw-13  \expnd-1\expndtw-5 funciones\expnd-3\expndtw-15  \expnd-1\expndtw-3 que\expnd-3\expndtw-15  \expnd-1\expndtw-3 les\expnd-3\expndtw-16  \expnd-1\expndtw-5 correspondan\expnd-3\expndtw-15  \expnd-1\expndtw-3 en\expnd-3\expndtw-15  \expnd0\expndtw-2 el\expnd-3\expndtw-15  \expnd-1\expndtw-4 \'E1mbito\f10\expnd23\expndtw113\charscalex100  \expnd0\expndtw-2 de\expnd8\expndtw39  \expnd0\expndtw-2 su\expnd8\expndtw42  \expnd-1\expndtw-5 respectiva\expnd8\expndtw41  \expnd-1\expndtw-5 competencia.\expnd8\expndtw41  \expnd0\expndtw-2 La\expnd9\expndtw43  \expnd-1\expndtw-5 vigilancia\expnd8\expndtw41  \expnd-1\expndtw-4 para\expnd8\expndtw42  \expnd-1\expndtw-3 la\expnd8\expndtw41  \expnd-1\expndtw-4 estricta\expnd8\expndtw42  \expnd-1\expndtw-5 observancia\expnd9\expndtw43  \expnd0\expndtw0 y\expnd8\expndtw40  \expnd-1\expndtw-5 cumplimiento\expnd9\expndtw43  \expnd-1\expndtw-3 de\expnd8\expndtw41  \expnd-1\expndtw-4 este\expnd8\expndtw42  \expnd-1\expndtw-5 Reglamento,\f10\expnd24\expndtw121\charscalex100  \expnd-1\expndtw-5 corresponde\expnd-2\expndtw-9  \expnd-1\expndtw-3 al\expnd-2\expndtw-8  \expnd-1\expndtw-5 Ayuntamiento\expnd-2\expndtw-8  \expnd-1\expndtw-3 en\expnd-2\expndtw-9  \expnd-1\expndtw-3 su\expnd-2\expndtw-9  \expnd-1\expndtw-4 conjunto.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri119\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd3\expndtw17  \expnd0\expndtw-2 4.\expnd4\expndtw18  \f10\b0\expnd-1\expndtw-4 Las\expnd4\expndtw19  \expnd-1\expndtw-5 atribuciones\expnd3\expndtw17  \expnd-1\expndtw-5 conferidas\expnd3\expndtw17  \expnd-1\expndtw-3 por\expnd3\expndtw17  \expnd-1\expndtw-4 este\expnd3\expndtw17  \expnd-1\expndtw-5 reglamento\expnd4\expndtw18  \expnd0\expndtw0 y\expnd3\expndtw16  \expnd-1\expndtw-3 por\expnd3\expndtw17  \expnd-1\expndtw-3 la\expnd4\expndtw18  \expnd-1\expndtw-3 Ley\expnd3\expndtw16  \expnd-1\expndtw-5 Org\'E1nica\expnd4\expndtw18  \expnd-1\expndtw-4 Municipal\expnd3\expndtw17  \expnd0\expndtw0 a\expnd4\expndtw18  \expnd-1\expndtw-4 las\expnd4\expndtw19  \expnd-1\expndtw-5 dependencias\f10\expnd21\expndtw103\charscalex100  \expnd-1\expndtw-4 municipales,\expnd3\expndtw15  \expnd-1\expndtw-4 ser\'E1n\expnd3\expndtw16  \expnd-1\expndtw-5 ejecutadas\expnd3\expndtw15  \expnd-1\expndtw-3 por\expnd3\expndtw16  \expnd-1\expndtw-4 los\expnd3\expndtw16  \expnd-1\expndtw-5 titulares\expnd3\expndtw16  \expnd-1\expndtw-3 de\expnd3\expndtw16  \expnd-1\expndtw-3 las\expnd3\expndtw15  \expnd-1\expndtw-4 mismas,\expnd3\expndtw15  \expnd-1\expndtw-4 para\expnd3\expndtw15  \expnd0\expndtw-2 lo\expnd3\expndtw16  \expnd-1\expndtw-3 que\expnd3\expndtw16  \expnd-1\expndtw-4 habr\'E1n\expnd3\expndtw16  \expnd-1\expndtw-3 de\expnd3\expndtw16  \expnd-1\expndtw-5 apoyarse\expnd3\expndtw16  \expnd-1\expndtw-3 en\expnd3\expndtw16  \expnd-1\expndtw-3 los\expnd3\expndtw15  \expnd-1\expndtw-5 servidores\f10\expnd17\expndtw83\charscalex100  \expnd-1\expndtw-4 p\'FAblicos\expnd-2\expndtw-9  \expnd-1\expndtw-3 que\expnd-2\expndtw-9  \expnd-1\expndtw-3 se\expnd-2\expndtw-8  \expnd-1\expndtw-5 encuentren\expnd-2\expndtw-9  \expnd-1\expndtw-4 bajo\expnd-2\expndtw-9  \expnd-1\expndtw-3 su\expnd-2\expndtw-9  \expnd-1\expndtw-4 cargo,\expnd-2\expndtw-10  \expnd-1\expndtw-4 conforme\expnd-2\expndtw-9  \expnd0\expndtw0 a\expnd-2\expndtw-8  \expnd-1\expndtw-4 las\expnd-2\expndtw-8  \expnd-1\expndtw-5 facultades\expnd-2\expndtw-8  \expnd-1\expndtw-3 que\expnd-2\expndtw-9  \expnd-1\expndtw-3 les\expnd-2\expndtw-9  \expnd-1\expndtw-4 son\expnd-2\expndtw-8  \expnd-1\expndtw-5 expresas.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri116\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd0\expndtw1  \expnd0\expndtw-2 5.\expnd0\expndtw2  \f10\b0\expnd-1\expndtw-3 La\expnd0\expndtw1  \expnd-1\expndtw-5 Presidencia,\expnd0\expndtw-1  \expnd-1\expndtw-4 contar\'E1\expnd0\expndtw0  \expnd-1\expndtw-3 con\expnd0\expndtw1  \expnd-1\expndtw-3 las\expnd1\expndtw3  \expnd-1\expndtw-5 facultades\expnd0\expndtw2  \expnd-1\expndtw-3 que\expnd0\expndtw1  \expnd-1\expndtw-4 establece\expnd0\expndtw1  \expnd-1\expndtw-3 la\expnd0\expndtw1  \expnd-1\expndtw-5 Constituci\'F3n\expnd0\expndtw1  \expnd-1\expndtw-5 Pol\'EDtica\expnd0\expndtw1  \expnd0\expndtw-2 de\expnd0\expndtw1  \expnd-1\expndtw-3 los\expnd0\expndtw2  \expnd-1\expndtw-5 Estados\expnd0\expndtw2  \expnd-1\expndtw-4 Unidos\f10\expnd17\expndtw87\charscalex100  \expnd-1\expndtw-4 Mexicanos,\expnd-2\expndtw-10  \expnd-1\expndtw-3 la\expnd-2\expndtw-9  \expnd-1\expndtw-5 Constituci\'F3n\expnd-2\expndtw-9  \expnd-1\expndtw-4 Pol\'EDtica\expnd-2\expndtw-9  \expnd-1\expndtw-3 del\expnd-2\expndtw-8  \expnd-1\expndtw-5 Estado\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-10  \expnd-1\expndtw-4 Hidalgo,\expnd-2\expndtw-10  \expnd0\expndtw-2 la\expnd-2\expndtw-9  \expnd-1\expndtw-3 Ley\expnd-2\expndtw-10  \expnd-1\expndtw-4 Org\'E1nica\expnd-2\expndtw-9  \expnd-1\expndtw-4 Municipal\expnd-2\expndtw-9  \expnd-1\expndtw-4 para\expnd-2\expndtw-9  \expnd0\expndtw-2 el\expnd-1\expndtw-7  \expnd-1\expndtw-4 Estado\expnd-2\expndtw-9  \expnd-1\expndtw-3 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 Hidalgo,\expnd-2\expndtw-9  \expnd0\expndtw0 y\expnd-2\expndtw-9  \expnd-1\expndtw-4 las\f10\expnd10\expndtw52\charscalex100  \expnd-1\expndtw-4 dem\'E1s\expnd-2\expndtw-9  \expnd-1\expndtw-4 leyes,\expnd-2\expndtw-10  \expnd-1\expndtw-5 reglamentos\expnd-2\expndtw-8  \expnd0\expndtw0 y\expnd-2\expndtw-10  \expnd-1\expndtw-4 acuerdos\expnd-2\expndtw-9  \expnd0\expndtw-2 en\expnd-2\expndtw-9  \expnd-1\expndtw-3 la\expnd-2\expndtw-8  \expnd-1\expndtw-4 materia.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li312\ri314\qc\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 CAP\'CDTULO\expnd-2\expndtw-8  \expnd-1\expndtw-3 II\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\li312\ri313\qc\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-2\charscalex100 DE\expnd-2\expndtw-10  \expnd-1\expndtw-3 LOS\expnd-2\expndtw-9  \expnd-1\expndtw-5 SERVIDORES\expnd-2\expndtw-9  \expnd-1\expndtw-5 P\'DABLICOS\expnd-2\expndtw-10  \expnd-1\expndtw-5 MUNICIPALES.\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f12\fs19\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-2\expndtw-9  \expnd0\expndtw-2 6.\expnd-2\expndtw-8  \f10\b0\expnd-1\expndtw-4 Existen\expnd-2\expndtw-8  \expnd-1\expndtw-4 tres\expnd-2\expndtw-8  \expnd-1\expndtw-4 tipos\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-5 servidores\expnd-2\expndtw-9  \expnd-1\expndtw-4 p\'FAblicos\expnd-2\expndtw-9  \expnd-1\expndtw-3 del\expnd-2\expndtw-9  \expnd-1\expndtw-5 Ayuntamiento,\expnd-2\expndtw-10  \expnd0\expndtw0 a\expnd-2\expndtw-9  \expnd-1\expndtw-4 saber:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls1\ilvl1\nooverflow\nocwrap\li1194\fi-720\sl240\slmult1\tx1195\f10\fs20\b0\expnd-1\expndtw-3\charscalex100 De\expnd-2\expndtw-8  \expnd-1\expndtw-4 base;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls1\ilvl1\nooverflow\nocwrap\li1194\fi-720\sl240\slmult1\tx1195\f10\fs20\b0\expnd-1\expndtw-3\charscalex100 De\expnd-2\expndtw-9  \expnd-1\expndtw-4 confianza;\expnd-2\expndtw-10  \expnd-1\expndtw-3 y,\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls1\ilvl1\nooverflow\nocwrap\li1194\fi-720\sl240\slmult1\tx1195\f10\fs20\b0\expnd-1\expndtw-5\charscalex100 Eventuales.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri114\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-4\expndtw-18  \expnd0\expndtw-2 7.\expnd-3\expndtw-17  \f10\b0\expnd0\expndtw-2 Se\expnd-3\expndtw-17  \expnd-1\expndtw-4 definen\expnd-3\expndtw-17  \expnd-1\expndtw-4 como\expnd-3\expndtw-17  \expnd-1\expndtw-5 servidores\expnd-3\expndtw-17  \expnd-1\expndtw-5 p\'FAblicos\expnd-3\expndtw-16  \expnd-1\expndtw-5 municipales\expnd-3\expndtw-16  \expnd-1\expndtw-3 de\expnd-3\expndtw-16  \expnd-1\expndtw-4 base,\expnd-4\expndtw-18  \expnd0\expndtw0 a\expnd-3\expndtw-16  \expnd-1\expndtw-4 todo\expnd-3\expndtw-16  \expnd-1\expndtw-4 aqu\'E9l\expnd-4\expndtw-18  \expnd-1\expndtw-5 personal\expnd-3\expndtw-16  \expnd-1\expndtw-4 que\expnd-3\expndtw-16  \expnd-1\expndtw-4 prestan\expnd-3\expndtw-17  \expnd-1\expndtw-4 sus\expnd-3\expndtw-17  \expnd-1\expndtw-4 servicios\f10\expnd17\expndtw87\charscalex100  \expnd-1\expndtw-4 para\expnd1\expndtw7  \expnd0\expndtw-2 el\expnd2\expndtw8  \expnd-1\expndtw-5 Ayuntamiento\expnd1\expndtw6  \expnd-1\expndtw-3 con\expnd1\expndtw7  \expnd-1\expndtw-5 car\'E1cter\expnd2\expndtw8  \expnd0\expndtw-2 de\expnd1\expndtw7  \expnd-1\expndtw-5 definitivo\expnd1\expndtw7  \expnd0\expndtw0 y\expnd2\expndtw8  \expnd-1\expndtw-4 que\expnd1\expndtw7  \expnd-1\expndtw-3 no\expnd1\expndtw7  \expnd-1\expndtw-4 requiere\expnd1\expndtw7  \expnd-1\expndtw-3 de\expnd1\expndtw7  \expnd0\expndtw-2 la\expnd2\expndtw9  \expnd-1\expndtw-4 firma\expnd2\expndtw9  \expnd0\expndtw0 y\expnd1\expndtw7  \expnd-1\expndtw-5 renovaci\'F3n\expnd1\expndtw7  \expnd0\expndtw-2 de\expnd1\expndtw7  \expnd-1\expndtw-4 ning\'FAn\expnd1\expndtw7  \expnd-1\expndtw-5 contrato\expnd1\expndtw7  \expnd-1\expndtw-3 que\f10\expnd18\expndtw91\charscalex100  \expnd-1\expndtw-4 asegure\expnd-2\expndtw-9  \expnd-1\expndtw-3 su\expnd-2\expndtw-8  \expnd-1\expndtw-5 permanencia.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri115\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-2\expndtw-12  \expnd0\expndtw-2 8.\expnd-2\expndtw-12  \f10\b0\expnd-1\expndtw-3 Se\expnd-3\expndtw-13  \expnd-1\expndtw-4 consideran\expnd-3\expndtw-13  \expnd-1\expndtw-5 servidores\expnd-2\expndtw-11  \expnd-1\expndtw-5 p\'FAblicos\expnd-2\expndtw-11  \expnd-1\expndtw-3 de\expnd-3\expndtw-13  \expnd-1\expndtw-4 confianza,\expnd-3\expndtw-13  \expnd-1\expndtw-4 aqu\'E9llos\expnd-2\expndtw-12  \expnd-1\expndtw-3 que\expnd-2\expndtw-11  \expnd-1\expndtw-4 forman\expnd-2\expndtw-11  \expnd-1\expndtw-4 parte\expnd-3\expndtw-13  \expnd0\expndtw-2 de\expnd-2\expndtw-11  \expnd-1\expndtw-3 la\expnd-2\expndtw-11  \expnd-1\expndtw-5 plantilla\expnd-2\expndtw-11  \expnd-1\expndtw-4 laboral\expnd-3\expndtw-13  \expnd-1\expndtw-4 con\expnd-2\expndtw-11  \expnd-1\expndtw-4 base\f10\expnd13\expndtw65\charscalex100  \expnd0\expndtw-2 en\expnd0\expndtw0  \expnd0\expndtw-2 un\expnd0\expndtw0  \expnd-1\expndtw-5 contrato\expnd0\expndtw1  \expnd-1\expndtw-4 por\expnd0\expndtw2  \expnd-1\expndtw-4 tiempo\expnd0\expndtw0  \expnd-1\expndtw-4 definido,\expnd0\expndtw1  \expnd-1\expndtw-4 mismo\expnd0\expndtw0  \expnd-1\expndtw-3 que\expnd0\expndtw1  \expnd-1\expndtw-4 debe\expnd0\expndtw0  \expnd-1\expndtw-3 ser\expnd0\expndtw0  \expnd-1\expndtw-5 renovado\expnd0\expndtw0  \expnd-1\expndtw-5 peri\'F3dicamente\expnd0\expndtw1  \expnd-1\expndtw-3 si\expnd0\expndtw1  \expnd-1\expndtw-3 as\'ED\expnd0\expndtw1  \expnd-1\expndtw-3 lo\expnd0\expndtw1  \expnd-1\expndtw-4 decide\expnd0\expndtw1  \expnd0\expndtw-2 la\expnd0\expndtw0  \expnd-1\expndtw-5 administraci\'F3n\f10\expnd18\expndtw90\charscalex100  \expnd-1\expndtw-4 municipal.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri119\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd9\expndtw43  \expnd0\expndtw-2 9.\expnd9\expndtw44  \f10\b0\expnd-1\expndtw-3 Se\expnd9\expndtw43  \expnd-1\expndtw-4 definen\expnd9\expndtw44  \expnd-1\expndtw-4 como\expnd9\expndtw43  \expnd-1\expndtw-5 servidores\expnd9\expndtw43  \expnd-1\expndtw-5 p\'FAblicos\expnd9\expndtw44  \expnd-1\expndtw-5 eventuales,\expnd8\expndtw42  \expnd0\expndtw0 a\expnd9\expndtw45  \expnd-1\expndtw-4 todos\expnd9\expndtw44  \expnd-1\expndtw-4 aquellos\expnd9\expndtw43  \expnd-1\expndtw-3 que\expnd9\expndtw44  \expnd-1\expndtw-4 fueren\expnd9\expndtw43  \expnd-1\expndtw-5 contratados\expnd9\expndtw43  \expnd-1\expndtw-3 por\expnd9\expndtw44  \expnd0\expndtw-2 el\f10\expnd14\expndtw69\charscalex100  \expnd-1\expndtw-5 Ayuntamiento\expnd-2\expndtw-9  \expnd-1\expndtw-4 para\expnd-2\expndtw-8  \expnd-1\expndtw-3 la\expnd-2\expndtw-9  \expnd-1\expndtw-4 realizaci\'F3n\expnd-2\expndtw-8  \expnd-1\expndtw-3 de\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajos\expnd-2\expndtw-8  \expnd-1\expndtw-5 especiales,\expnd-2\expndtw-10  \expnd-1\expndtw-5 temporales\expnd-2\expndtw-9  \expnd0\expndtw0 o\expnd-2\expndtw-9  \expnd-1\expndtw-3 por\expnd-2\expndtw-9  \expnd-1\expndtw-4 obra\expnd-2\expndtw-9  \expnd-1\expndtw-5 determinada.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri114\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-2\expndtw-12  \expnd-1\expndtw-3 10.\expnd-2\expndtw-12  \f10\b0\expnd-1\expndtw-4 Los\expnd-2\expndtw-11  \expnd-1\expndtw-5 servidores\expnd-2\expndtw-11  \expnd-1\expndtw-4 p\'FAblicos\expnd-2\expndtw-11  \expnd-1\expndtw-3 del\expnd-2\expndtw-10  \expnd-1\expndtw-5 Ayuntamiento\expnd-2\expndtw-10  \expnd-1\expndtw-4 deber\'E1n\expnd-2\expndtw-11  \expnd-1\expndtw-4 prestar\expnd-2\expndtw-11  \expnd-1\expndtw-4 sus\expnd-2\expndtw-11  \expnd-1\expndtw-5 servicios,\expnd-2\expndtw-11  \expnd0\expndtw-2 en\expnd-2\expndtw-11  \expnd-1\expndtw-3 las\expnd-2\expndtw-11  \expnd-1\expndtw-5 dependencias\expnd-2\expndtw-11  \expnd-1\expndtw-3 del\expnd-2\expndtw-10  \expnd-1\expndtw-4 mismo\f10\expnd16\expndtw81\charscalex100  \expnd-1\expndtw-3 que\expnd-1\expndtw-4  les\expnd-1\expndtw-5  \expnd-1\expndtw-4 hayan\expnd-1\expndtw-5  \expnd-1\expndtw-4 sido fijadas,\expnd-1\expndtw-5  \expnd0\expndtw0 o\expnd-1\expndtw-6  \expnd-1\expndtw-4 como\expnd-1\expndtw-6  \expnd-1\expndtw-4 apoyo\expnd-1\expndtw-6  \expnd0\expndtw-2 en\expnd-1\expndtw-6  \expnd-1\expndtw-4 alguna\expnd-1\expndtw-6  \expnd-1\expndtw-4 otra \expnd-1\expndtw-5 dependencia, \expnd-1\expndtw-3 ya\expnd-1\expndtw-6  \expnd-1\expndtw-3 sea\expnd-1\expndtw-6  \expnd-1\expndtw-5 educativa\expnd-1\expndtw-4  \expnd0\expndtw0 o\expnd-1\expndtw-6  \expnd-1\expndtw-3 de\expnd-1\expndtw-6  \expnd-1\expndtw-4 salud,\expnd-1\expndtw-5  \expnd-1\expndtw-4 que \expnd-1\expndtw-3 le\expnd-1\expndtw-6  \expnd-1\expndtw-4 asigne\expnd-1\expndtw-6  \expnd0\expndtw-2 el\f10\expnd12\expndtw61\charscalex100  \expnd-1\expndtw-4 propio\expnd-2\expndtw-8  \expnd-1\expndtw-5 Ayuntamiento.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri115\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo 11. \f10\b0\expnd-1\expndtw-4 Los\expnd-1\expndtw-3  \expnd-1\expndtw-5 servidores\expnd-1\expndtw-3  \expnd-1\expndtw-4 p\'FAblicos \expnd-1\expndtw-5 municipales\expnd-1\expndtw-3  que\expnd-1\expndtw-4  \expnd-1\expndtw-5 prestar\'E1n \expnd-1\expndtw-3 sus\expnd-1\expndtw-5  \expnd-1\expndtw-4 servicios\expnd-1\expndtw-3  \expnd0\expndtw-2 en\expnd-1\expndtw-5  \expnd-1\expndtw-3 la\expnd-1\expndtw-4  \expnd-1\expndtw-5 administraci\'F3n\expnd-1\expndtw-3  \expnd-1\expndtw-5 vigente, \expnd-1\expndtw-4 deben\expnd-1\expndtw-5  \expnd-1\expndtw-3 de\f10\expnd20\expndtw99\charscalex100  \expnd-1\expndtw-4 contar\expnd2\expndtw9  \expnd-1\expndtw-3 con\expnd2\expndtw9  \expnd0\expndtw-2 un\expnd2\expndtw9  \expnd-1\expndtw-5 nombramiento,\expnd2\expndtw9  \expnd-1\expndtw-3 el\expnd2\expndtw10  \expnd-1\expndtw-4 cual\expnd2\expndtw8  \expnd-1\expndtw-4 ser\'E1\expnd2\expndtw10  \expnd-1\expndtw-5 extendido\expnd2\expndtw10  \expnd-1\expndtw-3 por\expnd2\expndtw9  \expnd0\expndtw-2 el\expnd2\expndtw10  \expnd-1\expndtw-5 Presidente\expnd2\expndtw10  \expnd-1\expndtw-4 Municipal\expnd2\expndtw10  \expnd0\expndtw0 o\expnd2\expndtw9  \expnd0\expndtw-2 el\expnd2\expndtw10  \expnd-1\expndtw-4 \'E1rea\expnd2\expndtw9  \expnd-1\expndtw-3 de\expnd2\expndtw9  \expnd-1\expndtw-5 Recursos\expnd2\expndtw9  \expnd-1\expndtw-4 Humanos,\f10\expnd17\expndtw85\charscalex100  \expnd-1\expndtw-4 salvo\expnd1\expndtw4  \expnd-1\expndtw-3 los\expnd1\expndtw3  \expnd-1\expndtw-4 casos\expnd1\expndtw3  \expnd0\expndtw-2 de\expnd1\expndtw3  \expnd-1\expndtw-5 servidores\expnd1\expndtw3  \expnd-1\expndtw-5 eventuales,\expnd0\expndtw2  \expnd-1\expndtw-3 que\expnd1\expndtw3  \expnd0\expndtw-2 en\expnd1\expndtw3  \expnd-1\expndtw-5 supletoriedad\expnd1\expndtw3  \expnd-1\expndtw-3 de\expnd1\expndtw4  \expnd-1\expndtw-3 un\expnd1\expndtw3  \expnd-1\expndtw-5 nombramiento\expnd1\expndtw4  \expnd-1\expndtw-4 podr\'E1\expnd1\expndtw3  \expnd-1\expndtw-4 contar\expnd1\expndtw3  \expnd-1\expndtw-3 con\expnd1\expndtw3  \expnd0\expndtw-2 un\expnd2\expndtw8  \expnd-1\expndtw-5 contrato,\f10\expnd20\expndtw100\charscalex100  \expnd-1\expndtw-3 con\expnd-2\expndtw-9  \expnd-1\expndtw-3 su\expnd-2\expndtw-8  \expnd-1\expndtw-4 inclusi\'F3n\expnd-2\expndtw-9  \expnd-1\expndtw-3 en\expnd-2\expndtw-8  \expnd-1\expndtw-3 la\expnd-2\expndtw-8  \expnd-1\expndtw-4 n\'F3mina\expnd-2\expndtw-9  \expnd-1\expndtw-5 correspondiente.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri115\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-2\expndtw-10  \expnd-1\expndtw-3 12.\expnd-2\expndtw-11  \f10\b0\expnd-1\expndtw-4 Los\expnd-2\expndtw-9  \expnd-1\expndtw-5 funcionarios\expnd-2\expndtw-9  \expnd0\expndtw0 y\expnd-2\expndtw-11  \expnd-1\expndtw-5 trabajadores\expnd-2\expndtw-10  \expnd-1\expndtw-3 del\expnd-2\expndtw-10  \expnd-1\expndtw-4 municipio\expnd-2\expndtw-10  \expnd-1\expndtw-3 que\expnd-2\expndtw-10  \expnd-1\expndtw-4 tengan\expnd-2\expndtw-10  \expnd-1\expndtw-4 trato\expnd-2\expndtw-10  \expnd-1\expndtw-4 directo\expnd-2\expndtw-10  \expnd-1\expndtw-3 con\expnd-2\expndtw-10  \expnd-1\expndtw-3 el\expnd-2\expndtw-10  \expnd-1\expndtw-4 p\'FAblico\expnd-2\expndtw-10  \expnd-1\expndtw-3 en\expnd-2\expndtw-10  \expnd-1\expndtw-4 general,\expnd-2\expndtw-11  \expnd-1\expndtw-3 lo\expnd-2\expndtw-10  \expnd-1\expndtw-4 har\'E1n\f10\expnd11\expndtw53\charscalex100  \expnd-1\expndtw-3 con\expnd-2\expndtw-9  \expnd-1\expndtw-5 cortes\'EDa,\expnd-2\expndtw-10  \expnd-1\expndtw-5 oportunidad,\expnd-2\expndtw-10  \expnd-1\expndtw-4 claridad\expnd-2\expndtw-8  \expnd0\expndtw0 y\expnd-2\expndtw-10  \expnd-1\expndtw-5 exactitud\expnd-2\expndtw-8  \expnd-1\expndtw-3 en\expnd-2\expndtw-8  \expnd-1\expndtw-3 la\expnd-2\expndtw-8  \expnd-1\expndtw-5 informaci\'F3n\expnd-2\expndtw-8  \expnd-1\expndtw-4 que\expnd-2\expndtw-8  \expnd-1\expndtw-4 deben\expnd-2\expndtw-8  \expnd-1\expndtw-5 proporcionar\expnd-2\expndtw-8  \expnd-1\expndtw-3 al\expnd-2\expndtw-9  \expnd-1\expndtw-4 solicitante.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li3913\fi674\ri3674\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-5\charscalex100 Cap\'EDtulo\expnd-2\expndtw-8  \expnd-1\expndtw-4 III\f12\expnd6\expndtw30\charscalex100  \expnd-1\expndtw-5 JORNADA\expnd-2\expndtw-9  \expnd-1\expndtw-3 DE\expnd-2\expndtw-9  \expnd-1\expndtw-4 TRABAJO.\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f12\fs19\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri120\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd5\expndtw23  \expnd-1\expndtw-3 13.\expnd5\expndtw23  \f10\b0\expnd0\expndtw-2 Se\expnd5\expndtw23  \expnd-1\expndtw-4 entiende\expnd4\expndtw22  \expnd-1\expndtw-3 por\expnd5\expndtw23  \expnd-1\expndtw-4 jornada\expnd5\expndtw23  \expnd-1\expndtw-3 de\expnd5\expndtw24  \expnd-1\expndtw-5 trabajo\expnd5\expndtw23  \expnd0\expndtw-2 el\expnd5\expndtw24  \expnd-1\expndtw-4 tiempo\expnd5\expndtw23  \expnd-1\expndtw-5 durante\expnd5\expndtw23  \expnd0\expndtw-2 el\expnd4\expndtw22  \expnd-1\expndtw-3 cual\expnd5\expndtw23  \expnd0\expndtw-2 el\expnd5\expndtw23  \expnd-1\expndtw-5 trabajador\expnd5\expndtw23  \expnd-1\expndtw-4 est\'E1\expnd5\expndtw23  \expnd0\expndtw0 a\expnd5\expndtw23  \expnd-1\expndtw-5 disposici\'F3n\expnd5\expndtw23  \expnd0\expndtw-2 de\expnd5\expndtw23  \expnd-1\expndtw-3 la\f10\expnd14\expndtw70\charscalex100  \expnd-1\expndtw-5 presidencia\expnd-2\expndtw-9  \expnd-1\expndtw-4 municipal\expnd-2\expndtw-9  \expnd-1\expndtw-4 para\expnd-2\expndtw-9  \expnd-1\expndtw-5 presentar\expnd-2\expndtw-9  \expnd-1\expndtw-4 sus\expnd-2\expndtw-9  \expnd-1\expndtw-4 servicios.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-2\expndtw-9  \expnd-1\expndtw-3 14.\expnd-2\expndtw-9  \f10\b0\expnd-1\expndtw-5 Dependiendo\expnd-2\expndtw-9  \expnd-1\expndtw-3 del\expnd-2\expndtw-8  \expnd-1\expndtw-4 \'E1rea\expnd-2\expndtw-9  \expnd0\expndtw0 a\expnd-2\expndtw-8  \expnd-1\expndtw-3 la\expnd-2\expndtw-9  \expnd-1\expndtw-3 que\expnd-2\expndtw-9  \expnd0\expndtw-2 el\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajador\expnd-2\expndtw-10  \expnd0\expndtw-2 se\expnd-2\expndtw-9  \expnd-1\expndtw-5 encuentre\expnd-2\expndtw-8  \expnd-1\expndtw-5 adscrito,\expnd-2\expndtw-9  \expnd-1\expndtw-3 la\expnd-2\expndtw-8  \expnd-1\expndtw-4 jornada\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajo\expnd-2\expndtw-9  \expnd-1\expndtw-4 puede\expnd-2\expndtw-10  \expnd-1\expndtw-3 ser:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls2\ilvl0\nooverflow\nocwrap\li1194\fi-720\sl-230\tx1195\f10\fs20\b0\expnd-1\expndtw-4\charscalex100 Completa,\expnd-2\expndtw-10  \expnd-1\expndtw-4 entre\expnd-2\expndtw-9  \expnd-1\expndtw-3 las\expnd-2\expndtw-9  \expnd-1\expndtw-4 9:00\expnd-2\expndtw-8  \expnd0\expndtw0 y\expnd-2\expndtw-10  \expnd-1\expndtw-4 las\expnd-2\expndtw-8  \expnd-1\expndtw-4 16:30\expnd-2\expndtw-9  \expnd-1\expndtw-4 horas;\par\pard\plain\s1\ls2\ilvl0\nooverflow\nocwrap\li1194\fi-720\sl-230\tx1195\f10\fs20\b0\expnd-1\expndtw-5\charscalex100 Extendida,\expnd-2\expndtw-10  \expnd-1\expndtw-3 con\expnd-2\expndtw-8  \expnd-1\expndtw-3 un\expnd-2\expndtw-9  \expnd-1\expndtw-4 horario\expnd-2\expndtw-9  \expnd-1\expndtw-4 mayor\expnd-2\expndtw-8  \expnd-1\expndtw-3 al\expnd-2\expndtw-8  \expnd-1\expndtw-5 anteriormente\expnd-2\expndtw-9  \expnd-1\expndtw-5 establecido.\par\sect\sectd\sbkpage\headery592\footery641
+{\header
+{\shp{\*\shpinst\shpleft1222\shpright2275\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz28\shplid368{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw0\charscalex100 P\'E1gina\expnd0\expndtw-1  100\par}}}
+
+{\shp{\*\shpinst\shpleft5118\shpright7115\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz29\shplid372{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 PERI\'D3DICO OFICIAL\par}}}
+
+{\shp{\*\shpinst\shpleft10218\shpright10971\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz30\shplid376{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Alcance\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright1279\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz31\shplid380{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 2\par}}}
+
+{\shp{\*\shpinst\shpleft3649\shpright3706\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz32\shplid384{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 0\par}}}
+
+{\shp{\*\shpinst\shpleft6075\shpright6132\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz33\shplid388{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 1\par}}}
+
+{\shp{\*\shpinst\shpleft10912\shpright10969\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz34\shplid392{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 8\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10893\shptop856\shpbottom926\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz35\shplid396{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelesta\expnd-1\expndtw-6  \expnd0\expndtw-1 dodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3di\expnd-1\expndtw-5  \expnd0\expndtw-1 cooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehid\expnd-1\expndtw-6  \expnd0\expndtw-1 algoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestado\expnd-1\expndtw-6  \expnd0\expndtw-1 dehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgo\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10969\shptop895\shpbottom1005\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz36\shplid400{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 Peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dic\expnd-1\expndtw-5  \expnd0\expndtw-1 ooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadod\expnd-1\expndtw-6  \expnd0\expndtw-1 ehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicoo\expnd-1\expndtw-6  \expnd0\expndtw-1 ficialdelestadodehidalgo\expnd0\expndtw0   \expnd1\expndtw3  \expnd0\expndtw0 2\expnd0\expndtw1  \expnd0\expndtw0 0\par\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb5\f10\fs3\b0\expnd0\expndtw0\charscalex100 1 8\par}}}
+\pard\plain\s1\nooverflow\nocwrap\sl14\slmult1\fs20\par}\marglsxn1020\margrsxn1060\margtsxn980\margbsxn840\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs10\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri119\qj\sl240\slmult1\sb74\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd1\expndtw6  \expnd-1\expndtw-3 15.\expnd1\expndtw5  \f10\b0\expnd0\expndtw-2 La\expnd1\expndtw5  \expnd-1\expndtw-4 duraci\'F3n\expnd1\expndtw5  \expnd-1\expndtw-3 de\expnd1\expndtw6  \expnd0\expndtw-2 la\expnd1\expndtw6  \expnd-1\expndtw-4 jornada\expnd1\expndtw5  \expnd-1\expndtw-3 de\expnd1\expndtw6  \expnd-1\expndtw-4 trabajo\expnd1\expndtw5  \expnd0\expndtw-2 no\expnd1\expndtw5  \expnd-1\expndtw-4 har\'E1\expnd1\expndtw7  \expnd-1\expndtw-5 distinciones\expnd1\expndtw7  \expnd-1\expndtw-4 entre\expnd1\expndtw6  \expnd-1\expndtw-5 trabajadores\expnd1\expndtw7  \expnd-1\expndtw-3 de\expnd1\expndtw6  \expnd-1\expndtw-4 base,\expnd1\expndtw5  \expnd-1\expndtw-5 trabajadores\expnd1\expndtw7  \expnd-1\expndtw-3 de\f10\expnd14\expndtw71\charscalex100  \expnd-1\expndtw-5 confianza\expnd0\expndtw0  o \expnd-1\expndtw-5 trabajadores\expnd0\expndtw1  \expnd-1\expndtw-5 eventuales,\expnd0\expndtw-1  \expnd0\expndtw0 y\expnd0\expndtw-1  \expnd-1\expndtw-3 m\'E1s\expnd0\expndtw1  \expnd-1\expndtw-4 bien\expnd0\expndtw-1  \expnd-1\expndtw-4 ser\'E1\expnd0\expndtw0  \expnd-1\expndtw-3 la\expnd0\expndtw0  \expnd-1\expndtw-5 naturaleza\expnd0\expndtw-1  \expnd-1\expndtw-3 del\expnd0\expndtw0  \expnd-1\expndtw-4 cargo\expnd0\expndtw0  y\expnd0\expndtw-1  \expnd0\expndtw-2 el\expnd0\expndtw-1  \expnd-1\expndtw-4 \'E1rea\expnd0\expndtw0  \expnd-1\expndtw-3 de\expnd0\expndtw0  \expnd-1\expndtw-5 adscripci\'F3n\expnd0\expndtw0  \expnd0\expndtw-2 la\expnd0\expndtw0  \expnd-1\expndtw-4 que\expnd0\expndtw0  \expnd-1\expndtw-4 influya\f10\expnd22\expndtw111\charscalex100  \expnd0\expndtw-2 en\expnd-2\expndtw-9  \expnd0\expndtw-2 la\expnd-2\expndtw-9  \expnd-1\expndtw-5 eventual\expnd-2\expndtw-9  \expnd-1\expndtw-5 extensi\'F3n\expnd-2\expndtw-8  \expnd-1\expndtw-3 de\expnd-2\expndtw-9  \expnd0\expndtw-2 la\expnd-2\expndtw-8  \expnd-1\expndtw-4 jornada.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri115\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-2\expndtw-12  \expnd-1\expndtw-3 16.\expnd-2\expndtw-12  \f10\b0\expnd-1\expndtw-3 La\expnd-2\expndtw-10  \expnd-1\expndtw-4 hora\expnd-2\expndtw-11  \expnd-1\expndtw-3 de\expnd-2\expndtw-11  \expnd-1\expndtw-4 registro\expnd-2\expndtw-10  \expnd-1\expndtw-3 de\expnd-2\expndtw-11  \expnd-1\expndtw-4 entrada\expnd-2\expndtw-11  \expnd-1\expndtw-4 ser\'E1\expnd-2\expndtw-11  \expnd0\expndtw0 a\expnd-2\expndtw-10  \expnd-1\expndtw-4 partir\expnd-2\expndtw-11  \expnd0\expndtw-2 de\expnd-2\expndtw-11  \expnd-1\expndtw-3 las\expnd-2\expndtw-11  \expnd-1\expndtw-4 9:00\expnd-2\expndtw-11  \expnd-1\expndtw-4 nueve\expnd-2\expndtw-11  \expnd-1\expndtw-4 horas\expnd-2\expndtw-9  \expnd-1\expndtw-4 para\expnd-2\expndtw-10  \expnd-1\expndtw-5 trabajadores\expnd-2\expndtw-11  \expnd-1\expndtw-5 administrativos\expnd-2\expndtw-11  \expnd-1\expndtw-3 de\f10\expnd14\expndtw69\charscalex100  \expnd0\expndtw-2 la\expnd1\expndtw4  \expnd-1\expndtw-5 presidencia\expnd1\expndtw4  \expnd-1\expndtw-4 municipal\expnd1\expndtw4  \expnd0\expndtw0 y\expnd1\expndtw4  \expnd-1\expndtw-3 la\expnd1\expndtw4  \expnd-1\expndtw-4 salida\expnd1\expndtw4  \expnd0\expndtw0 a\expnd1\expndtw5  \expnd-1\expndtw-4 las\expnd1\expndtw4  \expnd-1\expndtw-4 16:30\expnd1\expndtw4  \expnd-1\expndtw-4 diecis\'E9is\expnd1\expndtw4  \expnd-1\expndtw-4 horas\expnd1\expndtw4  \expnd-1\expndtw-4 con\expnd1\expndtw5  \expnd-1\expndtw-5 treinta\expnd1\expndtw4  \expnd-1\expndtw-4 minutos,\expnd1\expndtw3  \expnd-1\expndtw-3 de\expnd1\expndtw5  \expnd-1\expndtw-4 lunes\expnd1\expndtw4  \expnd0\expndtw0 a\expnd1\expndtw4  \expnd-1\expndtw-4 viernes,\expnd1\expndtw3  \expnd-1\expndtw-4 salvo\expnd1\expndtw4  \expnd-1\expndtw-3 en\expnd1\expndtw5  \expnd-1\expndtw-4 las\f10\expnd12\expndtw61\charscalex100  \expnd-1\expndtw-4 \'E1reas\expnd-2\expndtw-8  \expnd-1\expndtw-4 que\expnd-2\expndtw-9  \expnd-1\expndtw-5 requieran\expnd-2\expndtw-8  \expnd-1\expndtw-3 un\expnd-2\expndtw-9  \expnd-1\expndtw-4 horario\expnd-2\expndtw-9  \expnd-1\expndtw-5 especial\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-5 conformidad\expnd-2\expndtw-9  \expnd-1\expndtw-3 con\expnd-2\expndtw-8  \expnd0\expndtw-2 el\expnd-2\expndtw-9  \expnd-1\expndtw-5 servicio\expnd-2\expndtw-9  \expnd-1\expndtw-3 que\expnd-2\expndtw-9  \expnd-1\expndtw-4 presta.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri116\qj\sl240\slmult1\f10\fs20\b0\expnd-1\expndtw-3\charscalex100 Los\expnd-2\expndtw-10  \expnd-1\expndtw-4 d\'EDas\expnd-2\expndtw-10  \expnd-1\expndtw-4 s\'E1bados\expnd-2\expndtw-10  \expnd-1\expndtw-3 el\expnd-2\expndtw-10  \expnd-1\expndtw-4 registro\expnd-2\expndtw-10  \expnd-1\expndtw-3 de\expnd-2\expndtw-10  \expnd-1\expndtw-4 entrada\expnd-2\expndtw-10  \expnd-1\expndtw-4 ser\'E1\expnd-2\expndtw-10  \expnd0\expndtw0 a\expnd-2\expndtw-10  \expnd-1\expndtw-4 partir\expnd-2\expndtw-10  \expnd-1\expndtw-3 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 las\expnd-2\expndtw-10  \expnd-1\expndtw-4 9:00\expnd-2\expndtw-10  \expnd-1\expndtw-4 nueve\expnd-2\expndtw-10  \expnd-1\expndtw-4 horas\expnd-2\expndtw-9  \expnd0\expndtw0 y\expnd-2\expndtw-11  \expnd-1\expndtw-3 la\expnd-2\expndtw-10  \expnd-1\expndtw-4 salida\expnd-2\expndtw-10  \expnd0\expndtw0 a\expnd-2\expndtw-10  \expnd-1\expndtw-4 las\expnd-2\expndtw-10  \expnd-1\expndtw-4 13:00\expnd-2\expndtw-10  \expnd-1\expndtw-4 trece,\expnd-2\expndtw-11  \expnd-1\expndtw-4 horas\expnd-2\expndtw-10  \expnd-1\expndtw-4 salvo\f10\expnd8\expndtw41\charscalex100  \expnd0\expndtw-2 en\expnd-2\expndtw-9  \expnd-1\expndtw-3 las\expnd-2\expndtw-9  \expnd-1\expndtw-4 \'E1reas\expnd-2\expndtw-9  \expnd-1\expndtw-3 que\expnd-2\expndtw-9  \expnd-1\expndtw-5 requieran\expnd-2\expndtw-9  \expnd-1\expndtw-4 horario\expnd-2\expndtw-8  \expnd-1\expndtw-4 especial\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-5 conformidad\expnd-2\expndtw-9  \expnd-1\expndtw-3 con\expnd-2\expndtw-9  \expnd0\expndtw-2 el\expnd-2\expndtw-9  \expnd-1\expndtw-5 servicio\expnd-2\expndtw-9  \expnd-1\expndtw-3 que\expnd-2\expndtw-9  \expnd-1\expndtw-4 prestan.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri118\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo \expnd-1\expndtw-3 17.\expnd-1\expndtw-4  \f10\b0\expnd0\expndtw-2 En\expnd-1\expndtw-3  \expnd-1\expndtw-4 todos\expnd-1\expndtw-3  \expnd-1\expndtw-4 los\expnd-1\expndtw-3  \expnd-1\expndtw-4 casos,\expnd-1\expndtw-5  \expnd-1\expndtw-3 se\expnd-1\expndtw-4  considera\expnd-1\expndtw-3  \expnd-1\expndtw-4 una\expnd-1\expndtw-3  \expnd-1\expndtw-5 tolerancia\expnd-1\expndtw-4  \expnd0\expndtw-2 de\expnd-1\expndtw-4  \expnd-1\expndtw-3 10 \expnd-1\expndtw-4 minutos\expnd-1\expndtw-3  \expnd-1\expndtw-4 despu\'E9s\expnd-1\expndtw-3  \expnd0\expndtw-2 de\expnd-1\expndtw-3  la\expnd-1\expndtw-4  hora\expnd-1\expndtw-3  de \expnd-1\expndtw-4 inicio\expnd-1\expndtw-3  de \expnd-1\expndtw-5 labores,\f10\expnd12\expndtw61\charscalex100  \expnd0\expndtw-2 la\expnd2\expndtw9  \expnd-1\expndtw-3 cual\expnd2\expndtw8  \expnd-1\expndtw-4 ser\'E1\expnd2\expndtw9  \expnd0\expndtw0 a\expnd2\expndtw9  \expnd-1\expndtw-3 las\expnd2\expndtw10  \expnd-1\expndtw-4 9:00\expnd2\expndtw10  \expnd-1\expndtw-4 nueve\expnd-1\expndtw-6  \expnd-1\expndtw-4 horas,\expnd2\expndtw8  \expnd-1\expndtw-4 dentro\expnd2\expndtw10  \expnd-1\expndtw-3 de\expnd2\expndtw10  \expnd-1\expndtw-3 los\expnd2\expndtw9  \expnd-1\expndtw-4 cuales\expnd2\expndtw10  \expnd-1\expndtw-4 pueden\expnd2\expndtw10  \expnd-1\expndtw-5 registrar\expnd2\expndtw9  \expnd-1\expndtw-5 normalmente\expnd2\expndtw9  \expnd-1\expndtw-3 los\expnd2\expndtw10  \expnd-1\expndtw-5 trabajadores.\expnd2\expndtw8  \expnd-1\expndtw-4 Una\expnd2\expndtw10  \expnd-1\expndtw-4 vez\f10\expnd15\expndtw75\charscalex100  \expnd-1\expndtw-4 pasado\expnd-2\expndtw-9  \expnd-1\expndtw-3 un\expnd-2\expndtw-8  \expnd-1\expndtw-4 minuto\expnd-2\expndtw-9  \expnd-1\expndtw-3 del\expnd-2\expndtw-8  \expnd-1\expndtw-4 tiempo\expnd-2\expndtw-8  \expnd-1\expndtw-3 de\expnd-2\expndtw-8  \expnd-1\expndtw-3 la\expnd-2\expndtw-8  \expnd-1\expndtw-5 tolerancia\expnd-2\expndtw-9  \expnd-1\expndtw-5 establecida,\expnd-2\expndtw-10  \expnd0\expndtw-2 se\expnd-2\expndtw-9  \expnd-1\expndtw-5 considerar\'E1\expnd-2\expndtw-9  \expnd-1\expndtw-4 retardo.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri113\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-3\expndtw-15  \expnd-1\expndtw-3 18.\expnd-3\expndtw-15  \f10\b0\expnd-1\expndtw-4 Los\expnd-3\expndtw-13  \expnd-1\expndtw-5 trabajadores\expnd-3\expndtw-15  \expnd-1\expndtw-3 que\expnd-3\expndtw-15  \expnd-1\expndtw-3 no\expnd-3\expndtw-15  \expnd-1\expndtw-3 se\expnd-3\expndtw-15  \expnd-1\expndtw-4 presenten\expnd-3\expndtw-15  \expnd0\expndtw0 a\expnd-3\expndtw-15  \expnd-1\expndtw-4 laborar\expnd-3\expndtw-15  \expnd-1\expndtw-3 en\expnd-3\expndtw-14  \expnd-1\expndtw-4 una\expnd-3\expndtw-14  \expnd-1\expndtw-5 jornada\expnd-3\expndtw-14  \expnd0\expndtw0 y\expnd-3\expndtw-16  \expnd-1\expndtw-3 que\expnd-3\expndtw-15  \expnd-1\expndtw-5 carezcan\expnd-3\expndtw-15  \expnd0\expndtw-2 de\expnd-3\expndtw-15  \expnd-1\expndtw-4 alguna\expnd-3\expndtw-15  \expnd-1\expndtw-4 comisi\'F3n\expnd-3\expndtw-16  \expnd-1\expndtw-4 oficial\f10\expnd13\expndtw63\charscalex100  \expnd-1\expndtw-3 que sea\expnd-1\expndtw-5  \expnd-1\expndtw-4 causal \expnd0\expndtw-2 de\expnd-1\expndtw-3  \expnd-1\expndtw-4 dicha\expnd-1\expndtw-3  \expnd-1\expndtw-4 ausencia, deber\'E1n\expnd-1\expndtw-3  \expnd-1\expndtw-5 justificar\expnd-1\expndtw-3  \expnd0\expndtw-2 su\expnd-1\expndtw-3  \expnd-1\expndtw-4 falta\expnd-1\expndtw-3  \expnd0\expndtw-2 en\expnd-1\expndtw-3  un \expnd-1\expndtw-4 plazo\expnd-1\expndtw-3  \expnd-1\expndtw-4 m\'E1ximo\expnd-1\expndtw-3  de\expnd0\expndtw-2  \expnd-1\expndtw-3 24 \expnd-1\expndtw-4 horas\expnd-1\expndtw-3  \expnd-1\expndtw-4 con\expnd0\expndtw-2  \expnd-1\expndtw-4 alg\'FAn\expnd1\expndtw4  \expnd-1\expndtw-5 escrito\expnd0\expndtw-2  \expnd-1\expndtw-4 que\f10\expnd13\expndtw65\charscalex100  \expnd-1\expndtw-4 avale\expnd-2\expndtw-9  \expnd0\expndtw-2 el\expnd-2\expndtw-9  \expnd-1\expndtw-4 motivo\expnd-2\expndtw-8  \expnd-1\expndtw-3 de\expnd-2\expndtw-9  \expnd-1\expndtw-3 su\expnd-2\expndtw-8  \expnd-1\expndtw-4 ausencia.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri116\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo 19.\expnd-1\expndtw-5  \f10\b0\expnd0\expndtw-2 En\expnd-1\expndtw-5  \expnd-1\expndtw-4 caso\expnd-1\expndtw-3  de\expnd-1\expndtw-4  \expnd-1\expndtw-5 reincidencias\expnd-1\expndtw-4  \expnd0\expndtw-2 en\expnd-1\expndtw-4  los\expnd0\expndtw-2  \expnd-1\expndtw-5 retardos\expnd-1\expndtw-3  \expnd0\expndtw0 o\expnd-1\expndtw-5  \expnd-1\expndtw-4 faltas\expnd0\expndtw-2  \expnd-1\expndtw-5 injustificadas, \expnd0\expndtw-2 se\expnd-1\expndtw-6  \expnd-1\expndtw-5 establecer\'E1n\expnd-1\expndtw-3  \expnd-1\expndtw-4 las\expnd0\expndtw-2  \expnd-1\expndtw-5 sanciones\expnd0\expndtw-2  \expnd-1\expndtw-5 conforme\f10\expnd24\expndtw121\charscalex100  \expnd0\expndtw0 a\expnd-2\expndtw-8  \expnd-1\expndtw-3 la\expnd-2\expndtw-8  \expnd-1\expndtw-4 tabla\expnd-2\expndtw-9  \expnd-1\expndtw-3 del\expnd-2\expndtw-9  \expnd-1\expndtw-4 art\'EDculo\expnd-2\expndtw-9  \expnd0\expndtw-2 56\expnd-2\expndtw-9  \expnd-1\expndtw-3 del\expnd-2\expndtw-9  \expnd-1\expndtw-5 presente\expnd-2\expndtw-9  \expnd-1\expndtw-5 reglamento.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri120\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd0\expndtw1  \expnd-1\expndtw-3 20.\expnd0\expndtw2  \f10\b0\expnd-1\expndtw-4 Adem\'E1s\expnd0\expndtw2  \expnd0\expndtw-2 de\expnd0\expndtw1  \expnd-1\expndtw-3 la\expnd0\expndtw1  \expnd-1\expndtw-4 ausencia\expnd0\expndtw1  \expnd-1\expndtw-3 del\expnd0\expndtw2  \expnd-1\expndtw-5 trabajador\expnd0\expndtw2  \expnd0\expndtw-2 en\expnd0\expndtw0  \expnd-1\expndtw-3 una\expnd0\expndtw1  \expnd-1\expndtw-4 jornada,\expnd0\expndtw1  \expnd-1\expndtw-3 se\expnd0\expndtw1  \expnd-1\expndtw-5 consideran\expnd0\expndtw1  \expnd-1\expndtw-4 faltas\expnd0\expndtw2  \expnd-1\expndtw-3 de\expnd0\expndtw1  \expnd-1\expndtw-5 asistencia\expnd0\expndtw1  \expnd-1\expndtw-3 al\expnd0\expndtw2  \expnd-1\expndtw-5 trabajo\expnd0\expndtw1  \expnd-1\expndtw-3 las\f10\expnd15\expndtw75\charscalex100  \expnd-1\expndtw-4 siguientes:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls3\ilvl0\nooverflow\nocwrap\li834\fi-464\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-4\charscalex100 Cuando\expnd-2\expndtw-9  \expnd0\expndtw-2 el\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajador\expnd-2\expndtw-9  \expnd-1\expndtw-3 se\expnd-2\expndtw-9  \expnd-1\expndtw-5 presenta\expnd-2\expndtw-9  \expnd0\expndtw0 a\expnd-2\expndtw-9  \expnd-1\expndtw-3 sus\expnd-2\expndtw-9  \expnd-1\expndtw-4 labores\expnd-2\expndtw-8  \expnd-1\expndtw-5 despu\'E9s\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-3 los\expnd-2\expndtw-9  \expnd-1\expndtw-3 30\expnd-2\expndtw-8  \expnd-1\expndtw-4 minutos\expnd-2\expndtw-9  \expnd-1\expndtw-5 posteriores\expnd-2\expndtw-9  \expnd0\expndtw0 a\expnd-2\expndtw-8  \expnd-1\expndtw-3 la\expnd-2\expndtw-9  \expnd-1\expndtw-4 hora\expnd-2\expndtw-9  \expnd-1\expndtw-3 de\expnd-2\expndtw-8  \expnd-1\expndtw-5 entrada;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls3\ilvl0\nooverflow\nocwrap\li834\fi-515\ri124\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw-2\charscalex100 Si\expnd-4\expndtw-21  \expnd0\expndtw-2 el\expnd-4\expndtw-20  \expnd-1\expndtw-5 trabajador\expnd-4\expndtw-21  \expnd-1\expndtw-4 abandona\expnd-4\expndtw-22  \expnd-1\expndtw-3 sus\expnd-4\expndtw-21  \expnd-1\expndtw-4 labores\expnd-4\expndtw-21  \expnd-1\expndtw-4 antes\expnd-4\expndtw-21  \expnd-1\expndtw-3 de\expnd-4\expndtw-20  \expnd-1\expndtw-3 la\expnd-4\expndtw-21  \expnd-1\expndtw-4 hora\expnd-4\expndtw-21  \expnd-1\expndtw-3 de\expnd-4\expndtw-21  \expnd-1\expndtw-4 salida,\expnd-4\expndtw-22  \expnd-1\expndtw-3 sin\expnd-4\expndtw-21  \expnd-1\expndtw-4 previa\expnd-4\expndtw-21  \expnd-1\expndtw-5 autorizaci\'F3n\expnd-4\expndtw-21  \expnd-1\expndtw-3 por\expnd-4\expndtw-21  \expnd-1\expndtw-5 escrito\expnd-4\expndtw-21  \expnd-1\expndtw-3 del\expnd-4\expndtw-21  \expnd-1\expndtw-5 Director\f10\expnd15\expndtw73\charscalex100  \expnd0\expndtw-2 de\expnd-2\expndtw-8  \expnd-1\expndtw-4 \'C1rea;\expnd-2\expndtw-9  \expnd-1\expndtw-3 y,\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls3\ilvl0\nooverflow\nocwrap\li834\fi-567\ri124\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw-2\charscalex100 Si\expnd0\expndtw0  \expnd-1\expndtw-5 injustificadamente\expnd0\expndtw-1  \expnd-1\expndtw-3 no\expnd0\expndtw0  \expnd-1\expndtw-5 registra\expnd0\expndtw0  \expnd-1\expndtw-3 su\expnd0\expndtw0  \expnd-1\expndtw-5 entrada\expnd0\expndtw0  o\expnd0\expndtw-1  \expnd-1\expndtw-4 salida,\expnd0\expndtw-2  \expnd0\expndtw0 o \expnd-1\expndtw-4 bien\expnd0\expndtw0  \expnd-1\expndtw-3 si\expnd0\expndtw0  \expnd0\expndtw-2 el\expnd0\expndtw-1  \expnd-1\expndtw-4 registro\expnd0\expndtw-1  \expnd-1\expndtw-3 de\expnd0\expndtw0  \expnd-1\expndtw-4 salida\expnd0\expndtw-1  \expnd-1\expndtw-3 se\expnd0\expndtw0  \expnd-1\expndtw-4 hace\expnd0\expndtw-1  \expnd-1\expndtw-4 antes\expnd0\expndtw-1  \expnd0\expndtw-2 de\expnd0\expndtw0  \expnd-1\expndtw-3 la\expnd0\expndtw0  \expnd-1\expndtw-4 hora\f10\expnd17\expndtw87\charscalex100  \expnd-1\expndtw-5 correspondiente,\expnd-2\expndtw-10  \expnd-1\expndtw-3 sin\expnd-2\expndtw-9  \expnd-1\expndtw-4 contar\expnd-2\expndtw-9  \expnd-1\expndtw-3 con\expnd-2\expndtw-9  \expnd0\expndtw-2 la\expnd-2\expndtw-9  \expnd-1\expndtw-4 debida\expnd-2\expndtw-9  \expnd-1\expndtw-5 autorizaci\'F3n\expnd-2\expndtw-9  \expnd-1\expndtw-3 por\expnd-2\expndtw-9  \expnd-1\expndtw-5 escrito\expnd-2\expndtw-9  \expnd-1\expndtw-3 del\expnd-2\expndtw-9  \expnd-1\expndtw-4 Director\expnd-2\expndtw-9  \expnd-1\expndtw-3 de\expnd-2\expndtw-8  \expnd-1\expndtw-4 \'C1rea.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri117\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo 21. \f10\b0\expnd-1\expndtw-3 Una\expnd-1\expndtw-5  \expnd-1\expndtw-4 vez\expnd-1\expndtw-3  \expnd-1\expndtw-5 ingresando\expnd-1\expndtw-3  \expnd0\expndtw0 a\expnd-1\expndtw-5  \expnd-1\expndtw-3 la\expnd-1\expndtw-4  \expnd-1\expndtw-5 presidencia\expnd-1\expndtw-4  \expnd-1\expndtw-5 municipal\expnd-1\expndtw-4  cada\expnd-1\expndtw-3  \expnd-1\expndtw-5 trabajador\expnd-1\expndtw-4  deber\'E1 \expnd-1\expndtw-5 registrar\expnd-1\expndtw-4  \expnd-1\expndtw-3 su\expnd-1\expndtw-4  hora \expnd0\expndtw-2 de\expnd-1\expndtw-5  \expnd-1\expndtw-4 entrada,\expnd-1\expndtw-5  \expnd-1\expndtw-3 as\'ED\f10\expnd21\expndtw103\charscalex100  \expnd-1\expndtw-4 como\expnd-2\expndtw-8  \expnd0\expndtw-2 la\expnd-2\expndtw-9  \expnd-1\expndtw-4 hora\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 salida\expnd-2\expndtw-8  \expnd0\expndtw-2 al\expnd-2\expndtw-9  \expnd-1\expndtw-4 concluir\expnd-2\expndtw-8  \expnd-1\expndtw-3 su\expnd-2\expndtw-8  \expnd-1\expndtw-4 jornada,\expnd-2\expndtw-10  \expnd0\expndtw-2 en\expnd-2\expndtw-8  \expnd-1\expndtw-4 los\expnd-2\expndtw-8  \expnd-1\expndtw-4 libros\expnd-2\expndtw-8  \expnd-1\expndtw-3 de\expnd-2\expndtw-8  \expnd-1\expndtw-5 asistencia\expnd-2\expndtw-8  \expnd-1\expndtw-4 que\expnd-2\expndtw-8  \expnd-1\expndtw-4 est\'E1n\expnd-2\expndtw-9  \expnd-1\expndtw-5 destinados\expnd-2\expndtw-8  \expnd-1\expndtw-4 para\expnd-2\expndtw-8  \expnd-1\expndtw-4 ello\expnd-2\expndtw-9  \expnd0\expndtw0 o\expnd-2\expndtw-8  \expnd0\expndtw0 a\expnd-2\expndtw-8  \expnd-1\expndtw-5 trav\'E9s\expnd-2\expndtw-8  \expnd-1\expndtw-3 del\f10\expnd16\expndtw81\charscalex100  \expnd-1\expndtw-4 sistema\expnd-2\expndtw-9  \expnd-1\expndtw-4 digital.\expnd-2\expndtw-9  \expnd0\expndtw-2 El\expnd-2\expndtw-8  \expnd-1\expndtw-4 registro\expnd-2\expndtw-9  \expnd-1\expndtw-3 es\expnd-2\expndtw-9  \expnd-1\expndtw-4 personal\expnd-2\expndtw-9  \expnd0\expndtw0 e\expnd-2\expndtw-8  \expnd-1\expndtw-5 intransferible.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri114\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-2\expndtw-10  \expnd-1\expndtw-3 22.\expnd-2\expndtw-12  \f10\b0\expnd-1\expndtw-3 Una\expnd-2\expndtw-10  \expnd-1\expndtw-4 vez\expnd-2\expndtw-10  \expnd-1\expndtw-3 que\expnd-2\expndtw-11  \expnd-1\expndtw-4 registre\expnd-2\expndtw-11  \expnd-1\expndtw-3 su\expnd-2\expndtw-10  \expnd-1\expndtw-4 entrada,\expnd-2\expndtw-11  \expnd-1\expndtw-3 el\expnd-2\expndtw-10  \expnd-1\expndtw-5 trabajador\expnd-2\expndtw-11  \expnd-1\expndtw-4 deber\'E1\expnd-2\expndtw-11  \expnd-1\expndtw-5 concentrarse\expnd-2\expndtw-10  \expnd-1\expndtw-3 en\expnd-2\expndtw-11  \expnd-1\expndtw-3 su\expnd-2\expndtw-10  \expnd-1\expndtw-4 lugar\expnd-2\expndtw-10  \expnd-1\expndtw-3 de\expnd-2\expndtw-10  \expnd-1\expndtw-4 trabajo\expnd-2\expndtw-11  \expnd-1\expndtw-4 para\expnd-2\expndtw-10  \expnd-1\expndtw-4 iniciar\expnd-2\expndtw-11  \expnd-1\expndtw-4 las\f10\expnd13\expndtw65\charscalex100  \expnd-1\expndtw-5 actividades\expnd-2\expndtw-9  \expnd-1\expndtw-5 encomendadas.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri117\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo \expnd-1\expndtw-3 23.\expnd-1\expndtw-4  \f10\b0\expnd0\expndtw-2 El\expnd-1\expndtw-4  lugar\expnd-1\expndtw-3  de \expnd-1\expndtw-5 terminaci\'F3n\expnd-1\expndtw-3  de la \expnd-1\expndtw-4 jornada\expnd0\expndtw-2  \expnd-1\expndtw-4 laboral ser\'E1 \expnd0\expndtw-2 en\expnd-1\expndtw-4  \expnd0\expndtw-2 el\expnd-1\expndtw-4  \'E1rea\expnd-1\expndtw-3  de\expnd-1\expndtw-4  \expnd-1\expndtw-5 desempe\'F1o\expnd-1\expndtw-4  \expnd0\expndtw-2 de\expnd-1\expndtw-5  \expnd-1\expndtw-3 sus\expnd-1\expndtw-4  \expnd-1\expndtw-5 actividades\expnd-1\expndtw-3  \expnd-1\expndtw-4 una\expnd-1\expndtw-3  \expnd-1\expndtw-4 vez\f10\expnd15\expndtw75\charscalex100  \expnd-1\expndtw-3 que\expnd0\expndtw-2  se \expnd-1\expndtw-4 haya\expnd0\expndtw-1  \expnd-1\expndtw-5 cubierto\expnd0\expndtw-1  \expnd0\expndtw-2 la\expnd0\expndtw-1  \expnd-1\expndtw-4 jornada\expnd0\expndtw-1  \expnd-1\expndtw-4 laboral,\expnd0\expndtw-2  \expnd0\expndtw0 a\expnd0\expndtw-2  \expnd-1\expndtw-4 excepci\'F3n\expnd0\expndtw-1  \expnd-1\expndtw-3 de\expnd0\expndtw-2  \expnd-1\expndtw-4 aquella\expnd0\expndtw-2  \expnd-1\expndtw-4 persona\expnd0\expndtw-2  \expnd-1\expndtw-3 que\expnd0\expndtw-1  \expnd-1\expndtw-4 por\expnd0\expndtw-1  \expnd-1\expndtw-4 alguna\expnd0\expndtw-1  \expnd-1\expndtw-4 comisi\'F3n\expnd0\expndtw-1  \expnd-1\expndtw-4 haya\expnd0\expndtw-2  \expnd-1\expndtw-4 salido\expnd0\expndtw-2  de \expnd-1\expndtw-3 su\f10\expnd9\expndtw43\charscalex100  \expnd-1\expndtw-4 \'E1rea\expnd-2\expndtw-8  \expnd-1\expndtw-3 de\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajo\expnd-2\expndtw-8  \expnd-1\expndtw-3 la\expnd-2\expndtw-9  \expnd-1\expndtw-3 cual\expnd-2\expndtw-9  \expnd-1\expndtw-4 deber\'E1\expnd-2\expndtw-9  \expnd-1\expndtw-5 justificar.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li3684\fi780\ri3674\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 CAPITULO\expnd-2\expndtw-8  \expnd-1\expndtw-3 IV\f12\expnd5\expndtw23\charscalex100  \expnd-1\expndtw-4 SALARIOS\expnd-2\expndtw-9  \expnd0\expndtw0 Y\expnd-2\expndtw-10  \expnd-1\expndtw-3 DIAS\expnd-2\expndtw-8  \expnd-1\expndtw-5 PAGADOS.\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f12\fs20\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri114\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-3\expndtw-15  \expnd-1\expndtw-3 24.\expnd-3\expndtw-14  \f10\b0\expnd-1\expndtw-3 El\expnd-3\expndtw-15  \expnd-1\expndtw-4 salario\expnd-3\expndtw-15  \expnd-1\expndtw-3 es\expnd-3\expndtw-13  \expnd-1\expndtw-3 la\expnd-3\expndtw-15  \expnd-1\expndtw-5 retribuci\'F3n\expnd-3\expndtw-15  \expnd-1\expndtw-3 que\expnd-3\expndtw-15  \expnd0\expndtw-2 la\expnd-3\expndtw-15  \expnd-1\expndtw-5 presidencia\expnd-3\expndtw-15  \expnd-1\expndtw-4 municipal\expnd-3\expndtw-15  \expnd-1\expndtw-4 paga\expnd-3\expndtw-15  \expnd0\expndtw0 a\expnd-3\expndtw-15  \expnd-1\expndtw-3 sus\expnd-3\expndtw-15  \expnd-1\expndtw-5 trabajadores\expnd-3\expndtw-15  \expnd-1\expndtw-4 acorde\expnd-3\expndtw-15  \expnd-1\expndtw-4 con\expnd-3\expndtw-14  \expnd-1\expndtw-3 el\expnd-3\expndtw-15  \expnd-1\expndtw-4 puesto\expnd-3\expndtw-16  \expnd-1\expndtw-3 que\f10\expnd15\expndtw77\charscalex100  \expnd-1\expndtw-4 tiene\expnd-2\expndtw-9  \expnd-1\expndtw-4 asignado.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri115\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-1\expndtw-6  \expnd-1\expndtw-3 25.\expnd-1\expndtw-6  \f10\b0\expnd0\expndtw-2 El\expnd-1\expndtw-4  lugar\expnd-1\expndtw-5  \expnd-1\expndtw-3 de\expnd-1\expndtw-6  \expnd-1\expndtw-4 pago\expnd-1\expndtw-5  \expnd-1\expndtw-3 de\expnd-1\expndtw-6  \expnd-1\expndtw-3 los\expnd-1\expndtw-5  trabajadores\expnd-1\expndtw-6  \expnd-1\expndtw-4 ser\'E1\expnd-1\expndtw-6  \expnd0\expndtw-2 en\expnd-1\expndtw-5  \expnd-1\expndtw-3 la\expnd-1\expndtw-4  \expnd-1\expndtw-5 tesorer\'EDa municipal,\expnd-1\expndtw-6  \expnd-1\expndtw-5 ubicada\expnd-1\expndtw-6  \expnd-1\expndtw-3 en\expnd-1\expndtw-6  \expnd0\expndtw-2 el\expnd-1\expndtw-6  \expnd-1\expndtw-4 primer\expnd-1\expndtw-5  \expnd-1\expndtw-4 piso\expnd-1\expndtw-6  \expnd0\expndtw0 o\expnd-1\expndtw-6  \expnd-1\expndtw-4 bien por\f10\expnd18\expndtw91\charscalex100  \expnd-1\expndtw-4 medio\expnd-2\expndtw-8  \expnd-1\expndtw-5 electr\'F3nico\expnd-2\expndtw-8  \expnd0\expndtw0 a\expnd-2\expndtw-8  \expnd-1\expndtw-5 trav\'E9s\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-8  \expnd-1\expndtw-5 tarjetas\expnd-2\expndtw-9  \expnd-1\expndtw-4 bancarias.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri116\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-1\expndtw-7  \expnd-1\expndtw-3 26.\expnd-1\expndtw-7  \f10\b0\expnd-1\expndtw-4 Los\expnd-1\expndtw-5  \expnd-1\expndtw-4 d\'EDas\expnd-1\expndtw-6  \expnd-1\expndtw-3 de\expnd-1\expndtw-7  \expnd-1\expndtw-4 pago\expnd-1\expndtw-6  \expnd-1\expndtw-4 para\expnd-1\expndtw-7  \expnd-1\expndtw-4 los\expnd-1\expndtw-5  trabajadores \expnd-1\expndtw-3 de\expnd-1\expndtw-6  \expnd-1\expndtw-3 la\expnd-1\expndtw-7  \expnd-1\expndtw-5 presidencia\expnd-1\expndtw-7  \expnd-1\expndtw-4 municipal\expnd-1\expndtw-7  \expnd-1\expndtw-4 ser\'EDan\expnd-1\expndtw-7  \expnd-1\expndtw-4 los \expnd-1\expndtw-3 15\expnd-1\expndtw-6  \expnd0\expndtw0 y\expnd-2\expndtw-8  \expnd-1\expndtw-4 fin\expnd-1\expndtw-6  \expnd-1\expndtw-3 de\expnd-1\expndtw-7  \expnd-1\expndtw-4 cada\expnd-1\expndtw-7  \expnd-1\expndtw-3 mes\expnd-1\expndtw-7  \expnd-1\expndtw-3 m\'E1s\f10\expnd17\expndtw83\charscalex100  \expnd0\expndtw0 y\expnd5\expndtw23  \expnd0\expndtw-2 si\expnd5\expndtw24  \expnd0\expndtw-2 el\expnd5\expndtw23  \expnd-1\expndtw-3 d\'EDa\expnd5\expndtw24  \expnd-1\expndtw-3 de\expnd5\expndtw23  \expnd-1\expndtw-4 pago\expnd5\expndtw23  \expnd-1\expndtw-5 correspondiera\expnd5\expndtw24  \expnd-1\expndtw-3 uno\expnd5\expndtw23  \expnd0\expndtw-2 de\expnd5\expndtw24  \expnd-1\expndtw-5 descanso,\expnd5\expndtw23  \expnd0\expndtw-2 se\expnd5\expndtw24  \expnd-1\expndtw-4 pagar\'E1\expnd5\expndtw24  \expnd-1\expndtw-3 el\expnd5\expndtw24  \expnd-1\expndtw-3 d\'EDa\expnd5\expndtw24  \expnd-1\expndtw-4 h\'E1bil\expnd5\expndtw24  \expnd-1\expndtw-5 inmediato\expnd5\expndtw27  \expnd-1\expndtw-5 anterior,\expnd5\expndtw23  \expnd-1\expndtw-4 mismos\expnd5\expndtw25  \expnd-1\expndtw-3 que\expnd5\expndtw23  \expnd0\expndtw-2 se\f10\expnd18\expndtw89\charscalex100  \expnd-1\expndtw-5 realizar\'E1n\expnd-2\expndtw-8  \expnd-1\expndtw-4 dentro\expnd-2\expndtw-8  \expnd-1\expndtw-3 de\expnd-2\expndtw-8  \expnd-1\expndtw-4 las\expnd-2\expndtw-8  \expnd-1\expndtw-4 horas\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajo.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri121\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd0\expndtw2  \expnd-1\expndtw-3 27.\expnd1\expndtw3  \f10\b0\expnd0\expndtw-2 El\expnd1\expndtw4  \expnd-1\expndtw-4 salario\expnd1\expndtw4  \expnd-1\expndtw-4 base\expnd1\expndtw4  \expnd-1\expndtw-4 fijo\expnd1\expndtw3  \expnd0\expndtw-2 de\expnd1\expndtw3  \expnd-1\expndtw-4 cada\expnd1\expndtw3  \expnd-1\expndtw-5 trabajador\expnd1\expndtw4  \expnd-1\expndtw-3 no\expnd1\expndtw3  \expnd-1\expndtw-4 ser\'E1\expnd1\expndtw3  \expnd-1\expndtw-4 reducido,\expnd0\expndtw2  \expnd-1\expndtw-4 salvo\expnd1\expndtw3  \expnd-1\expndtw-3 que\expnd1\expndtw3  \expnd-1\expndtw-3 se\expnd1\expndtw4  \expnd-1\expndtw-4 trate\expnd1\expndtw4  \expnd-1\expndtw-3 de\expnd1\expndtw3  \expnd-1\expndtw-4 puestos\expnd1\expndtw4  \expnd-1\expndtw-5 directivos,\expnd1\expndtw3  \expnd0\expndtw0 y\expnd1\expndtw3  \expnd-1\expndtw-3 no\f10\expnd13\expndtw63\charscalex100  \expnd-1\expndtw-4 podr\'E1\expnd-2\expndtw-9  \expnd-1\expndtw-4 ser\expnd-2\expndtw-8  \expnd-1\expndtw-4 menor\expnd-2\expndtw-9  \expnd0\expndtw-2 al\expnd-2\expndtw-9  \expnd-1\expndtw-4 salario\expnd-2\expndtw-9  \expnd-1\expndtw-4 m\'EDnimo\expnd-2\expndtw-8  \expnd-1\expndtw-5 vigente\expnd-2\expndtw-8  \expnd-1\expndtw-3 en\expnd-2\expndtw-9  \expnd0\expndtw-2 el\expnd-2\expndtw-8  \expnd-1\expndtw-4 municipio.\par\sect\sectd\sbkpage\headery592\footery641
+{\header
+{\shp{\*\shpinst\shpleft1222\shpright1975\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz37\shplid446{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Alcance\par}}}
+
+{\shp{\*\shpinst\shpleft5156\shpright7153\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz38\shplid450{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 PERI\'D3DICO OFICIAL\par}}}
+
+{\shp{\*\shpinst\shpleft9918\shpright10971\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz39\shplid454{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw0\charscalex100 P\'E1gina\expnd0\expndtw-1  101\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright1279\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz40\shplid458{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 2\par}}}
+
+{\shp{\*\shpinst\shpleft4449\shpright4506\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz41\shplid462{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 0\par}}}
+
+{\shp{\*\shpinst\shpleft7676\shpright7733\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz42\shplid466{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 1\par}}}
+
+{\shp{\*\shpinst\shpleft10902\shpright10959\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz43\shplid470{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 8\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10893\shptop856\shpbottom926\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz44\shplid474{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelesta\expnd-1\expndtw-6  \expnd0\expndtw-1 dodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3di\expnd-1\expndtw-5  \expnd0\expndtw-1 cooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehid\expnd-1\expndtw-6  \expnd0\expndtw-1 algoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestado\expnd-1\expndtw-6  \expnd0\expndtw-1 dehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgo\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10957\shptop895\shpbottom1005\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz45\shplid478{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 Peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dic\expnd-1\expndtw-5  \expnd0\expndtw-1 ooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadod\expnd-1\expndtw-6  \expnd0\expndtw-1 ehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicoo\expnd-1\expndtw-6  \expnd0\expndtw-1 ficialdelestadodehidalgo\expnd0\expndtw0  \expnd0\expndtw1  \expnd0\expndtw0 2 0\par\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb5\f10\fs3\b0\expnd0\expndtw0\charscalex100 1 8\par}}}
+\pard\plain\s1\nooverflow\nocwrap\sl14\slmult1\fs20\par}\marglsxn1020\margrsxn1060\margtsxn980\margbsxn840\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb4\f10\fs12\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri113\qj\sl240\slmult1\sb74\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-3\expndtw-15  \expnd-1\expndtw-3 28.\expnd-3\expndtw-14  \f10\b0\expnd-1\expndtw-3 En\expnd-3\expndtw-15  \expnd-1\expndtw-4 caso\expnd-3\expndtw-15  \expnd-1\expndtw-3 de\expnd-3\expndtw-15  \expnd-1\expndtw-4 haber\expnd-3\expndtw-16  \expnd-1\expndtw-4 alguna\expnd-3\expndtw-15  \expnd-1\expndtw-5 inconformidad\expnd-3\expndtw-15  \expnd-1\expndtw-4 con\expnd-3\expndtw-15  \expnd0\expndtw-2 la\expnd-3\expndtw-16  \expnd-1\expndtw-4 cantidad\expnd-3\expndtw-15  \expnd-1\expndtw-4 del\expnd-3\expndtw-15  \expnd-1\expndtw-4 salario,\expnd-3\expndtw-16  \expnd-1\expndtw-4 \'E9sta\expnd-3\expndtw-15  \expnd-1\expndtw-4 deber\'E1\expnd-3\expndtw-15  \expnd-1\expndtw-5 realizarse\expnd-3\expndtw-16  \expnd0\expndtw-2 el\expnd-3\expndtw-15  \expnd-1\expndtw-4 d\'EDa\expnd-3\expndtw-15  \expnd0\expndtw-2 de\expnd-3\expndtw-15  \expnd-1\expndtw-4 pago,\f10\expnd16\expndtw81\charscalex100  \expnd-1\expndtw-4 ante\expnd-2\expndtw-8  \expnd-1\expndtw-3 la\expnd-2\expndtw-8  \expnd-1\expndtw-5 tesorer\'EDa\expnd-2\expndtw-8  \expnd-1\expndtw-4 municipal\expnd-2\expndtw-8  \expnd0\expndtw0 y\expnd-2\expndtw-10  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 manera\expnd-2\expndtw-9  \expnd-1\expndtw-4 personal.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri117\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd3\expndtw13  \expnd-1\expndtw-3 29.\expnd3\expndtw13  \f10\b0\expnd0\expndtw-2 El\expnd3\expndtw13  \expnd-1\expndtw-4 salario\expnd3\expndtw13  \expnd-1\expndtw-3 se\expnd2\expndtw12  \expnd-1\expndtw-4 pagar\'E1\expnd3\expndtw13  \expnd-1\expndtw-3 de\expnd3\expndtw13  \expnd-1\expndtw-4 manera\expnd2\expndtw12  \expnd-1\expndtw-4 directa\expnd2\expndtw12  \expnd0\expndtw0 y\expnd3\expndtw13  \expnd-1\expndtw-4 personal\expnd3\expndtw13  \expnd0\expndtw0 a\expnd2\expndtw12  \expnd-1\expndtw-4 cada\expnd3\expndtw13  \expnd-1\expndtw-5 trabajador,\expnd3\expndtw13  \expnd-1\expndtw-4 salvo\expnd3\expndtw13  \expnd-1\expndtw-3 en\expnd3\expndtw13  \expnd-1\expndtw-4 los\expnd3\expndtw14  \expnd-1\expndtw-4 casos\expnd3\expndtw14  \expnd-1\expndtw-3 de\expnd3\expndtw13  \expnd-1\expndtw-3 que\expnd3\expndtw13  \expnd-1\expndtw-4 por\f10\expnd10\expndtw51\charscalex100  \expnd-1\expndtw-4 razones\expnd-1\expndtw-5  \expnd-1\expndtw-3 de\expnd-1\expndtw-6  \expnd-1\expndtw-5 enfermedad\expnd-1\expndtw-6  \expnd0\expndtw0 o\expnd-1\expndtw-6  \expnd-1\expndtw-4 causas\expnd-1\expndtw-5  \expnd-1\expndtw-3 de\expnd-1\expndtw-4  \expnd-1\expndtw-5 fuerza\expnd-1\expndtw-6  \expnd-1\expndtw-4 mayor,\expnd-1\expndtw-6  \expnd0\expndtw-2 el\expnd-1\expndtw-6  \expnd-1\expndtw-5 interesado\expnd-1\expndtw-6  \expnd0\expndtw-2 no\expnd-1\expndtw-7  \expnd-1\expndtw-3 se\expnd-1\expndtw-6  \expnd-1\expndtw-4 pueda\expnd-1\expndtw-5  presentar,\expnd-1\expndtw-6  \expnd0\expndtw-2 en\expnd-1\expndtw-7  \expnd-1\expndtw-4 cuyo\expnd-1\expndtw-5  \expnd-1\expndtw-4 caso\expnd-1\expndtw-6  \expnd-1\expndtw-3 se\expnd-1\expndtw-6  \expnd-1\expndtw-5 otorgar\'E1\expnd-1\expndtw-6  \expnd0\expndtw0 a\f10\expnd17\expndtw85\charscalex100  \expnd0\expndtw-2 la\expnd-2\expndtw-9  \expnd-1\expndtw-4 persona\expnd-2\expndtw-9  \expnd-1\expndtw-3 que\expnd-2\expndtw-8  \expnd-1\expndtw-4 \'E9ste\expnd-2\expndtw-9  \expnd-1\expndtw-4 designe,\expnd-2\expndtw-9  \expnd-1\expndtw-4 bajo\expnd-2\expndtw-9  \expnd0\expndtw-2 el\expnd-2\expndtw-9  \expnd-1\expndtw-4 respaldo\expnd-2\expndtw-9  \expnd-1\expndtw-3 de\expnd-2\expndtw-8  \expnd-1\expndtw-4 una\expnd-2\expndtw-9  \expnd-1\expndtw-4 carta\expnd-2\expndtw-9  \expnd-1\expndtw-4 poder.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri118\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd5\expndtw27  \expnd-1\expndtw-3 30.\expnd6\expndtw29  \f10\b0\expnd-1\expndtw-4 Bajo\expnd5\expndtw27  \expnd-1\expndtw-4 ninguna\expnd6\expndtw28  \expnd-1\expndtw-5 circunstancia,\expnd5\expndtw27  \expnd0\expndtw-2 se\expnd6\expndtw28  \expnd-1\expndtw-4 podr\'E1\expnd5\expndtw27  \expnd-1\expndtw-4 ceder\expnd5\expndtw27  \expnd-1\expndtw-4 salario\expnd6\expndtw28  \expnd-1\expndtw-4 alguno\expnd5\expndtw27  \expnd0\expndtw0 a\expnd6\expndtw29  \expnd-1\expndtw-4 favor\expnd5\expndtw27  \expnd-1\expndtw-3 del\expnd6\expndtw29  \expnd-1\expndtw-5 Ayuntamiento\expnd5\expndtw27  \expnd0\expndtw0 o\expnd6\expndtw28  \expnd-1\expndtw-3 de\expnd6\expndtw28  \expnd-1\expndtw-5 terceras\f10\expnd14\expndtw69\charscalex100  \expnd-1\expndtw-4 personas.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-2\expndtw-9  \expnd-1\expndtw-3 31.\expnd-2\expndtw-9  \f10\b0\expnd-1\expndtw-4 Las\expnd-2\expndtw-9  \expnd-1\expndtw-5 retenciones\expnd-2\expndtw-9  \expnd0\expndtw0 o\expnd-2\expndtw-8  \expnd-1\expndtw-5 deducciones\expnd-2\expndtw-8  \expnd-1\expndtw-3 al\expnd-2\expndtw-9  \expnd-1\expndtw-4 salario\expnd-2\expndtw-9  \expnd-1\expndtw-3 del\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajador,\expnd-2\expndtw-10  \expnd-1\expndtw-4 solo\expnd-2\expndtw-9  \expnd-1\expndtw-4 ser\'E1n\expnd-2\expndtw-8  \expnd-1\expndtw-5 v\'E1lidas\expnd-2\expndtw-9  \expnd-1\expndtw-3 en\expnd-2\expndtw-8  \expnd-1\expndtw-4 los\expnd-2\expndtw-9  \expnd-1\expndtw-5 siguientes\expnd-2\expndtw-9  \expnd-1\expndtw-4 casos:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls3\ilvl1\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-5\charscalex100 Retenci\'F3n\expnd-2\expndtw-8  \expnd-1\expndtw-5 derivada\expnd-2\expndtw-9  \expnd-1\expndtw-3 de\expnd-2\expndtw-8  \expnd-1\expndtw-4 alg\'FAn\expnd-2\expndtw-8  \expnd-1\expndtw-5 gravamen\expnd-2\expndtw-8  \expnd-1\expndtw-5 fiscal\expnd-2\expndtw-9  \expnd-1\expndtw-5 relacionado\expnd-2\expndtw-9  \expnd-1\expndtw-4 con\expnd-2\expndtw-8  \expnd-1\expndtw-3 el\expnd-2\expndtw-9  \expnd-1\expndtw-4 salario;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls3\ilvl1\nooverflow\nocwrap\li834\fi-360\ri124\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-4\charscalex100 Adeudos\expnd0\expndtw-1  \expnd-1\expndtw-5 contra\'EDdos\expnd0\expndtw1  \expnd-1\expndtw-4 por\expnd0\expndtw0  \expnd0\expndtw-2 el\expnd0\expndtw0  \expnd-1\expndtw-5 trabajador\expnd0\expndtw0  \expnd-1\expndtw-4 con\expnd0\expndtw-1  \expnd0\expndtw-2 el\expnd0\expndtw0  \expnd-1\expndtw-4 centro\expnd0\expndtw0  \expnd-1\expndtw-3 de\expnd0\expndtw0  \expnd-1\expndtw-4 trabajo,\expnd0\expndtw-1  \expnd-1\expndtw-3 por\expnd0\expndtw-1  \expnd-1\expndtw-5 concepto\expnd0\expndtw0  \expnd0\expndtw-2 de\expnd0\expndtw-1  \expnd-1\expndtw-4 adelanto\expnd0\expndtw0  \expnd-1\expndtw-3 de\expnd0\expndtw0  \expnd-1\expndtw-4 salarios,\expnd0\expndtw-1  \expnd-1\expndtw-4 pagos\f10\expnd12\expndtw59\charscalex100  \expnd-1\expndtw-5 excedidos\expnd-2\expndtw-8  \expnd-1\expndtw-4 por\expnd-2\expndtw-9  \expnd-1\expndtw-4 error,\expnd-2\expndtw-10  \expnd0\expndtw0 o\expnd-2\expndtw-8  \expnd-1\expndtw-5 reposici\'F3n\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 alg\'FAn\expnd-2\expndtw-9  \expnd-1\expndtw-4 equipo\expnd-2\expndtw-8  \expnd-1\expndtw-4 da\'F1ado\expnd-2\expndtw-8  \expnd-1\expndtw-4 por\expnd-2\expndtw-8  \expnd-1\expndtw-3 el\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajador;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls3\ilvl1\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-4\charscalex100 Cuotas\expnd-2\expndtw-9  \expnd-1\expndtw-4 sindicales;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls3\ilvl1\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-4\charscalex100 Abonos\expnd-2\expndtw-8  \expnd-1\expndtw-4 por\expnd-2\expndtw-9  \expnd-1\expndtw-5 obligaciones\expnd-2\expndtw-9  \expnd-1\expndtw-5 contra\'EDdas\expnd-2\expndtw-9  \expnd-1\expndtw-4 con\expnd-2\expndtw-8  \expnd-1\expndtw-4 alguna\expnd-2\expndtw-8  \expnd-1\expndtw-4 instituci\'F3n\expnd-2\expndtw-9  \expnd-1\expndtw-3 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 seguridad\expnd-2\expndtw-9  \expnd-1\expndtw-4 social;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls3\ilvl1\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-5\charscalex100 Deducciones\expnd-2\expndtw-9  \expnd-1\expndtw-3 por\expnd-2\expndtw-9  \expnd-1\expndtw-4 sanci\'F3n\expnd-2\expndtw-9  \expnd0\expndtw-2 al\expnd-2\expndtw-9  \expnd-1\expndtw-5 trabajador;\expnd-2\expndtw-9  \expnd-1\expndtw-3 y,\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls3\ilvl1\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-3\charscalex100 Por\expnd-2\expndtw-8  \expnd-1\expndtw-4 orden\expnd-2\expndtw-9  \expnd-1\expndtw-4 expresa\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd0\expndtw-2 la\expnd-2\expndtw-9  \expnd-1\expndtw-5 autoridad\expnd-2\expndtw-8  \expnd-1\expndtw-4 judicial.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li3954\fi535\ri3723\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 CAPITULO\expnd-2\expndtw-8  \expnd0\expndtw0 V\f12\expnd4\expndtw22\charscalex100  \expnd-1\expndtw-4 HIGIENE\expnd-2\expndtw-9  \expnd0\expndtw0 Y\expnd-2\expndtw-9  \expnd-1\expndtw-5 SEGURIDAD\f10\b0\expnd-1\expndtw-5 .\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri116\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo \expnd-1\expndtw-3 32. \f10\b0\expnd-1\expndtw-4 Los\expnd0\expndtw-2  \expnd-1\expndtw-5 trabajadores\expnd0\expndtw-2  \expnd-1\expndtw-3 de\expnd0\expndtw-2  \expnd-1\expndtw-3 la \expnd-1\expndtw-5 presidencia\expnd-1\expndtw-3  \expnd-1\expndtw-4 municipal\expnd0\expndtw-2  \expnd-1\expndtw-4 est\'E1n\expnd0\expndtw-2  \expnd-1\expndtw-5 obligados\expnd0\expndtw-2  \expnd0\expndtw0 a\expnd-1\expndtw-3  \expnd-1\expndtw-4 acatar\expnd0\expndtw-2  \expnd-1\expndtw-4 las\expnd0\expndtw-2  \expnd-1\expndtw-5 instrucciones\expnd0\expndtw0  \expnd-1\expndtw-4 dadas\expnd-1\expndtw-3  \expnd-1\expndtw-5 respecto\f10\expnd20\expndtw99\charscalex100  \expnd0\expndtw0 a\expnd-2\expndtw-8  \expnd-1\expndtw-4 orden,\expnd-2\expndtw-9  \expnd-1\expndtw-4 limpieza,\expnd-2\expndtw-10  \expnd-1\expndtw-5 seguridad\expnd-2\expndtw-8  \expnd0\expndtw0 e\expnd-2\expndtw-9  \expnd-1\expndtw-4 higiene.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri116\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-3\expndtw-14  \expnd-1\expndtw-3 33.\expnd-3\expndtw-15  \f10\b0\expnd-1\expndtw-4 Cada\expnd-3\expndtw-14  \expnd-1\expndtw-5 trabajador\expnd-3\expndtw-15  \expnd-1\expndtw-4 est\'E1\expnd-3\expndtw-15  \expnd0\expndtw-2 en\expnd-3\expndtw-14  \expnd-1\expndtw-3 la\expnd-3\expndtw-14  \expnd-1\expndtw-5 obligaci\'F3n\expnd-3\expndtw-14  \expnd-1\expndtw-5 ineludible\expnd-3\expndtw-14  \expnd-1\expndtw-3 de\expnd-3\expndtw-14  \expnd-1\expndtw-5 mantener\expnd-3\expndtw-15  \expnd-1\expndtw-3 en\expnd-3\expndtw-14  \expnd-1\expndtw-5 perfecto\expnd-3\expndtw-15  \expnd-1\expndtw-4 estado\expnd-3\expndtw-14  \expnd-1\expndtw-3 de\expnd-3\expndtw-14  \expnd-1\expndtw-4 orden\expnd-3\expndtw-14  \expnd0\expndtw0 y\expnd-3\expndtw-16  \expnd-1\expndtw-5 conservaci\'F3n\f10\expnd23\expndtw117\charscalex100  \expnd0\expndtw-2 el\expnd-2\expndtw-9  \expnd-1\expndtw-4 sitio\expnd-2\expndtw-9  \expnd-1\expndtw-4 donde\expnd-2\expndtw-9  \expnd-1\expndtw-4 realizan\expnd-2\expndtw-9  \expnd-1\expndtw-4 sus\expnd-2\expndtw-8  \expnd-1\expndtw-5 funciones,\expnd-2\expndtw-9  \expnd-1\expndtw-3 as\'ED\expnd-2\expndtw-10  \expnd-1\expndtw-4 como\expnd-2\expndtw-8  \expnd-1\expndtw-4 las\expnd-2\expndtw-8  \expnd-1\expndtw-4 m\'E1quinas,\expnd-2\expndtw-10  \expnd-1\expndtw-5 instrumentos\expnd-2\expndtw-8  \expnd0\expndtw0 y\expnd-2\expndtw-10  \expnd-1\expndtw-4 dem\'E1s\expnd-1\expndtw-7  \expnd-1\expndtw-4 \'FAtiles\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajo.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri119\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd0\expndtw2  \expnd-1\expndtw-3 34.\expnd1\expndtw3  \f10\b0\expnd0\expndtw-2 El\expnd1\expndtw4  \expnd-1\expndtw-5 Ayuntamiento\expnd1\expndtw3  \expnd-1\expndtw-5 adoptar\'E1\expnd1\expndtw4  \expnd-1\expndtw-4 las\expnd1\expndtw4  \expnd-1\expndtw-4 medidas\expnd1\expndtw4  \expnd-1\expndtw-5 necesarias\expnd1\expndtw4  \expnd-1\expndtw-4 para\expnd1\expndtw4  \expnd-1\expndtw-4 evitar\expnd1\expndtw3  \expnd-1\expndtw-4 cualquier\expnd1\expndtw3  \expnd-1\expndtw-4 riesgo\expnd1\expndtw3  \expnd-1\expndtw-5 profesional,\expnd1\expndtw3  \expnd-1\expndtw-5 procurando\f10\expnd18\expndtw91\charscalex100  \expnd-1\expndtw-3 los\expnd-2\expndtw-9  \expnd-1\expndtw-5 siguientes\expnd-2\expndtw-9  \expnd-1\expndtw-4 aspectos:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls4\ilvl0\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-3\charscalex100 Que\expnd-2\expndtw-9  \expnd0\expndtw-2 el\expnd-2\expndtw-9  \expnd-1\expndtw-4 centro\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajo\expnd-2\expndtw-9  \expnd-1\expndtw-4 cuente\expnd-2\expndtw-9  \expnd-1\expndtw-4 con\expnd-2\expndtw-8  \expnd-1\expndtw-4 las\expnd-2\expndtw-9  \expnd-1\expndtw-4 condiciones\expnd-2\expndtw-9  \expnd-1\expndtw-5 ambientales\expnd-2\expndtw-8  \expnd0\expndtw0 y\expnd-2\expndtw-10  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 higiene\expnd-2\expndtw-9  \expnd-1\expndtw-5 necesarias;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls4\ilvl0\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-4\charscalex100 Otorgar\expnd-2\expndtw-9  \expnd-1\expndtw-3 las\expnd-2\expndtw-9  \expnd-1\expndtw-5 herramientas\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 trabajo\expnd-2\expndtw-8  \expnd-1\expndtw-3 en\expnd-2\expndtw-9  \expnd-1\expndtw-5 condiciones\expnd-2\expndtw-9  \expnd-1\expndtw-3 que\expnd-2\expndtw-9  \expnd-1\expndtw-4 protejan\expnd-2\expndtw-9  \expnd0\expndtw-2 la\expnd-2\expndtw-9  \expnd-1\expndtw-5 integridad\expnd-2\expndtw-9  \expnd-1\expndtw-3 del\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajador;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls4\ilvl0\nooverflow\nocwrap\li834\fi-360\ri124\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-4\charscalex100 Procurar\'E1\expnd-3\expndtw-17  \expnd-1\expndtw-5 gestionar\expnd-3\expndtw-17  \expnd0\expndtw-2 al\expnd-3\expndtw-16  \expnd-1\expndtw-4 menos\expnd-3\expndtw-16  \expnd-1\expndtw-4 una\expnd-3\expndtw-16  \expnd-1\expndtw-4 vez\expnd-3\expndtw-17  \expnd-1\expndtw-4 durante\expnd-3\expndtw-17  \expnd0\expndtw-2 su\expnd-3\expndtw-17  \expnd-1\expndtw-4 gesti\'F3n,\expnd-3\expndtw-17  \expnd0\expndtw-2 la\expnd-3\expndtw-17  \expnd-1\expndtw-5 celebraci\'F3n\expnd-3\expndtw-17  \expnd0\expndtw-2 de\expnd-3\expndtw-17  \expnd-1\expndtw-5 campa\'F1as\expnd-3\expndtw-16  \expnd0\expndtw0 o\expnd-3\expndtw-16  \expnd-1\expndtw-5 talleres\expnd-3\expndtw-17  \expnd-1\expndtw-3 de\expnd-3\expndtw-16  \expnd-1\expndtw-5 seguridad\f10\expnd19\expndtw95\charscalex100  \expnd-1\expndtw-4 para\expnd-2\expndtw-8  \expnd-1\expndtw-4 los\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajadores;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls4\ilvl0\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-4\charscalex100 Dotar\expnd-2\expndtw-9  \expnd-1\expndtw-3 del\expnd-2\expndtw-8  \expnd-1\expndtw-4 equipo\expnd-2\expndtw-9  \expnd-1\expndtw-4 b\'E1sico\expnd-2\expndtw-8  \expnd-1\expndtw-4 para\expnd-2\expndtw-8  \expnd-1\expndtw-3 la\expnd-1\expndtw-7  \expnd-1\expndtw-5 realizaci\'F3n\expnd-2\expndtw-8  \expnd-1\expndtw-3 de\expnd-2\expndtw-9  \expnd-1\expndtw-5 actividades\expnd-2\expndtw-8  \expnd-1\expndtw-4 que\expnd-2\expndtw-9  \expnd0\expndtw-2 se\expnd-2\expndtw-9  \expnd-1\expndtw-5 consideren\expnd-2\expndtw-8  \expnd-1\expndtw-3 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 peligro;\expnd-2\expndtw-9  \expnd-1\expndtw-3 y,\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls4\ilvl0\nooverflow\nocwrap\li834\fi-360\ri124\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-3\charscalex100 Los\expnd-3\expndtw-13  \expnd-1\expndtw-5 directores\expnd-3\expndtw-13  \expnd0\expndtw0 o\expnd-3\expndtw-13  \expnd-1\expndtw-5 encargados\expnd-3\expndtw-13  \expnd0\expndtw-2 de\expnd-3\expndtw-13  \expnd-1\expndtw-4 cada\expnd-3\expndtw-14  \expnd-1\expndtw-4 \'E1rea\expnd-3\expndtw-13  \expnd-1\expndtw-4 deber\'E1n\expnd-3\expndtw-13  \expnd-1\expndtw-4 vigilar\expnd-2\expndtw-12  \expnd-1\expndtw-3 que\expnd-3\expndtw-14  \expnd0\expndtw-2 el\expnd-3\expndtw-13  \expnd-1\expndtw-4 personal\expnd-3\expndtw-13  \expnd-1\expndtw-4 bajo\expnd-3\expndtw-14  \expnd-1\expndtw-3 su\expnd-3\expndtw-13  \expnd-1\expndtw-4 mando\expnd-3\expndtw-13  \expnd-1\expndtw-4 adopte\expnd-3\expndtw-13  \expnd-1\expndtw-4 las\expnd-2\expndtw-12  \expnd-1\expndtw-5 medidas\f10\expnd15\expndtw73\charscalex100  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-5 seguridad\expnd-2\expndtw-9  \expnd0\expndtw0 e\expnd-2\expndtw-8  \expnd-1\expndtw-4 higiene\expnd-2\expndtw-8  \expnd-1\expndtw-5 necesarias\expnd-2\expndtw-9  \expnd-1\expndtw-5 durante\expnd-2\expndtw-8  \expnd-1\expndtw-3 el\expnd-2\expndtw-8  \expnd-1\expndtw-5 desempe\'F1o\expnd-2\expndtw-9  \expnd-1\expndtw-3 de\expnd-2\expndtw-9  \expnd-1\expndtw-3 sus\expnd-2\expndtw-9  \expnd-1\expndtw-4 labores.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri119\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd4\expndtw19  \expnd-1\expndtw-3 35.\expnd4\expndtw19  \f10\b0\expnd0\expndtw-2 En\expnd4\expndtw19  \expnd-1\expndtw-4 caso\expnd4\expndtw19  \expnd-1\expndtw-3 de\expnd4\expndtw21  \expnd-1\expndtw-5 llevarse\expnd4\expndtw21  \expnd0\expndtw0 a\expnd4\expndtw18  \expnd-1\expndtw-4 cabo\expnd4\expndtw21  \expnd-1\expndtw-4 alg\'FAn\expnd4\expndtw21  \expnd-1\expndtw-5 accidente\expnd4\expndtw19  \expnd0\expndtw-2 de\expnd4\expndtw21  \expnd-1\expndtw-5 trabajo,\expnd4\expndtw19  \expnd0\expndtw-2 se\expnd4\expndtw19  \expnd-1\expndtw-4 deber\'E1\expnd4\expndtw19  \expnd-1\expndtw-3 dar\expnd4\expndtw21  \expnd-1\expndtw-4 los\expnd4\expndtw20  \expnd-1\expndtw-5 primeros\expnd4\expndtw21  \expnd-1\expndtw-5 auxilios\expnd4\expndtw21  \expnd-1\expndtw-4 que\expnd4\expndtw19  \expnd0\expndtw-2 se\f10\expnd20\expndtw101\charscalex100  \expnd-1\expndtw-5 requieran\expnd-2\expndtw-9  \expnd0\expndtw-2 al\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajador,\expnd-2\expndtw-9  \expnd0\expndtw0 y\expnd-2\expndtw-9  \expnd-1\expndtw-5 trasladarlo\expnd-2\expndtw-9  \expnd0\expndtw-2 al\expnd-2\expndtw-9  \expnd-1\expndtw-4 hospital\expnd-2\expndtw-9  \expnd0\expndtw0 o\expnd-2\expndtw-9  \expnd-1\expndtw-4 centro\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 salud\expnd-2\expndtw-8  \expnd-1\expndtw-4 m\'E1s\expnd-2\expndtw-9  \expnd-1\expndtw-4 cercano.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri117\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd0\expndtw-1  \expnd-1\expndtw-3 36.\expnd0\expndtw1  \f10\b0\expnd-1\expndtw-4 Los\expnd0\expndtw-1  \expnd-1\expndtw-5 accidentes\expnd0\expndtw-1  \expnd-1\expndtw-3 que\expnd0\expndtw-1  \expnd-1\expndtw-3 se\expnd0\expndtw-1  \expnd-1\expndtw-4 lleven\expnd0\expndtw-1  \expnd0\expndtw0 a\expnd0\expndtw-1  \expnd-1\expndtw-4 cabo\expnd0\expndtw-1  \expnd-1\expndtw-5 durante\expnd0\expndtw-1  \expnd0\expndtw-2 el\expnd0\expndtw0  \expnd-1\expndtw-5 trayecto\expnd0\expndtw-1  \expnd-1\expndtw-3 del\expnd0\expndtw-1  \expnd-1\expndtw-4 servidor\expnd0\expndtw-1  \expnd-1\expndtw-4 p\'FAblico\expnd0\expndtw0  \expnd-1\expndtw-3 de\expnd0\expndtw-1  \expnd-1\expndtw-3 su\expnd0\expndtw-1  \expnd-1\expndtw-4 domicilio\expnd0\expndtw-1  \expnd0\expndtw-2 al\expnd0\expndtw-1  \expnd-1\expndtw-4 lugar\expnd0\expndtw-1  \expnd-1\expndtw-3 de\f10\expnd14\expndtw71\charscalex100  \expnd-1\expndtw-4 trabajo\expnd0\expndtw0  y\expnd0\expndtw-1  \expnd-1\expndtw-5 viceversa,\expnd0\expndtw-2  \expnd-1\expndtw-4 ser\'E1n\expnd0\expndtw-1  \expnd-1\expndtw-5 considerados\expnd0\expndtw1  \expnd-1\expndtw-3 de\expnd0\expndtw0  \expnd-1\expndtw-4 trabajo,\expnd0\expndtw-2  \expnd-1\expndtw-4 siempre\expnd0\expndtw0  y\expnd0\expndtw-1  \expnd-1\expndtw-4 cuando\expnd0\expndtw0  \expnd-1\expndtw-4 sean\expnd0\expndtw-1  \expnd-1\expndtw-3 de\expnd0\expndtw0  \expnd-1\expndtw-4 manera\expnd0\expndtw0  \expnd-1\expndtw-4 directa,\expnd0\expndtw-2  \expnd-1\expndtw-3 sin\expnd0\expndtw0  \expnd-1\expndtw-5 escalas\expnd0\expndtw1  \expnd-1\expndtw-4 ajenas\expnd0\expndtw-1  \expnd0\expndtw0 a\f10\expnd13\expndtw63\charscalex100  \expnd-1\expndtw-4 estos\expnd-2\expndtw-9  \expnd-1\expndtw-4 dos\expnd-2\expndtw-8  \expnd-1\expndtw-4 puntos.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri115\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-2\expndtw-10  \expnd-1\expndtw-3 37.\expnd-2\expndtw-11  \f10\b0\expnd-1\expndtw-3 Se\expnd-2\expndtw-10  \expnd-1\expndtw-5 considerar\'E1\expnd-2\expndtw-11  \expnd-1\expndtw-5 enfermedad\expnd-2\expndtw-10  \expnd-1\expndtw-3 de\expnd-2\expndtw-10  \expnd-1\expndtw-4 trabajo\expnd-2\expndtw-10  \expnd-1\expndtw-4 todo\expnd-2\expndtw-10  \expnd-1\expndtw-4 estado\expnd-2\expndtw-10  \expnd-1\expndtw-5 patol\'F3gico\expnd-2\expndtw-10  \expnd-1\expndtw-3 que\expnd-2\expndtw-10  \expnd-1\expndtw-4 tenga\expnd-2\expndtw-10  \expnd-1\expndtw-3 su\expnd-2\expndtw-10  \expnd-1\expndtw-4 origen\expnd-2\expndtw-11  \expnd0\expndtw0 o\expnd-2\expndtw-10  \expnd-1\expndtw-4 motivo\expnd-2\expndtw-10  \expnd-1\expndtw-3 en\expnd-2\expndtw-10  \expnd-1\expndtw-3 el\expnd-2\expndtw-10  \expnd-1\expndtw-4 trabajo\f10\expnd13\expndtw67\charscalex100  \expnd0\expndtw0 o\expnd-1\expndtw-3  \expnd0\expndtw-2 en\expnd-1\expndtw-3  el\expnd0\expndtw-2  \expnd-1\expndtw-4 medio\expnd-1\expndtw-3  \expnd0\expndtw-2 en\expnd-1\expndtw-3  \expnd-1\expndtw-4 que\expnd0\expndtw-2  \expnd-1\expndtw-3 el\expnd0\expndtw-2  \expnd-1\expndtw-5 trabajador\expnd-1\expndtw-3  \expnd-1\expndtw-4 preste\expnd-1\expndtw-3  \expnd-1\expndtw-4 sus\expnd-1\expndtw-3  \expnd-1\expndtw-4 servicios. Ser\'E1n\expnd-1\expndtw-3  \expnd-1\expndtw-5 consideradas\expnd-1\expndtw-3  en\expnd0\expndtw-2  \expnd-1\expndtw-4 todo\expnd-1\expndtw-3  \expnd-1\expndtw-4 caso, \expnd-1\expndtw-5 enfermedades\expnd-1\expndtw-3  \expnd0\expndtw-2 de\expnd-1\expndtw-3  \expnd-1\expndtw-5 trabajo\f10\expnd18\expndtw91\charscalex100  \expnd-1\expndtw-3 las\expnd-2\expndtw-9  \expnd-1\expndtw-5 consignadas\expnd-2\expndtw-8  \expnd-1\expndtw-3 en\expnd-2\expndtw-9  \expnd0\expndtw-2 el\expnd-2\expndtw-9  \expnd-1\expndtw-4 art\'EDculo\expnd-2\expndtw-9  \expnd-1\expndtw-3 513\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd0\expndtw-2 la\expnd-2\expndtw-9  \expnd-1\expndtw-3 Ley\expnd-2\expndtw-9  \expnd-1\expndtw-4 Federal\expnd-2\expndtw-9  \expnd-1\expndtw-3 del\expnd-2\expndtw-9  \expnd-1\expndtw-4 Trabajo.\par\sect\sectd\sbkpage\headery592\footery641
+{\header
+{\shp{\*\shpinst\shpleft1222\shpright2275\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz46\shplid532{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw0\charscalex100 P\'E1gina\expnd0\expndtw-1  102\par}}}
+
+{\shp{\*\shpinst\shpleft5118\shpright7115\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz47\shplid536{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 PERI\'D3DICO OFICIAL\par}}}
+
+{\shp{\*\shpinst\shpleft10218\shpright10971\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz48\shplid540{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Alcance\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright1279\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz49\shplid544{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 2\par}}}
+
+{\shp{\*\shpinst\shpleft3649\shpright3706\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz50\shplid548{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 0\par}}}
+
+{\shp{\*\shpinst\shpleft6075\shpright6132\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz51\shplid552{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 1\par}}}
+
+{\shp{\*\shpinst\shpleft10912\shpright10969\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz52\shplid556{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 8\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10893\shptop856\shpbottom926\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz53\shplid560{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelesta\expnd-1\expndtw-6  \expnd0\expndtw-1 dodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3di\expnd-1\expndtw-5  \expnd0\expndtw-1 cooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehid\expnd-1\expndtw-6  \expnd0\expndtw-1 algoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestado\expnd-1\expndtw-6  \expnd0\expndtw-1 dehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgo\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10969\shptop895\shpbottom1005\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz54\shplid564{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 Peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dic\expnd-1\expndtw-5  \expnd0\expndtw-1 ooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadod\expnd-1\expndtw-6  \expnd0\expndtw-1 ehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicoo\expnd-1\expndtw-6  \expnd0\expndtw-1 ficialdelestadodehidalgo\expnd0\expndtw0   \expnd1\expndtw3  \expnd0\expndtw0 2\expnd0\expndtw1  \expnd0\expndtw0 0\par\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb5\f10\fs3\b0\expnd0\expndtw0\charscalex100 1 8\par}}}
+\pard\plain\s1\nooverflow\nocwrap\sl14\slmult1\fs20\par}\marglsxn1020\margrsxn1060\margtsxn980\margbsxn840\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs10\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri119\qj\sl240\slmult1\sb74\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd1\expndtw4  \expnd-1\expndtw-3 38.\expnd1\expndtw3  \f10\b0\expnd0\expndtw-2 En\expnd1\expndtw4  \expnd-1\expndtw-4 caso\expnd1\expndtw4  \expnd-1\expndtw-3 de\expnd1\expndtw5  \expnd-1\expndtw-4 haber\expnd1\expndtw5  \expnd-1\expndtw-4 alg\'FAn\expnd1\expndtw5  \expnd-1\expndtw-4 accidente\expnd1\expndtw4  \expnd0\expndtw-2 de\expnd1\expndtw5  \expnd-1\expndtw-5 trabajo\expnd1\expndtw4  \expnd-1\expndtw-3 que\expnd1\expndtw4  \expnd-1\expndtw-4 genere\expnd1\expndtw4  \expnd-1\expndtw-5 incapacidad,\expnd1\expndtw3  \expnd-1\expndtw-3 se\expnd1\expndtw5  \expnd-1\expndtw-5 indemnizar\'E1\expnd1\expndtw4  \expnd-1\expndtw-5 conforme\expnd1\expndtw4  \expnd0\expndtw0 a\expnd1\expndtw5  \expnd-1\expndtw-4 los\f10\expnd17\expndtw87\charscalex100  \expnd-1\expndtw-5 siguientes\expnd-2\expndtw-9  \expnd-1\expndtw-4 aspectos:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls5\ilvl0\nooverflow\nocwrap\li834\fi-360\ri124\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw-2\charscalex100 La\expnd-3\expndtw-13  \expnd-1\expndtw-5 indemnizaci\'F3n\expnd-3\expndtw-13  \expnd-1\expndtw-3 se\expnd-3\expndtw-14  \expnd-1\expndtw-4 otorgar\'E1\expnd-3\expndtw-14  \expnd-1\expndtw-3 de\expnd-3\expndtw-13  \expnd-1\expndtw-4 manera\expnd-3\expndtw-14  \expnd-1\expndtw-4 directa\expnd-3\expndtw-14  \expnd0\expndtw-2 al\expnd-3\expndtw-13  \expnd-1\expndtw-5 trabajador,\expnd-3\expndtw-15  \expnd-1\expndtw-4 salvo\expnd-3\expndtw-14  \expnd0\expndtw-2 en\expnd-3\expndtw-14  \expnd-1\expndtw-4 casos\expnd-3\expndtw-13  \expnd-1\expndtw-3 de\expnd-3\expndtw-13  \expnd-1\expndtw-5 fuerza\expnd-3\expndtw-13  \expnd-1\expndtw-4 mayor\expnd-3\expndtw-14  \expnd-1\expndtw-4 donde\expnd-3\expndtw-13  \expnd-1\expndtw-4 \'E9sta\expnd-3\expndtw-14  \expnd0\expndtw-2 se\f10\expnd15\expndtw75\charscalex100  \expnd-1\expndtw-5 otorgar\'E1\expnd-2\expndtw-9  \expnd0\expndtw0 a\expnd-2\expndtw-9  \expnd-1\expndtw-3 sus\expnd-2\expndtw-9  \expnd-1\expndtw-4 familiares,\expnd-2\expndtw-10  \expnd-1\expndtw-5 mediante\expnd-2\expndtw-8  \expnd-1\expndtw-4 una\expnd-2\expndtw-9  \expnd-1\expndtw-4 carta\expnd-2\expndtw-9  \expnd-1\expndtw-4 poder;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs20\b0\i0\par\pard\plain\s1\ls5\ilvl0\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw-2\charscalex100 La\expnd-2\expndtw-9  \expnd-1\expndtw-4 cantidad\expnd-2\expndtw-9  \expnd-1\expndtw-4 base\expnd-2\expndtw-9  \expnd-1\expndtw-4 para\expnd-2\expndtw-9  \expnd-1\expndtw-4 pagar\expnd-2\expndtw-9  \expnd-1\expndtw-4 cada\expnd-2\expndtw-8  \expnd-1\expndtw-5 indemnizaci\'F3n\expnd-2\expndtw-8  \expnd-1\expndtw-3 no\expnd-2\expndtw-9  \expnd-1\expndtw-4 ser\'E1\expnd-2\expndtw-8  \expnd-1\expndtw-4 menor\expnd-2\expndtw-9  \expnd0\expndtw-2 al\expnd-2\expndtw-9  \expnd-1\expndtw-4 salario\expnd-2\expndtw-9  \expnd-1\expndtw-4 m\'EDnimo\expnd-2\expndtw-8  \expnd-1\expndtw-5 vigente.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri114\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-3\expndtw-13  \expnd-1\expndtw-3 39.\expnd-2\expndtw-12  \f10\b0\expnd-1\expndtw-3 El\expnd-2\expndtw-12  \expnd-1\expndtw-5 Ayuntamiento\expnd-3\expndtw-13  \expnd0\expndtw-2 no\expnd-3\expndtw-14  \expnd0\expndtw-2 se\expnd-3\expndtw-13  \expnd-1\expndtw-5 encuentra\expnd-3\expndtw-13  \expnd-1\expndtw-4 obligado\expnd-3\expndtw-13  \expnd0\expndtw0 a\expnd-3\expndtw-13  \expnd-1\expndtw-4 realizar\expnd-2\expndtw-12  \expnd0\expndtw-2 la\expnd-3\expndtw-13  \expnd-1\expndtw-5 indemnizaci\'F3n\expnd-3\expndtw-13  \expnd-1\expndtw-4 se\'F1alada\expnd-3\expndtw-13  \expnd-1\expndtw-3 en\expnd-3\expndtw-13  \expnd0\expndtw-2 el\expnd-3\expndtw-13  \expnd-1\expndtw-4 art\'EDculo\expnd-3\expndtw-13  \expnd-1\expndtw-5 anterior,\expnd-2\expndtw-12  \expnd-1\expndtw-3 en\f10\expnd15\expndtw76\charscalex100  \expnd-1\expndtw-3 los\expnd-2\expndtw-9  \expnd-1\expndtw-5 siguientes\expnd-2\expndtw-9  \expnd-1\expndtw-4 casos:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls6\ilvl0\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw-2\charscalex100 Si\expnd-2\expndtw-8  \expnd-1\expndtw-5 durante\expnd-2\expndtw-8  \expnd-1\expndtw-3 el\expnd-2\expndtw-9  \expnd-1\expndtw-5 accidente\expnd-2\expndtw-8  \expnd-1\expndtw-3 el\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajador\expnd-2\expndtw-9  \expnd-1\expndtw-3 se\expnd-2\expndtw-8  \expnd-1\expndtw-5 encuentra\expnd-2\expndtw-9  \expnd-1\expndtw-4 bajo\expnd-2\expndtw-9  \expnd0\expndtw-2 el\expnd-2\expndtw-8  \expnd-1\expndtw-4 influjo\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 alg\'FAn\expnd-2\expndtw-9  \expnd-1\expndtw-5 narc\'F3tico\expnd-2\expndtw-9  \expnd0\expndtw0 o\expnd-2\expndtw-8  \expnd-1\expndtw-4 droga\expnd-2\expndtw-9  \expnd-1\expndtw-5 enervante;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls6\ilvl0\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw-2\charscalex100 Si\expnd-2\expndtw-8  \expnd-1\expndtw-5 durante\expnd-2\expndtw-8  \expnd-1\expndtw-3 el\expnd-2\expndtw-9  \expnd-1\expndtw-5 accidente\expnd-2\expndtw-8  \expnd-1\expndtw-3 el\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajador\expnd-2\expndtw-9  \expnd-1\expndtw-3 se\expnd-2\expndtw-8  \expnd-1\expndtw-5 encuentra\expnd-2\expndtw-9  \expnd0\expndtw-2 en\expnd-2\expndtw-9  \expnd-1\expndtw-4 estado\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 ebriedad;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls6\ilvl0\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw-2\charscalex100 Si\expnd-2\expndtw-8  \expnd0\expndtw-2 el\expnd-2\expndtw-9  \expnd-1\expndtw-5 accidente\expnd-2\expndtw-8  \expnd-1\expndtw-3 es\expnd-2\expndtw-9  \expnd-1\expndtw-5 resultado\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-3 una\expnd-2\expndtw-9  \expnd-1\expndtw-4 acci\'F3n\expnd-2\expndtw-8  \expnd-1\expndtw-5 provocada\expnd-2\expndtw-9  \expnd-1\expndtw-3 por\expnd-2\expndtw-9  \expnd0\expndtw-2 el\expnd-2\expndtw-9  \expnd-1\expndtw-5 trabajador\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 manera\expnd-2\expndtw-9  \expnd-1\expndtw-5 deliberada;\expnd-2\expndtw-9  \expnd-1\expndtw-3 y,\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls6\ilvl0\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw-2\charscalex100 Si\expnd-2\expndtw-8  \expnd0\expndtw-2 la\expnd-2\expndtw-9  \expnd-1\expndtw-5 incapacidad\expnd-2\expndtw-9  \expnd-1\expndtw-3 es\expnd-2\expndtw-8  \expnd-1\expndtw-5 derivada\expnd-2\expndtw-9  \expnd-1\expndtw-3 de\expnd-2\expndtw-8  \expnd-1\expndtw-4 alg\'FAn\expnd-2\expndtw-8  \expnd-1\expndtw-4 delito\expnd-2\expndtw-9  \expnd0\expndtw0 o\expnd-2\expndtw-8  \expnd-1\expndtw-4 ri\'F1a\expnd-2\expndtw-9  \expnd-1\expndtw-3 por\expnd-2\expndtw-9  \expnd-1\expndtw-4 parte\expnd-2\expndtw-8  \expnd-1\expndtw-3 del\expnd-2\expndtw-9  \expnd-1\expndtw-5 trabajador.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri117\qj\sl240\slmult1\f12\fs20\b1\expnd-1\expndtw-4\charscalex100 Art\'EDculo\expnd-2\expndtw-8  \expnd-1\expndtw-3 40.\expnd-1\expndtw-7  \f10\b0\expnd-1\expndtw-3 En\expnd-2\expndtw-8  \expnd-1\expndtw-4 caso\expnd-1\expndtw-7  \expnd-1\expndtw-3 de\expnd-1\expndtw-7  \expnd-1\expndtw-3 un\expnd-2\expndtw-8  \expnd-1\expndtw-5 accidente\expnd-1\expndtw-7  \expnd-1\expndtw-3 de\expnd-1\expndtw-7  \expnd-1\expndtw-5 trabajo,\expnd-2\expndtw-8  \expnd-1\expndtw-3 el\expnd-1\expndtw-7  \expnd-1\expndtw-5 Ayuntamiento\expnd-2\expndtw-8  \expnd-1\expndtw-3 se\expnd-1\expndtw-7  \expnd-1\expndtw-4 libera\expnd-2\expndtw-8  \expnd0\expndtw-2 de\expnd-1\expndtw-7  \expnd-1\expndtw-4 toda\expnd-2\expndtw-8  \expnd-1\expndtw-5 responsabilidad\expnd-2\expndtw-8  \expnd0\expndtw-2 en\expnd-2\expndtw-8  \expnd-1\expndtw-3 los\expnd-2\expndtw-8  \expnd-1\expndtw-5 siguientes\f10\expnd22\expndtw112\charscalex100  \expnd-1\expndtw-4 supuestos:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls7\ilvl0\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-3\charscalex100 Que\expnd-2\expndtw-9  \expnd0\expndtw-2 el\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajador\expnd-2\expndtw-9  \expnd-1\expndtw-4 haya\expnd-2\expndtw-9  \expnd-1\expndtw-4 asumido\expnd-2\expndtw-8  \expnd-1\expndtw-4 los\expnd-2\expndtw-9  \expnd-1\expndtw-5 riesgos\expnd-2\expndtw-8  \expnd-1\expndtw-3 de\expnd-2\expndtw-8  \expnd-1\expndtw-4 trabajo,\expnd-2\expndtw-10  \expnd-1\expndtw-3 ya\expnd-2\expndtw-9  \expnd-1\expndtw-3 sea\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 modo\expnd-2\expndtw-9  \expnd-1\expndtw-5 expl\'EDcito\expnd-2\expndtw-9  \expnd0\expndtw0 o\expnd-2\expndtw-8  \expnd-1\expndtw-4 t\'E1cito;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls7\ilvl0\nooverflow\nocwrap\li834\fi-360\ri124\sl240\slmult1\tx834\f10\fs20\b0\expnd-1\expndtw-3\charscalex100 Que \expnd-1\expndtw-4 dicho\expnd-1\expndtw-3  \expnd-1\expndtw-5 accidente\expnd-1\expndtw-4  \expnd-1\expndtw-3 sea\expnd-1\expndtw-4  \expnd-1\expndtw-5 resultado\expnd-1\expndtw-3  de \expnd-1\expndtw-4 alg\'FAn \expnd-1\expndtw-5 descuido,\expnd-1\expndtw-4  torpeza \expnd0\expndtw0 o\expnd-1\expndtw-4  \expnd-1\expndtw-5 negligencia\expnd-1\expndtw-3  del\expnd-1\expndtw-4  \expnd-1\expndtw-5 trabajador\expnd-1\expndtw-4  \expnd0\expndtw0 o\expnd-1\expndtw-4  alguna\expnd-1\expndtw-3  \expnd-1\expndtw-5 tercera\f10\expnd21\expndtw107\charscalex100  \expnd-1\expndtw-4 persona\expnd-2\expndtw-9  \expnd-1\expndtw-4 ajena\expnd-2\expndtw-9  \expnd0\expndtw-2 al\expnd-2\expndtw-8  \expnd-1\expndtw-5 Ayuntamiento;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls7\ilvl0\nooverflow\nocwrap\li834\fi-360\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw-2\charscalex100 En\expnd-2\expndtw-9  \expnd-1\expndtw-4 casos\expnd-2\expndtw-9  \expnd-1\expndtw-3 que\expnd-2\expndtw-9  \expnd0\expndtw-2 la\expnd-2\expndtw-9  \expnd-1\expndtw-5 autoridad\expnd-2\expndtw-9  \expnd-1\expndtw-5 competente\expnd-2\expndtw-9  \expnd-1\expndtw-3 as\'ED\expnd-2\expndtw-10  \expnd0\expndtw-2 lo\expnd-2\expndtw-9  \expnd-1\expndtw-4 dictamine.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li312\ri318\qc\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 CAPITULO\expnd0\expndtw0  \expnd0\expndtw-1 VI\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\li312\ri318\qc\sl240\slmult1\sb1\f12\fs20\b1\expnd0\expndtw0\charscalex100 DIAS DE\expnd0\expndtw-1  DESCANSO, PERMISOS \expnd0\expndtw0 Y\expnd0\expndtw-1  VACACIONES.\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f12\fs19\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri124\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd2\expndtw8  \expnd0\expndtw0 41.\expnd2\expndtw9  \f10\b0\expnd0\expndtw0 Por\expnd2\expndtw9  \expnd0\expndtw0 cada\expnd2\expndtw9  \expnd0\expndtw-1 seis\expnd2\expndtw9  \expnd0\expndtw0 d\'EDas\expnd2\expndtw9  \expnd0\expndtw0 de\expnd2\expndtw9  \expnd0\expndtw0 trabajo,\expnd2\expndtw9  \expnd0\expndtw-1 corresponde\expnd2\expndtw9  \expnd0\expndtw0 al\expnd2\expndtw9  \expnd0\expndtw-1 trabajador\expnd2\expndtw9  \expnd0\expndtw-1 disfrutar\expnd2\expndtw9  \expnd0\expndtw0 de\expnd2\expndtw9  \expnd0\expndtw0 un\expnd2\expndtw9  \expnd0\expndtw0 d\'EDa\expnd2\expndtw8  \expnd0\expndtw0 de\expnd2\expndtw9  \expnd0\expndtw-1 descanso,\expnd2\expndtw8  \expnd0\expndtw-1 cuando\f10\expnd18\expndtw89\charscalex100  \expnd0\expndtw-1 menos\expnd0\expndtw0  \expnd0\expndtw-1 con\expnd0\expndtw0  \expnd0\expndtw-1 goce\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 salario\expnd0\expndtw0  \expnd0\expndtw-1 \'EDntegro.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri121\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd-1\expndtw-6  \expnd0\expndtw0 42.\expnd-1\expndtw-5  \f10\b0\expnd0\expndtw0 Las\expnd-1\expndtw-4  \expnd0\expndtw-1 mujeres\expnd-1\expndtw-6  \expnd0\expndtw0 que\expnd-1\expndtw-5  \expnd0\expndtw0 se\expnd-1\expndtw-4  \expnd0\expndtw-1 encuentren\expnd-1\expndtw-4  \expnd0\expndtw-1 en\expnd-1\expndtw-4  \expnd0\expndtw-1 estado\expnd-1\expndtw-4  \expnd0\expndtw0 de\expnd-1\expndtw-5  \expnd0\expndtw-1 embarazo,\expnd-1\expndtw-5  \expnd0\expndtw-1 tendr\'E1n\expnd-1\expndtw-6  \expnd0\expndtw0 derecho\expnd-1\expndtw-5  \expnd0\expndtw0 de\expnd-1\expndtw-4  \expnd0\expndtw-1 disfrutar\expnd-1\expndtw-4  \expnd0\expndtw-1 de\expnd-1\expndtw-4  \expnd0\expndtw0 un\expnd-1\expndtw-5  \expnd0\expndtw0 mes\expnd-1\expndtw-4  \expnd0\expndtw-1 de\f10\expnd17\expndtw87\charscalex100  \expnd0\expndtw-1 descanso\expnd1\expndtw5  \expnd0\expndtw-1 antes\expnd1\expndtw5  \expnd0\expndtw-1 de\expnd1\expndtw5  \expnd0\expndtw0 la\expnd1\expndtw5  \expnd0\expndtw-1 fecha\expnd1\expndtw5  \expnd0\expndtw0 que\expnd1\expndtw4  \expnd0\expndtw-1 aproximadamente\expnd1\expndtw4  \expnd0\expndtw0 se\expnd1\expndtw4  \expnd0\expndtw-1 fije\expnd1\expndtw5  \expnd0\expndtw0 para\expnd1\expndtw5  \expnd0\expndtw0 el\expnd1\expndtw4  \expnd0\expndtw0 parto\expnd1\expndtw5  \expnd0\expndtw0 y\expnd1\expndtw4  \expnd0\expndtw0 de\expnd1\expndtw4  \expnd0\expndtw-1 otros\expnd1\expndtw5  \expnd0\expndtw0 2\expnd1\expndtw4  \expnd0\expndtw-1 meses\expnd1\expndtw4  \expnd0\expndtw-1 despu\'E9s\expnd1\expndtw5  \expnd0\expndtw0 del\expnd1\expndtw5  \expnd0\expndtw-1 mismo.\f10\expnd18\expndtw91\charscalex100  \expnd0\expndtw-1 Durante\expnd0\expndtw-2  \expnd0\expndtw0 la\expnd0\expndtw-2  \expnd0\expndtw-1 lactancia\expnd0\expndtw-2  \expnd0\expndtw-1 tendr\'E1n\expnd0\expndtw-2  \expnd0\expndtw0 dos\expnd0\expndtw-1  descansos\expnd0\expndtw-2  \expnd0\expndtw-1 extraordinarios,\expnd0\expndtw-2  \expnd0\expndtw0 de\expnd0\expndtw-2  \expnd0\expndtw0 como\expnd0\expndtw-2  \expnd0\expndtw0 media\expnd0\expndtw-2  \expnd0\expndtw-1 hora\expnd0\expndtw-2  \expnd0\expndtw0 por\expnd0\expndtw-2  \expnd0\expndtw0 d\'EDa\expnd0\expndtw-2  \expnd0\expndtw0 para\expnd0\expndtw-2  \expnd0\expndtw-1 amamantar\expnd-1\expndtw-3  \expnd0\expndtw0 a\expnd0\expndtw-2  \expnd0\expndtw0 sus\f10\expnd17\expndtw87\charscalex100  \expnd0\expndtw0 hijos.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw0\charscalex100 Art\'EDculo\expnd0\expndtw-1  43. \f10\b0\expnd0\expndtw0 Ser\'E1n \expnd0\expndtw-1 d\'EDas\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 descanso obligatorio\expnd0\expndtw0  los\expnd0\expndtw-2  \expnd0\expndtw0 que \expnd0\expndtw-1 se\'F1ala\expnd0\expndtw0  el\expnd0\expndtw-2  \expnd0\expndtw-1 calendario\expnd0\expndtw0  \expnd0\expndtw-1 oficial.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri120\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd0\expndtw0  44.\expnd0\expndtw-1  \f10\b0\expnd0\expndtw0 Los \expnd0\expndtw-1 trabajadores\expnd0\expndtw0  \expnd0\expndtw-1 que\expnd0\expndtw0  \expnd0\expndtw-1 tengan \expnd0\expndtw0 m\'E1s de\expnd0\expndtw-1  \expnd0\expndtw0 6 \expnd0\expndtw-1 meses\expnd0\expndtw0  \expnd0\expndtw-1 consecutivos\expnd0\expndtw0  de\expnd0\expndtw-1  servicio\expnd0\expndtw0  \expnd0\expndtw-1 disfrutar\'E1n\expnd0\expndtw0  de dos \expnd0\expndtw-1 periodos\f10\expnd21\expndtw105\charscalex100  \expnd0\expndtw-1 anuales\expnd-1\expndtw-4  \expnd0\expndtw-1 de\expnd-1\expndtw-4  \expnd0\expndtw-1 vacaciones\expnd-1\expndtw-4  \expnd0\expndtw0 de\expnd-1\expndtw-5  \expnd0\expndtw0 10\expnd-1\expndtw-4  \expnd0\expndtw0 d\'EDas\expnd-1\expndtw-4  \expnd0\expndtw-1 laborales\expnd-1\expndtw-5  \expnd0\expndtw-1 cada\expnd-1\expndtw-4  \expnd0\expndtw-1 uno\expnd-1\expndtw-4  \expnd0\expndtw0 en\expnd-1\expndtw-4  \expnd0\expndtw0 las\expnd-1\expndtw-4  \expnd0\expndtw0 fechas\expnd-1\expndtw-4  \expnd0\expndtw-1 que\expnd-1\expndtw-4  \expnd0\expndtw-1 se\'F1alan\expnd-1\expndtw-4  \expnd0\expndtw0 al\expnd-1\expndtw-4  \expnd0\expndtw0 efecto,\expnd-1\expndtw-6  \expnd0\expndtw0 pero\expnd-1\expndtw-4  \expnd0\expndtw-1 en\expnd-1\expndtw-4  \expnd0\expndtw0 todo\expnd-1\expndtw-6  \expnd0\expndtw0 caso,\expnd-1\expndtw-5  \expnd0\expndtw0 se\f10\expnd13\expndtw67\charscalex100  \expnd0\expndtw0 dejar\'E1n\expnd7\expndtw34  \expnd0\expndtw-1 guardias\expnd7\expndtw36  \expnd0\expndtw-1 para\expnd7\expndtw34  \expnd0\expndtw0 la\expnd7\expndtw34  \expnd0\expndtw-1 tramitaci\'F3n\expnd7\expndtw36  \expnd0\expndtw-1 de\expnd7\expndtw35  \expnd0\expndtw0 los\expnd7\expndtw36  \expnd0\expndtw-1 asuntos\expnd7\expndtw35  \expnd0\expndtw-1 urgentes,\expnd7\expndtw36  \expnd0\expndtw-1 para\expnd7\expndtw36  \expnd0\expndtw-1 los\expnd7\expndtw35  \expnd0\expndtw-1 que\expnd7\expndtw34  \expnd0\expndtw0 se\expnd7\expndtw35  \expnd0\expndtw-1 utilizar\'E1n\expnd7\expndtw34  \expnd0\expndtw0 de\expnd7\expndtw36  \expnd0\expndtw-1 preferencia\expnd7\expndtw35  \expnd0\expndtw0 los\f10\expnd21\expndtw105\charscalex100  \expnd0\expndtw-1 servicios\expnd0\expndtw0  de \expnd0\expndtw-1 quienes\expnd0\expndtw0  no\expnd0\expndtw-1  tienen\expnd0\expndtw0  \expnd0\expndtw-1 derecho\expnd0\expndtw-2  \expnd0\expndtw0 a \expnd0\expndtw-1 vacaciones.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri125\qj\sl240\slmult1\f10\fs20\b0\expnd0\expndtw1\charscalex100 Cuando\expnd1\expndtw5  \expnd0\expndtw1 el\expnd1\expndtw6  \expnd0\expndtw1 trabajador\expnd1\expndtw5  \expnd0\expndtw1 no\expnd1\expndtw5  \expnd0\expndtw1 pudiera\expnd1\expndtw5  \expnd0\expndtw1 hacer\expnd1\expndtw6  \expnd0\expndtw0 uso\expnd1\expndtw5  \expnd0\expndtw1 de\expnd3\expndtw14  \expnd0\expndtw1 las\expnd1\expndtw6  \expnd0\expndtw1 vacaciones\expnd1\expndtw6  \expnd0\expndtw0 en\expnd1\expndtw5  \expnd0\expndtw1 los\expnd1\expndtw5  \expnd0\expndtw1 periodos\expnd1\expndtw5  \expnd0\expndtw1 se\'F1alados\expnd1\expndtw5  \expnd0\expndtw1 por\expnd1\expndtw6  \expnd0\expndtw1 necesidades\expnd1\expndtw5  \expnd0\expndtw1 del\f10\expnd5\expndtw24\charscalex100  \expnd0\expndtw1 servicio\expnd-1\expndtw-3  \expnd0\expndtw1 disfrutar\'E1\expnd-1\expndtw-3  \expnd0\expndtw0 de\expnd-1\expndtw-4  \expnd0\expndtw1 ellas\expnd-1\expndtw-4  \expnd0\expndtw1 los\expnd-1\expndtw-4  \expnd0\expndtw1 diez\expnd-1\expndtw-3  \expnd0\expndtw0 d\'EDas\expnd-1\expndtw-4  \expnd0\expndtw1 siguientes\expnd-1\expndtw-4  \expnd0\expndtw0 a\expnd-1\expndtw-3  \expnd0\expndtw0 la\expnd-1\expndtw-3  \expnd0\expndtw0 fecha\expnd-1\expndtw-3  \expnd0\expndtw0 en\expnd-1\expndtw-4  \expnd0\expndtw1 que\expnd-1\expndtw-3  \expnd0\expndtw0 haya\expnd-1\expndtw-3  \expnd0\expndtw1 desaparecido\expnd-1\expndtw-3  \expnd0\expndtw0 la\expnd-1\expndtw-4  \expnd0\expndtw1 causa\expnd-1\expndtw-4  \expnd0\expndtw1 que\expnd-1\expndtw-4  \expnd0\expndtw1 impidiera\f10\expnd9\expndtw46\charscalex100  \expnd0\expndtw1 el\expnd6\expndtw30  \expnd0\expndtw1 disfrute\expnd6\expndtw32  \expnd0\expndtw0 de\expnd6\expndtw31  \expnd0\expndtw0 su\expnd6\expndtw30  \expnd0\expndtw1 descanso,\expnd6\expndtw31  \expnd0\expndtw1 pero\expnd6\expndtw29  \expnd0\expndtw1 en\expnd6\expndtw30  \expnd0\expndtw1 ning\'FAn\expnd6\expndtw31  \expnd0\expndtw0 caso\expnd6\expndtw32  \expnd0\expndtw1 los\expnd6\expndtw32  \expnd0\expndtw1 trabajadores\expnd6\expndtw30  \expnd0\expndtw1 que\expnd6\expndtw32  \expnd0\expndtw1 laboren\expnd6\expndtw29  \expnd0\expndtw1 en\expnd6\expndtw30  \expnd1\expndtw3 periodos\expnd6\expndtw31  \expnd0\expndtw1 de\expnd6\expndtw31  \expnd0\expndtw0 vacaciones\f10\expnd9\expndtw44\charscalex100  \expnd0\expndtw1 tendr\'E1n\expnd0\expndtw2  \expnd0\expndtw1 derecho\expnd0\expndtw2  \expnd0\expndtw1 doble\expnd0\expndtw2  \expnd0\expndtw1 pago\expnd0\expndtw2  \expnd0\expndtw0 de\expnd0\expndtw2  \expnd0\expndtw1 sueldo.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri119\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd5\expndtw25  \expnd0\expndtw0 45.\expnd5\expndtw25  \f10\b0\expnd0\expndtw-1 Cuando\expnd5\expndtw26  \expnd0\expndtw0 el\expnd5\expndtw25  \expnd0\expndtw-1 trabajador\expnd5\expndtw26  \expnd0\expndtw-1 tenga\expnd5\expndtw26  \expnd0\expndtw-1 necesidad\expnd5\expndtw25  \expnd0\expndtw0 de\expnd5\expndtw26  \expnd0\expndtw-1 faltar\expnd5\expndtw26  \expnd0\expndtw0 a\expnd5\expndtw25  \expnd0\expndtw0 sus\expnd5\expndtw26  \expnd0\expndtw-1 labores\expnd5\expndtw25  \expnd0\expndtw0 por\expnd5\expndtw26  \expnd0\expndtw-1 incapacidad\expnd5\expndtw25  \expnd0\expndtw0 de\expnd5\expndtw26  \expnd0\expndtw-1 accidente\expnd5\expndtw25  \expnd0\expndtw0 de\f10\expnd23\expndtw117\charscalex100  \expnd0\expndtw0 trabajo\expnd-1\expndtw-3  \expnd0\expndtw0 o\expnd-1\expndtw-3  \expnd0\expndtw-1 enfermedad\expnd-1\expndtw-3  \expnd0\expndtw-1 profesional,\expnd-1\expndtw-4  \expnd0\expndtw0 tiene\expnd-1\expndtw-3  \expnd0\expndtw0 la\expnd-1\expndtw-3  \expnd0\expndtw-1 obligaci\'F3n\expnd-1\expndtw-3  \expnd0\expndtw0 de\expnd-1\expndtw-3  \expnd0\expndtw-1 reportarse\expnd-1\expndtw-4  \expnd0\expndtw-1 telef\'F3nicamente\expnd-1\expndtw-3  \expnd0\expndtw0 o\expnd-1\expndtw-3  \expnd0\expndtw0 por \expnd0\expndtw-1 conducto\expnd-1\expndtw-4  \expnd0\expndtw0 de\expnd-1\expndtw-3  \expnd0\expndtw-1 alguno\expnd-1\expndtw-3  \expnd0\expndtw-1 de\f10\expnd25\expndtw125\charscalex100  \expnd0\expndtw0 sus\expnd5\expndtw24  \expnd0\expndtw-1 familiares,\expnd5\expndtw24  \expnd0\expndtw0 con\expnd5\expndtw24  \expnd0\expndtw0 su\expnd5\expndtw24  \expnd0\expndtw-1 Director\expnd5\expndtw24  \expnd0\expndtw-1 de\expnd5\expndtw24  \expnd0\expndtw-1 \'C1rea,\expnd5\expndtw24  \expnd0\expndtw0 a\expnd5\expndtw24  \expnd0\expndtw0 partir\expnd5\expndtw24  \expnd0\expndtw-1 del\expnd5\expndtw24  \expnd0\expndtw0 primer\expnd5\expndtw24  \expnd0\expndtw0 d\'EDa\expnd5\expndtw23  \expnd0\expndtw0 de\expnd5\expndtw24  \expnd0\expndtw-1 incapacidad\expnd5\expndtw24  \expnd0\expndtw0 con\expnd5\expndtw24  \expnd0\expndtw0 el\expnd5\expndtw24  \expnd0\expndtw0 fin\expnd4\expndtw22  \expnd0\expndtw0 de\expnd5\expndtw24  \expnd0\expndtw0 que\expnd5\expndtw25  \expnd0\expndtw0 este\expnd4\expndtw22  \expnd0\expndtw0 pueda\f10\expnd13\expndtw65\charscalex100  \expnd0\expndtw-1 comprobar\expnd0\expndtw0  la\expnd0\expndtw-2  \expnd0\expndtw-1 veracidad\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  la\expnd0\expndtw-1  falta, \expnd0\expndtw0 por los \expnd0\expndtw-1 medios\expnd0\expndtw0  o \expnd0\expndtw-1 en\expnd0\expndtw0  la\expnd0\expndtw-1  \expnd0\expndtw0 forma \expnd0\expndtw-1 que\expnd0\expndtw0  lo\expnd0\expndtw-1  juzgue\expnd0\expndtw0  \expnd0\expndtw-1 conveniente.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri122\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd0\expndtw0  \expnd0\expndtw-1 46.\expnd0\expndtw1  \f10\b0\expnd0\expndtw0 Los\expnd0\expndtw1  \expnd0\expndtw-1 permisos econ\'F3micos\expnd0\expndtw0  que se le \expnd0\expndtw-1 conceden\expnd0\expndtw0  al \expnd0\expndtw-1 trabajador\expnd0\expndtw0  \expnd0\expndtw-1 deber\'E1n\expnd0\expndtw0  \expnd0\expndtw-1 ser\expnd0\expndtw1  \expnd0\expndtw-1 autorizados\expnd0\expndtw1  \expnd0\expndtw-1 por\expnd0\expndtw1  \expnd0\expndtw0 el \expnd0\expndtw-1 director\f10\expnd23\expndtw117\charscalex100  \expnd0\expndtw0 del \expnd0\expndtw-1 \'E1rea\expnd0\expndtw0  \expnd0\expndtw-1 correspondiente.\par\sect\sectd\sbkpage\headery592\footery641
+{\header
+{\shp{\*\shpinst\shpleft1222\shpright1975\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz55\shplid615{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Alcance\par}}}
+
+{\shp{\*\shpinst\shpleft5156\shpright7153\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz56\shplid619{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 PERI\'D3DICO OFICIAL\par}}}
+
+{\shp{\*\shpinst\shpleft9918\shpright10971\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz57\shplid623{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw0\charscalex100 P\'E1gina\expnd0\expndtw-1  103\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright1279\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz58\shplid627{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 2\par}}}
+
+{\shp{\*\shpinst\shpleft4449\shpright4506\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz59\shplid631{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 0\par}}}
+
+{\shp{\*\shpinst\shpleft7676\shpright7733\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz60\shplid635{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 1\par}}}
+
+{\shp{\*\shpinst\shpleft10902\shpright10959\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz61\shplid639{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 8\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10893\shptop856\shpbottom926\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz62\shplid643{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelesta\expnd-1\expndtw-6  \expnd0\expndtw-1 dodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3di\expnd-1\expndtw-5  \expnd0\expndtw-1 cooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehid\expnd-1\expndtw-6  \expnd0\expndtw-1 algoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestado\expnd-1\expndtw-6  \expnd0\expndtw-1 dehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgo\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10957\shptop895\shpbottom1005\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz63\shplid647{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 Peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dic\expnd-1\expndtw-5  \expnd0\expndtw-1 ooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadod\expnd-1\expndtw-6  \expnd0\expndtw-1 ehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicoo\expnd-1\expndtw-6  \expnd0\expndtw-1 ficialdelestadodehidalgo\expnd0\expndtw0  \expnd0\expndtw1  \expnd0\expndtw0 2 0\par\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb5\f10\fs3\b0\expnd0\expndtw0\charscalex100 1 8\par}}}
+\pard\plain\s1\nooverflow\nocwrap\sl14\slmult1\fs20\par}\marglsxn1020\margrsxn1080\margtsxn980\margbsxn840\cols1\colno1\colw10140\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb4\f10\fs12\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri104\sl240\slmult1\sb74\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd2\expndtw11  \expnd0\expndtw0 47. \f10\b0\expnd0\expndtw0 El\expnd2\expndtw12  \expnd0\expndtw-1 m\'E1ximo\expnd2\expndtw12  \expnd0\expndtw-1 de\expnd2\expndtw12  \expnd0\expndtw-1 permisos\expnd2\expndtw11  \expnd0\expndtw-1 econ\'F3micos\expnd2\expndtw11  \expnd0\expndtw0 a\expnd2\expndtw11  \expnd0\expndtw0 qu\'E9\expnd2\expndtw11  \expnd0\expndtw0 se\expnd3\expndtw13  \expnd0\expndtw-1 refiere\expnd2\expndtw12  \expnd0\expndtw0 el\expnd2\expndtw12  \expnd0\expndtw-1 art\'EDculo\expnd2\expndtw12  \expnd0\expndtw-1 inmediato\expnd2\expndtw11  \expnd0\expndtw-1 anterior,\expnd2\expndtw12  \expnd0\expndtw0 ser\'E1n\expnd2\expndtw11  \expnd0\expndtw0 3\expnd2\expndtw11  \expnd0\expndtw0 en\expnd2\expndtw12  \expnd0\expndtw0 un\f10\expnd20\expndtw101\charscalex100  \expnd0\expndtw-1 periodo\expnd0\expndtw0  de \expnd0\expndtw-1 un \expnd0\expndtw0 a\'F1o y\expnd0\expndtw-1  \expnd0\expndtw0 previa\expnd0\expndtw-1  autorizaci\'F3n. Cada\expnd0\expndtw0  \expnd0\expndtw-1 permiso\expnd0\expndtw0  \expnd0\expndtw-1 econ\'F3mico\expnd0\expndtw-2  \expnd0\expndtw0 no \expnd0\expndtw-1 exceder\'E1 \expnd0\expndtw0 de \expnd0\expndtw-1 tres\expnd0\expndtw-2  \expnd0\expndtw0 d\'EDas.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri104\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd-1\expndtw-3  \expnd0\expndtw0 48.\expnd-1\expndtw-3  \f10\b0\expnd0\expndtw0 Los\expnd-1\expndtw-3  \expnd0\expndtw-1 permisos\expnd-1\expndtw-3  \expnd0\expndtw-1 econ\'F3micos\expnd-1\expndtw-3  \expnd0\expndtw0 que\expnd-1\expndtw-3  \expnd0\expndtw0 se\expnd0\expndtw-2  \expnd0\expndtw-1 dan\expnd0\expndtw-2  \expnd0\expndtw0 a\expnd-1\expndtw-3  \expnd0\expndtw0 los\expnd0\expndtw-2  \expnd0\expndtw-1 trabajadores\expnd0\expndtw-2  \expnd0\expndtw-1 no\expnd0\expndtw-2  \expnd0\expndtw-1 podr\'E1n\expnd0\expndtw-2  \expnd0\expndtw-1 coincidir\expnd0\expndtw-2  \expnd0\expndtw0 con\expnd-1\expndtw-4  \expnd0\expndtw0 el\expnd0\expndtw-2  \expnd0\expndtw0 permiso\expnd0\expndtw-2  \expnd0\expndtw-1 final\expnd0\expndtw-2  \expnd0\expndtw0 de\f10\expnd19\expndtw97\charscalex100  \expnd0\expndtw0 un d\'EDa\expnd0\expndtw-1  \expnd0\expndtw0 de \expnd0\expndtw-1 descanso\expnd0\expndtw0  \expnd0\expndtw-1 obligatorio\expnd0\expndtw0  \expnd0\expndtw-1 seg\'FAn\expnd0\expndtw0  el\expnd0\expndtw-1  calendario\expnd0\expndtw0  \expnd0\expndtw-1 oficial.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd0\expndtw0  \expnd0\expndtw-1 49. \f10\b0\expnd0\expndtw0 Son\expnd0\expndtw-1  \expnd0\expndtw0 d\'EDas de\expnd0\expndtw-2  \expnd0\expndtw-1 descanso obligatorio:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls8\ilvl0\nooverflow\nocwrap\li834\fi-472\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 1\'B0 de \expnd0\expndtw-1 enero,\expnd0\expndtw-2  \expnd0\expndtw0 A\'F1o\expnd0\expndtw-1  \expnd0\expndtw0 nuevo;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls8\ilvl0\nooverflow\nocwrap\li834\fi-527\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 5 de \expnd0\expndtw-1 febrero,\expnd-1\expndtw-3  \expnd0\expndtw-1 Promulgaci\'F3n \expnd0\expndtw0 de\expnd0\expndtw-1  \expnd0\expndtw0 la \expnd0\expndtw-1 Constituci\'F3n;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls8\ilvl0\nooverflow\nocwrap\li834\fi-582\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 21 de \expnd0\expndtw-1 Marzo, Natalicio\expnd0\expndtw0  de\expnd0\expndtw-2  \expnd0\expndtw-1 Benito\expnd0\expndtw0  \expnd0\expndtw-1 Ju\'E1rez;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls8\ilvl0\nooverflow\nocwrap\li834\fi-605\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 1\'B0 de \expnd0\expndtw-1 mayo,\expnd0\expndtw-2  \expnd0\expndtw0 D\'EDa del \expnd0\expndtw-1 trabajo;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls8\ilvl0\nooverflow\nocwrap\li834\fi-549\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 16 de \expnd0\expndtw-1 Septiembre, \expnd0\expndtw0 d\'EDa\expnd0\expndtw-1  \expnd0\expndtw0 de \expnd0\expndtw-1 la\expnd0\expndtw0  \expnd0\expndtw-1 independencia;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls8\ilvl0\nooverflow\nocwrap\li834\fi-605\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 2 de \expnd0\expndtw-1 Noviembre, \expnd0\expndtw0 d\'EDa\expnd0\expndtw-1  \expnd0\expndtw0 de \expnd0\expndtw-1 muertos;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls8\ilvl0\nooverflow\nocwrap\li834\fi-660\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 20 de \expnd0\expndtw-1 Noviembre, \expnd0\expndtw0 d\'EDa de \expnd0\expndtw-1 la\expnd0\expndtw0  \expnd0\expndtw-1 revoluci\'F3n;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls8\ilvl0\nooverflow\nocwrap\li834\fi-716\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 1\'B0 de \expnd0\expndtw-1 Diciembre\expnd0\expndtw0  de\expnd0\expndtw-2  \expnd0\expndtw-1 cada\expnd0\expndtw0  6\expnd0\expndtw-2  \expnd0\expndtw0 a\'F1os,\expnd0\expndtw-1  Transmisi\'F3n\expnd0\expndtw0  \expnd0\expndtw-1 del\expnd0\expndtw0  \expnd0\expndtw-1 Poder\expnd0\expndtw0  \expnd0\expndtw-1 Ejecutivo\expnd0\expndtw0  \expnd0\expndtw-1 Federal;\expnd0\expndtw-2  \expnd0\expndtw0 y,\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls8\ilvl0\nooverflow\nocwrap\li834\fi-605\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 25 de \expnd0\expndtw-1 Diciembre, Navidad.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li2196\ri2186\qc\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 CAPITULO\expnd0\expndtw0  \expnd0\expndtw-1 VII\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\li2197\ri2184\qc\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 DERECHOS \expnd0\expndtw0 Y\expnd0\expndtw-1  OBLIGACIONES \expnd0\expndtw0 DE \expnd0\expndtw-1 LOS TRABAJADORES.\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f12\fs19\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd0\expndtw0  \expnd0\expndtw-1 50. \f10\b0\expnd0\expndtw0 Los \expnd0\expndtw-1 trabajadores\expnd0\expndtw0  \expnd0\expndtw-1 tienen\expnd0\expndtw0  \expnd0\expndtw-1 los\expnd0\expndtw-2  \expnd0\expndtw-1 siguientes\expnd0\expndtw0  \expnd0\expndtw-1 derechos:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs20\b0\i0\par\pard\plain\s1\ls8\ilvl1\nooverflow\nocwrap\li1182\fi-472\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Percibir\expnd0\expndtw0  \expnd0\expndtw-1 los\expnd0\expndtw0  \expnd0\expndtw-1 emolumentos\expnd0\expndtw-2  \expnd0\expndtw0 que le \expnd0\expndtw-1 corresponda\expnd0\expndtw0  de \expnd0\expndtw-1 las\expnd0\expndtw0  labores \expnd0\expndtw-1 encomendadas;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls8\ilvl1\nooverflow\nocwrap\li1182\fi-527\ri102\qj\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw0\charscalex100 Recibir\expnd9\expndtw44  \expnd0\expndtw0 los\expnd9\expndtw44  \expnd0\expndtw-1 elementos\expnd9\expndtw45  \expnd0\expndtw0 y\expnd9\expndtw44  \expnd0\expndtw-1 materiales\expnd9\expndtw45  \expnd0\expndtw-1 necesarios\expnd9\expndtw44  \expnd0\expndtw0 para\expnd9\expndtw45  \expnd0\expndtw0 el\expnd9\expndtw45  \expnd0\expndtw-1 buen\expnd9\expndtw46  \expnd0\expndtw-1 desempe\'F1o\expnd9\expndtw46  \expnd0\expndtw-1 de\expnd9\expndtw45  \expnd0\expndtw-1 las\expnd9\expndtw45  \expnd0\expndtw-1 labores\f10\expnd17\expndtw83\charscalex100  \expnd0\expndtw-1 encomendadas;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls8\ilvl1\nooverflow\nocwrap\li1182\fi-582\ri99\qj\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw0\charscalex100 Recibir\expnd-2\expndtw-8  \expnd0\expndtw0 a\expnd-1\expndtw-7  \expnd0\expndtw0 fin\expnd-1\expndtw-7  \expnd0\expndtw-1 de\expnd-1\expndtw-7  \expnd0\expndtw0 a\'F1o\expnd-1\expndtw-6  \expnd0\expndtw0 el\expnd-2\expndtw-8  \expnd0\expndtw-1 aguinaldo\expnd-2\expndtw-8  \expnd0\expndtw-1 correspondiente\expnd-1\expndtw-7  \expnd0\expndtw0 de\expnd-1\expndtw-7  \expnd0\expndtw-1 acuerdo\expnd-2\expndtw-8  \expnd0\expndtw0 a\expnd-1\expndtw-7  \expnd0\expndtw0 la\expnd-1\expndtw-7  \expnd0\expndtw-1 Ley\expnd-1\expndtw-7  \expnd0\expndtw0 de\expnd-1\expndtw-7  \expnd0\expndtw0 los\expnd-1\expndtw-6  \expnd0\expndtw-1 Trabajadores\expnd-1\expndtw-6  \expnd0\expndtw0 al\expnd-1\expndtw-6  \expnd0\expndtw-1 Servicio\f10\expnd17\expndtw85\charscalex100  \expnd0\expndtw0 de\expnd2\expndtw9  \expnd0\expndtw-1 los\expnd2\expndtw9  \expnd0\expndtw-1 Gobiernos\expnd2\expndtw9  \expnd0\expndtw-1 Estatal\expnd2\expndtw8  \expnd0\expndtw0 y\expnd1\expndtw7  \expnd0\expndtw-1 Municipales,\expnd1\expndtw7  \expnd0\expndtw0 as\'ED\expnd1\expndtw7  \expnd0\expndtw0 como\expnd1\expndtw7  \expnd0\expndtw0 de\expnd2\expndtw9  \expnd0\expndtw-1 los\expnd2\expndtw8  \expnd0\expndtw-1 Organismos\expnd2\expndtw8  \expnd0\expndtw-1 Descentralizados,\expnd2\expndtw8  \expnd0\expndtw-1 del\expnd2\expndtw9  \expnd0\expndtw-1 Estado\f10\expnd19\expndtw97\charscalex100  \expnd0\expndtw0 de \expnd0\expndtw-1 Hidalgo;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls8\ilvl1\nooverflow\nocwrap\li1182\fi-605\ri101\qj\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw0\charscalex100 Gozar de \expnd0\expndtw-1 los\expnd0\expndtw0  \expnd0\expndtw-1 descansos\expnd0\expndtw0  y\expnd0\expndtw-2  \expnd0\expndtw-1 vacaciones\expnd0\expndtw0  \expnd0\expndtw-1 establecidas\expnd0\expndtw0  \expnd0\expndtw-1 por\expnd0\expndtw0  la\expnd0\expndtw-1  \expnd0\expndtw0 Ley\expnd0\expndtw-1  \expnd0\expndtw0 de los \expnd0\expndtw-1 Trabajadores\expnd0\expndtw0  al \expnd0\expndtw-1 Servicio\expnd0\expndtw0  de\expnd0\expndtw-1  \expnd0\expndtw0 los\f10\expnd16\expndtw79\charscalex100  \expnd0\expndtw-1 Gobiernos\expnd7\expndtw35  \expnd0\expndtw-1 Estatal\expnd7\expndtw35  \expnd0\expndtw0 y\expnd7\expndtw34  \expnd0\expndtw-1 Municipales,\expnd7\expndtw35  \expnd0\expndtw-1 as\'ED\expnd7\expndtw36  \expnd0\expndtw0 como\expnd7\expndtw35  \expnd0\expndtw0 de\expnd7\expndtw36  \expnd0\expndtw-1 los\expnd7\expndtw34  \expnd0\expndtw-1 Organismos\expnd7\expndtw35  \expnd0\expndtw-1 Descentralizados,\expnd7\expndtw35  \expnd0\expndtw-1 del\expnd7\expndtw35  \expnd0\expndtw-1 Estado\expnd7\expndtw36  \expnd0\expndtw0 de\f10\expnd21\expndtw103\charscalex100  \expnd0\expndtw-1 Hidalgo;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls8\ilvl1\nooverflow\nocwrap\li1182\fi-549\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Obtener\expnd0\expndtw0  los \expnd0\expndtw-1 permisos\expnd0\expndtw0  \expnd0\expndtw-1 con\expnd0\expndtw0  o\expnd0\expndtw-1  \expnd0\expndtw0 sin \expnd0\expndtw-1 goce\expnd0\expndtw0  \expnd0\expndtw-1 de sueldo\expnd0\expndtw0  que \expnd0\expndtw-1 la\expnd0\expndtw0  ley\expnd0\expndtw-1  establezca;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls8\ilvl1\nooverflow\nocwrap\li1182\fi-605\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Participar\expnd0\expndtw0  en\expnd0\expndtw-1  los\expnd0\expndtw0  \expnd0\expndtw-1 cursos\expnd0\expndtw0  de\expnd0\expndtw-2  \expnd0\expndtw-1 capacitaci\'F3n \expnd0\expndtw0 que \expnd0\expndtw-1 para\expnd0\expndtw0  \expnd0\expndtw-1 su\expnd0\expndtw0  \expnd0\expndtw-1 puesto\expnd0\expndtw-2  \expnd0\expndtw-1 sean\expnd0\expndtw0  \expnd0\expndtw-1 realizados;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls8\ilvl1\nooverflow\nocwrap\li1182\fi-660\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw0\charscalex100 Recibir \expnd0\expndtw-1 trato respetuoso\expnd0\expndtw0  de\expnd0\expndtw-2  \expnd0\expndtw0 parte de\expnd0\expndtw-2  \expnd0\expndtw0 sus\expnd0\expndtw-1  superiores, compa\'F1eros\expnd0\expndtw0  y\expnd0\expndtw-1  subalternos;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls8\ilvl1\nooverflow\nocwrap\li1182\fi-716\ri104\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw0\charscalex100 En\expnd-1\expndtw-4  \expnd0\expndtw0 caso\expnd-1\expndtw-4  \expnd0\expndtw0 de\expnd-1\expndtw-3  \expnd0\expndtw0 ser\expnd-1\expndtw-3  \expnd0\expndtw-1 sindicalizado,\expnd-1\expndtw-3  \expnd0\expndtw0 que\expnd-1\expndtw-3  \expnd0\expndtw0 se\expnd-1\expndtw-3  \expnd0\expndtw0 le\expnd-1\expndtw-4  \expnd0\expndtw-1 proporcione\expnd-1\expndtw-3  \expnd0\expndtw0 los\expnd-1\expndtw-3  \expnd0\expndtw-1 beneficios\expnd-1\expndtw-4  \expnd0\expndtw0 a\expnd-1\expndtw-3  \expnd0\expndtw0 los\expnd-1\expndtw-3  \expnd0\expndtw0 que\expnd-1\expndtw-3  \expnd0\expndtw-1 tiene\expnd-1\expndtw-3  \expnd0\expndtw-1 derecho,\expnd-1\expndtw-4  \expnd0\expndtw0 as\'ED\expnd-1\expndtw-4  \expnd0\expndtw0 como\f10\expnd15\expndtw77\charscalex100  \expnd0\expndtw0 la \expnd0\expndtw-1 dotaci\'F3n\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 uniformes\expnd0\expndtw0  \expnd0\expndtw-1 que\expnd0\expndtw0  para\expnd0\expndtw-1  \expnd0\expndtw0 el \expnd0\expndtw-1 uso\expnd0\expndtw0  en el\expnd0\expndtw-1  trabajo\expnd0\expndtw0  sean\expnd0\expndtw-1  dotados\expnd0\expndtw0  \expnd0\expndtw-1 por\expnd0\expndtw0  el \expnd0\expndtw-1 Ayuntamiento;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls8\ilvl1\nooverflow\nocwrap\li1182\fi-605\sl-230\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Expresar\expnd0\expndtw0  \expnd0\expndtw-1 sus inconformidades\expnd0\expndtw0  \expnd0\expndtw-1 derivadas\expnd0\expndtw0  de \expnd0\expndtw-1 su\expnd0\expndtw0  \expnd0\expndtw-1 trabajo\expnd0\expndtw0  ante\expnd0\expndtw-1  \expnd0\expndtw0 la \expnd0\expndtw-1 autoridad\expnd0\expndtw0  \expnd0\expndtw-1 municipal competente;\par\pard\plain\s1\ls8\ilvl1\nooverflow\nocwrap\li1182\fi-549\ri100\qj\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw0\charscalex100 Recibir\expnd-1\expndtw-4  \expnd0\expndtw-1 indemnizaci\'F3n\expnd-1\expndtw-5  \expnd0\expndtw0 en\expnd-1\expndtw-4  \expnd0\expndtw0 caso\expnd-1\expndtw-4  \expnd0\expndtw0 de\expnd-1\expndtw-4  \expnd0\expndtw-1 accidente\expnd-1\expndtw-5  \expnd0\expndtw0 de\expnd-1\expndtw-4  \expnd0\expndtw0 trabajo\expnd-1\expndtw-5  \expnd0\expndtw0 que\expnd-1\expndtw-4  \expnd0\expndtw0 as\'ED\expnd-1\expndtw-5  \expnd0\expndtw0 lo\expnd-1\expndtw-4  \expnd0\expndtw0 amerite,\expnd-1\expndtw-6  \expnd0\expndtw0 pudiendo\expnd-1\expndtw-5  \expnd0\expndtw0 ser\expnd-1\expndtw-4  \expnd0\expndtw-1 restituido\expnd-1\expndtw-4  \expnd0\expndtw-1 en\f10\expnd11\expndtw53\charscalex100  \expnd0\expndtw-1 cuanto \expnd0\expndtw0 su \expnd0\expndtw-1 estado\expnd0\expndtw0  de\expnd0\expndtw-2  \expnd0\expndtw-1 salud\expnd0\expndtw0  lo\expnd0\expndtw-1  permita; \expnd0\expndtw0 y,\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls8\ilvl1\nooverflow\nocwrap\li1182\fi-605\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw0\charscalex100 A\expnd0\expndtw-1  renunciar\expnd0\expndtw0  a\expnd0\expndtw-2  \expnd0\expndtw0 su \expnd0\expndtw-1 empleo.\par\sect\sectd\sbkpage\headery592\footery641
+{\header
+{\shp{\*\shpinst\shpleft1222\shpright2275\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz64\shplid707{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw0\charscalex100 P\'E1gina\expnd0\expndtw-1  104\par}}}
+
+{\shp{\*\shpinst\shpleft5118\shpright7115\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz65\shplid711{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 PERI\'D3DICO OFICIAL\par}}}
+
+{\shp{\*\shpinst\shpleft10218\shpright10971\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz66\shplid715{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Alcance\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright1279\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz67\shplid719{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 2\par}}}
+
+{\shp{\*\shpinst\shpleft3649\shpright3706\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz68\shplid723{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 0\par}}}
+
+{\shp{\*\shpinst\shpleft6075\shpright6132\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz69\shplid727{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 1\par}}}
+
+{\shp{\*\shpinst\shpleft10912\shpright10969\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz70\shplid731{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 8\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10893\shptop856\shpbottom926\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz71\shplid735{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelesta\expnd-1\expndtw-6  \expnd0\expndtw-1 dodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3di\expnd-1\expndtw-5  \expnd0\expndtw-1 cooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehid\expnd-1\expndtw-6  \expnd0\expndtw-1 algoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestado\expnd-1\expndtw-6  \expnd0\expndtw-1 dehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgo\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10969\shptop895\shpbottom1005\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz72\shplid739{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 Peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dic\expnd-1\expndtw-5  \expnd0\expndtw-1 ooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadod\expnd-1\expndtw-6  \expnd0\expndtw-1 ehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicoo\expnd-1\expndtw-6  \expnd0\expndtw-1 ficialdelestadodehidalgo\expnd0\expndtw0   \expnd1\expndtw3  \expnd0\expndtw0 2\expnd0\expndtw1  \expnd0\expndtw0 0\par\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb5\f10\fs3\b0\expnd0\expndtw0\charscalex100 1 8\par}}}
+\pard\plain\s1\nooverflow\nocwrap\sl14\slmult1\fs20\par}\marglsxn1020\margrsxn1080\margtsxn980\margbsxn840\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs10\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\qj\sl240\slmult1\sb74\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd0\expndtw0  \expnd0\expndtw-1 51. \f10\b0\expnd0\expndtw0 Son\expnd0\expndtw-1  obligaciones\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  los \expnd0\expndtw-1 trabajadores:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-472\ri104\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Desempe\'F1ar\expnd2\expndtw9  \expnd0\expndtw0 sus\expnd2\expndtw9  \expnd0\expndtw-1 labores\expnd2\expndtw9  \expnd0\expndtw0 con\expnd2\expndtw8  \expnd0\expndtw-1 responsabilidad,\expnd2\expndtw8  \expnd0\expndtw0 con\expnd2\expndtw9  \expnd0\expndtw0 el\expnd1\expndtw7  \expnd0\expndtw-1 cuidado\expnd2\expndtw9  \expnd0\expndtw0 y\expnd2\expndtw8  \expnd0\expndtw0 esmero\expnd2\expndtw9  \expnd0\expndtw-1 apropiados,\expnd2\expndtw8  \expnd0\expndtw-1 sujet\'E1ndose\expnd2\expndtw9  \expnd0\expndtw0 a\f10\expnd19\expndtw97\charscalex100  \expnd0\expndtw0 la \expnd0\expndtw-1 direcci\'F3n\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 sus\expnd0\expndtw0  jefes, \expnd0\expndtw-1 as\'ED\expnd0\expndtw0  \expnd0\expndtw-1 como\expnd0\expndtw0  a\expnd0\expndtw-1  \expnd0\expndtw0 las\expnd0\expndtw-1  \expnd0\expndtw0 leyes y\expnd0\expndtw-1  reglamentos\expnd0\expndtw-2  \expnd0\expndtw-1 respectivos;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-527\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Observar\expnd0\expndtw0  \expnd0\expndtw-1 buena\expnd0\expndtw0  \expnd0\expndtw-1 costumbre \expnd0\expndtw0 dentro del\expnd0\expndtw-2  \expnd0\expndtw-1 servicio;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-582\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Cumplir\expnd0\expndtw0  \expnd0\expndtw-1 con\expnd0\expndtw0  \expnd0\expndtw-1 las\expnd0\expndtw0  \expnd0\expndtw-1 obligaciones\expnd0\expndtw0  \expnd0\expndtw-1 que\expnd0\expndtw0  les \expnd0\expndtw-1 impongan \expnd0\expndtw0 el \expnd0\expndtw-1 reglamento\expnd0\expndtw0  \expnd0\expndtw-1 interno\expnd0\expndtw0  del \expnd0\expndtw-1 trabajo;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-605\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Guardar\expnd0\expndtw0  \expnd0\expndtw-1 reserva\expnd0\expndtw0  de\expnd0\expndtw-1  \expnd0\expndtw0 los \expnd0\expndtw-1 asuntos\expnd0\expndtw0  \expnd0\expndtw-1 que\expnd0\expndtw0  \expnd0\expndtw-1 lleguen\expnd0\expndtw0  a\expnd0\expndtw-2  \expnd0\expndtw0 su \expnd0\expndtw-1 conocimiento\expnd0\expndtw0  \expnd0\expndtw-1 con\expnd0\expndtw0  \expnd0\expndtw-1 motivo\expnd0\expndtw0  de su \expnd0\expndtw-1 trabajo;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-549\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Evitar\expnd0\expndtw0  la\expnd0\expndtw-1  ejecuci\'F3n\expnd0\expndtw0  de \expnd0\expndtw-1 actos\expnd0\expndtw0  que \expnd0\expndtw-1 pongan \expnd0\expndtw0 en\expnd0\expndtw-1  \expnd0\expndtw0 peligro\expnd0\expndtw-1  \expnd0\expndtw0 su\expnd0\expndtw-1  seguridad \expnd0\expndtw0 y\expnd0\expndtw-2  \expnd0\expndtw0 la de \expnd0\expndtw-1 sus\expnd0\expndtw1  \expnd0\expndtw-1 compa\'F1eros;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-605\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw0\charscalex100 Asistir\expnd0\expndtw-1  puntualmente \expnd0\expndtw0 a \expnd0\expndtw-1 sus\expnd0\expndtw-2  \expnd0\expndtw0 labores;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-660\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Evitar\expnd0\expndtw0  hacer \expnd0\expndtw-1 propaganda\expnd0\expndtw-2  \expnd0\expndtw0 de \expnd0\expndtw-1 ninguna\expnd0\expndtw-2  \expnd0\expndtw-1 clase\expnd0\expndtw0  \expnd0\expndtw-1 dentro\expnd0\expndtw0  \expnd0\expndtw-1 del\expnd0\expndtw0  \expnd0\expndtw-1 lugar\expnd0\expndtw0  de\expnd0\expndtw-1  trabajo;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-716\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Registrar\expnd0\expndtw0  \expnd0\expndtw-1 entrada\expnd0\expndtw0  y\expnd0\expndtw-1  salida;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-605\ri104\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Evitar\expnd7\expndtw34  \expnd0\expndtw0 efectuar\expnd7\expndtw36  \expnd0\expndtw0 o\expnd7\expndtw35  \expnd0\expndtw-1 participar\expnd7\expndtw36  \expnd0\expndtw0 en\expnd7\expndtw36  \expnd0\expndtw0 el\expnd7\expndtw35  \expnd0\expndtw-1 centro\expnd7\expndtw36  \expnd0\expndtw0 de\expnd7\expndtw35  \expnd0\expndtw-1 trabajo\expnd7\expndtw34  \expnd0\expndtw0 y\expnd7\expndtw35  \expnd0\expndtw0 durante\expnd7\expndtw34  \expnd0\expndtw0 la\expnd7\expndtw36  \expnd0\expndtw-1 jornada\expnd7\expndtw35  \expnd0\expndtw0 de\expnd7\expndtw36  \expnd0\expndtw-1 trabajo\expnd7\expndtw36  \expnd0\expndtw0 en\expnd7\expndtw35  \expnd0\expndtw-1 actos\expnd7\expndtw36  \expnd0\expndtw0 de\f10\expnd16\expndtw79\charscalex100  \expnd0\expndtw-1 comercio, rifas,\expnd0\expndtw0  \expnd0\expndtw-1 tandas\expnd0\expndtw0  o\expnd0\expndtw-1  colectas;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-549\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Cubrir\expnd0\expndtw0  \expnd0\expndtw-1 las\expnd0\expndtw0  \expnd0\expndtw-1 guardias\expnd0\expndtw0  \expnd0\expndtw-1 que\expnd0\expndtw0  \expnd0\expndtw-1 les\expnd0\expndtw0  \expnd0\expndtw-1 correspondan\expnd0\expndtw0  \expnd0\expndtw-1 conforme\expnd0\expndtw0  a\expnd0\expndtw-1  \expnd0\expndtw0 los \expnd0\expndtw-1 roles\expnd0\expndtw0  \expnd0\expndtw-1 establecidos;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-605\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Desempe\'F1ar\expnd0\expndtw-2  \expnd0\expndtw0 con \expnd0\expndtw-1 eficacia\expnd0\expndtw0  y\expnd0\expndtw-1  responsabilidad\expnd0\expndtw0  \expnd0\expndtw-1 las\expnd0\expndtw0  \expnd0\expndtw-1 labores\expnd0\expndtw0  y\expnd0\expndtw-2  \expnd0\expndtw-1 comisiones\expnd0\expndtw0  \expnd0\expndtw-1 que\expnd0\expndtw0  se \expnd0\expndtw-1 les\expnd0\expndtw-2  \expnd0\expndtw-1 encomienden;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-660\ri104\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Evitar\expnd1\expndtw6  \expnd0\expndtw0 actos\expnd1\expndtw5  \expnd0\expndtw-1 de\expnd1\expndtw6  \expnd0\expndtw-1 violencia,\expnd1\expndtw6  \expnd0\expndtw-1 injurias\expnd1\expndtw7  \expnd0\expndtw0 o\expnd1\expndtw6  \expnd0\expndtw-1 malos\expnd1\expndtw7  \expnd0\expndtw-1 tratos\expnd1\expndtw7  \expnd0\expndtw0 en\expnd1\expndtw5  \expnd0\expndtw0 contra\expnd1\expndtw6  \expnd0\expndtw0 de\expnd1\expndtw6  \expnd0\expndtw-1 otros\expnd1\expndtw6  \expnd0\expndtw-1 trabajadores\expnd1\expndtw6  \expnd0\expndtw0 o\expnd1\expndtw6  \expnd0\expndtw-1 dem\'E1s\expnd1\expndtw7  \expnd0\expndtw-1 personas\f10\expnd21\expndtw103\charscalex100  \expnd0\expndtw0 que \expnd0\expndtw-1 acudan\expnd0\expndtw0  \expnd0\expndtw-1 al\expnd0\expndtw0  \expnd0\expndtw-1 lugar\expnd0\expndtw0  \expnd0\expndtw-1 donde\expnd0\expndtw-2  \expnd0\expndtw-1 prestan\expnd0\expndtw0  \expnd0\expndtw-1 sus\expnd0\expndtw-2  \expnd0\expndtw-1 servicios;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-716\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Obedecer\expnd0\expndtw0  \expnd0\expndtw-1 las\expnd0\expndtw-2  \expnd0\expndtw-1 \'F3rdenes\expnd0\expndtw0  e\expnd0\expndtw-1  instrucciones\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 sus\expnd0\expndtw0  \expnd0\expndtw-1 superiores\expnd0\expndtw-2  \expnd0\expndtw-1 relacionadas \expnd0\expndtw0 con\expnd0\expndtw-2  \expnd0\expndtw0 sus \expnd0\expndtw-1 labores;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs20\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-738\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw0\charscalex100 Asistir\expnd0\expndtw-2  \expnd0\expndtw0 con \expnd0\expndtw-1 puntualidad\expnd0\expndtw0  a\expnd0\expndtw-1  los\expnd0\expndtw0  \expnd0\expndtw-1 eventos\expnd0\expndtw0  \expnd0\expndtw-1 c\'EDvicos\expnd0\expndtw0  y\expnd0\expndtw-1  culturales\expnd0\expndtw0  \expnd0\expndtw-1 que\expnd0\expndtw0  \expnd0\expndtw-1 realice \expnd0\expndtw0 la\expnd0\expndtw1  \expnd0\expndtw-1 Presidencia\expnd0\expndtw0  \expnd0\expndtw-1 Municipal;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-683\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw0\charscalex100 Acatar\expnd-2\expndtw-12  \expnd0\expndtw-1 las\expnd-2\expndtw-12  \expnd0\expndtw-1 medidas\expnd-2\expndtw-12  \expnd0\expndtw-1 preventivas\expnd-2\expndtw-12  \expnd0\expndtw-1 adoptadas\expnd-2\expndtw-12  \expnd0\expndtw0 por\expnd-2\expndtw-12  \expnd0\expndtw0 la\expnd-3\expndtw-13  \expnd0\expndtw-1 presidencia\expnd-2\expndtw-12  \expnd0\expndtw-1 municipal\expnd-3\expndtw-13  \expnd0\expndtw0 para\expnd-3\expndtw-13  \expnd0\expndtw-1 evitar\expnd-2\expndtw-12  \expnd0\expndtw-1 riesgos\expnd-2\expndtw-12  \expnd0\expndtw0 de\expnd-3\expndtw-13  \expnd0\expndtw0 trabajo;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-738\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Evitar\expnd0\expndtw0  \expnd0\expndtw-1 abandonar \expnd0\expndtw0 su \expnd0\expndtw-1 lugar\expnd0\expndtw-2  \expnd0\expndtw0 de \expnd0\expndtw-1 trabajo\expnd0\expndtw0  \expnd0\expndtw-1 por\expnd0\expndtw0  \expnd0\expndtw-1 cualquier\expnd0\expndtw0  \expnd0\expndtw-1 motivo\expnd0\expndtw0  no \expnd0\expndtw-1 autorizado;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-794\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Cuidar\expnd0\expndtw0  \expnd0\expndtw-1 los\expnd0\expndtw0  \expnd0\expndtw-1 bienes\expnd0\expndtw0  y\expnd0\expndtw-2  \expnd0\expndtw-1 herramientas\expnd0\expndtw0  \expnd0\expndtw-1 que\expnd0\expndtw0  \expnd0\expndtw-1 se\expnd0\expndtw0  le\expnd0\expndtw-1  sean\expnd0\expndtw0  \expnd0\expndtw-1 proporcionados\expnd0\expndtw0  \expnd0\expndtw-1 para \expnd0\expndtw0 el \expnd0\expndtw-1 desarrollo\expnd0\expndtw0  de su \expnd0\expndtw-1 trabajo; \expnd0\expndtw0 y,\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls9\ilvl0\nooverflow\nocwrap\li1182\fi-850\sl240\slmult1\tx1183\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Cumplir\expnd0\expndtw0  \expnd0\expndtw-1 con\expnd0\expndtw0  \expnd0\expndtw-1 los\expnd0\expndtw0  \expnd0\expndtw-1 dem\'E1s\expnd0\expndtw0  \expnd0\expndtw-1 an\'E1logas\expnd0\expndtw0  \expnd0\expndtw-1 que\expnd0\expndtw0  \expnd0\expndtw-1 se\'F1ale\expnd0\expndtw0  el\expnd0\expndtw-1  ordenamiento\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  la\expnd0\expndtw-1  \expnd0\expndtw0 materia.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li3530\fi855\ri3227\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 CAPITULO\expnd0\expndtw0  \expnd0\expndtw-1 VIII\f12\expnd5\expndtw27\charscalex100  \expnd0\expndtw-1 SANCIONES\expnd0\expndtw-2  \expnd0\expndtw-1 ADMINISTRATIVAS\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f12\fs20\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri99\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd-1\expndtw-5  \expnd0\expndtw-1 52.\expnd-1\expndtw-4  \f10\b0\expnd0\expndtw0 El\expnd-1\expndtw-5  \expnd0\expndtw-1 incumplimiento\expnd-1\expndtw-4  \expnd0\expndtw0 de\expnd-1\expndtw-4  \expnd0\expndtw-1 los\expnd-1\expndtw-4  \expnd0\expndtw-1 trabajadores\expnd-1\expndtw-4  \expnd0\expndtw0 a\expnd-1\expndtw-6  \expnd0\expndtw0 las\expnd-1\expndtw-4  \expnd0\expndtw-1 obligaciones\expnd-1\expndtw-4  \expnd0\expndtw-1 se\'F1aladas\expnd-1\expndtw-4  \expnd0\expndtw0 en\expnd-1\expndtw-4  \expnd0\expndtw0 la\expnd-1\expndtw-4  \expnd0\expndtw0 Ley\expnd-1\expndtw-5  \expnd0\expndtw0 de\expnd-1\expndtw-4  \expnd0\expndtw0 los\expnd-1\expndtw-4  \expnd0\expndtw-1 Trabajadores\expnd-1\expndtw-5  \expnd0\expndtw-1 al\f10\expnd23\expndtw117\charscalex100  \expnd0\expndtw0 Servicio\expnd2\expndtw9  \expnd0\expndtw-1 de\expnd2\expndtw9  \expnd0\expndtw-1 los\expnd2\expndtw9  \expnd0\expndtw-1 Gobiernos\expnd2\expndtw8  \expnd0\expndtw-1 Estatal\expnd2\expndtw9  \expnd0\expndtw0 y\expnd2\expndtw8  \expnd0\expndtw-1 Municipales,\expnd2\expndtw9  \expnd0\expndtw0 as\'ED\expnd1\expndtw7  \expnd0\expndtw0 como\expnd1\expndtw7  \expnd0\expndtw0 de\expnd2\expndtw9  \expnd0\expndtw-1 los\expnd2\expndtw8  \expnd0\expndtw-1 Organismos\expnd2\expndtw9  \expnd0\expndtw-1 Descentralizados,\expnd2\expndtw8  \expnd0\expndtw-1 del\expnd2\expndtw9  \expnd0\expndtw-1 Estado\expnd2\expndtw9  \expnd0\expndtw0 de\f10\expnd21\expndtw103\charscalex100  \expnd0\expndtw-1 Hidalgo, \expnd0\expndtw0 y\expnd0\expndtw-2  \expnd0\expndtw0 el \expnd0\expndtw-1 reglamento interior\expnd0\expndtw0  del \expnd0\expndtw-1 trabajo\expnd0\expndtw0  \expnd0\expndtw-1 motivar\expnd0\expndtw0  a\expnd0\expndtw-2  \expnd0\expndtw0 las \expnd0\expndtw-1 siguientes correcciones\expnd0\expndtw-2  \expnd0\expndtw-1 disciplinarias.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls10\ilvl0\nooverflow\nocwrap\li834\fi-472\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Amonestaci\'F3n\expnd0\expndtw0  \expnd0\expndtw-1 verbal;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls10\ilvl0\nooverflow\nocwrap\li834\fi-539\ri121\qj\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw2\charscalex100 Amonestaci\'F3n\expnd8\expndtw38  \expnd0\expndtw2 por\expnd8\expndtw40  \expnd1\expndtw3 escrito\expnd8\expndtw38  \expnd0\expndtw2 con\expnd8\expndtw40  \expnd0\expndtw2 registro\expnd8\expndtw39  \expnd0\expndtw2 del\expnd8\expndtw39  \expnd0\expndtw2 expediente\expnd8\expndtw40  \expnd0\expndtw1 de\expnd8\expndtw40  \expnd0\expndtw2 trabajador\expnd8\expndtw40  \expnd0\expndtw0 a\expnd8\expndtw41  \expnd0\expndtw2 trav\'E9s\expnd8\expndtw39  \expnd0\expndtw1 de\expnd8\expndtw40  \expnd0\expndtw2 nota\expnd8\expndtw39  \expnd0\expndtw1 de\f10\expnd14\expndtw69\charscalex100  \expnd0\expndtw2 extra\'F1amiento.\expnd2\expndtw12  \expnd0\expndtw1 En\expnd3\expndtw14  \expnd0\expndtw1 la\expnd3\expndtw13  \expnd1\expndtw3 acumulaci\'F3n\expnd3\expndtw13  \expnd0\expndtw1 de\expnd3\expndtw14  \expnd0\expndtw2 tres\expnd2\expndtw12  \expnd0\expndtw2 notas\expnd3\expndtw14  \expnd0\expndtw1 de\expnd3\expndtw13  \expnd0\expndtw2 extra\'F1amiento\expnd3\expndtw13  \expnd0\expndtw2 se\expnd3\expndtw13  \expnd0\expndtw2 har\'E1\expnd3\expndtw13  \expnd0\expndtw2 acreedor\expnd2\expndtw12  \expnd0\expndtw1 el\expnd3\expndtw14  \expnd0\expndtw2 trabajador\expnd2\expndtw12  \expnd0\expndtw0 a\f10\expnd17\expndtw83\charscalex100  \expnd0\expndtw2 una\expnd1\expndtw6  \expnd0\expndtw2 sanci\'F3n\expnd1\expndtw7  \expnd0\expndtw2 administrativa\expnd1\expndtw6  \expnd0\expndtw2 correspondiente\expnd1\expndtw7  \expnd0\expndtw0 a\expnd1\expndtw6  \expnd0\expndtw1 un\expnd1\expndtw7  \expnd0\expndtw2 d\'EDa\expnd1\expndtw6  \expnd0\expndtw1 de\expnd1\expndtw6  \expnd0\expndtw2 descuento;\expnd2\expndtw8  \expnd0\expndtw1 y,\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs20\b0\i0\par\pard\plain\s1\ls10\ilvl0\nooverflow\nocwrap\li834\fi-582\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 C) \expnd0\expndtw-1 Suspensi\'F3n\expnd0\expndtw0  en el\expnd0\expndtw-1  trabajo\expnd0\expndtw0  hasta\expnd0\expndtw-1  por\expnd0\expndtw0  \expnd0\expndtw-1 15\expnd0\expndtw0  \expnd0\expndtw-1 d\'EDas\expnd0\expndtw0  \expnd0\expndtw-1 sin\expnd0\expndtw0  \expnd0\expndtw-1 goce\expnd0\expndtw0  de\expnd0\expndtw-2  \expnd0\expndtw-1 sueldo\expnd0\expndtw-2  \expnd0\expndtw0 con \expnd0\expndtw-1 registro\expnd0\expndtw0  \expnd0\expndtw-1 en\expnd0\expndtw0  un \expnd0\expndtw-1 expediente.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri105\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd5\expndtw26  \expnd0\expndtw0 53\f10\b0\expnd0\expndtw0 .\expnd5\expndtw25  \expnd0\expndtw0 La\expnd5\expndtw27  \expnd0\expndtw-1 sanci\'F3n\expnd5\expndtw26  \expnd0\expndtw0 verbal\expnd5\expndtw26  \expnd0\expndtw-1 ser\'E1\expnd5\expndtw27  \expnd0\expndtw-1 impuesta\expnd5\expndtw27  \expnd0\expndtw0 al\expnd5\expndtw27  \expnd0\expndtw0 trabajador\expnd5\expndtw27  \expnd0\expndtw-1 por\expnd5\expndtw27  \expnd0\expndtw0 su\expnd5\expndtw26  \expnd0\expndtw0 inmediato\expnd5\expndtw25  \expnd0\expndtw-1 superior,\expnd5\expndtw26  \expnd0\expndtw0 o\expnd5\expndtw27  \expnd0\expndtw0 por\expnd5\expndtw27  \expnd0\expndtw0 la\expnd5\expndtw27  \expnd0\expndtw-1 Direcci\'F3n\expnd5\expndtw27  \expnd0\expndtw0 de\f10\expnd15\expndtw77\charscalex100  \expnd0\expndtw-1 Recursos\expnd0\expndtw0  \expnd0\expndtw-1 Humanos,\expnd0\expndtw0  en \expnd0\expndtw-1 caso\expnd0\expndtw0  de\expnd0\expndtw-1  haber\expnd0\expndtw0  \expnd0\expndtw-1 cometido\expnd0\expndtw0  \expnd0\expndtw-1 faltas\expnd0\expndtw0  leves,\expnd0\expndtw-1  \expnd0\expndtw0 y\expnd0\expndtw-2  \expnd0\expndtw-1 registrando\expnd0\expndtw0  el \expnd0\expndtw-1 hecho\expnd0\expndtw0  \expnd0\expndtw-1 en\expnd0\expndtw0  un \expnd0\expndtw-1 anecdotario\expnd0\expndtw0  \expnd0\expndtw-1 especial.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd0\expndtw0  \expnd0\expndtw-1 54\f10\b0\expnd0\expndtw-1 . \expnd0\expndtw0 Se\expnd0\expndtw-1  consideran faltas\expnd0\expndtw0  \expnd0\expndtw-1 leves\expnd0\expndtw-2  \expnd0\expndtw0 las \expnd0\expndtw-1 siguientes:\par\sect\sectd\sbkpage\headery592\footery641
+{\header
+{\shp{\*\shpinst\shpleft1222\shpright1975\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz73\shplid801{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Alcance\par}}}
+
+{\shp{\*\shpinst\shpleft5156\shpright7153\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz74\shplid805{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 PERI\'D3DICO OFICIAL\par}}}
+
+{\shp{\*\shpinst\shpleft9918\shpright10971\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz75\shplid809{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw0\charscalex100 P\'E1gina\expnd0\expndtw-1  105\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright1279\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz76\shplid813{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 2\par}}}
+
+{\shp{\*\shpinst\shpleft4449\shpright4506\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz77\shplid817{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 0\par}}}
+
+{\shp{\*\shpinst\shpleft7676\shpright7733\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz78\shplid821{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 1\par}}}
+
+{\shp{\*\shpinst\shpleft10902\shpright10959\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz79\shplid825{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 8\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10893\shptop856\shpbottom926\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz80\shplid829{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelesta\expnd-1\expndtw-6  \expnd0\expndtw-1 dodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3di\expnd-1\expndtw-5  \expnd0\expndtw-1 cooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehid\expnd-1\expndtw-6  \expnd0\expndtw-1 algoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestado\expnd-1\expndtw-6  \expnd0\expndtw-1 dehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgo\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10957\shptop895\shpbottom1005\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz81\shplid833{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 Peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dic\expnd-1\expndtw-5  \expnd0\expndtw-1 ooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadod\expnd-1\expndtw-6  \expnd0\expndtw-1 ehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicoo\expnd-1\expndtw-6  \expnd0\expndtw-1 ficialdelestadodehidalgo\expnd0\expndtw0  \expnd0\expndtw1  \expnd0\expndtw0 2 0\par\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb5\f10\fs3\b0\expnd0\expndtw0\charscalex100 1 8\par}}}
+\pard\plain\s1\nooverflow\nocwrap\sl14\slmult1\fs20\par}\marglsxn1000\margrsxn1080\margtsxn980\margbsxn840\cols1\colno1\colw10160\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb4\f10\fs12\b0\i0\par\pard\plain\s1\ls11\ilvl0\nooverflow\nocwrap\li854\fi-472\sl240\slmult1\sb74\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 No \expnd0\expndtw-1 incorporarse\expnd0\expndtw0  a\expnd0\expndtw-1  las\expnd0\expndtw0  \expnd0\expndtw-1 labores\expnd0\expndtw0  de\expnd0\expndtw-1  manera \expnd0\expndtw0 inmediata,\expnd0\expndtw-1  tras\expnd0\expndtw0  \expnd0\expndtw-1 haber\expnd0\expndtw-2  \expnd0\expndtw-1 registrado\expnd0\expndtw0  su \expnd0\expndtw-1 entrada;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls11\ilvl0\nooverflow\nocwrap\li854\fi-527\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Registrar\expnd0\expndtw0  \expnd0\expndtw-1 otra \expnd0\expndtw0 entrada \expnd0\expndtw-1 que\expnd0\expndtw-2  \expnd0\expndtw0 no sea\expnd0\expndtw-1  \expnd0\expndtw0 la \expnd0\expndtw-1 suya;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls11\ilvl0\nooverflow\nocwrap\li854\fi-582\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Omitir\expnd0\expndtw0  el\expnd0\expndtw-1  registro\expnd0\expndtw0  de\expnd0\expndtw-2  \expnd0\expndtw-1 entrada\expnd0\expndtw0  o \expnd0\expndtw-1 salida\expnd0\expndtw0  \expnd0\expndtw-1 en\expnd0\expndtw0  m\'E1s de \expnd0\expndtw-1 una ocasi\'F3n;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs20\b0\i0\par\pard\plain\s1\ls11\ilvl0\nooverflow\nocwrap\li854\fi-605\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Ingerir\expnd0\expndtw0  \expnd0\expndtw-1 alimentos\expnd0\expndtw0  \expnd0\expndtw-1 fuera \expnd0\expndtw0 del horario o\expnd0\expndtw-1  lugar\expnd0\expndtw0  que \expnd0\expndtw-1 para\expnd0\expndtw0  \expnd0\expndtw-1 ello\expnd0\expndtw0  se ha \expnd0\expndtw-1 establecido;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls11\ilvl0\nooverflow\nocwrap\li854\fi-549\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Realizar\expnd0\expndtw0  \expnd0\expndtw-1 actividades\expnd0\expndtw0  \expnd0\expndtw-1 ajenas\expnd0\expndtw0  a las \expnd0\expndtw-1 de\expnd0\expndtw0  su \expnd0\expndtw-1 labor\expnd0\expndtw0  \expnd0\expndtw-1 en\expnd0\expndtw0  \expnd0\expndtw-1 horario\expnd0\expndtw0  de \expnd0\expndtw-1 trabajo;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls11\ilvl0\nooverflow\nocwrap\li854\fi-605\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 Incurrir \expnd0\expndtw-1 en\expnd0\expndtw0  \expnd0\expndtw-1 descortes\'EDa\expnd0\expndtw0  \expnd0\expndtw-1 para\expnd0\expndtw0  con\expnd0\expndtw-2  \expnd0\expndtw0 sus \expnd0\expndtw-1 compa\'F1eros\expnd0\expndtw0  o \expnd0\expndtw-1 usuarios\expnd0\expndtw0  de la\expnd0\expndtw-2  \expnd0\expndtw-1 Presidencia\expnd0\expndtw-2  \expnd0\expndtw-1 Municipal; \expnd0\expndtw0 y,\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls11\ilvl0\nooverflow\nocwrap\li854\fi-660\qj\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 Alg\'FAn \expnd0\expndtw-1 otro\expnd0\expndtw0  \expnd0\expndtw-1 que\expnd0\expndtw0  \expnd0\expndtw-1 considere\expnd0\expndtw-2  \expnd0\expndtw0 su\expnd0\expndtw-1  \expnd0\expndtw0 jefe\expnd0\expndtw-1  inmediato superior.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li134\ri105\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd2\expndtw8  \expnd0\expndtw0 55\f10\b0\expnd0\expndtw0 .\expnd2\expndtw8  \expnd0\expndtw0 La\expnd2\expndtw10  \expnd0\expndtw-1 sanci\'F3n\expnd2\expndtw9  \expnd0\expndtw-1 administrativa\expnd2\expndtw9  \expnd0\expndtw0 se\expnd2\expndtw10  \expnd0\expndtw-1 llevar\'E1\expnd2\expndtw9  \expnd0\expndtw0 a\expnd2\expndtw9  \expnd0\expndtw0 cabo\expnd2\expndtw10  \expnd0\expndtw0 al\expnd2\expndtw8  \expnd0\expndtw-1 sumarse\expnd2\expndtw10  \expnd0\expndtw-1 tres\expnd2\expndtw9  \expnd0\expndtw-1 sanciones\expnd2\expndtw10  \expnd0\expndtw-1 verbales\expnd2\expndtw10  \expnd0\expndtw0 y\expnd2\expndtw9  \expnd0\expndtw0 se\expnd2\expndtw9  \expnd0\expndtw-1 har\'E1\expnd2\expndtw9  \expnd0\expndtw-1 constar\f10\expnd21\expndtw107\charscalex100  \expnd0\expndtw0 en\expnd3\expndtw16  \expnd0\expndtw0 el\expnd3\expndtw16  \expnd0\expndtw-1 expediente\expnd3\expndtw16  \expnd0\expndtw0 personal\expnd3\expndtw14  \expnd0\expndtw0 del\expnd3\expndtw16  \expnd0\expndtw-1 trabajador;\expnd3\expndtw16  \expnd0\expndtw0 o\expnd3\expndtw16  \expnd0\expndtw0 a\'FAn\expnd4\expndtw18  \expnd0\expndtw0 sin\expnd3\expndtw16  \expnd0\expndtw0 tener\expnd3\expndtw16  \expnd0\expndtw-1 ninguna\expnd3\expndtw15  \expnd0\expndtw-1 amonestaci\'F3n\expnd3\expndtw15  \expnd0\expndtw0 verbal\expnd3\expndtw16  \expnd0\expndtw0 el\expnd3\expndtw16  \expnd0\expndtw-1 trabajador,\expnd3\expndtw15  \expnd0\expndtw0 si\expnd3\expndtw16  \expnd0\expndtw0 as\'ED\expnd3\expndtw15  \expnd0\expndtw0 lo\f10\expnd18\expndtw89\charscalex100  \expnd0\expndtw0 amerita\expnd0\expndtw-1  \expnd0\expndtw0 la \expnd0\expndtw-1 falta\expnd0\expndtw0  \expnd0\expndtw-1 cometida.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li134\ri124\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd0\expndtw2  \expnd0\expndtw0 56\f10\b0\expnd0\expndtw0 .\expnd0\expndtw1  \expnd0\expndtw0 Por\expnd1\expndtw3  \expnd0\expndtw-1 cuanto\expnd0\expndtw2  \expnd0\expndtw0 a\expnd1\expndtw3  \expnd0\expndtw0 las\expnd1\expndtw3  \expnd0\expndtw-1 sanciones\expnd0\expndtw2  \expnd0\expndtw0 por\expnd1\expndtw3  \expnd0\expndtw-1 concepto\expnd0\expndtw1  \expnd0\expndtw0 de\expnd1\expndtw3  \expnd0\expndtw-1 retardos\expnd0\expndtw2  \expnd0\expndtw-1 continuos\expnd1\expndtw3  \expnd0\expndtw0 y\expnd0\expndtw2  \expnd0\expndtw0 faltas\expnd1\expndtw3  \expnd0\expndtw-1 injustificadas\expnd1\expndtw3  \expnd0\expndtw-1 continuas,\expnd0\expndtw2  \expnd0\expndtw0 se\f10\expnd23\expndtw113\charscalex100  \expnd0\expndtw0 tomar\'E1 \expnd0\expndtw-1 en\expnd0\expndtw0  \expnd0\expndtw-1 consideraci\'F3n \expnd0\expndtw0 la \expnd0\expndtw-1 siguiente\expnd0\expndtw0  \expnd0\expndtw-1 tabla:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-472\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Menos\expnd0\expndtw0  de 60\expnd0\expndtw-2  \expnd0\expndtw0 minutos \expnd0\expndtw-1 2da. \expnd0\expndtw0 Vez \expnd0\expndtw-1 descuento\expnd0\expndtw0  de una \expnd0\expndtw-1 hora;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb10\f10\fs22\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-527\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Menos\expnd0\expndtw0  de 60\expnd0\expndtw-2  \expnd0\expndtw0 minutos \expnd0\expndtw-1 3ra.\expnd-1\expndtw-3  \expnd0\expndtw0 Vez \expnd0\expndtw-1 sanci\'F3n\expnd0\expndtw-2  \expnd0\expndtw0 verbal;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs26\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-582\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Menos\expnd0\expndtw0  de 60\expnd0\expndtw-2  \expnd0\expndtw0 minutos 4ta.\expnd-1\expndtw-3  \expnd0\expndtw0 Vez \expnd0\expndtw-1 sanci\'F3n\expnd0\expndtw-2  \expnd0\expndtw-1 administrativa;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs26\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-605\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Menos\expnd0\expndtw0  de 60\expnd0\expndtw-2  \expnd0\expndtw0 minutos 5ta.\expnd-1\expndtw-3  \expnd0\expndtw0 Vez \expnd0\expndtw-1 suspensi\'F3n\expnd0\expndtw0  de un \expnd0\expndtw-1 d\'EDa;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs26\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-549\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Menos\expnd0\expndtw0  de 60\expnd0\expndtw-2  \expnd0\expndtw0 minutos 6ta.\expnd-1\expndtw-3  \expnd0\expndtw0 Vez \expnd0\expndtw-1 suspensi\'F3n\expnd0\expndtw0  de \expnd0\expndtw-1 dos\expnd0\expndtw0  \expnd0\expndtw-1 d\'EDas;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs25\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-605\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Menos\expnd0\expndtw0  de 60\expnd0\expndtw-2  \expnd0\expndtw0 minutos 7ta.\expnd-1\expndtw-3  \expnd0\expndtw0 Vez \expnd0\expndtw-1 suspensi\'F3n\expnd0\expndtw0  de \expnd0\expndtw-1 tres\expnd0\expndtw0  \expnd0\expndtw-1 d\'EDas;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs26\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-660\qj\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 Una \expnd0\expndtw-1 falta por\expnd0\expndtw0  \expnd0\expndtw-1 primera\expnd0\expndtw0  \expnd0\expndtw-1 vez,\expnd-1\expndtw-3  \expnd0\expndtw-1 descuento;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs26\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-716\qj\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 Dos \expnd0\expndtw-1 faltas\expnd0\expndtw0  \expnd0\expndtw-1 por\expnd0\expndtw0  \expnd0\expndtw-1 primera\expnd0\expndtw0  \expnd0\expndtw-1 vez,\expnd0\expndtw0  \expnd0\expndtw-1 sanci\'F3n\expnd0\expndtw0  \expnd0\expndtw-1 verbal.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs26\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-605\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 Tres \expnd0\expndtw-1 faltas\expnd0\expndtw0  \expnd0\expndtw-1 por\expnd0\expndtw0  \expnd0\expndtw-1 primera\expnd0\expndtw0  \expnd0\expndtw-1 vez,\expnd0\expndtw0  \expnd0\expndtw-1 sanci\'F3n\expnd0\expndtw0  \expnd0\expndtw-1 administrativa;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs26\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-549\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Cuatro\expnd0\expndtw0  \expnd0\expndtw-1 faltas\expnd0\expndtw-2  \expnd0\expndtw0 por \expnd0\expndtw-1 primera\expnd0\expndtw0  \expnd0\expndtw-1 vez, \expnd0\expndtw0 acta\expnd0\expndtw-1  de\expnd0\expndtw0  \expnd0\expndtw-1 abandono\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 empleo.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs25\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-605\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 Una \expnd0\expndtw-1 falta por\expnd0\expndtw0  \expnd0\expndtw-1 segunda\expnd0\expndtw0  \expnd0\expndtw-1 vez,\expnd0\expndtw-2  \expnd0\expndtw-1 sanci\'F3n\expnd0\expndtw0  \expnd0\expndtw-1 administrativa.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs26\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-660\qj\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 Dos \expnd0\expndtw-1 faltas\expnd0\expndtw0  \expnd0\expndtw-1 por\expnd0\expndtw0  \expnd0\expndtw-1 segunda\expnd0\expndtw0  \expnd0\expndtw-1 vez, suspensi\'F3n \expnd0\expndtw0 de\expnd0\expndtw-1  \expnd0\expndtw0 dos \expnd0\expndtw-1 d\'EDas.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs26\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-716\qj\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 Tres \expnd0\expndtw-1 faltas\expnd0\expndtw0  \expnd0\expndtw-1 por\expnd0\expndtw0  \expnd0\expndtw-1 segunda\expnd0\expndtw0  \expnd0\expndtw-1 vez, suspensi\'F3n \expnd0\expndtw0 de\expnd0\expndtw-1  \expnd0\expndtw0 tres \expnd0\expndtw-1 d\'EDas.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs26\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-738\qj\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 Una \expnd0\expndtw-1 falta tercera\expnd0\expndtw0  \expnd0\expndtw-1 vez,\expnd-1\expndtw-3  \expnd0\expndtw-1 suspensi\'F3n\expnd0\expndtw0  de \expnd0\expndtw-1 un\expnd0\expndtw0  \expnd0\expndtw-1 d\'EDa,\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs26\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-683\qj\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 Dos \expnd0\expndtw-1 faltas\expnd0\expndtw0  \expnd0\expndtw-1 tercera \expnd0\expndtw0 vez,\expnd0\expndtw-1  suspensi\'F3n\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 tres\expnd0\expndtw0  \expnd0\expndtw-1 d\'EDas.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs25\b0\i0\par\pard\plain\s1\ls12\ilvl0\nooverflow\nocwrap\li854\fi-738\qj\sl240\slmult1\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 Tres \expnd0\expndtw-1 faltas\expnd0\expndtw0  \expnd0\expndtw-1 tercera \expnd0\expndtw0 vez,\expnd0\expndtw-1  suspensi\'F3n\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 cinco\expnd0\expndtw0  \expnd0\expndtw-1 d\'EDas.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs23\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li134\ri124\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd2\expndtw10  \expnd0\expndtw-1 57.\expnd2\expndtw10  \f10\b0\expnd0\expndtw-1 Adem\'E1s\expnd2\expndtw10  \expnd0\expndtw0 de\expnd2\expndtw10  \expnd0\expndtw-1 las\expnd2\expndtw10  \expnd0\expndtw-1 sanciones\expnd2\expndtw9  \expnd0\expndtw0 por\expnd2\expndtw10  \expnd0\expndtw-1 falta\expnd2\expndtw10  \expnd0\expndtw0 o\expnd2\expndtw10  \expnd0\expndtw-1 retardo,\expnd2\expndtw10  \expnd0\expndtw0 se\expnd2\expndtw10  \expnd0\expndtw-1 aplicar\'E1\expnd2\expndtw10  \expnd0\expndtw0 una\expnd2\expndtw9  \expnd0\expndtw-1 sanci\'F3n\expnd2\expndtw10  \expnd0\expndtw-1 administrativa\expnd2\expndtw10  \expnd0\expndtw0 de\expnd2\expndtw10  \expnd0\expndtw0 un\expnd2\expndtw9  \expnd0\expndtw0 d\'EDa\expnd2\expndtw10  \expnd0\expndtw0 de\f10\expnd20\expndtw101\charscalex100  \expnd0\expndtw-1 descuento\expnd0\expndtw0  al\expnd-1\expndtw-3  \expnd0\expndtw-1 trabajador\expnd0\expndtw0  \expnd0\expndtw-1 que:\par\sect\sectd\sbkpage\headery592\footery641
+{\header
+{\shp{\*\shpinst\shpleft1222\shpright2275\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz82\shplid895{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw0\charscalex100 P\'E1gina\expnd0\expndtw-1  106\par}}}
+
+{\shp{\*\shpinst\shpleft5118\shpright7115\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz83\shplid899{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 PERI\'D3DICO OFICIAL\par}}}
+
+{\shp{\*\shpinst\shpleft10218\shpright10971\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz84\shplid903{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Alcance\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright1279\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz85\shplid907{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 2\par}}}
+
+{\shp{\*\shpinst\shpleft3649\shpright3706\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz86\shplid911{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 0\par}}}
+
+{\shp{\*\shpinst\shpleft6075\shpright6132\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz87\shplid915{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 1\par}}}
+
+{\shp{\*\shpinst\shpleft10912\shpright10969\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz88\shplid919{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 8\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10893\shptop856\shpbottom926\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz89\shplid923{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelesta\expnd-1\expndtw-6  \expnd0\expndtw-1 dodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3di\expnd-1\expndtw-5  \expnd0\expndtw-1 cooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehid\expnd-1\expndtw-6  \expnd0\expndtw-1 algoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestado\expnd-1\expndtw-6  \expnd0\expndtw-1 dehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgo\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10969\shptop895\shpbottom1005\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz90\shplid927{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 Peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dic\expnd-1\expndtw-5  \expnd0\expndtw-1 ooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadod\expnd-1\expndtw-6  \expnd0\expndtw-1 ehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicoo\expnd-1\expndtw-6  \expnd0\expndtw-1 ficialdelestadodehidalgo\expnd0\expndtw0   \expnd1\expndtw3  \expnd0\expndtw0 2\expnd0\expndtw1  \expnd0\expndtw0 0\par\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb5\f10\fs3\b0\expnd0\expndtw0\charscalex100 1 8\par}}}
+\pard\plain\s1\nooverflow\nocwrap\sl14\slmult1\fs20\par}\marglsxn1020\margrsxn1080\margtsxn980\margbsxn840\cols1\colno1\colw10140\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs10\b0\i0\par\pard\plain\s1\ls13\ilvl0\nooverflow\nocwrap\li834\fi-472\sl240\slmult1\sb74\tx834\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Acumule\expnd0\expndtw0  \expnd0\expndtw-1 tres\expnd0\expndtw-2  \expnd0\expndtw0 notas \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 extra\'F1amiento.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls13\ilvl0\nooverflow\nocwrap\li834\fi-527\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 Falte\expnd0\expndtw-1  \expnd0\expndtw0 sus \expnd0\expndtw-1 labores\expnd0\expndtw0  un d\'EDa\expnd0\expndtw-1  antes\expnd0\expndtw0  o \expnd0\expndtw-1 despu\'E9s\expnd0\expndtw0  de\expnd0\expndtw-1  un\expnd0\expndtw0  \expnd0\expndtw-1 d\'EDa\expnd0\expndtw0  de \expnd0\expndtw-1 descanso\expnd0\expndtw-2  \expnd0\expndtw-1 obligatorio.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls13\ilvl0\nooverflow\nocwrap\li834\fi-582\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 Falte\expnd0\expndtw-1  \expnd0\expndtw0 a \expnd0\expndtw-1 sus\expnd0\expndtw0  \expnd0\expndtw-1 labores\expnd0\expndtw0  un d\'EDa\expnd0\expndtw-2  \expnd0\expndtw0 antes o\expnd0\expndtw-1  despu\'E9s\expnd0\expndtw0  \expnd0\expndtw-1 del\expnd0\expndtw0  \expnd0\expndtw-1 periodo\expnd0\expndtw0  \expnd0\expndtw-1 vacacional.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs20\b0\i0\par\pard\plain\s1\ls13\ilvl0\nooverflow\nocwrap\li834\fi-605\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Acumule\expnd0\expndtw0  \expnd0\expndtw-1 tres\expnd0\expndtw-2  \expnd0\expndtw-1 retardos\expnd0\expndtw0  \expnd0\expndtw-1 mayores\expnd0\expndtw0  a 60 \expnd0\expndtw-1 minutos.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd0\expndtw0  \expnd0\expndtw-1 58. \f10\b0\expnd0\expndtw-2 El\expnd-2\expndtw-8  \expnd-1\expndtw-5 trabajador\expnd-2\expndtw-9  \expnd-1\expndtw-4 ser\'E1\expnd-2\expndtw-9  \expnd-1\expndtw-5 acreedor\expnd-2\expndtw-9  \expnd0\expndtw0 a\expnd-1\expndtw-7  \expnd-1\expndtw-4 una\expnd-2\expndtw-9  \expnd-1\expndtw-4 suspensi\'F3n\expnd-2\expndtw-9  \expnd-1\expndtw-3 sin\expnd-2\expndtw-8  \expnd-1\expndtw-4 goce\expnd-2\expndtw-9  \expnd0\expndtw-2 de\expnd-2\expndtw-9  \expnd-1\expndtw-4 sueldo\expnd-2\expndtw-9  \expnd-1\expndtw-4 desde\expnd-2\expndtw-9  \expnd0\expndtw0 8\expnd-2\expndtw-9  \expnd-1\expndtw-4 hasta\expnd-2\expndtw-9  \expnd-1\expndtw-3 por\expnd-2\expndtw-9  \expnd0\expndtw-2 15\expnd-2\expndtw-9  \expnd-1\expndtw-4 d\'EDas\expnd-2\expndtw-9  \expnd-1\expndtw-4 cuando:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls14\ilvl0\nooverflow\nocwrap\li834\fi-472\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Desobedezca \expnd0\expndtw0 o\expnd0\expndtw-1  desatienda \expnd0\expndtw0 sus \expnd0\expndtw-1 funciones\expnd0\expndtw0  de \expnd0\expndtw-1 manera deliberada\expnd0\expndtw0  y\expnd0\expndtw-1  \expnd0\expndtw0 sin \expnd0\expndtw-1 justificaci\'F3n;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls14\ilvl0\nooverflow\nocwrap\li834\fi-527\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 Falte\expnd0\expndtw-1  \expnd0\expndtw0 de \expnd0\expndtw-1 manera\expnd0\expndtw0  \expnd0\expndtw-1 continua\expnd0\expndtw0  a\expnd0\expndtw-1  \expnd0\expndtw0 su \expnd0\expndtw-1 trabajo sin\expnd0\expndtw0  la\expnd0\expndtw-1  \expnd0\expndtw0 debida \expnd0\expndtw-1 justificaci\'F3n;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls14\ilvl0\nooverflow\nocwrap\li834\fi-582\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 Se\expnd0\expndtw-1  presente\expnd0\expndtw-2  \expnd0\expndtw0 a \expnd0\expndtw-1 laborar\expnd0\expndtw0  \expnd0\expndtw-1 en\expnd0\expndtw0  \expnd0\expndtw-1 estado\expnd0\expndtw0  \expnd0\expndtw-1 inconveniente;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls14\ilvl0\nooverflow\nocwrap\li834\fi-605\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 Haya\expnd0\expndtw-1  acumulado\expnd0\expndtw0  \expnd0\expndtw-1 tres\expnd0\expndtw0  \expnd0\expndtw-1 sanciones\expnd0\expndtw0  \expnd0\expndtw-1 administrativas;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\ls14\ilvl0\nooverflow\nocwrap\li834\fi-549\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 Incurra \expnd0\expndtw-1 en\expnd0\expndtw0  \expnd0\expndtw-1 actos\expnd0\expndtw0  de\expnd0\expndtw-1  violencia, \expnd0\expndtw0 injuria o\expnd0\expndtw-1  malos\expnd0\expndtw0  \expnd0\expndtw-1 tratos\expnd0\expndtw-2  \expnd0\expndtw0 con\expnd0\expndtw-1  \expnd0\expndtw0 sus \expnd0\expndtw-1 jefes\expnd0\expndtw0  y\expnd0\expndtw-2  \expnd0\expndtw-1 subordinados \expnd0\expndtw0 o \expnd0\expndtw-1 compa\'F1eros;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls14\ilvl0\nooverflow\nocwrap\li834\fi-605\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Efect\'FAe actos inmorales\expnd0\expndtw0  \expnd0\expndtw-1 en \expnd0\expndtw0 el\expnd0\expndtw-1  \expnd0\expndtw0 centro \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 trabajo;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls14\ilvl0\nooverflow\nocwrap\li834\fi-660\ri104\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 Solicite\expnd8\expndtw39  \expnd0\expndtw0 o\expnd8\expndtw40  \expnd0\expndtw0 acepte\expnd8\expndtw39  \expnd0\expndtw0 del\expnd8\expndtw40  \expnd0\expndtw-1 p\'FAblico,\expnd8\expndtw40  \expnd0\expndtw-1 gratificaci\'F3n\expnd8\expndtw39  \expnd0\expndtw0 u\expnd9\expndtw43  \expnd0\expndtw-1 obsequios\expnd8\expndtw40  \expnd0\expndtw0 para\expnd8\expndtw40  \expnd0\expndtw0 dar\expnd8\expndtw40  \expnd0\expndtw-1 preferencia\expnd8\expndtw38  \expnd0\expndtw0 en\expnd8\expndtw41  \expnd0\expndtw-1 asuntos\expnd8\expndtw40  \expnd0\expndtw0 o\expnd8\expndtw39  \expnd0\expndtw0 para\expnd9\expndtw44  \expnd0\expndtw0 no\f10\expnd16\expndtw79\charscalex100  \expnd0\expndtw-1 obstaculizarlos;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls14\ilvl0\nooverflow\nocwrap\li834\fi-716\ri104\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Muestre\expnd2\expndtw9  \expnd0\expndtw-1 irresponsabilidad\expnd2\expndtw8  \expnd0\expndtw0 en\expnd2\expndtw9  \expnd0\expndtw0 el\expnd2\expndtw9  \expnd0\expndtw-1 desarrollo\expnd2\expndtw9  \expnd0\expndtw0 de\expnd2\expndtw9  \expnd0\expndtw0 sus\expnd2\expndtw9  \expnd0\expndtw-1 funciones,\expnd2\expndtw8  \expnd0\expndtw0 lo\expnd2\expndtw9  \expnd0\expndtw-1 que\expnd2\expndtw9  \expnd0\expndtw0 ponga\expnd2\expndtw8  \expnd0\expndtw0 en\expnd2\expndtw9  \expnd0\expndtw-1 riesgo\expnd2\expndtw9  \expnd0\expndtw0 la\expnd2\expndtw9  \expnd0\expndtw-1 seguridad\expnd2\expndtw9  \expnd0\expndtw0 de\expnd2\expndtw9  \expnd0\expndtw-1 la\f10\expnd18\expndtw89\charscalex100  \expnd0\expndtw-1 dependencia\expnd0\expndtw-2  \expnd0\expndtw0 en la que \expnd0\expndtw-1 est\'E9\expnd0\expndtw0  adscrito o\expnd0\expndtw-1  de\expnd0\expndtw0  las \expnd0\expndtw-1 personas\expnd0\expndtw0  que\expnd0\expndtw-2  \expnd0\expndtw0 se \expnd0\expndtw-1 encuentren\expnd0\expndtw0  en \expnd0\expndtw-1 dicho\expnd0\expndtw-2  \expnd0\expndtw0 sitio;\expnd0\expndtw-1  y,\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\ls14\ilvl0\nooverflow\nocwrap\li834\fi-605\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 Alg\'FAn \expnd0\expndtw-1 otro\expnd0\expndtw0  \expnd0\expndtw-1 hecho\expnd0\expndtw0  \expnd0\expndtw-1 que\expnd0\expndtw0  \expnd0\expndtw-1 amerite \expnd0\expndtw0 la \expnd0\expndtw-1 sanci\'F3n,\expnd0\expndtw-2  \expnd0\expndtw0 a\expnd0\expndtw-1  \expnd0\expndtw0 juicio de\expnd0\expndtw-2  \expnd0\expndtw0 su\expnd0\expndtw-1  \expnd0\expndtw0 jefe\expnd0\expndtw-1  inmediato\expnd0\expndtw0  \expnd0\expndtw-1 superior.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri101\qj\sl240\slmult1\f10\fs20\b0\expnd0\expndtw0\charscalex100 Ser\'E1\expnd3\expndtw15  \expnd0\expndtw0 la\expnd3\expndtw15  \expnd0\expndtw-1 Direcci\'F3n\expnd3\expndtw15  \expnd0\expndtw0 de\expnd3\expndtw15  \expnd0\expndtw-1 Recursos\expnd3\expndtw15  \expnd0\expndtw-1 Humanos\expnd3\expndtw15  \expnd0\expndtw0 la\expnd3\expndtw15  \expnd0\expndtw0 que\expnd3\expndtw15  \expnd0\expndtw0 determine\expnd3\expndtw15  \expnd0\expndtw0 el\expnd3\expndtw15  \expnd0\expndtw-1 n\'FAmero\expnd3\expndtw15  \expnd0\expndtw0 de\expnd3\expndtw15  \expnd0\expndtw0 d\'EDas\expnd3\expndtw15  \expnd0\expndtw-1 sin\expnd3\expndtw15  \expnd0\expndtw0 goce\expnd3\expndtw15  \expnd0\expndtw0 de\expnd3\expndtw15  \expnd0\expndtw0 sueldo\expnd3\expndtw14  \expnd0\expndtw0 con\expnd3\expndtw14  \expnd0\expndtw0 los\expnd3\expndtw14  \expnd0\expndtw0 que\f10\expnd11\expndtw53\charscalex100  \expnd0\expndtw0 habr\'E1\expnd-1\expndtw-3  \expnd0\expndtw0 de\expnd-1\expndtw-3  \expnd0\expndtw0 ser\expnd-1\expndtw-4  \expnd0\expndtw-1 sancionado\expnd-1\expndtw-3  \expnd0\expndtw-1 el\expnd-1\expndtw-3  \expnd0\expndtw-1 trabajador\expnd-1\expndtw-3  \expnd0\expndtw0 que\expnd-1\expndtw-3  \expnd0\expndtw-1 incurra\expnd-1\expndtw-3  \expnd0\expndtw0 en\expnd-1\expndtw-4  \expnd0\expndtw0 los\expnd-1\expndtw-3  \expnd0\expndtw0 supuestos\expnd-1\expndtw-4  \expnd0\expndtw0 antes\expnd-1\expndtw-3  \expnd0\expndtw-1 se\'F1alados,\expnd-1\expndtw-4  \expnd0\expndtw-1 tomando\expnd-1\expndtw-4  \expnd0\expndtw0 en\expnd-1\expndtw-3  \expnd0\expndtw-1 consideraci\'F3n\f10\expnd19\expndtw97\charscalex100  \expnd0\expndtw0 la \expnd0\expndtw-1 gravedad\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  la\expnd0\expndtw-1  falta\expnd0\expndtw0  \expnd0\expndtw-1 cometida.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs19\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri102\qj\sl240\slmult1\f10\fs20\b0\expnd0\expndtw0\charscalex100 Para\expnd1\expndtw5  \expnd0\expndtw0 ello\expnd1\expndtw5  \expnd0\expndtw-1 podr\'E1\expnd1\expndtw5  \expnd0\expndtw-1 auxiliarse\expnd1\expndtw4  \expnd0\expndtw0 del\expnd1\expndtw5  \expnd0\expndtw-1 testimonio\expnd1\expndtw5  \expnd0\expndtw0 de\expnd1\expndtw5  \expnd0\expndtw0 las\expnd1\expndtw5  \expnd0\expndtw-1 partes\expnd1\expndtw5  \expnd0\expndtw-1 involucradas\expnd1\expndtw5  \expnd0\expndtw0 y\expnd1\expndtw4  \expnd0\expndtw0 valorar\expnd1\expndtw5  \expnd0\expndtw-1 las\expnd1\expndtw5  \expnd0\expndtw-1 pruebas\expnd1\expndtw5  \expnd0\expndtw-1 que\expnd1\expndtw5  \expnd0\expndtw0 se\expnd1\expndtw5  \expnd0\expndtw-1 presenten,\expnd1\expndtw5  \expnd0\expndtw0 as\'ED\f10\expnd19\expndtw97\charscalex100  \expnd0\expndtw0 como\expnd3\expndtw14  \expnd0\expndtw0 la\expnd3\expndtw16  \expnd0\expndtw-1 opini\'F3n\expnd3\expndtw16  \expnd0\expndtw0 del\expnd3\expndtw16  \expnd0\expndtw-1 jefe\expnd3\expndtw16  \expnd0\expndtw-1 inmediato\expnd3\expndtw14  \expnd0\expndtw-1 superior\expnd3\expndtw15  \expnd0\expndtw0 del\expnd3\expndtw16  \expnd0\expndtw-1 trabajador\expnd4\expndtw19  \expnd0\expndtw0 que\expnd3\expndtw15  \expnd0\expndtw0 se\expnd3\expndtw14  \expnd0\expndtw-1 encuentre\expnd3\expndtw16  \expnd0\expndtw-1 involucrado\expnd3\expndtw16  \expnd0\expndtw0 en\expnd3\expndtw14  \expnd0\expndtw0 el\expnd3\expndtw16  \expnd0\expndtw-1 supuesto\expnd3\expndtw16  \expnd0\expndtw-1 antes\f10\expnd22\expndtw109\charscalex100  \expnd0\expndtw-1 se\'F1alado.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li114\ri105\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd5\expndtw26  \expnd0\expndtw0 59.\expnd5\expndtw27  \f10\b0\expnd0\expndtw0 Las\expnd5\expndtw27  \expnd0\expndtw-1 acciones\expnd5\expndtw27  \expnd0\expndtw-1 previas\expnd6\expndtw28  \expnd0\expndtw-1 tendr\'E1n\expnd5\expndtw27  \expnd0\expndtw-1 aplicaci\'F3n\expnd6\expndtw28  \expnd0\expndtw0 con\expnd5\expndtw27  \expnd0\expndtw-1 independencia\expnd5\expndtw27  \expnd0\expndtw0 de\expnd6\expndtw28  \expnd0\expndtw-1 la\expnd6\expndtw28  \expnd0\expndtw-1 responsabilidad\expnd5\expndtw27  \expnd0\expndtw-1 penal,\expnd5\expndtw26  \expnd0\expndtw-1 civil\expnd6\expndtw28  \expnd0\expndtw0 o\f10\expnd23\expndtw117\charscalex100  \expnd0\expndtw-1 administrativa\expnd0\expndtw0  en que \expnd0\expndtw-1 pudiera\expnd0\expndtw0  \expnd0\expndtw-1 incurrir\expnd0\expndtw0  el \expnd0\expndtw-1 trabajador.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs18\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li2197\ri2186\qc\sl-230\f12\fs20\b1\expnd0\expndtw-1\charscalex100 CAPITULO\expnd0\expndtw0  \expnd0\expndtw-1 IX\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\li2197\ri2186\qc\sl-230\f12\fs20\b1\expnd0\expndtw-1\charscalex100 SUSPENSI\'D3N\expnd0\expndtw0  Y\expnd0\expndtw-1  TERMINACI\'D3N\expnd0\expndtw0  DE \expnd0\expndtw-1 LA\expnd0\expndtw0  \expnd0\expndtw-1 RELACI\'D3N\expnd0\expndtw0  \expnd0\expndtw-1 LABORAL\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\li114\qj\sl240\slmult1\sb161\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd0\expndtw0  \expnd0\expndtw-1 60. \f10\b0\expnd0\expndtw0 Son\expnd0\expndtw-1  causas\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 suspensi\'F3n temporal:\par\pard\plain\s1\ls15\ilvl0\nooverflow\nocwrap\li834\fi-472\ri104\sl240\slmult1\sb161\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 Que\expnd1\expndtw4  \expnd0\expndtw0 el\expnd1\expndtw4  \expnd0\expndtw-1 trabajador\expnd1\expndtw3  \expnd0\expndtw-1 contraiga\expnd1\expndtw4  \expnd0\expndtw0 alguna\expnd1\expndtw3  \expnd0\expndtw-1 enfermedad\expnd1\expndtw4  \expnd0\expndtw-1 que\expnd1\expndtw4  \expnd0\expndtw-1 implique\expnd1\expndtw3  \expnd0\expndtw0 un\expnd1\expndtw4  \expnd0\expndtw-1 peligro\expnd1\expndtw3  \expnd0\expndtw0 para\expnd1\expndtw3  \expnd0\expndtw-1 las\expnd1\expndtw4  \expnd0\expndtw-1 personas\expnd1\expndtw4  \expnd0\expndtw-1 que\expnd1\expndtw4  \expnd0\expndtw-1 trabajan\f10\expnd20\expndtw101\charscalex100  \expnd0\expndtw0 con \'E9l;\expnd0\expndtw-1  y,\par\pard\plain\s1\ls15\ilvl0\nooverflow\nocwrap\li834\fi-527\ri101\qj\sl240\slmult1\sb161\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 La\expnd9\expndtw47  \expnd0\expndtw-1 prisi\'F3n\expnd10\expndtw48  \expnd0\expndtw-1 preventiva\expnd9\expndtw47  \expnd0\expndtw0 del\expnd10\expndtw49  \expnd0\expndtw-1 trabajador\expnd10\expndtw48  \expnd0\expndtw0 seguida\expnd9\expndtw47  \expnd0\expndtw0 de\expnd10\expndtw48  \expnd0\expndtw-1 sentencias\expnd10\expndtw50  \expnd0\expndtw-1 absolutorias\expnd10\expndtw48  \expnd0\expndtw0 o\expnd10\expndtw48  \expnd0\expndtw0 el\expnd9\expndtw46  \expnd0\expndtw0 arresto\expnd9\expndtw47  \expnd0\expndtw0 impuesto\expnd9\expndtw46  \expnd0\expndtw-1 por\f10\expnd16\expndtw79\charscalex100  \expnd0\expndtw-1 autoridad\expnd-1\expndtw-4  \expnd0\expndtw-1 judicial\expnd-1\expndtw-5  \expnd0\expndtw0 o\expnd-1\expndtw-4  \expnd0\expndtw-1 administrativa,\expnd-1\expndtw-5  \expnd0\expndtw0 a\expnd-1\expndtw-4  \expnd0\expndtw0 menos\expnd-1\expndtw-4  \expnd0\expndtw0 que\expnd-1\expndtw-4  \expnd0\expndtw-1 trat\'E1ndose\expnd-1\expndtw-5  \expnd0\expndtw0 de\expnd-1\expndtw-4  \expnd0\expndtw-1 arresto\expnd-1\expndtw-4  \expnd0\expndtw0 el\expnd-1\expndtw-4  \expnd0\expndtw0 Tribunal\expnd-1\expndtw-5  \expnd0\expndtw-1 Estatal\expnd-1\expndtw-4  \expnd0\expndtw0 de\expnd-1\expndtw-4  \expnd0\expndtw-1 Conciliaci\'F3n\f10\expnd22\expndtw109\charscalex100  \expnd0\expndtw0 y\expnd0\expndtw-2  \expnd0\expndtw0 Arbitraje \expnd0\expndtw-1 resuelva que\expnd0\expndtw0  \expnd0\expndtw-1 deba\expnd0\expndtw0  \expnd0\expndtw-1 tener\expnd0\expndtw0  \expnd0\expndtw-1 lugar\expnd0\expndtw0  el\expnd0\expndtw-1  \expnd0\expndtw0 cese \expnd0\expndtw-1 del\expnd0\expndtw-2  \expnd0\expndtw-1 trabajador.\par\pard\plain\s1\nooverflow\nocwrap\li114\qj\sl240\slmult1\sb160\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd0\expndtw0  \expnd0\expndtw-1 61. \f10\b0\expnd0\expndtw0 Son\expnd0\expndtw-1  causa\expnd0\expndtw0  \expnd0\expndtw-1 de \expnd0\expndtw0 la\expnd0\expndtw-1  terminaci\'F3n \expnd0\expndtw0 de la\expnd0\expndtw-1  relaci\'F3n\expnd0\expndtw0  \expnd0\expndtw-1 laboral\expnd0\expndtw0  \expnd0\expndtw-1 sin responsabilidad\expnd0\expndtw0  \expnd0\expndtw-1 para\expnd0\expndtw0  el\expnd0\expndtw-1  titular:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb1\f10\fs18\b0\i0\par\pard\plain\s1\ls16\ilvl0\nooverflow\nocwrap\li834\fi-472\sl-230\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 Por \expnd0\expndtw-1 renuncia;\par\pard\plain\s1\ls16\ilvl0\nooverflow\nocwrap\li834\fi-527\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 Por \expnd0\expndtw-1 abandono\expnd0\expndtw0  de \expnd0\expndtw-1 empleo\expnd0\expndtw0  o\expnd0\expndtw-1  repetida\expnd0\expndtw0  \expnd0\expndtw-1 falta injustificada \expnd0\expndtw0 a\expnd0\expndtw-1  \expnd0\expndtw0 las \expnd0\expndtw-1 labores;\par\pard\plain\s1\ls16\ilvl0\nooverflow\nocwrap\li834\fi-582\ri103\qj\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 Por el mal\expnd11\expndtw54  \expnd0\expndtw-1 desarrollo\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd11\expndtw55  \expnd0\expndtw-1 maquinaria\expnd11\expndtw54  \expnd0\expndtw0 o equipo\expnd11\expndtw55  \expnd0\expndtw0 de\expnd11\expndtw55  \expnd0\expndtw0 trabajo,\expnd11\expndtw55  \expnd0\expndtw-1 que\expnd11\expndtw55  \expnd0\expndtw0 pongan  en\expnd11\expndtw54  \expnd0\expndtw0 peligro  \expnd0\expndtw-1 los\expnd0\expndtw0   \expnd0\expndtw-1 bienes\expnd0\expndtw0   \expnd0\expndtw-1 del\f10\expnd11\expndtw57\charscalex100  \expnd0\expndtw-1 Ayuntamiento,\expnd1\expndtw3  \expnd0\expndtw0 que\expnd1\expndtw4  \expnd0\expndtw0 cause\expnd1\expndtw4  \expnd0\expndtw-1 la\expnd1\expndtw4  \expnd0\expndtw-1 suspensi\'F3n\expnd1\expndtw3  \expnd0\expndtw0 o\expnd1\expndtw4  \expnd0\expndtw0 la\expnd1\expndtw5  \expnd0\expndtw0 deficiencia\expnd1\expndtw4  \expnd0\expndtw0 de\expnd1\expndtw4  \expnd0\expndtw0 un\expnd1\expndtw4  \expnd0\expndtw-1 servicio\expnd1\expndtw4  \expnd0\expndtw0 o\expnd1\expndtw4  \expnd0\expndtw0 que\expnd1\expndtw4  \expnd0\expndtw0 pone\expnd1\expndtw4  \expnd0\expndtw0 en\expnd1\expndtw4  \expnd0\expndtw0 peligro\expnd1\expndtw3  \expnd0\expndtw0 la\expnd1\expndtw4  \expnd0\expndtw0 salud\expnd1\expndtw4  \expnd0\expndtw0 o\f10\expnd10\expndtw51\charscalex100  \expnd0\expndtw-1 vida\expnd0\expndtw0  de las \expnd0\expndtw-1 personas;\par\pard\plain\s1\ls16\ilvl0\nooverflow\nocwrap\li834\fi-605\sl240\slmult1\tx834\f10\fs20\b0\expnd0\expndtw0\charscalex100 Por \expnd0\expndtw-1 conclusi\'F3n\expnd0\expndtw0  del \expnd0\expndtw-1 t\'E9rmino\expnd0\expndtw0  de la\expnd0\expndtw-1  \expnd0\expndtw0 obra\expnd0\expndtw-1  determinada\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  la\expnd0\expndtw-1  designaci\'F3n;\par\sect\sectd\sbkpage\headery592\footery641
+{\header
+{\shp{\*\shpinst\shpleft1222\shpright1975\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz91\shplid983{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Alcance\par}}}
+
+{\shp{\*\shpinst\shpleft5156\shpright7153\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz92\shplid987{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw-1\charscalex100 PERI\'D3DICO OFICIAL\par}}}
+
+{\shp{\*\shpinst\shpleft9918\shpright10971\shptop572\shpbottom813\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz93\shplid991{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl-225\f10\fs20\b0\expnd0\expndtw0\charscalex100 P\'E1gina\expnd0\expndtw-1  107\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright1279\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz94\shplid995{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 2\par}}}
+
+{\shp{\*\shpinst\shpleft4449\shpright4506\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz95\shplid999{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 0\par}}}
+
+{\shp{\*\shpinst\shpleft7676\shpright7733\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz96\shplid1003{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 1\par}}}
+
+{\shp{\*\shpinst\shpleft10902\shpright10959\shptop816\shpbottom886\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz97\shplid1007{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\qc\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw0\charscalex100 8\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10893\shptop856\shpbottom926\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz98\shplid1011{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelesta\expnd-1\expndtw-6  \expnd0\expndtw-1 dodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3di\expnd-1\expndtw-5  \expnd0\expndtw-1 cooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehid\expnd-1\expndtw-6  \expnd0\expndtw-1 algoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestado\expnd-1\expndtw-6  \expnd0\expndtw-1 dehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgo\par}}}
+
+{\shp{\*\shpinst\shpleft1222\shpright10957\shptop895\shpbottom1005\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz99\shplid1015{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb16\f10\fs3\b0\expnd0\expndtw-1\charscalex100 Peri\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dic\expnd-1\expndtw-5  \expnd0\expndtw-1 ooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadod\expnd-1\expndtw-6  \expnd0\expndtw-1 ehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicooficialdelestadodehidalgoperi\'F3dicoo\expnd-1\expndtw-6  \expnd0\expndtw-1 ficialdelestadodehidalgo\expnd0\expndtw0  \expnd0\expndtw1  \expnd0\expndtw0 2 0\par\pard\plain\s1\nooverflow\nocwrap\li20\sl240\slmult1\sb5\f10\fs3\b0\expnd0\expndtw0\charscalex100 1 8\par}}}
+\pard\plain\s1\nooverflow\nocwrap\sl14\slmult1\fs20\par}\marglsxn1000\margrsxn1000\margtsxn980\margbsxn840\cols1\colno1\colw10240\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb4\f10\fs12\b0\i0\par\pard\plain\s1\ls16\ilvl0\nooverflow\nocwrap\li854\fi-549\sl240\slmult1\sb74\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 Por \expnd0\expndtw-1 muerte\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 trabajador;\par\pard\plain\s1\ls16\ilvl0\nooverflow\nocwrap\li854\fi-605\sl-230\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 Por \expnd0\expndtw-1 incapacidad permanente \expnd0\expndtw0 del \expnd0\expndtw-1 trabajo\expnd0\expndtw-2  \expnd0\expndtw0 f\'EDsica o\expnd0\expndtw-1  mental\expnd0\expndtw0  que le \expnd0\expndtw-1 impida\expnd0\expndtw0  el \expnd0\expndtw-1 desempe\'F1o\expnd0\expndtw0  de\expnd0\expndtw-2  \expnd0\expndtw0 sus \expnd0\expndtw-1 labores;\expnd0\expndtw0  \expnd0\expndtw-1 y,\par\pard\plain\s1\ls16\ilvl0\nooverflow\nocwrap\li854\fi-660\qj\sl-230\tx854\f10\fs20\b0\expnd0\expndtw0\charscalex100 Por \expnd0\expndtw-1 resoluci\'F3n \expnd0\expndtw0 del \expnd0\expndtw-1 Tribunal Estatal \expnd0\expndtw0 de \expnd0\expndtw-1 Conciliaci\'F3n\expnd0\expndtw0  y\expnd0\expndtw-1  Arbitraje.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs16\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li134\ri23\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Art\'EDculo\expnd1\expndtw5  \expnd0\expndtw0 62.\expnd1\expndtw6  \f10\b0\expnd0\expndtw0 Los\expnd1\expndtw6  \expnd0\expndtw-1 casos\expnd1\expndtw7  \expnd0\expndtw0 no\expnd1\expndtw5  \expnd0\expndtw-1 previstos\expnd1\expndtw7  \expnd0\expndtw-1 en\expnd1\expndtw6  \expnd0\expndtw0 el\expnd1\expndtw6  \expnd0\expndtw-1 presente\expnd1\expndtw6  \expnd0\expndtw-1 reglamento\expnd1\expndtw6  \expnd0\expndtw-1 as\'ED\expnd1\expndtw5  \expnd0\expndtw0 como\expnd1\expndtw6  \expnd0\expndtw-1 las\expnd1\expndtw5  \expnd0\expndtw-1 controversias\expnd1\expndtw6  \expnd0\expndtw-1 que\expnd1\expndtw6  \expnd0\expndtw0 se\expnd1\expndtw6  \expnd0\expndtw-1 susciten\expnd1\expndtw6  \expnd0\expndtw0 con\f10\expnd22\expndtw109\charscalex100  \expnd0\expndtw-1 motivo\expnd0\expndtw0  de su\expnd0\expndtw-2  \expnd0\expndtw-1 aplicaci\'F3n, \expnd0\expndtw0 ser\'E1n \expnd0\expndtw-1 resueltos\expnd0\expndtw0  por el\expnd0\expndtw-1  Tribunal\expnd0\expndtw0  de \expnd0\expndtw-1 Conciliaci\'F3n\expnd0\expndtw0  y\expnd0\expndtw-1  Arbitraje.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs16\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\ri44\qc\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Transitorios\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f12\fs16\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li134\ri23\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Primero.-\expnd3\expndtw13  \f10\b0\expnd0\expndtw0 El\expnd2\expndtw12  \expnd0\expndtw-1 presente\expnd2\expndtw11  \expnd0\expndtw-1 Ordenamiento\expnd2\expndtw12  \expnd0\expndtw-1 entrar\'E1\expnd2\expndtw11  \expnd0\expndtw0 en\expnd2\expndtw12  \expnd0\expndtw-1 vigor\expnd2\expndtw11  \expnd0\expndtw0 al\expnd2\expndtw12  \expnd0\expndtw0 d\'EDa\expnd2\expndtw12  \expnd0\expndtw-1 siguiente\expnd2\expndtw12  \expnd0\expndtw0 de\expnd2\expndtw12  \expnd0\expndtw0 su\expnd2\expndtw12  \expnd0\expndtw-1 publicaci\'F3n\expnd2\expndtw12  \expnd0\expndtw0 en\expnd2\expndtw11  \expnd0\expndtw0 el\expnd2\expndtw12  \expnd0\expndtw-1 Peri\'F3dico\expnd2\expndtw11  \expnd0\expndtw0 Oficial\f10\expnd23\expndtw113\charscalex100  \expnd0\expndtw0 del \expnd0\expndtw-1 Estado\expnd0\expndtw0  \expnd0\expndtw-1 de Hidalgo;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs16\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li134\ri23\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Segundo.-\expnd8\expndtw39  \f10\b0\expnd0\expndtw-1 Se\expnd8\expndtw39  \expnd0\expndtw-1 derogan\expnd8\expndtw38  \expnd0\expndtw-1 los\expnd8\expndtw40  \expnd0\expndtw-1 reglamentos,\expnd8\expndtw39  \expnd0\expndtw-1 acuerdos\expnd7\expndtw37  \expnd0\expndtw0 y\expnd8\expndtw38  \expnd0\expndtw-1 resoluciones\expnd8\expndtw39  \expnd0\expndtw0 del\expnd8\expndtw39  \expnd0\expndtw-1 Ayuntamiento\expnd8\expndtw39  \expnd0\expndtw-1 que\expnd8\expndtw38  \expnd0\expndtw0 se\expnd8\expndtw39  \expnd0\expndtw0 opongan\expnd7\expndtw37  \expnd0\expndtw0 a\expnd8\expndtw38  \expnd0\expndtw0 las\f10\expnd19\expndtw95\charscalex100  \expnd0\expndtw-1 previsiones\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  este \expnd0\expndtw-1 Reglamento;\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs16\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li134\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Tercero. \expnd0\expndtw0 - \f10\b0\expnd0\expndtw-1 Publ\'EDquese\expnd0\expndtw0  y\expnd0\expndtw-2  \expnd0\expndtw-1 c\'FAmplase.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs16\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li134\qj\sl240\slmult1\f10\fs20\b0\expnd0\expndtw0\charscalex100 Al\expnd0\expndtw-1  Ejecutivo\expnd0\expndtw0  \expnd0\expndtw-1 Municipal\expnd0\expndtw0  \expnd0\expndtw-1 para\expnd0\expndtw0  su \expnd0\expndtw-1 sanci\'F3n,\expnd0\expndtw-2  \expnd0\expndtw-1 publicaci\'F3n\expnd0\expndtw0  y\expnd0\expndtw-1  \expnd0\expndtw0 debido\expnd0\expndtw-2  \expnd0\expndtw-1 cumplimiento.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs16\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li134\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw0\charscalex100 La \expnd0\expndtw-1 S\'EDndico\expnd0\expndtw0  \expnd0\expndtw-1 Procurador:\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\li134\qj\sl240\slmult1\f10\fs20\b0\expnd0\expndtw0\charscalex100 C. \expnd0\expndtw-1 Catalina\expnd0\expndtw0  \expnd0\expndtw-1 Ram\'EDrez\expnd0\expndtw0  \expnd0\expndtw-1 Ram\'EDrez.-R\'FAbrica\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs16\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li134\qj\sl-230\f12\fs20\b1\expnd0\expndtw-1\charscalex100 Regidores:\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\li134\qj\sl-230\f10\fs20\b0\expnd0\expndtw0\charscalex100 C. \expnd0\expndtw-1 Rub\'E9n\expnd0\expndtw0  \expnd0\expndtw-1 Mart\'EDnez\expnd0\expndtw0  \expnd0\expndtw-1 Mart\'EDnez. -R\'FAbrica\par\pard\plain\s1\nooverflow\nocwrap\li134\qj\sl240\slmult1\f10\fs20\b0\expnd0\expndtw0\charscalex100 C. \expnd0\expndtw-1 Cecilia\expnd0\expndtw0  \expnd0\expndtw-1 Bautista Hern\'E1ndez. -R\'FAbrica\par\pard\plain\s1\nooverflow\nocwrap\li134\qj\sl-230\f10\fs20\b0\expnd0\expndtw0\charscalex100 C. Julio\expnd0\expndtw-2  \expnd0\expndtw-1 Hern\'E1ndez\expnd0\expndtw0  \expnd0\expndtw-1 Catarina.\expnd0\expndtw0  \expnd0\expndtw-1 -R\'FAbrica\par\pard\plain\s1\nooverflow\nocwrap\li134\qj\sl-230\f10\fs20\b0\expnd0\expndtw0\charscalex100 C. \expnd0\expndtw-1 Teresita\expnd0\expndtw0  \expnd0\expndtw-1 de\expnd0\expndtw0  \expnd0\expndtw-1 Jes\'FAs\expnd0\expndtw0  \expnd0\expndtw-1 Guti\'E9rrez\expnd0\expndtw0  \expnd0\expndtw-1 Hern\'E1ndez. -R\'FAbrica\par\pard\plain\s1\nooverflow\nocwrap\li134\qj\sl240\slmult1\f10\fs20\b0\expnd0\expndtw0\charscalex100 C. \expnd0\expndtw-1 Br\'EDgido\expnd0\expndtw0  \expnd0\expndtw-1 Bautista \expnd0\expndtw0 Juana.\expnd0\expndtw-2  \expnd0\expndtw-1 -R\'FAbrica\par\pard\plain\s1\nooverflow\nocwrap\li134\qj\sl-230\f10\fs20\b0\expnd0\expndtw0\charscalex100 C. \expnd0\expndtw-1 Margareth\expnd0\expndtw-2  \expnd0\expndtw0 Yozzuni \expnd0\expndtw-1 Garc\'EDa\expnd0\expndtw0  \expnd0\expndtw-1 Bustos.\expnd0\expndtw0  \expnd0\expndtw-1 -R\'FAbrica\par\pard\plain\s1\nooverflow\nocwrap\li134\qj\sl-230\f10\fs20\b0\expnd0\expndtw0\charscalex100 C. \expnd0\expndtw-1 Silverio\expnd0\expndtw0  \expnd0\expndtw-1 Bautista\expnd0\expndtw0  \expnd0\expndtw-1 Magdalena.\expnd0\expndtw0  \expnd0\expndtw-1 -R\'FAbrica\par\pard\plain\s1\nooverflow\nocwrap\li134\qj\sl240\slmult1\f10\fs20\b0\expnd0\expndtw0\charscalex100 C. \expnd0\expndtw-1 Manolo\expnd0\expndtw-2  \expnd0\expndtw-1 Cabrera\expnd0\expndtw0  \expnd0\expndtw-1 Santiago.\expnd0\expndtw0  \expnd0\expndtw-1 -R\'FAbrica\par\pard\plain\s1\nooverflow\nocwrap\li134\qj\sl240\slmult1\f10\fs20\b0\expnd0\expndtw0\charscalex100 C. \expnd0\expndtw-1 Florencio\expnd0\expndtw0  De La\expnd0\expndtw-2  \expnd0\expndtw-1 Cruz\expnd0\expndtw0  \expnd0\expndtw-1 Catarina.\expnd0\expndtw0  \expnd0\expndtw-1 -R\'FAbrica\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs16\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li134\ri182\qj\sl240\slmult1\f10\fs20\b0\expnd0\expndtw0\charscalex100 En\expnd2\expndtw12  \expnd0\expndtw0 uso\expnd2\expndtw12  \expnd0\expndtw0 de\expnd2\expndtw12  \expnd0\expndtw0 las\expnd2\expndtw12  \expnd0\expndtw-1 facultades\expnd2\expndtw11  \expnd0\expndtw0 que\expnd3\expndtw13  \expnd0\expndtw0 me\expnd2\expndtw12  \expnd0\expndtw-1 confieren\expnd2\expndtw12  \expnd0\expndtw-1 las\expnd3\expndtw13  \expnd0\expndtw-1 fracciones\expnd3\expndtw13  \expnd0\expndtw0 I\expnd2\expndtw12  \expnd0\expndtw0 y\expnd3\expndtw13  \expnd0\expndtw0 III\expnd2\expndtw12  \expnd0\expndtw0 del\expnd2\expndtw12  \expnd0\expndtw-1 art\'EDculo\expnd2\expndtw12  \expnd0\expndtw-1 144\expnd2\expndtw12  \expnd0\expndtw0 de\expnd2\expndtw12  \expnd0\expndtw0 la\expnd2\expndtw12  \expnd0\expndtw0 Constituci\'F3n\expnd3\expndtw13  \expnd0\expndtw-1 Pol\'EDtica\expnd2\expndtw12  \expnd0\expndtw0 del\f10\expnd17\expndtw87\charscalex100  \expnd0\expndtw0 Estado\expnd-1\expndtw-3  \expnd0\expndtw0 de\expnd-1\expndtw-3  \expnd0\expndtw-1 Hidalgo\expnd-1\expndtw-3  \expnd0\expndtw0 y\expnd-1\expndtw-4  \expnd0\expndtw0 la\expnd-1\expndtw-3  \expnd0\expndtw0 fracci\'F3n\expnd-1\expndtw-3  \expnd0\expndtw0 I\expnd-1\expndtw-4  \expnd0\expndtw0 inciso\expnd-1\expndtw-3  \expnd0\expndtw0 a)\expnd-1\expndtw-3  \expnd0\expndtw0 del\expnd-1\expndtw-3  \expnd0\expndtw-1 art\'EDculo\expnd-1\expndtw-5  \expnd0\expndtw0 60\expnd-1\expndtw-3  \expnd0\expndtw0 de\expnd-1\expndtw-3  \expnd0\expndtw0 la\expnd0\expndtw-2  \expnd0\expndtw0 Ley\expnd0\expndtw-2  \expnd0\expndtw-1 Org\'E1nica\expnd-1\expndtw-4  \expnd0\expndtw-1 Municipal,\expnd-1\expndtw-4  \expnd0\expndtw0 tengo\expnd-1\expndtw-3  \expnd0\expndtw0 a\expnd-1\expndtw-3  \expnd0\expndtw0 bien\expnd-1\expndtw-3  \expnd0\expndtw-1 sancionar\expnd-1\expndtw-3  \expnd0\expndtw-1 el\f10\expnd15\expndtw73\charscalex100  \expnd0\expndtw-1 presente\expnd1\expndtw4  \expnd0\expndtw-1 Acuerdo.\expnd1\expndtw4  \expnd0\expndtw-1 Por\expnd1\expndtw4  \expnd0\expndtw0 lo\expnd1\expndtw4  \expnd0\expndtw-1 tanto\expnd1\expndtw4  \expnd0\expndtw0 y\expnd1\expndtw3  \expnd0\expndtw0 en\expnd1\expndtw4  \expnd0\expndtw-1 cumplimiento\expnd1\expndtw3  \expnd0\expndtw-1 del\expnd1\expndtw4  \expnd0\expndtw-1 art\'EDculo\expnd1\expndtw4  \expnd0\expndtw-1 191\expnd1\expndtw4  \expnd0\expndtw0 del\expnd1\expndtw4  \expnd0\expndtw-1 mismo\expnd1\expndtw3  \expnd0\expndtw-1 ordenamiento,\expnd1\expndtw3  \expnd0\expndtw0 mando\expnd1\expndtw3  \expnd0\expndtw0 se\expnd1\expndtw4  \expnd0\expndtw-1 publique\f10\expnd22\expndtw111\charscalex100  \expnd0\expndtw0 y\expnd0\expndtw-2  \expnd0\expndtw-1 circule\expnd0\expndtw0  \expnd0\expndtw-1 para \expnd0\expndtw0 su \expnd0\expndtw-1 exacta observancia\expnd0\expndtw0  y\expnd0\expndtw-1  \expnd0\expndtw0 debido\expnd0\expndtw-2  \expnd0\expndtw-1 cumplimiento.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f10\fs17\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li134\ri23\sl240\slmult1\f10\fs20\b0\expnd0\expndtw-1\charscalex100 Dado\expnd1\expndtw3  \expnd0\expndtw0 en\expnd1\expndtw3  \expnd0\expndtw0 el\expnd1\expndtw3  \expnd0\expndtw-1 Palacio\expnd1\expndtw3  \expnd0\expndtw-1 Municipal\expnd1\expndtw3  \expnd0\expndtw0 de\expnd1\expndtw3  \expnd0\expndtw-1 Xochiatipan\expnd0\expndtw2  \expnd0\expndtw0 de\expnd1\expndtw3  \expnd0\expndtw-1 Castillo,\expnd0\expndtw2  \expnd0\expndtw0 Hidalgo,\expnd0\expndtw2  \expnd0\expndtw0 a\expnd1\expndtw3  \expnd0\expndtw0 los\expnd1\expndtw3  \expnd0\expndtw0 siete\expnd0\expndtw2  \expnd0\expndtw-1 d\'EDas\expnd1\expndtw3  \expnd0\expndtw0 del\expnd1\expndtw3  \expnd0\expndtw-1 mes\expnd1\expndtw3  \expnd0\expndtw-1 de\expnd1\expndtw3  \expnd0\expndtw-1 diciembre\expnd1\expndtw3  \expnd0\expndtw-1 del\expnd1\expndtw3  \expnd0\expndtw0 a\'F1o\f10\expnd18\expndtw91\charscalex100  \expnd0\expndtw0 dos \expnd0\expndtw-1 mil diecisiete.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs16\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li134\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw0\charscalex100 El\expnd0\expndtw-1  Presidente\expnd0\expndtw0  \expnd0\expndtw-1 Municipal Constitucional\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f12\fs16\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\li134\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw0\charscalex100 C. \expnd0\expndtw-1 Manolo Guti\'E9rrez\expnd0\expndtw0  \expnd0\expndtw-1 Hern\'E1ndez. \f10\b0\expnd0\expndtw-1 -R\'FAbrica\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs16\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li134\ri23\sl240\slmult1\f10\fs20\b0\expnd0\expndtw0\charscalex100 Con\expnd2\expndtw12  \expnd0\expndtw-1 fundamento\expnd2\expndtw12  \expnd0\expndtw0 en\expnd2\expndtw12  \expnd0\expndtw0 la\expnd2\expndtw12  \expnd0\expndtw-1 fracci\'F3n\expnd2\expndtw12  \expnd0\expndtw0 V\expnd2\expndtw12  \expnd0\expndtw0 del\expnd2\expndtw12  \expnd0\expndtw-1 Art\'EDculo\expnd2\expndtw12  \expnd0\expndtw0 98\expnd2\expndtw12  \expnd0\expndtw0 de\expnd2\expndtw12  \expnd0\expndtw-1 la\expnd2\expndtw12  \expnd0\expndtw0 Ley\expnd2\expndtw12  \expnd0\expndtw-1 Org\'E1nica\expnd3\expndtw13  \expnd0\expndtw-1 Municipal\expnd2\expndtw12  \expnd0\expndtw0 del\expnd2\expndtw12  \expnd0\expndtw0 Estado\expnd2\expndtw12  \expnd0\expndtw-1 de\expnd2\expndtw12  \expnd0\expndtw-1 Hidalgo,\expnd2\expndtw12  \expnd0\expndtw0 tengo\expnd2\expndtw11  \expnd0\expndtw0 a\f10\expnd16\expndtw81\charscalex100  \expnd0\expndtw0 bien \expnd0\expndtw-1 refrendar\expnd0\expndtw0  la \expnd0\expndtw-1 presente\expnd0\expndtw0  \expnd0\expndtw-1 sanci\'F3n.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f10\fs16\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li134\qj\sl240\slmult1\f12\fs20\b1\expnd0\expndtw0\charscalex100 El\expnd0\expndtw-1  Secretario\expnd0\expndtw-2  \expnd0\expndtw0 General\expnd0\expndtw-1  Municipal\b0\expnd0\expndtw0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\li134\qj\sl240\slmult1\f10\fs20\b0\expnd0\expndtw0\charscalex100 C. \expnd0\expndtw-1 Profr. Miguel\expnd0\expndtw0  \expnd0\expndtw-1 Hern\'E1ndez\expnd0\expndtw0  \expnd0\expndtw-1 Juana.\expnd0\expndtw0  \f14\expnd0\expndtw-1 \'96\f10\expnd0\expndtw-1 R\'FAbrica\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb10\f10\fs21\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li104\qj\sl240\slmult1\tx3616\tx10138\f10\fs20\b0\expnd0\expndtw0\charscalex100\expnd0\expndtw0\charscalex100{\ul  \tab \expnd0\expndtw-1 Derechos\expnd0\expndtw0  \expnd0\expndtw-1 Enterados.\expnd0\expndtw0  \expnd0\expndtw-1 17-04-2018\expnd0\expndtw0\charscalex100  \tab \expnd0\expndtw0\charscalex100}\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw0\charscalex100\expnd0\expndtw0\charscalex100\par}

@@ -1,0 +1,348 @@
+---
+titulo: "ACTA DE APROBACIÓN DEL PRESUPUESTO DE EGRESOS PARA EL EJERCICIO 2018 MUNICIPIO DE PISAFLORES, HIDALGO"
+tipo: "Acta"
+estado: "Hidalgo"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "29 de Diciembre de 2017"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "79144"
+---
+TOMO CL
+
+Pachuca de Soto, Hidalgo
+
+de la Constitución Política de los Estados	29 de Diciembre de 2017
+
+Bis
+
+Núm. 52
+
+
+
+LIC. OMAR FAYAD MENESES
+
+Gobernador del Estado de
+
+Hidalgo
+
+LIC. SIMÓN VARGAS AGUILAR Secretario de Gobierno
+
+LIC. ROBERTO RICO RUIZ
+
+Coordinador General Jurídico
+
+L.I. GUSTAVO CORDOBA RUIZ Director del Periódico Oficial
+
+PERIÓDICO OFICIAL
+
+DEL ESTADO DE HIDALGO
+
+
+
+Calle Matamoros No. 517, Col. Centro
+
+Tel. 01 (771) 281-36-30, 01 (771) 688-36-02 y
+
+(771) 717-60-00 ext. 6790   HYPERLINK "mailto:poficial@hidalgo.gob.mx"
+poficial@hidalgo.gob.mx
+
+  HYPERLINK "http://periodico.hidalgo.gob.mx/"
+http://periodico.hidalgo.gob.mx
+
+Registrado como artículo de 2ª. Clase con fecha 23 de Septiembre de
+1931
+
+Página 2	PERIÓDICO OFICIAL	Bis
+
+lgoperiódicooficialdelestadodehidalgoperiódicooficialdelestadodehidalg
+o 2 0 1 7
+
+SUMARIO
+
+Contenido
+
+Acta de Cabildo que aprueba Modificación al Presupuesto de Egresos para
+el Ejercicio Fiscal 2017, del Municipio
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de
+
+Acta de Cabildo que aprueba la Modificación al Presupuesto de Egresos
+para el Ejercicio Fiscal 2017 y
+
+Acta de Cabildo que aprueba la Segunda Adecuación al Presupuesto de
+Egresos para el Ejercicio Fiscal 2017,
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de Atitalaquia,
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, de la Comisión de Agua
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de El Arenal,
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de Emiliano
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de Juárez
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de Nicolás
+
+  HYPERLINK \l "page3"  Acta de Cabildo que aprueba el Presupuesto de
+Egresos para el Ejercicio Fiscal 2018, del Municipio de Pisaflores,
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, de la Comisión de Agua y
+
+Acta de Cabildo que aprueba el Presupuesto de Egresos para el Ejercicio
+Fiscal 2018, del Municipio de Tolcayuca,
+
+Bis	PERIÓDICO OFICIAL	Página 157
+
+dehidalgoperiódicooficialdelestadodehidalgoperiódicooficialdelestadode
+hidalgoperiódicooficialdelestadodehidalgo 2 0 1 7
+
+MUNICIPIO DE PISAFLORES, HIDALGO.
+
+ACTA DE APROBACIÓN DEL PRESUPUESTO DE EGRESOS PARA EL EJERCICIO 2018.
+
+DE CONFORMIDAD CON LOS ARTÍCULOS 115 DE LA CONSTITUCIÓN POLÍTICA DE
+LOS ESTADOS UNIDOS MEXICANOS; 141 FRACCIÓN X DE LA CONSTITUCIÓN
+POLÍTICA DEL ESTADO DE HIDALGO; 56 FRACCIÓN I INCISOS D) Y S), 60
+FRACCIÓN I INCISO R) Y 95 BIS Y QUINQUIES DE LA LEY ORGÁNICA MUNICIPAL
+PARA EL ESTADO DE HIDALGO, SIENDO LAS 11:00 HORAS DEL DÍA 28 DE
+NOVIEMBRE DE 2017, REUNIDOS EN LAS OFICINAS DEL AYUNTAMIENTO DEL
+MUNICIPIO DE PISAFLORES, HGO., LOS
+
+PRESIDENTA MUNICIPAL CONSTITUCIONAL; PROFRA. ZOYLA NOCHEBUENA RIVERA
+SINDICO PROCURADOR PROFRE. VICTOR PEREZ CHAVARRIA; ASÍ COMO LOS
+REGIDORES: MARIA IGNACIA MONTES MEDINA, TERESA CRUZ ORTIZ, LUIS ALBERTO
+RUBIO LOPEZ, MARIO TARCICIO GUERERO CRUZ, ISABEL HERNANDEZ BAUTISTA,
+FELIPE MEDINA SIERRA, MARIBEL MARTINEZ MATA, VICTORINO RODRIGUEZ VARGAS
+Y FRANCISCA LEAL BAHENA CON LA FINALIDAD DE ANALIZAR Y APROBAR EL
+PRESUPUESTO DE EGRESOS PARA EL EJERCICIO FISCAL DE 2018.
+
+ACTO SEGUIDO, SE DESCRIBEN LOS MONTOS PRESUPUESTADOS EN CADA FUENTE DE
+FINANCIAMIENTO, QUEDANDO COMO SIGUE:
+
+Página 158	PERIÓDICO OFICIAL	Bis
+
+algoperiódicooficialdelestadodehidalgoperiódicooficialdelestadodehidal
+goperiódicooficialdelestadodehidalgo 2 0 1 7
+
+TOTAL DEL FONDO	$232,017.00
+
+	FONDO DE FISCALIZACIÓN Y RECAUDACIÓN
+
+SERVICIOS PERSONALES	$
+
+	FONDO DE FISCALIZACIÓN Y RECAUDACIÓN
+
+MATERIALES Y SUMINISTROS	$3,628.00
+
+	FONDO DE FISCALIZACIÓN Y RECAUDACIÓN
+
+SERVICIOS GENERALES	$1,541.00
+
+FONDO DE FISCALIZACIÓN Y RECAUDACIÓN
+
+TRANSFERENCIAS,	ASIGNACIONES,	$20,000.00
+
+SUBSIDIOS Y OTRAS AYUDAS
+
+	TOTAL DEL FONDO	$25,169.00
+
+	FONDO  PARA  LA  INFRAESTRUCTURA  SOCIAL
+
+	MUNICIPAL   Y   DE   LAS   DEMARCACIONES	INVERSIÓN PUBLICA
+
+$48,882,346.00
+
+TERRITORIALES DEL DISTRITO FEDERAL
+
+TOTAL DEL FONDO	$48,882,346.00
+
+	FONDODEAPORTACIONESPARAEL
+
+	FORTALECIMIENTO  DE  LOS  MUNICIPIOS  Y  DE	SERVICIOS PERSONALES
+$4,2404,042.36
+
+LAS	DEMARCACIONES	TERRITORIALES	DEL
+
+DISTRITO FEDERAL
+
+FONDODEAPORTACIONESPARAEL
+
+	FORTALECIMIENTO  DE  LOS  MUNICIPIOS  Y  DE	MATERIALES Y SUMINISTROS
+$910,000.00
+
+LAS	DEMARCACIONES	TERRITORIALES	DEL
+
+DISTRITO FEDERAL
+
+FONDODEAPORTACIONESPARAEL
+
+	$3,575,000.00
+
+FORTALECIMIENTO  DE  LOS  MUNICIPIOS  Y  DE	SERVICIOS GENERALES
+
+	LAS	DEMARCACIONES	TERRITORIALES	DEL
+
+DISTRITO FEDERAL
+
+FONDODEAPORTACIONESPARAEL
+
+	$797,121.64
+
+FORTALECIMIENTO  DE  LOS  MUNICIPIOS  Y  DE	TRANSFERENCIAS,
+ASIGNACIONES,
+
+	LAS	DEMARCACIONES	TERRITORIALES	DEL	SUBSIDIOS Y OTRAS AYUDAS
+
+	DISTRITO FEDERAL
+
+FONDODEAPORTACIONESPARAEL
+
+	$280,000.00
+
+FORTALECIMIENTO  DE  LOS  MUNICIPIOS  Y  DE	BIENES   MUEBLES,	INMUEBLES
+ E
+
+	LAS	DEMARCACIONES	TERRITORIALES	DEL	INTANGIBLES
+
+DISTRITO FEDERAL
+
+TOTAL DEL FONDO	$9,766,164.00
+
+	COMPENSACION	DEL	IMPUESTO	SOBRE	SERVICIOS GENERALES	$6,000.00
+
+AUTOMÓVILES NUEVOS
+
+COMPENSACION	DEL	IMPUESTO	SOBRE	TRANSFERENCIAS,	ASIGNACIONES,	$69,182.00
+
+AUTOMÓVILES NUEVOS
+
+SUBSIDIOS Y OTRAS AYUDAS
+
+TOTAL DEL FONDO:	$75,182.00
+
+	INCENTIVO A LA VENTA FINAL DE GASOLINA DEL
+
+	IMPUESTO  ESPECIAL  SOBRE  PRODUCCIÓN  Y	SERVICIOS PERSONALES
+
+	SERVICIOS
+
+INCENTIVO A LA VENTA FINAL DE GASOLINA DEL
+
+	$655,000.00
+
+IMPUESTO  ESPECIAL  SOBRE  PRODUCCIÓN  Y	MATERIALES Y SUMINISTROS
+
+	SERVICIOS
+
+INCENTIVO A LA VENTA FINAL DE GASOLINA DEL
+
+	$95,000.00
+
+IMPUESTO  ESPECIAL  SOBRE  PRODUCCIÓN  Y	SERVICIOS GENERALES
+
+	SERVICIOS
+
+INCENTIVO A LA VENTA FINAL DE GASOLINA DEL	TRANSFERENCIAS,	ASIGNACIONES,
+$244,859.00
+
+IMPUESTO  ESPECIAL  SOBRE  PRODUCCIÓN  Y
+
+	SERVICIOS
+
+	SUBSIDIOS Y OTRAS AYUDAS
+
+	TOTAL DEL FONDO:	$994,859.00
+
+	TOTAL DEL PRESUPUESTO DE EGRESOS 2018:
+
+$106,684,863.00
+
+POR LO TANTO, EN TÉRMINOS DE LO QUE SE ESTABLECE EN LA NORMATIVIDAD
+VIGENTE EN LA MATERIA, SE APRUEBA EL PRESUPUESTO DE EGRESOS PARA EL
+EJERCICIO FISCAL 2018, POR UN MONTO TOTAL DE $106,684,863.00 (CIENTO
+SEIS MILLONES SEISCIENTOS OCHENTA Y CUATRO MIL OCHOCIENTOS SESENTA Y
+TRES PESOS 00/100 M.N.), DE ACUERDO CON EL MONTO QUE SE PRETENDE
+PERCIBIR EN FUNCIÓN DE LO ESTABLECIDO EN LA LEY DE INGRESOS PARA EL
+EJERCICIO
+
+Bis	PERIÓDICO OFICIAL	Página 159
+
+tadodehidalgo 2 0 1 7
+
+FISCAL 2018ADJUNTO A LA PRESENTE ACTA DE APROBACIÓN, SE INTEGRAN LOS
+ANEXOS QUE CONTIENEN EL MONTO DESAGREGADO EN LOS RESPECTIVOS:
+CLASIFICADOR POR OBJETO DEL GASTO, CLASIFICACIÓN ADMINISTRATIVA, EL
+RESUMEN POR CAPITULO DEL GASTO, EL CLASIFICADOR POR TIPO DE GASTO, EL
+CLASIFICADOR FUNCIONAL, LOS ANALÍTICOS DE PLAZAS, DIETAS Y SERVICIOS
+PERSONALES, EL PRESUPUESTO POR PROGRAMA Y SUBPROGRAMAS; Y EL CALENDARIO
+DE PRESUPUESTO DE EGRESOS BASE MENSUAL, MISMOS QUE FORMAN PARTE INTEGRAL
+DE ESTA ACTA.NO HABIENDO OTRO ASUNTO QUE TRATAR, SE CIERRA LA PRESENTE
+ACTA, SIENDO LAS 15:50 HORAS DEL DÍA 28 DEL MISMO MES Y AÑO, FIRMANDO
+DE CONFORMIDAD LOS QUE
+
+EN ELLA INTERVINIERON AL MARGEN Y AL CALCE EN TODAS LAS FOJAS DE LA
+PRESENTE ACTA, ASÍ COMO EN TODOS LOS ANEXOS QUE LA INTEGRAN.
+
+MUNICIPIO DE: PISAFLORES, HIDALGO.
+
+PRESUPUESTO DE EGRESOS DEL EJERCICIO FISCAL 2018
+
+CLASIFICADOR POR OBJETO DEL GASTO
+
+Página 160	PERIÓDICO OFICIAL	Bis
+
+ldelestadodehidalgoperiódicooficialdelestadodehidalgo 2 0 1 7
+
+Bis	PERIÓDICO OFICIAL	Página 161
+
+tadodehidalgoperiódicooficialdelestadodehidalgoperiódicooficialdelesta
+dodehidalgo 2 0 1 7
+
+Página 162	PERIÓDICO OFICIAL	Bis
+
+iódicooficialdelestadodehidalgoperiódicooficialdelestadodehidalgoperi
+ódicooficialdelestadodehidalgo 2 0 1 7
+
+Bis	PERIÓDICO OFICIAL	Página 163
+
+elestadodehidalgoperiódicooficialdelestadodehidalgoperiódicooficialdel
+estadodehidalgoperiódicooficialdelestadodehidalgo 2 0 1 7
+
+Página 164	PERIÓDICO OFICIAL	Bis
+
+icooficialdelestadodehidalgo 2 0 1 7
+
+Bis	PERIÓDICO OFICIAL	Página 165
+
+elestadodehidalgoperiódicooficialdelestadodehidalgoperiódicooficialdel
+estadodehidalgoperiódicooficialdelestadodehidalgo 2 0 1 7
+
+CLASIFICADOR POR TIPO DE GASTO
+
+ANALÍTICO DE PLAZAS
+
+Página 166	PERIÓDICO OFICIAL	Bis
+
+ficialdelestadodehidalgoperiódicooficialdelestadodehidalgo 2 0 1 7
+
+Bis	PERIÓDICO OFICIAL	Página 167
+
+aldelestadodehidalgoperiódicooficialdelestadodehidalgoperiódicooficial
+delestadodehidalgoperiódicooficialdelestadodehidalgo 2 0 1 7
+
+PRESUPUESTO DE EGRESOS CIUDADANO PARA EL EJERCICIO FISCAL 2018
+
+Derechos Enterados. 27-12-2017

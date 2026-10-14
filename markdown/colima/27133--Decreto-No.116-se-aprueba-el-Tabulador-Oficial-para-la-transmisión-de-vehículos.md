@@ -1,0 +1,661 @@
+---
+titulo: "Decreto No.116 se aprueba el Tabulador Oficial para la transmisión de vehículos"
+tipo: "Decreto Legislativo"
+estado: "Colima"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "05 de Enero de 1999"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "27133"
+---
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE
+COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 33
+FRACCION III Y 39, DE LA CONSTITUCION POLITICA LOCAL, EN NOMBRE DEL
+PUEBLO, Y
+
+C O N S I D E R A N D O :
+
+PRIMERO.- Que mediante oficio OCG-499/98 de fecha 1º. de diciembre del
+año en curso, suscrito por los CC. Lics. Fernando Moreno Peña, Héctor
+Michel Camarena e Ing. Almar Pettersen Mora, Gobernador del Estado de
+Colima, Secretario General de Gobierno y Secretario de Finanzas,
+respectivamente, remiten a este H. Congreso del Estado, la propuesta de
+Tabulador Oficial para el Pago del Impuesto a la Transmisión de la
+Propiedad de Vehículos Automotores Usados, con vigencia del primero de
+enero al treinta y uno de diciembre de 1999.
+
+SEGUNDO.- Que el CAPITULO III, TITULO PRIMERO de la Ley de Hacienda del
+Estado vigente regula el Impuesto a la Transmisión de la Propiedad de
+Vehículos Automotores, cuyo objeto lo constituye la transmisión de la
+propiedad de vehículos automotores usados por cualquier título, de
+conformidad con lo dispuesto por el artículo 23 del referido
+ordenamiento, siendo base para el cálculo del mismo en relación a
+vehículos del último año modelo, el 90% del importe total de la
+primera facturación, sin incluir intereses por financiamiento y para
+vehículos de años modelos anteriores al año de calendario en que se
+realizó la transmisión, el valor consignado en el Tabulador Oficial
+que se publique en el Periódico Oficial del Estado.
+
+TERCERO.- Que los vehículos automotores durante el ejercicio de 1998
+experimentaron incrementos en sus precios, lo que vino a desfasar los
+valores previstos en el Tabulador Oficial vigente a partir del 1º. de
+enero de este mismo año.
+
+CUARTO.- Que en la elaboración del tabulador contenido en la iniciativa
+de Decreto que se envía para entrar en vigor a partir del 1º. de enero
+de 1999, se tomaron como base los precios promedio vigentes al mes de
+octubre de 1998,  de la “Asociación Mexicana de Distribuidores de
+Automotores, A.C.” (A.M.D.A.), mismos que son publicados mensualmente
+respecto de todos los tipos de automóviles y camiones nuevos y
+seminuevos a nivel nacional, los cuales constituyen la base para todo
+tipo de actividades comerciales relacionadas con este giro.
+
+QUINTO.- Que a fin de facilitar a los contribuyentes la determinación
+de los valores correspondientes a cada tipo de vehículo y
+consecuentemente el monto a pagar por concepto de impuesto, el tabulador
+presenta una compactación de la extensa línea de tipos de vehículos
+existentes en el mercado.
+
+Por lo anteriormente expuesto y fundado ha tenido a bien expedir el
+siguiente
+
+D E C R E T O   No.  116
+
+QUE APRUEBA EL TABULADOR OFICIAL PARA EL PAGO DEL IMPUESTO A LA
+TRANSMISION DE LA PROPIEDAD DE VEHICULOS AUTOMOTORES USADOS, PARA EL
+EJERCICIO DE 1999.
+
+ARTICULO PRIMERO.- Las personas físicas o morales, que realicen los
+actos de transmisión de la propiedad de vehículos automotores usados,
+pagarán el impuesto a la Transmisión de la Propiedad de Vehículos
+Automotores previsto en el Capítulo III del Título Primero de la Ley
+de Hacienda del Estado de Colima, de acuerdo al tabulador oficial
+siguiente:
+
+A.- CHRYSLER  -   DODGE  -  JEEP.   (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+	A01	CONCORDE	150	130	120	110	90	80
+
+A02	DART	 	 	 	 	 	 	 	 	 	20
+
+A03	IMPERIAL	 	 	 	 	 	 	 	45
+
+A04	INTREPID	150	125	110	95	80
+
+A05	JEEP CHEROKEE	210	180	150	120	105	90
+
+A06	JEEP WRANGLER	150	95	85	70	60	50	45
+
+A07	LE BARON	 	 	 	55	50	40	35	 	 	20
+
+A08	MAGNUM	 	 	 	 	 	 	 	 	 	20
+
+A09	NEON	90	75	60	50	40
+
+A10	NEW YORKER	 	 	 	 	50	45	40	30	25	20
+
+A11	NEW YORKER LH, LHS	170	140	125	110	90
+
+A12	PHANTOM	 	 	 	 	55	45	40	30	25	20
+
+A13	RAM CHARGER	 	 	75	70	65	55	50	40	30	20
+
+A14	RAM WAGON	160	100	90	80
+
+A15	SHADOW	 	 	 	 	40	35	30	25	20
+
+A16	SPIRIT	 	 	 	55	45	40	35	25	20
+
+A17	STRATUS	110	100	90	80
+
+A18	VOLARE	 	 	 	 	 	 	 	 	 	20
+
+A19	VOYAGER	180	150	130	120	100	80	70	60
+
+	CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+A20	DODGE VIPER	340	280
+
+A21	SEBRING	210	180
+
+A22	CHRYSLER RT, JXI CONVERTIBLE	210	180
+
+A23	CHRYSLER PATRULLA	140	90
+
+A24	RAM VAN, WAGON	180	160
+
+A31	BREEZE	 	80	75
+
+A32	CIRRUS	160	120
+
+A38	PLYMOUTH	130
+
+A39	DURANGO	235
+
+A40	CHRYSLER 300 SEDAN	250
+
+A50	LINEAS DE AUTO- MOVILES NO CLASIFICADOS	 	 	 	 	 	 	 	 	 	20
+
+A51	ADVENTURER
+
+	 	 	 	 	 	40	35	30	25	20
+
+A52	CLUB CAB DIESEL
+
+	 	 	80	70
+
+A53	CLUB CAB Y RAM DOBLE CABINA
+
+	160	105	85	60	50	43	36	29	25	22
+
+A54	ESTACAS 300 Y 350	100	70	62	52	48	39	35	28	26	25
+
+A55	RAM 4000 Y 4500	110	82	68	60	48	39	35	28	26	25
+
+A56	PICK UP 6 CILINDROS	 	 	 	 	 	35	31	28	25	20
+
+A57	PICK UP 8 CILINDROS	 	 	 	 	 	40	35	30	25	20
+
+A58	PROSPECTOR
+
+	 	 	 	 	 	42	36	29	25	20
+
+A59	RAM 1500
+
+	100	85	64	52	40
+
+A60	RAM 2500
+
+	110	90	70	54	40
+
+A61	DAKOTA
+
+	 	 	55
+
+B.- RAMBLER. (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+B01	TODAS LAS LINEAS RAMBLER	 	 	 	 	 	 	 	 	 	20
+
+C. -  CHEVROLET. (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+	C01	BLAZER	170	135	115	90	75	60	50	45
+
+C02	BUICK REGAL	 	 	105	95	85
+
+C03	CADILLAC	280	210	200	170	135	105	94	80
+
+C04	CAMARO	210	150	130	110	90
+
+C05	SUBURBAN	210	140	120	105	90	70	60	50	40	35
+
+C06	CAVALIER	110	70	60	55	50	40	35	30	25	20
+
+C07	CELEBRITY	 	 	 	 	 	 	 	 	25	20
+
+C08	CENTURY LIMITED	 	 	100	80	70	60	50	40	30	25
+
+C09	CHEVY	60	50	40	35	30
+
+C10	CITATION	 	 	 	 	 	 	 	 	 	20
+
+C11	CORVETTE	360	280	240	180	150	135	110	100
+
+C12	CUTLASS	 	 	75	65	55	50	45	40	30	25
+
+C13	CUTLASS EUROSPORT	 	 	85	80	65	60	50	45	35	25
+
+C14	GEO TRACKER              2 PTAS.	120	90	70	55	45	40
+
+C15	LUMINA	 	 	110	95
+
+C16	OLDSMOBILE	 	 	 	105	85	70
+
+C17	PONTIAC BONNEVILLE	250	180	150	120	110	100
+
+C18	PONTIAC FIREBIRD TRANS AM	240	185	160	135	120	110
+
+C19	SILHOUETTE	 	 	 	110	90	80	70	60
+
+C20	SILVERADO	190	130	110	100
+
+C21	MONTECARLO	 	 	 	 	 	 	 	 	 	20
+
+	CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+C22	PONTIAC SUNFIRE	95	85
+
+C23	PONTIAC GRAN PRIX	220	160
+
+C24	MALIBU	160	110
+
+C25	VENTURE	220	150
+
+C34	GEO TRACKER          4 PTAS.   	160
+
+C50	LINEAS DE AUTO-  MOVILES NO CLASIFICADOS	 	 	 	 	 	 	 	 	 	20
+
+C51	C-35	110	80	70	65	55	45	35	30	28	25
+
+C52	G-20 VAN CARGA	 	 	 	70	60
+
+C53	HUNTER	 	 	 	60	50	45	40	30	25	20
+
+C54	MAXICAB	 	 	 	45	40	35	30	25	23	20
+
+C55	C-15 PICK UP 6 CIL.	85	70	65	55	50	40	35	30	25	20
+
+C56	C-20 PICK UP 8 CIL.	95	80	70	55	50	45	40	35	30	20
+
+C57	S-10	80	70	65	55
+
+C58	CHEYENNE Y 400 SS	150	95	80	70	55	45	40	34	28	25
+
+C59	VANNETE	100	90	80	70	60	55	45	35	30	20
+
+C60	LUV	110	90
+
+C61	EXTENDED CAB	210
+
+C62	CHEVY PICK UP	75
+
+D.- VOLKSWAGEN. (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+	D01	ATLANTIC	 	 	 	 	 	 	 	 	 	20
+
+D02	CARIBE	 	 	 	 	 	 	 	 	 	20
+
+D03	COMBI	120	110	90	80	70	60	50	40	30	25
+
+D04	CORSAR	 	 	 	 	 	 	 	 	 	25
+
+D05	DERBY	80	70	60	50	45
+
+D06	GOLF	95	85	70	65	55	45	40	30	25	20
+
+D07	JETTA	140	110	90	70	65	55	45	35	30	25
+
+D08	PASSAT	200	165	155	 	 	70	60	50
+
+	CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+D09	SEDAN	45	35	30	27	24	22	20	19	16	15
+
+D10	AUDI	350	300
+
+D11	CABRIO	350	300
+
+D12	POINTER	90	80
+
+D13	BEETLE	140
+
+	D50	LINEAS DE  AUTOMO-
+
+VILES   NO   CLASIFI-
+
+CADOS	 	 	 	 	 	 	 	 	 	20
+
+D51	POINTER       PICK-UP	80
+
+E.- NISSAN. (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+	E01	240 SX	 	 	 	 	 	90
+
+E02	300 ZX	 	 	 	 	180	150	120	110
+
+E03	DATSUN Y TSURU SEDAN Y VAGONETA	65	60	55	45	40	38	35	32	30	20
+
+E04	HIKARI	 	 	 	 	 	 	35	30	25	20
+
+E05	ICHI VAN	 	 	 	 	50	45	40	35	30	25
+
+E06	INFINITI	350	300	260	230	210	190
+
+E07	MAXIMA	225	195	170	140	119	100	85
+
+E08	SAKURA	 	 	 	 	 	 	 	 	 	20
+
+E09	SAMURAI	 	 	 	 	 	 	 	 	 	20
+
+E10	SENTRA	115	95	95	85	75	60	50	40	30	25
+
+E11	TSUBAME	85	75	65	60	55	45	35	30	25	20
+
+E12	TSURU GSR 2000	 	 	70	60	50	45	40
+
+E13	ALTIMA	160	145	130
+
+E14	LUCINO	115	90	80
+
+E15	PATHFINDER	200	185
+
+E16	QUEST	195
+
+E50	LINEAS DE AUTOMOVILES NO CLASIFICADOS	 	 	 	 	 	 	 	 	 	20
+
+E51	DOBLE CABINA	90	80	70	60	50	40	35	30	25	20
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+E52	ESTACAS	70	60	55	50	45	35	30	25	23	20
+
+E53	KING CAB	85	75	65	54	42	37	33	28	23	20
+
+E54	PICK UP	70	60	55	50	45	35	30	25	23	20
+
+F.-  FORD. (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+	F01	AEROSTAR	 	 	 	95	85	75	65	55
+
+F02	CLUB WAGON	195	165	145	125	105
+
+F03	COUGAR	 	 	115	80	65	50	45	40	30	25
+
+F04	ESCORT SEDAN Y VAGONETA	110	75	65	55	45
+
+F05	EXPLORER	220	160	140	115	95	80	65	55
+
+F06	GHIA	 	 	 	 	40	35	30
+
+F07	GRAND MARQUIS LTD, CROWMN VICTORIA, GALAXIE Y GRA.	220	160	145	110
+95	75	55	 	 	25
+
+F08	LINCON TOWN CAR	250	200	180	150	125	100	85	70
+
+F09	LINCON MARK VIII	 	 	185	160	130
+
+F10	MUSTANG	195	150	130	100	70	35	30	25	23	20
+
+F11	MYSTIQUE	145	120	95	85
+
+F12	SABLE	150	120	110	80	65
+
+F13	TAURUS	 	 	 	 	 	 	35	32	28	25
+
+F14	THUNDERBIRD	 	 	90	80	70	65	50	45	35	20
+
+F15	TOPAZ	 	 	 	 	40	35	32	28	25	20
+
+F16	WINDSTAR	210	145	125	105
+
+F17	CONTOUR	130	90	80
+
+F18	EXPEDITION	350	200
+
+	FIESTA	80
+
+BRONCO
+
+	65	60	55	50	45	40	35	25
+
+F50	LINEAS DE AUTO- MOVILES NO CLASIFICADOS	 	 	 	 	 	 	 	 	 	20
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+F51	ECONOLINE	140	110	85
+
+F52	ESTACAS 350	100	70	60	55	45	40	35	30	28	25
+
+F53	FIGHTER	 	 	 	 	 	45	40	34	28	25
+
+F54	LOBO	180	102	85	65	55	50	45	35	30	25
+
+F55	F-150 PICK UP 6 CIL.	100	75	65	55	45	35	30	25	23	20
+
+F56	F-250 PICK UP 8 CIL.	120	85	70	60	45	35	30	27	25	20
+
+F57	RANGER	110	80	70	60	50	45	35	30	25	20
+
+F58	SUPER CAB	150	135	95
+
+G. -  RENAULT. (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+	G01	JEEP WAGONEER	 	 	 	 	 	 	 	 	 	25
+
+G50	LINEAS DE AUTO- MOVILES NO CLASIFICADOS	 	 	 	 	 	 	 	 	 	20
+
+H.- CAMIONES  DE CARGA Y PASAJE. (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+	H01	CAMIONES CARGA HASTA 1,000 K. Y HASTA 16 PASAJEROS	105	85	68	58	42
+36	29	27	22	20
+
+H02	CAMIONES CARGA HASTA 3,000 K. MICROBUSES	100	70	62	52	48	39	35	28	26
+25
+
+H03	CAMIONES CARGA HASTA 10,000 K. Y OMNIBUS	160	130	110	90	80	75	70	65
+60	50
+
+H04	CAMIONES CARGA DE CAPACIDAD SUPERIOR A 10,000 K.	350	310	270	230	190
+150	110	90	80	70
+
+	CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+H05	IMPORTADOS NO EQUIPARABLES A LOS NACIONALES	260	220	183	167	150	135
+119	104	89	75
+
+I.- MOTOCICLETAS. (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+	I01	    HASTA  50 CC	8	7	6	5	4	4	3	3	2	2
+
+I02	       60 CC	11	9	8	7	6	6	5	4	3	3
+
+I03	       75 CC	14	12	11	10	9	8	7	6	5	4
+
+I04	       80 CC	14	12	11	10	9	8	7	6	5	4
+
+I05	       90 CC	12	10	9	8	7	6	5	4	3	2
+
+I06	     100 CC	12	10	9	8	7	6	5	4	3	2
+
+I07	     125 CC	16	13	12	11	10	9	8	7	6	5
+
+I08	     135 CC	16	13	12	11	10	9	8	7	6	5
+
+I09	     150 CC	16	13	12	11	10	9	8	7	6	5
+
+I10	     175 CC	17	14	12	10	9	7	6	5	4	3
+
+I11	     185 CC	17	14	12	10	9	7	6	5	4	3
+
+I12	     200 CC	19	16	15	13	12	11	9	7	6	5
+
+I13	     250 CC	25	21	18	16	15	13	11	8	6	5
+
+I14	     350 CC	25	21	18	16	15	13	11	8	6	5
+
+I15	     400 CC	37	31	27	24	21	18	15	12	8	7
+
+I16	     420 CC	37	31	27	24	21	18	15	12	8	7
+
+I17	     425 CC	37	31	27	24	21	18	15	12	8	7
+
+I18	     450 CC	34	28	26	21	18	15	12	9	7	5
+
+I19	     465 CC	34	28	26	21	18	15	12	9	7	5
+
+I20	     490 CC	34	28	26	21	18	15	12	9	7	5
+
+I21	     500 CC	42	35	32	29	25	20	14	9	7	5
+
+I22	     550 CC	42	35	32	29	25	20	14	9	7	5
+
+I23	     600 CC	42	35	32	29	25	20	14	9	7	5
+
+I24	     650 CC	42	35	32	29	25	20	14	9	7	5
+
+I25	     700 CC	42	35	32	29	25	20	14	9	7	5
+
+I26	     750 CC	48	40	37	35	29	23	15	13	10	8
+
+	CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+I27	     800 CC	48	40	37	35	29	23	15	13	10	8
+
+I28	     850 CC	48	40	37	35	29	23	15	13	10	8
+
+I29	     900 CC	50	42	39	37	32	26	21	16	12	10
+
+I30	     950 CC	50	42	39	37	32	26	21	16	12	10
+
+I31	    1000 CC	60	50	47	39	34	30	25	20	15	12
+
+I32	    1050 CC	60	50	47	39	34	30	25	20	15	12
+
+I33	    1100 CC	60	50	47	39	34	30	25	20	15	12
+
+I34	    1150 CC	66	55	52	46	40	35	30	24	18	14
+
+I35	    1200 CC	66	55	52	46	40	35	30	24	18	14
+
+I36	    1250 CC	66	55	52	46	40	35	30	24	18	14
+
+I37	    1300 CC	66	55	52	46	40	35	30	24	18	14
+
+I38	    1350 CC	66	55	52	46	40	35	30	24	18	14
+
+I39	    1400 CC	71	59	55	50	44	39	34	29	24	18
+
+I40	    1450 CC	71	59	55	50	44	39	34	29	24	18
+
+I41	    1500 CC	78	65	60	53	46	40	35	30	25	20
+
+K.-  CREACIONES   AUTOMOTRICES   NACIONALES. (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+K01	VENTURY 4P	140	90
+
+K02	VENTURY 2P	120	80
+
+L.-  HONDA. (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+	L01	ACCORD	180	140	110
+
+L02	CIVIC	120	110
+
+L03	ACURA	130	115
+
+M.-  BMW - LAND  ROVER - PORSCHE. (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+	M01	SERIE 3	350	280	230	200
+
+M02	SERIE 5	460	390	310
+
+M03	SERIE 7	900	800	600	500
+
+M04	SERIE 8	950	800	700	600
+
+M05	SERIE M	700	600	500	400
+
+	M31	DISCOVERY	460	390
+
+M32	RANGE ROVER	800	700
+
+	M61	BOXTER	840	720
+
+M62	911 CARRERA	1100	950
+
+N.- PEUGEOT. (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+	N01	PEUGEOT 306  4 PTAS.	150	120
+
+N02	PEUGEOT 306  5 PTAS.	160	130
+
+N03	PEUGEOT 405  4 PTAS.	180	150
+
+U.- MERCEDEZ   BENZ. (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+	U01	C-200 4 CIL.	340	240	190	150
+
+U02	C-280 V6	460	380	280	250
+
+U03	S-500L V8	1100	900	800	700	600
+
+U04	SL-500 V8	1100	900	800	700	600
+
+U05	S-600L	1700	1300	1000	600
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+U06	SL-600 V12	1400	1200	950
+
+U07	400,420	750	650	520	470
+
+U08	220/230	380	320	250	190
+
+U09	320	550	490	410	350	300
+
+U10	36/50/60	960	700	650	600
+
+U11	CLK	600	450
+
+U12	560	1200	1000
+
+U13	E420 BLINDADO	1400	1200
+
+U14	ML320 	480
+
+	U15	GE320	1050
+
+V..-  AUDI  - JAGUAR. (valores en miles de pesos)
+
+CLAVE	DESCRIPCION	1998	1997	1996	1995	1994	1993	1992	1991	1990	1989
+
+V01	A 4	330	250
+
+V02	A 8	800	540
+
+V03	CABRIOLET	530	320
+
+V31	XJ8	790
+
+V32	XK8	1000
+
+T R A N S I T O R I O:
+
+ARTICULO UNICO.- El presente Decreto entrará en vigor el 1º. de enero
+de 1999, y deberá publicarse en el Periódico Oficial “El Estado de
+Colima”.
+
+El Gobernador del Estado de Colima dispondrá se publique, circule y
+observe.
+
+Dado en el Poder Legislativo a los treinta y un días del mes de
+diciembre de mil novecientos noventa y ocho.
+
+Profr. Arnoldo Vizcaíno Rodríguez.
+
+Diputado Presidente.
+
+Profra. Evangelina Quintana Ramírez			C. Ignacio Rodríguez García.
+
+Diputada Secretaria.						Diputado Secretario.
+
+ PÁGINA
+
+ PÁGINA   12

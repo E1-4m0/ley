@@ -1,0 +1,538 @@
+---
+titulo: "Acuerdo por el que se da a conocer a los municipios del estado de guerrero, la distribución y calendarización para la ministración de los recursos correspondientes al fondo IV del ramo 33 Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal (FORTAMUN-DF) para el Ejercicio Fiscal de 2013"
+tipo: "Acuerdo"
+estado: "Guerrero"
+ambito: "Estatal"
+estatus: "Abrogado"
+fecha_publicacion: "25 de Enero de 2013"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "52380"
+---
+ABROGADO POR CONCLUIDA SU VIGENCIA EL 13 DE DICIEMBRE DE 2013.
+
+# TEXTO ORIGINAL
+
+	Acuerdo publicado en el Periódico Oficial del Gobierno del Estado No.
+08 Alcance I, el Viernes 25 de Enero de 2013.
+
+PODER EJECUTIVO
+
+ACUERDO POR EL QUE SE DA A CONOCER A LOS MUNICIPIOS DEL ESTADO DE
+GUERRERO, LA DISTRIBUCIÓN Y CALENDARIZACIÓN PARA LA MINISTRA-CIÓN DE
+LOS RECURSOS CORRESPONDIENTES AL FONDO IV DEL RAMO 33 "FONDO DE
+APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS Y DE LAS
+DEMARCACIONES TERRITORIALES DEL DISTRITO FEDERAL" (FORTAMUN-DF) PARA EL
+EJERCICIO FISCAL DE 2013.
+
+	Al margen un sello con el Escudo Oficial que dice: Gobierno del Estado
+Libre y Soberano de Guerrero.- Poder Ejecutivo.
+
+	ÁNGEL HELADIO AGUIRRE RIVERO, GOBERNADOR CONSTITUCIONAL DEL ESTADO
+LIBRE Y SOBERANO DE GUERRERO, DE CONFORMIDAD CON LOS ARTICULOS 26 Y 115
+DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, 27, 31, 32
+Y 37 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL; 33, 34, 35
+Y 44 DE LA LEY DE PLANEACION FEDERAL; 25, FRACCION IV, 36, 37 Y 38 DE LA
+LEY DE COORDINACION FISCAL; 9 DEL DECRETO DEL PRESUPUESTO DE EGRESOS DE
+LA FEDERACION PARA EL EJERCICIO FISCAL DE 2013 Y EN EJERCICIO DE LAS
+FACULTADES QUE ME CONFIEREN LOS ARTICULOS 74 DE LA CONSTITUCION POLITICA
+DEL ESTADO LIBRE Y SOBERANO DE GUERRERO; 1°, 2°, 3°, 4°, 10, 12 Y 13
+DE LA LEY DE PLANEACION DEL ESTADO DE GUERRERO, 2°, 4°, 6°, 7°, 18
+FRACCION III Y 22 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL
+ESTADO; Y
+
+CONSIDERANDO
+
+	Que el artículo 8 del Presupuesto de Egresos de la Federación para el
+ejercicio fiscal de 2013, prevé recursos en el Ramo 33 Aportaciones
+Federales para Entidades Federativas y Municipios, para el Fondo de
+Aportaciones para el Fortalecimiento de los Municipios y de las
+Demarcaciones Territoriales del Distrito Federal.
+
+	Que el ejercicio de los recursos que integran el Ramo 33 deberá
+apegarse a la distribución, condiciones y términos que establece el
+capítulo V de la Ley de Coordinación Fiscal, y no podrán ser erogados
+con fines distintos a los que ahí se señalan.
+
+	Que la Secretaría de Hacienda y Crédito Público, es la encargada de
+ministrar a cada entidad federativa, y a través de éstas a los
+municipios, los montos correspondientes de cada uno de los fondos que
+conforman el citado ramo 33.
+
+	Que la Ley de Coordinación Fiscal en el Capítulo V, artículo 36
+antepenúltimo párrafo establece que "Los Gobiernos Estatales y del
+Distrito Federal deberán publicar en su respectivo periódico oficial
+las variables y fórmulas utilizadas para determinar los montos que
+correspondan a cada Municipio o Demarcación Territorial por concepto de
+este Fondo, así como el calendario de ministraciones, a más tardar el
+31 de enero de cada año".
+
+	Que en virtud de lo antes referido y con el objeto de ministrar los
+recursos del Ramo 33, específicamente los del Fondo IV "Fondo de
+Aportaciones para el Fortalecimiento de los Municipios y de las
+Demarcaciones Territoriales del Distrito Federal" conforme al monto
+autorizado por la cámara de Diputados del H. Congreso de la Unión para
+el Estado de Guerrero, he tenido a bien expedir el siguiente:
+
+ACUERDO POR EL QUE SE DA A CONOCER A LOS MUNICIPIOS DEL ESTADO DE
+GUERRERO, LA DISTRIBUCIÓN Y CALENDARIZACIÓN PARA LA MINISTRACIÓN DE
+LOS RECURSOS CORRESPONDIENTES AL FONDO IV DEL RAMO 33 "FONDO DE
+APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS Y DE LAS
+DEMARCACIONES TERRITORIALES DEL DISTRITO FEDERAL" (FORTAMUN-DF) PARA EL
+EJERCICIO FISCAL DE 2013.
+
+	ARTICULO PRIMERO.- El presente Acuerdo tiene por objeto dar a conocer
+la fórmula, distribución y la calendarización de las ministraciones
+de recursos autorizados por el Estado de Guerrero del Fondo IV del Ramo
+33 "Fondo de Aportaciones para el Fortalecimiento de los Municipios y de
+las Demarcaciones Territoriales del Distrito Federal" para el ejercicio
+fiscal de 2013.
+
+	ARTICULO SEGUNDO.- Los recursos del FORTAMUN-DF se distribuyen en
+proporción directa al número de habitantes con que cuenta cada uno de
+los municipios.
+
+	La asignación del FORTAMUN-DF para el iésimo municipio se determina
+mediante la aplicación de la siguiente fórmula:
+
+ARTICULO TERCERO.- La Secretaria de Hacienda y Crédito Público,
+publicó con fecha 17 de enero de 2013, el Acuerdo mediante el cual da a
+conocer la distribución y calendarización para la ministración de los
+recursos correspondientes al Ramo 33 Aportaciones Federales para
+Entidades Federativas y Municipios, a que se refiere el Capítulo V de
+la Ley de Coordinación Fiscal.
+
+Autorizándole al Estado de Guerrero $1,614,192,873.00 (Mil Seiscientos
+Catorce Millones Ciento Noventa y Dos Mil Ochocientos Setenta y Tres
+Pesos 00/100 M.N.) del Fondo de Aportaciones para el Fortalecimiento de
+Entidades Federativas y Municipios y de las Demarcaciones Territoriales
+del Distrito Federal, recursos que el Estado de Guerrero debe entregar a
+los municipios de conformidad a lo establecido en el último párrafo
+del Artículo 38 de la Ley de Coordinación Fiscal.
+
+ARTICULO CUARTO.- La información utilizada en la aplicación de las
+fórmulas establecidas para la distribución del FORTAMUN- DF entre los
+municipios, es la siguiente:
+
+CM	MUNICIPIO
+
+GUERRERO	POBLACION 2010 3,388,768
+
+001	ACAPULCO DE JUAREZ	789,971
+
+002	ACATEPEC	32,792
+
+003	AHUACUOTZINGO	25,027
+
+004	AJUCHITLAN DEL PROGRESO	38,203
+
+005	ALCOZAUCA DE GUERRERO	18,971
+
+006	ALPOYECA	6,637
+
+007	APAXTLA	12,389
+
+008	ARCELIA	32,181
+
+009	ATENANGO DEL RIO	8,390
+
+010	ATLAMAJALCINGO DEL MONTE	5,706
+
+011	ATLIXTAC	26,341
+
+012	ATOYAC DE ALVAREZ	61,316
+
+013	AYUTLA DE LOS LIBRES	62,690
+
+014	AZOYU	14,429
+
+015	BENITO JUAREZ	15,019
+
+016	BUENAVISTA DE CUELLAR	12,688
+
+017	COAHUAYUTLA DE J. MA. IZAZAGA	13,025
+
+018	COCULA	14,707
+
+019	COPALA	13,636
+
+020	COPALILLO	14,456
+
+021	COPANATOYAC	18,855
+
+022	COYUCA DE BENITEZ	73,460
+
+023	COYUCA DE CATALAN	42,069
+
+024	CUAJINICUILAPA	25,922
+
+025	CUALAC	7,007
+
+026	CUAUTEPEC	15,115
+
+027	CUETZALA DEL PROGRESO	9,166
+
+028	CUTZAMALA DE PINZON	21,388
+
+029	CHILAPA DE ALVAREZ	120,790
+
+030	CHILPANCINGO DE LOS BRAVO	241,717
+
+031	EDUARDO NERI	46,158
+
+032	FLORENCIO VILLARREAL	20,175
+
+033	GENERAL CANUTO A. NERI	6,301
+
+034	GENERAL HELIODORO CASTILLO	36,586
+
+035	HUAMUXTITLAN	14,393
+
+036	HUITZUCO DE LOS FIGUEROA	37,364
+
+037	IGUALA DE LA INDEPENDENCIA	140,363
+
+038	IGUALAPA	10,815
+
+039	IXCATEOPAN DE CUAUHTEMOC	6,603
+
+040	ZIHUATANEJO DE AZUETA	118,211
+
+041	JUAN R. ESCUDERO	24,364
+
+042	LEONARDO BRAVO	24,720
+
+043	MALINALTEPEC	29,599
+
+044	MARTIR DE CUILAPAN	17,702
+
+045	METLATONOC	18,976
+
+046	MOCHITLAN	11,376
+
+047	OLINALA	24,723
+
+048	OMETEPEC	61,306
+
+049	PEDRO ASCENCIO ALQUISIRAS	6,978
+
+050	PETATLAN	44,979
+
+051	PILCAYA	11,558
+
+052	PUNGARABATO	37,035
+
+053	QUECHULTENANGO	34,728
+
+054	SAN LUIS ACATLAN	42,360
+
+055	SAN MARCOS	48,501
+
+056	SAN MIGUEL TOTOLAPAN	28,009
+
+057	TAXCO DE ALARCON	104,053
+
+058	TECOANAPA	44,079
+
+059	TECPAN DE GALEANA	62,071
+
+060	TELOLOAPAN	53,769
+
+061	TEPECOACUILCO DE TRUJANO	30,470
+
+062	TETIPAC	13,128
+
+063	TIXTLA DE GUERRERO	40,058
+
+064	TLACOAPA	9,967
+
+065	TLACOACHISTLAHUACA	21,306
+
+066	TLALCHAPA	11,495
+
+067	TLALIXTAQUILLA DE MALDONADO	7,096
+
+068	TLAPA DE COMONFORT	81,419
+
+069	TLAPEHUALA	21,819
+
+070	UNION DE I. MONTES DE OCA, LA	25,712
+
+071	XALPATLAHUAC	12,240
+
+072	XOCHISTLAHUACA	28,089
+
+073	XOCHIHUEHUETLAN	7,079
+
+074	ZAPOTITLAN TABLAS	10,516
+
+075	ZIRANDARO	18,813
+
+076	ZITLALA	22,587
+
+077	MARQUELIA	12,912
+
+078	JOSE JOAQUIN DE HERRERA	15,678
+
+079	COCHOAPA EL GRANDE	18,778
+
+080	JUCHITAN	7,166
+
+081	ILIATENCO	10,522
+
+La fuente de información es: Resultados preliminares del Censo de
+Población y Vivienda 2010, para el Estado de Guerrero, publicados por
+el Instituto Nacional de Estadística y Geografía (INEGI) el 7 de julio
+del 2011.
+
+ARTICULO QUINTO.- El monto autorizado del Fondo de Aportaciones para el
+Fortalecimiento de los Municipios y las Demarcaciones Territoriales del
+Distrito Federal (FORTAMUN-DF) es de $1,614,192,873.00 (Mil Seiscientos
+Catorce Millones Ciento Noventa y Dos Mil Ochocientos Setenta y Tres
+Pesos 00/100 M.N.) los cuales se distribuyen conforme a lo establecido
+en el Artículo Segundo del presente Acuerdo, obteniéndose las
+asignaciones siguientes:
+
+CM	MUNICIPIO	ASIGNACION | (PESOS)
+
+	ANUAL	MENSUAL
+
+	GUERRERO	1,614,192,873.00	134,516,072.75
+
+001	ACAPULCO DE JUAREZ	376,291,784.00	31,357,648.67
+
+002	ACATEPEC	15,620,017.00	1,301,668.08
+
+003	AHUACUOTZINGO	11,921,266.00	993,438.83
+
+004	AJUCHITLAN DEL PROGRESO	18,197,473.00	1,516,456.08
+
+005	ALCOZAUCA DE GUERRERO	9,036,575.00	753,047.92
+
+006	ALPOYECA	3,161,444.00	263,453.67
+
+007	APAXTLA	5,901,329.00	491,777.42
+
+008	ARCELIA	15,328,976.00	1,277,414.67
+
+009	ATENANGO DEL RIO	3,996,461.00	333,038.42
+
+010	ATLAMAJALCINGO DEL MONTE	2,717,975.00	226,497.92
+
+011	ATLIXTAC	12,547,171.00	1,045,597.58
+
+012	ATOYAC DE ALVAREZ	29,207,030.00	2,433,919.17
+
+013	AYUTLA DE LOS LIBRES	29,861,516.00	2,488,459.67
+
+014	AZOYU	6,873,056.00	572,754.67
+
+015	BENITO JUAREZ	7,154,093.00	596,174.42
+
+016	BUENAVISTA DE CUELLAR	6,043,754.00	503,646.17
+
+017	COAHUAYUTLA DE J. MA. IZAZAGA	6,204,279.00	517,023.25
+
+018	COCULA	7,005,476.00	583,789.67
+
+019	COPALA	6,495,320.00	541,276.67
+
+020	COPALILLO	6,885,916.00	573,826.33
+
+021	COPANATOYAC	8,981,319.00	748,443.25
+
+022	COYUCA DE BENITEZ	34,991,658.00	2,915,971.50
+
+023	COYUCA DE CATALAN	20,038,987.00	1,669,915.58
+
+024	CUAJINICUILAPA	12,347,588.00	1,028,965.67
+
+025	CUALAC	3,337,688.00	278,140.67
+
+026	CUAUTEPEC	7,199,822.00	599,985.17
+
+027	CUETZALA DEL PROGRESO	4,366,098.00	363,841.50
+
+028	CUTZAMALA DE PINZON	10,187,878.00	848,989.83
+
+029	CHILAPA DE ALVAREZ	57,536,649.00	4,794,720.75
+
+030	CHILPANCINGO DE LOS BRAVO	115,138,557.00	9,594,879.75
+
+031	EDUARDO NERI	21,986,726.00	1,832,227.17
+
+032	FLORENCIO VILLARREAL	9,610,083.00	800,840.25
+
+033	GENERAL CANUTO A. NERI	3,001,395.00	250,116.25
+
+034	GENERAL HELIODORO CASTILLO	17,427,236.00	1,452,269.67
+
+035	HUAMUXTITLAN	6,855,907.00	571,325.58
+
+036	HUITZUCO DE LOS FIGUEROA	17,797,826.00	1,483,152.17
+
+037	IGUALA DE LA INDEPENDENCIA	66,859,979.00	5,571,664.92
+
+038	IGUALAPA	5,151,575.00	429,297.92
+
+039	IXCATEOPAN DE CUAUHTEMOC	3,145,248.00	262,104.00
+
+040	ZIHUATANEJO DE AZUETA	56,308,179.00	4,692,348.25
+
+041	JUAN R. ESCUDERO	11,605,456.00	967,121.33
+
+042	LEONARDO BRAVO	11,775,030.00	981,252.50
+
+043	MALINALTEPEC	14,099,076.00	1,174,923.00
+
+044	MARTIR DE CUILAPAN	8,432,103.00	702,675.25
+
+045	METLATONOC	9,038,955.00	753,246.25
+
+046	MOCHITLAN	5,418,800.00	451,566.67
+
+047	OLINALA	11,776,460.00	981,371.67
+
+048	OMETEPEC	29,202,266.00	2,433,522.17
+
+049	PEDRO ASCENCIO ALQUISIRAS	3,323,873.00	276,989.42
+
+050	PETATLAN	21,425,126.00	1,785,427.17
+
+051	PILCAYA	5,505,494.00	458,791.17
+
+052	PUNGARABATO	17,641,112.00	1,470,092.67
+
+053	QUECHULTENANGO	16,542,203.00	1,378,516.92
+
+054	SAN LUIS ACATLAN	20,177,601.00	1,681,466.75
+
+055	SAN MARCOS	23,102,782.00	1,925,231.83
+
+056	SAN MIGUEL TOTOLAPAN	13,341,701.00	1,111,808.42
+
+057	TAXCO DE ALARCON	49,564,210.00	4,130,350.83
+
+058	TECOANAPA	20,996,423.00	1,749,701.92
+
+059	TECPAN DE GALEANA	29,566,664.00	2,463,888.67
+
+060	TELOLOAPAN	25,612,121.00	2,134,343.42
+
+061	TEPECOACUILCO DE TRUJANO	14,513,964.00	1,209,497.00
+
+062	TETIPAC	6,253,341.00	521,111.75
+
+063	TIXTLA DE GUERRERO	19,081,075.00	1,590,089.58
+
+064	TLACOAPA	4,747,643.00	395,636.92
+
+065	TLACOACHISTLAHUACA	10,148,820.00	845,735.00
+
+066	TLALCHAPA	5,475,484.00	456,290.33
+
+067	TLALIXTAQUILLA DE MALDONADO	3,380,081.00	281,673.42
+
+068	TLAPA DE COMONFORT	38,782,817.00	3,231,901.42
+
+069	TLAPEHUALA	10,393,179.00	866,098.25
+
+070	UNION DE I. MONTES DE OCA, LA	12,247,556.00	1,020,629.67
+
+071	XALPATLAHUAC	5,830,355.00	485,862.92
+
+072	XOCHISTLAHUACA	13,379,807.00	1,114,983.92
+
+073	XOCHIHUEHUETLAN	3,371,984.00	280,998.67
+
+074	ZAPOTITLAN TABLAS	5,009,152.00	417,429.33
+
+075	ZIRANDARO	8,961,313.00	746,776.08
+
+076	ZITLALA	10,759,006.00	896,583.83
+
+077	MARQUELIA	6,150,453.00	512,537.75
+
+078	JOSE JOAQUIN DE HERRERA	7,467,999.00	622,333.25
+
+079	COCHOAPA EL GRANDE	8,944,641.00	745,386.75
+
+080	JUCHITAN	3,413,426.00	284,452.17
+
+081	ILIATENCO	5,012,012.00	417,667.67
+
+	ARTICULO SEXTO.- Conforme a la Ley de Coordinación Fiscal, el
+calendario de entrega a los municipios de los recursos del FORTAMUN-DF
+para el ejercicio fiscal de 2013 será:
+
+MES	FORTAMUN
+
+Enero	31-01-13
+
+Febrero	28-02-13
+
+Marzo	27-03-13
+
+Abril	30-04-13
+
+Mayo	31-05-13
+
+Junio	28-06-13
+
+Julio	31-07-13
+
+Agosto	30-08-13
+
+Septiembre	30-09-13
+
+Octubre	31-10-13
+
+Noviembre	29-11-13
+
+Diciembre	13-12-13
+
+TRANSITORIO
+
+	ÚNICO.- El presente Acuerdo entrará en vigor a partir del día
+siguiente de su publicación en el Periódico Oficial del Gobierno del
+Estado.
+
+	Dado en la residencia oficial del Poder Ejecutivo del Estado, en la
+Ciudad de Chilpancingo de los Bravo, Guerrero, a los veintidós días
+del mes de enero del año dos mil trece.
+
+EL GOBERNADOR CONSTITUCIONAL DEL
+
+ESTADO LIBRE Y SOBERANO DE GUERRERO.
+
+LIC. ÁNGEL HELADIO AGUIRRE RIVERO.
+
+Rúbrica.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+LIC. HUMBERTO SALGADO GÓMEZ.
+
+Rúbrica.
+
+EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN.
+
+C.P. JORGE SILVERIO SALGADO LEYVA.
+
+Rúbrica.
+
+	  HYPERLINK "http://www.guerrero.gob.mx/consejeriajuridica/"
+http://www.guerrero.gob.mx/consejeriajuridica
+
+	  HYPERLINK "mailto:consejeria_juridica@guerrero.gob.mx"
+consejeria_juridica@guerrero.gob.mx
+
+ACUERDO POR EL QUE SE DA A CONOCER A LOS MUNICIPIOS DEL ESTADO DE
+GUERRERO, LA DISTRIBUCIÓN Y CALENDARIZACIÓN PARA LA MINISTRACIÓN DE
+LOS RECURSOS CORRESPONDIENTES AL FONDO IV DEL RAMO 33 "FONDO DE
+APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS Y DE LAS
+DEMARCACIONES TERRITORIALES DEL DISTRITO FEDERAL" (FORTAMUN-DF) PARA EL
+EJERCICIO FISCAL DE 2013
+
+ PAGE
+
+ PAGE   10

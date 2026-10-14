@@ -1,0 +1,135 @@
+---
+titulo: "SE RATIFICA A LA LICENCIADA EN DERECHO MARÍA GUADALUPE GONZÁLEZ GÓNGORA, COMO MAGISTRADA DEL TRIBUNAL DE JUSTICIA ELECTORAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN."
+tipo: "Decreto Legislativo"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "30 de Marzo de 2012"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "39248"
+---
+GOBIERNO DEL ESTADO
+
+# PODER EJECUTIVO
+
+DECRETO NÚMERO 502
+
+C. IVONNE ARACELLY ORTEGA PACHECO, GOBERNADORA DEL ESTADO DE
+
+YUCATÁN, CON FUNDAMENTO EN LOS ARTÍCULOS 38 Y 55 FRACCIÓN XXV DE LA
+
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y 14 FRACCIONES VII Y IX
+
+DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, A SUS
+
+HABITANTES HAGO SABER:
+
+QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO
+
+DIRIGIRME EL SIGUIENTE DECRETO:
+
+“EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A
+
+LO DISPUESTO EN LOS ARTÍCULOS 116 FRACCIÓN III DE LA CONSTITUCIÓN
+
+POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; 30 FRACCIONES V Y XXII, 64,
+
+66 Y NOVENO TRANSITORIO DEL DECRETO 296 QUE REFORMÓ LA
+
+CONSTITUCIÓN POLÍTICA DEL ESTADO, Y 18 DE LA LEY DE GOBIERNO DEL
+
+PODER LEGISLATIVO DEL ESTADO, EMITE EL SIGUIENTE:
+
+D E C R E T O:
+
+ARTÍCULO ÚNICO.- Se ratifica a la Licenciada en Derecho María
+Guadalupe González
+
+Góngora, como Magistrada del Tribunal de Justicia Electoral y
+Administrativa del Poder
+
+Judicial del Estado de Yucatán, para el período comprendido del 31 de
+marzo de 2012 al
+
+9 de octubre del  año 2022, conforme a lo dispuesto en el Artículo
+Noveno Transitorio del
+
+Decreto 296 que reformó la Constitución Política del Estado de
+Yucatán, publicado el 17
+
+de mayo del año 2010, en el Diario Oficial del Gobierno del Estado de
+Yucatán.
+
+T R A N S I T O R I O S:
+
+ARTÍCULO PRIMERO.- Este Decreto entrará en vigor el día de su
+publicación en el Diario
+
+Oficial del Gobierno del Estado.
+
+ARTÍCULO SEGUNDO.- Notifíquese al Tribunal Superior de Justicia y al
+Tribunal de
+
+Justicia Electoral y Administrativa del Poder Judicial del Estado, y a
+la Magistrada a que
+
+refiere el presente Decreto.
+
+ESTA HOJA DE FIRMAS FORMA PARTE DEL DECRETO
+
+POR EL CUAL EL PODER EJECUTIVO DEL ESTADO DE
+
+YUCATÁN SANCIONA EL DECRETO DEL H. CONGRESO
+
+DEL ESTADO MEDIANTE EL CUAL SE RATIFICA A LA
+
+LICENCIADA MARÍA GUADALUPE GONZÁLEZ GÓNGORA
+
+COMO MAGISTRADA DEL TRIBUNAL DE JUSTICIA
+
+ELECTORAL Y ADMINISTRATIVA DEL PODER JUDICIAL
+
+DEL ESTADO DE YUCATÁN.
+
+ARTÍCULO TERCERO.- En virtud de que la Magistrada María Guadalupe
+González
+
+Góngora, se encuentra actualmente ejerciendo el cargo, no se hace
+necesario rendir el
+
+compromiso constitucional debido a que en tiempo y forma rindió la
+protesta de ley.
+
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA
+
+CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS
+
+VEINTISIETE DÍAS DEL MES DE MARZO DEL AÑO DOS MIL DOCE.- PRESIDENTE.-
+
+DIPUTADO.- JUAN JOSÉ CANUL PÉREZ. SECRETARIO.- DIPUTADO.- JOSÉ
+
+CARLOS PUERTO PATRÓN. SECRETARIO.- DIPUTADO OMAR CORZO OLÁN.-
+
+RÚBRICAS.”
+
+Y, POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU
+
+CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
+
+EXPEDIDO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE MÉRIDA,
+
+CAPITAL DEL ESTADO DE YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS
+
+VEINTIOCHO DÍAS DEL MES DE MARZO DEL AÑO DOS MIL DOCE.
+
+( RÚBRICA )
+
+C. IVONNE ARACELLY ORTEGA PACHECO
+
+GOBERNADORA DEL ESTADO DE YUCATÁN
+
+                        ( RÚBRICA )
+
+C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
+
+SECRETARIO GENERAL DE GOBIERNO

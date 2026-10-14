@@ -1,0 +1,1622 @@
+---
+titulo: "EL CONGRESO DEL ESTADO DE YUCATÁN APRUEBA EN SUS TÉRMINOS LA REFORMA A LOS ARTÍCULOS 16, 17, 18, 19, 20, 21 Y 22; LAS FRACCIONES XXI Y XXIII DEL ARTÍCULO 73; LA FRACCIÓN VII DEL ARTÍCULO 115 Y LA FRACCIÓN XIII DEL APARTADO B DEL ARTÍCULO 123, TODOS DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS."
+tipo: "Decreto Legislativo"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "25 de Abril de 2008"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "9293"
+---
+-SUMARIO-
+
+GOBIERNO DEL ESTADO
+# 
+PODER EJECUTIVO
+
+DECRETO NÚMERO 76
+
+EL CONGRESO DEL ESTADO DE YUCATÁN APRUEBA EN SUS TÉRMINOS LA REFORMA A
+LOS ARTÍCULOS 16, 17, 18, 19, 20, 21 Y 22; LAS FRACCIONES XXI Y XXIII
+DEL ARTÍCULO 73; LA FRACCIÓN VII DEL ARTÍCULO 115 Y LA FRACCIÓN XIII
+DEL APARTADO B DEL ARTÍCULO 123, TODOS DE LA CONSTITUCIÓN POLÍTICA DE
+LOS ESTADOS UNIDOS MEXICANOS	3
+
+DECRETO NÚMERO 77
+
+SE REFORMAN LOS ARTÍCULOS 7 FRACCIÓN I Y 11 DE LA LEY DE INGRESOS DEL
+ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2008; SE AUTORIZA AL PODER
+EJECUTIVO DEL ESTADO DE YUCATÁN, PARA CELEBRAR EMPRÉSTITOS, ASÍ COMO
+A OTORGAR EN GARANTÍA DE PAGO LAS PARTICIPACIONES QUE EN INGRESOS
+FEDERALES LE CORRESPONDAN AL MISMO 	17
+
+DECRETO NÚMERO 78
+
+SE REFORMA EL ARTÍCULO 12 DE LA LEY DE INGRESOS DEL MUNICIPIO DE
+MÉRIDA, YUCATÁN, PARA EL EJERCICIO FISCAL 2008; SE AUTORIZA AL H.
+AYUNTAMIENTO DEL MUNICIPIO DE MÉRIDA, YUCATÁN, A AFECTAR LAS
+PARTICIPACIONES FEDERALES Y ESTATALES QUE LE CORRESPONDAN, O EN SU CASO
+A DEPOSITAR LAS PARTICIPACIONES FEDERALES EN UN FIDEICOMISO, CON EL
+PROPÓSITO DE GARANTIZAR EL MONTO TOTAL DEL EMPRÉSTITO A CONTRATAR 	21
+
+DECRETO NÚMERO 79
+
+REGLAMENTO DEL EJERCICIO Y DELIMITACIÓN DE LA PROFESIÓN DE
+ARQUITECTURA 	23
+
+SECRETARÍA DE DESARROLLO URBANO
+
+Y MEDIO AMBIENTE
+
+SE OTORGA PLAZO PARA CONSULTA PÚBLICA	31
+
+PODER JUDICIAL
+
+NOTIFICACIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA	33
+
+NOTIFICACIONES DEL JUZGADO PRIMERO DE LO CIVIL	42
+
+NOTIFICACIONES DEL JUZGADO SEGUNDO DE LO CIVIL	53
+
+NOTIFICACIONES DEL JUZGADO TERCERO DE LO CIVIL	56
+
+NOTIFICACIONES DEL JUZGADO CUARTO DE LO CIVIL	63
+
+NOTIFICACIONES DEL JUZGADO QUINTO DE LO CIVIL	70
+
+NOTIFICACIONES DEL JUZGADO SEXTO DE LO CIVIL	75
+
+NOTIFICACIONES DEL JUZGADO PRIMERO DE LO FAMILIAR	81
+
+NOTIFICACIONES DEL JUZGADO SEGUNDO DE LO FAMILIAR	84
+
+NOTIFICACIONES DEL JUZGADO TERCERO DE LO FAMILIAR	89
+
+NOTIFICACIONES DEL JUZGADO CUARTO DE LO FAMILIAR	93
+
+NOTIFICACIONES DEL JUZGADO SEGUNDO DE DEFENSA SOCIAL	96
+
+NOTIFICACIONES DEL JUZGADO TERCERO DE DEFENSA SOCIAL	97
+
+NOTIFICACIONES DEL JUZGADO MIXTO DE LO CIVIL Y FAMILIAR
+
+DEL PRIMER DEPARTAMENTO JUDICIAL DEL ESTADO	98
+
+NOTIFICACIONES DEL JUZGADO MIXTO DE LO CIVIL Y FAMILIAR
+
+DEL SEGUNDO DEPARTAMENTO JUDICIAL DEL ESTADO	98
+
+NOTIFICACIONES DEL JUZGADO MIXTO DE LO CIVIL Y FAMILIAR
+
+DEL TERCER DEPARTAMENTO JUDICIAL DEL ESTADO	101
+
+GOBIERNO DEL ESTADO
+
+DECRETO NÚMERO 76
+
+PODER EJECUTIVO
+
+C. IVONNE ARACELLY ORTEGA PACHECO, Gobernadora del Estado de
+
+Yucatán, con fundamento en los artículos 38, 55 fracciones I y II, y
+60 de la
+
+Constitución Política del Estado de Yucatán, a sus habitantes hago
+saber:
+
+Que el Honorable Congreso del Estado de Yucatán se ha servido dirigirme
+la
+
+siguiente Ley:
+
+“EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO
+
+DISPUESTO EN EL ARTÍCULO 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA;
+97,
+
+150 Y 156 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, AMBAS DEL ESTADO
+
+DE YUCATÁN, EMITE EL SIGUIENTE;
+
+DECRETO:
+
+ARTÍCULO ÚNICO.- El Congreso del Estado de Yucatán aprueba en sus
+términos la
+
+reforma a los artículos 16, 17, 18, 19, 20, 21 y 22; las fracciones XXI
+y XXIII del artículo
+
+73; la fracción VII del artículo 115 y la fracción XIII del apartado
+B del artículo 123, todos
+
+de la Constitución Política de los Estados Unidos Mexicanos,
+contenidas en la Minuta
+
+Proyecto de Decreto, aprobada en fecha 6 de marzo del año 2008, para
+quedar como
+
+sigue:
+
+Artículo 16. Nadie puede ser molestado en su persona, familia,
+domicilio, papeles o
+
+posesiones, sino en virtud de mandamiento escrito de la autoridad
+competente, que funde
+
+y motive la causa legal del procedimiento.
+
+No podrá librarse orden de aprehensión sino por la autoridad judicial
+y sin que preceda
+
+denuncia o querella de un hecho que la ley señale como delito,
+sancionado con pena
+
+privativa de libertad y obren datos que establezcan que se ha cometido
+ese hecho y que
+
+exista la probabilidad de que el indiciado lo cometió o participó en
+su comisión.
+
+La autoridad que ejecute una orden judicial de aprehensión, deberá
+poner al inculpado a
+
+disposición del juez, sin dilación alguna y bajo su más estricta
+responsabilidad. La
+
+contravención a lo anterior será sancionada por la ley penal.
+
+Cualquier persona puede detener al indiciado en el momento en que esté
+cometiendo un
+
+delito o inmediatamente después de haberlo cometido, poniéndolo sin
+demora a
+
+disposición de la autoridad más cercana y ésta con la misma
+prontitud, a la del Ministerio
+
+Público. Existirá un registro inmediato de la detención.
+
+Sólo en casos urgentes, cuando se trate de delito grave así calificado
+por la ley y ante el
+
+riesgo fundado de que el indiciado pueda sustraerse a la acción de la
+justicia, siempre y
+
+cuando no se pueda ocurrir ante la autoridad judicial por razón de la
+hora, lugar o
+
+circunstancia, el Ministerio Público podrá, bajo su responsabilidad,
+ordenar su detención,
+
+fundando y expresando los indicios que motiven su proceder.
+
+En casos de urgencia o flagrancia, el juez que reciba la consignación
+del detenido deberá
+
+inmediatamente ratificar la detención o decretar la libertad con las
+reservas de ley.
+
+La autoridad judicial, a petición del Ministerio Público y tratándose
+de delitos de
+
+delincuencia organizada, podrá decretar el arraigo de una persona, con
+las modalidades
+
+de lugar y tiempo que la ley señale, sin que pueda exceder de cuarenta
+días, siempre que
+
+sea necesario para el éxito de la investigación, la protección de
+personas o bienes
+
+jurídicos, o cuando exista riesgo fundado de que el inculpado se
+sustraiga a la acción de
+
+la justicia. Este plazo podrá prorrogarse, siempre y cuando el
+Ministerio Público acredite
+
+que subsisten las causas que le dieron origen. En todo caso, la
+duración total del arraigo
+
+no podrá exceder los ochenta días.
+
+Por delincuencia organizada se entiende una organización de hecho de
+tres o más
+
+personas, para cometer delitos en forma permanente o reiterada, en los
+términos de la ley
+
+de la materia.
+
+Ningún indiciado podrá ser retenido por el Ministerio Público por
+más de cuarenta y ocho
+
+horas, plazo en que deberá ordenarse su libertad o ponérsele a
+disposición de la
+
+autoridad judicial; este plazo podrá duplicarse en aquellos casos que
+la ley prevea como
+
+delincuencia organizada. Todo abuso a lo anteriormente dispuesto será
+sancionado por la
+
+ley penal.
+
+En toda orden de cateo, que sólo la autoridad judicial podrá expedir,
+a solicitud del
+
+Ministerio Público, se expresará el lugar que ha de inspeccionarse, la
+persona o personas
+
+que hayan de aprehenderse y los objetos que se buscan, a lo que
+únicamente debe
+
+limitarse la diligencia, levantándose al concluirla, un acta
+circunstanciada, en presencia de
+
+dos testigos propuestos por el ocupante del lugar cateado o en su
+ausencia o negativa,
+
+por la autoridad que practique la diligencia.
+
+Las comunicaciones privadas son inviolables. La ley sancionará
+penalmente cualquier
+
+acto que atente contra la libertad y privacía de las mismas, excepto
+cuando sean
+
+aportadas de forma voluntaria por alguno de los particulares que
+participen en ellas. El
+
+juez valorará el alcance de éstas, siempre y cuando contengan
+información relacionada
+
+con la comisión de un delito. En ningún caso se admitirán
+comunicaciones que violen el
+
+deber de confidencialidad que establezca la ley.
+
+Exclusivamente la autoridad judicial federal, a petición de la
+autoridad federal que faculte
+
+la ley o del titular del Ministerio Público de la entidad federativa
+correspondiente, podrá
+
+autorizar la intervención de cualquier comunicación privada. Para
+ello, la autoridad
+
+competente deberá fundar y motivar las causas legales de la solicitud,
+expresando
+
+además, el tipo de intervención, los sujetos de la misma y su
+duración. La autoridad
+
+judicial federal no podrá otorgar estas autorizaciones cuando se trate
+de materias de
+
+carácter electoral, fiscal, mercantil, civil, laboral o administrativo,
+ni en el caso de las
+
+comunicaciones del detenido con su defensor.
+
+Los Poderes Judiciales contarán con jueces de control que resolverán,
+en forma
+
+inmediata, y por cualquier medio, las solicitudes de medidas cautelares,
+providencias
+
+precautorias y técnicas de investigación de la autoridad, que
+requieran control judicial,
+
+garantizando los derechos de los indiciados y de las víctimas u
+ofendidos. Deberá existir
+
+un registro fehaciente de todas las comunicaciones entre jueces y
+Ministerio Público y
+
+demás autoridades competentes.
+
+Las intervenciones autorizadas se ajustarán a los requisitos y límites
+previstos en las
+
+leyes. Los resultados de las intervenciones que no cumplan con éstos,
+carecerán de todo
+
+valor probatorio.
+
+La autoridad administrativa podrá practicar visitas domiciliarias
+únicamente para
+
+cerciorarse de que se han cumplido los reglamentos sanitarios y de
+policía; y exigir la
+
+exhibición de los libros y papeles indispensables para comprobar que se
+han acatado las
+
+disposiciones fiscales, sujetándose en estos casos, a las leyes
+respectivas y a las
+
+formalidades prescritas para los cateos.
+
+La correspondencia que bajo cubierta circule por las estafetas estará
+libre de todo
+
+registro, y su violación será penada por la ley.
+
+En tiempo de paz ningún miembro del Ejército podrá alojarse en casa
+particular contra la
+
+voluntad del dueño, ni imponer prestación alguna. En tiempo de guerra
+los militares
+
+podrán exigir alojamiento, bagajes, alimentos y otras prestaciones, en
+los términos que
+
+establezca la ley marcial correspondiente.
+
+Artículo 17. Ninguna persona podrá hacerse justicia por sí misma, ni
+ejercer violencia
+
+para reclamar su derecho.
+
+Toda persona tiene derecho a que se le administre justicia por
+tribunales que estarán
+
+expeditos para impartirla en los plazos y términos que fijen las leyes,
+emitiendo sus
+
+resoluciones de manera pronta, completa e imparcial. Su servicio será
+gratuito, quedando,
+
+en consecuencia, prohibidas las costas judiciales.
+
+Las leyes preverán mecanismos alternativos de solución de
+controversias. En la materia
+
+penal regularán su aplicación, asegurarán la reparación del daño y
+establecerán los casos
+
+en los que se requerirá supervisión judicial.
+
+Las sentencias que pongan fin a los procedimientos orales deberán ser
+explicadas en
+
+audiencia pública previa citación de las partes.
+
+Las leyes federales y locales establecerán los medios necesarios para
+que se garantice la
+
+independencia de los tribunales y la plena ejecución de sus
+resoluciones.
+
+La Federación, los Estados y el Distrito Federal garantizarán la
+existencia de un servicio
+
+de defensoría pública de calidad para la población y asegurarán las
+condiciones para un
+
+servicio profesional de carrera para los defensores. Las percepciones de
+los defensores
+
+no podrán ser inferiores a las que correspondan a los agentes del
+Ministerio Público.
+
+Nadie puede ser aprisionado por deudas de carácter puramente civil.
+
+Artículo 18. Sólo por delito que merezca pena privativa de libertad
+habrá lugar a prisión
+
+preventiva. El sitio de ésta será distinto del que se destinare para
+la extinción de las penas
+
+y estarán completamente separados.
+
+El sistema penitenciario se organizará sobre la base del trabajo, la
+capacitación para el
+
+mismo, la educación, la salud y el deporte como medios para lograr la
+reinserción del
+
+sentenciado a la sociedad y procurar que no vuelva a delinquir,
+observando los beneficios
+
+que para él prevé la ley. Las mujeres compurgarán sus penas en
+lugares separados de
+
+los destinados a los hombres para tal efecto.
+
+La Federación, los Estados y el Distrito Federal podrán celebrar
+convenios para que los
+
+sentenciados por delitos del ámbito de su competencia extingan las
+penas en
+
+establecimientos penitenciarios dependientes de una jurisdicción
+diversa.
+
+La Federación, los Estados y el Distrito Federal establecerán, en el
+ámbito de sus
+
+respectivas competencias, un sistema integral de justicia que será
+aplicable a quienes se
+
+atribuya la realización de una conducta tipificada como delito por las
+leyes penales y
+
+tengan entre doce años cumplidos y menos de dieciocho años de edad, en
+el que se
+
+garanticen los derechos fundamentales que reconoce esta Constitución
+para todo
+
+individuo, así como aquellos derechos específicos que por su
+condición de personas en
+
+desarrollo les han sido reconocidos. Las personas menores de doce años
+que hayan
+
+realizado una conducta prevista como delito en la ley, solo serán
+sujetos a rehabilitación y
+
+asistencia social.
+
+La operación del sistema en cada orden de gobierno estará a cargo de
+instituciones,
+
+tribunales y autoridades especializados en la procuración e
+impartición de justicia para
+
+adolescentes. Se podrán aplicar las medidas de orientación,
+protección y tratamiento que
+
+amerite cada caso, atendiendo a la protección integral y el interés
+superior del
+
+adolescente.
+
+Las formas alternativas de justicia deberán observarse en la
+aplicación de este sistema,
+
+siempre que resulte procedente. En todos los procedimientos seguidos a
+los adolescentes
+
+se observará la garantía del debido proceso legal, así como la
+independencia entre las
+
+autoridades que efectúen la remisión y las que impongan las medidas.
+Éstas deberán ser
+
+proporcionales a la conducta realizada y tendrán como fin la
+reintegración social y familiar
+
+del adolescente, así como el pleno desarrollo de su persona y
+capacidades. El
+
+internamiento se utilizará solo como medida extrema y por el tiempo
+más breve que
+
+proceda, y podrá aplicarse únicamente a los adolescentes mayores de
+catorce años de
+
+edad, por la comisión de conductas antisociales calificadas como
+graves.
+
+Los sentenciados de nacionalidad mexicana que se encuentren compurgando
+penas en
+
+países extranjeros, podrán ser trasladados a la República para que
+cumplan sus
+
+condenas con base en los sistemas de reinserción social previstos en
+este artículo, y los
+
+sentenciados de nacionalidad extranjera por delitos del orden federal o
+del fuero común,
+
+podrán ser trasladados al país de su origen o residencia, sujetándose
+a los Tratados
+
+Internacionales que se hayan celebrado para ese efecto. El traslado de
+los reclusos sólo
+
+podrá efectuarse con su consentimiento expreso.
+
+Los sentenciados, en los casos y condiciones que establezca la ley,
+podrán compurgar
+
+sus penas en los centros penitenciarios más cercanos a su domicilio, a
+fin de propiciar su
+
+reintegración a la comunidad como forma de reinserción social. Esta
+disposición no
+
+aplicará en caso de delincuencia organizada y respecto de otros
+internos que requieran
+
+medidas especiales de seguridad.
+
+Para la reclusión preventiva y la ejecución de sentencias en materia
+de delincuencia
+
+organizada se destinarán centros especiales. Las autoridades
+competentes podrán
+
+restringir las comunicaciones de los inculpados y sentenciados por
+delincuencia
+
+organizada con terceros, salvo el acceso a su defensor, e imponer
+medidas de vigilancia
+
+especial a quienes se encuentren internos en estos establecimientos. Lo
+anterior podrá
+
+aplicarse a otros internos que requieran medidas especiales de
+seguridad, en términos de
+
+la ley.
+
+Artículo 19. Ninguna detención ante autoridad judicial podrá exceder
+del plazo de setenta
+
+y dos horas, a partir de que el indiciado sea puesto a su disposición,
+sin que se justifique
+
+con un auto de vinculación a proceso en el que se expresará: el delito
+que se impute al
+
+acusado; el lugar, tiempo y circunstancias de ejecución, así como los
+datos que
+
+establezcan que se ha cometido un hecho que la ley señale como delito y
+que exista la
+
+probabilidad de que el indiciado lo cometió o participó en su
+comisión.
+
+El Ministerio Público sólo podrá solicitar al juez la prisión
+preventiva cuando otras medidas
+
+cautelares no sean suficientes para garantizar la comparecencia del
+imputado en el juicio,
+
+el desarrollo de la investigación, la protección de la víctima, de
+los testigos o de la
+
+comunidad, así como cuando el imputado esté siendo procesado o haya
+sido sentenciado
+
+previamente por la comisión de un delito doloso. El juez ordenará la
+prisión preventiva,
+
+oficiosamente, en los casos de delincuencia organizada, homicidio
+doloso, violación,
+
+secuestro, delitos cometidos con medios violentos como armas y
+explosivos, así como
+
+delitos graves que determine la ley en contra de la seguridad de la
+nación, el libre
+
+desarrollo de la personalidad y de la salud.
+
+La ley determinará los casos en los cuales el juez podrá revocar la
+libertad de los
+
+individuos vinculados a proceso.
+
+El plazo para dictar el auto de vinculación a proceso podrá
+prorrogarse únicamente a
+
+petición del indiciado, en la forma que señale la ley. La
+prolongación de la detención en su
+
+perjuicio será sancionada por la ley penal. La autoridad responsable
+del establecimiento
+
+en el que se encuentre internado el indiciado, que dentro del plazo
+antes señalado no
+
+reciba copia autorizada del auto de vinculación a proceso y del que
+decrete la prisión
+
+preventiva, o de la solicitud de prórroga del plazo constitucional,
+deberá llamar la atención
+
+del juez sobre dicho particular en el acto mismo de concluir el plazo y,
+si no recibe la
+
+constancia mencionada dentro de las tres horas siguientes, pondrá al
+indiciado en
+
+libertad.
+
+Todo proceso se seguirá forzosamente por el hecho o hechos delictivos
+señalados en el
+
+auto de vinculación a proceso. Si en la secuela de un proceso
+apareciere que se ha
+
+cometido un delito distinto del que se persigue, deberá ser objeto de
+investigación
+
+separada, sin perjuicio de que después pueda decretarse la
+acumulación, si fuere
+
+conducente.
+
+Si con posterioridad a la emisión del auto de vinculación a proceso
+por delincuencia
+
+organizada el inculpado evade la acción de la justicia o es puesto a
+disposición de otro
+
+juez que lo reclame en el extranjero, se suspenderá el proceso junto
+con los plazos para
+
+la prescripción de la acción penal.
+
+Todo mal tratamiento en la aprehensión o en las prisiones, toda
+molestia que se infiera sin
+
+motivo legal, toda gabela o contribución, en las cárceles, son abusos
+que serán
+
+corregidos por las leyes y reprimidos por las autoridades.
+
+Artículo 20.El proceso penal será acusatorio y oral. Se regirá por
+los principios de
+
+publicidad, contradicción, concentración, continuidad e inmediación.
+
+A. De los principios generales:
+
+I. El proceso penal tendrá por objeto el esclarecimiento de los hechos,
+proteger al
+
+inocente, procurar que el culpable no quede impune y que los daños
+causados por el
+
+delito se reparen;
+
+II. Toda audiencia se desarrollará en presencia del juez, sin que pueda
+delegar en
+
+ninguna persona el desahogo y la valoración de las pruebas, la cual
+deberá realizarse de
+
+manera libre y lógica;
+
+III. Para los efectos de la sentencia sólo se considerarán como prueba
+aquellas que hayan
+
+sido desahogadas en la audiencia de juicio. La ley establecerá las
+excepciones y los
+
+requisitos para admitir en juicio la prueba anticipada, que por su
+naturaleza requiera
+
+desahogo previo;
+
+IV. El juicio se celebrará ante un juez que no haya conocido del caso
+previamente. La
+
+presentación de los argumentos y los elementos probatorios se
+desarrollará de manera
+
+pública, contradictoria y oral;
+
+V. La carga de la prueba para demostrar la culpabilidad corresponde a la
+parte acusadora,
+
+conforme lo establezca el tipo penal. Las partes tendrán igualdad
+procesal para sostener
+
+la acusación o la defensa, respectivamente;
+
+VI. Ningún juzgador podrá tratar asuntos que estén sujetos a proceso
+con cualquiera de
+
+las partes sin que esté presente la otra, respetando en todo momento el
+principio de
+
+contradicción, salvo las excepciones que establece esta Constitución;
+
+VII. Una vez iniciado el proceso penal, siempre y cuando no exista
+oposición del
+
+inculpado, se podrá decretar su terminación anticipada en los
+supuestos y bajo las
+
+modalidades que determine la ley. Si el imputado reconoce ante la
+autoridad judicial,
+
+voluntariamente y con conocimiento de las consecuencias, su
+participación en el delito y
+
+existen medios de convicción suficientes para corroborar la
+imputación, el juez citará a
+
+audiencia de sentencia. La ley establecerá los beneficios que se
+podrán otorgar al
+
+inculpado cuando acepte su responsabilidad;
+
+VIII. El juez sólo condenará cuando exista convicción de la
+culpabilidad del procesado;
+
+IX. Cualquier prueba obtenida con violación de derechos fundamentales
+será nula, y
+
+X. Los principios previstos en este artículo, se observarán también
+en las audiencias
+
+preliminares al juicio.
+
+B. De los derechos de toda persona imputada:
+
+I. A que se presuma su inocencia mientras no se declare su
+responsabilidad mediante
+
+sentencia emitida por el juez de la causa;
+
+II. A declarar o a guardar silencio. Desde el momento de su detención
+se le harán saber
+
+los motivos de la misma y su derecho a guardar silencio, el cual no
+podrá ser utilizado en
+
+su perjuicio. Queda prohibida y será sancionada por la ley penal, toda
+incomunicación,
+
+intimidación o tortura. La confesión rendida sin la asistencia del
+defensor carecerá de todo
+
+valor probatorio;
+
+III. A que se le informe, tanto en el momento de su detención como en
+su comparecencia
+
+ante el Ministerio Público o el juez, los hechos que se le imputan y
+los derechos que le
+
+asisten. Tratándose de delincuencia organizada, la autoridad judicial
+podrá autorizar que
+
+se mantenga en reserva el nombre y datos del acusador.
+
+La ley establecerá beneficios a favor del inculpado, procesado o
+sentenciado que preste
+
+ayuda eficaz para la investigación y persecución de delitos en materia
+de delincuencia
+
+organizada;
+
+IV. Se le recibirán los testigos y demás pruebas pertinentes que
+ofrezca, concediéndosele
+
+el tiempo que la ley estime necesario al efecto y auxiliándosele para
+obtener la
+
+comparecencia de las personas cuyo testimonio solicite, en los términos
+que señale la ley;
+
+V. Será juzgado en audiencia pública por un juez o tribunal. La
+publicidad sólo podrá
+
+restringirse en los casos de excepción que determine la ley, por
+razones de seguridad
+
+nacional, seguridad pública, protección de las víctimas, testigos y
+menores, cuando se
+
+ponga en riesgo la revelación de datos legalmente protegidos, o cuando
+el tribunal estime
+
+que existen razones fundadas para justificarlo.
+
+En delincuencia organizada, las actuaciones realizadas en la fase de
+investigación podrán
+
+tener valor probatorio, cuando no puedan ser reproducidas en juicio o
+exista riesgo para
+
+testigos o víctimas. Lo anterior sin perjuicio del derecho del
+inculpado de objetarlas o
+
+impugnarlas y aportar pruebas en contra;
+
+VI. Le serán facilitados todos los datos que solicite para su defensa y
+que consten en el
+
+proceso.
+
+El imputado y su defensor tendrán acceso a los registros de la
+investigación cuando el
+
+primero se encuentre detenido y cuando pretenda recibírsele
+declaración o entrevistarlo.
+
+Asimismo, antes de su primera comparecencia ante juez podrán consultar
+dichos
+
+registros, con la oportunidad debida para preparar la defensa. A partir
+de este momento
+
+no podrán mantenerse en reserva las actuaciones de la investigación,
+salvo los casos
+
+excepcionales expresamente señalados en la ley cuando ello sea
+imprescindible para
+
+salvaguardar el éxito de la investigación y siempre que sean
+oportunamente revelados
+
+para no afectar el derecho de defensa;
+
+VII. Será juzgado antes de cuatro meses si se tratare de delitos cuya
+pena máxima no
+
+exceda de dos años de prisión, y antes de un año si la pena excediere
+de ese tiempo,
+
+salvo que solicite mayor plazo para su defensa;
+
+VIII. Tendrá derecho a una defensa adecuada por abogado, al cual
+elegirá libremente
+
+incluso desde el momento de su detención. Si no quiere o no puede
+nombrar un abogado,
+
+después de haber sido requerido para hacerlo, el juez le designará un
+defensor público.
+
+También tendrá derecho a que su defensor comparezca en todos los actos
+del proceso y
+
+éste tendrá obligación de hacerlo cuantas veces se le requiera, y
+
+IX. En ningún caso podrá prolongarse la prisión o detención, por
+falta de pago de
+
+honorarios de defensores o por cualquiera otra prestación de dinero,
+por causa de
+
+responsabilidad civil o algún otro motivo análogo.
+
+La prisión preventiva no podrá exceder del tiempo que como máximo de
+pena fije la ley al
+
+delito que motivare el proceso y en ningún caso será superior a dos
+años, salvo que su
+
+prolongación se deba al ejercicio del derecho de defensa del imputado.
+Si cumplido este
+
+término no se ha pronunciado sentencia, el imputado será puesto en
+libertad de inmediato
+
+mientras se sigue el proceso, sin que ello obste para imponer otras
+medidas cautelares.
+
+En toda pena de prisión que imponga una sentencia, se computará el
+tiempo de la
+
+detención.
+
+C. De los derechos de la víctima o del ofendido:
+
+I. Recibir asesoría jurídica; ser informado de los derechos que en su
+favor establece la
+
+Constitución y, cuando lo solicite, ser informado del desarrollo del
+procedimiento penal;
+
+II. Coadyuvar con el Ministerio Público; a que se le reciban todos los
+datos o elementos de
+
+prueba con los que cuente, tanto en la investigación como en el
+proceso, a que se
+
+desahoguen las diligencias correspondientes, y a intervenir en el juicio
+e interponer los
+
+recursos en los términos que prevea la ley.
+
+Cuando el Ministerio Público considere que no es necesario el desahogo
+de la diligencia,
+
+deberá fundar y motivar su negativa;
+
+III. Recibir, desde la comisión del delito, atención médica y
+psicológica de urgencia;
+
+IV. Que se le repare el daño. En los casos en que sea procedente, el
+Ministerio Público
+
+estará obligado a solicitar la reparación del daño, sin menoscabo de
+que la víctima u
+
+ofendido lo pueda solicitar directamente, y el juzgador no podrá
+absolver al sentenciado
+
+de dicha reparación si ha emitido una sentencia condenatoria.
+
+La ley fijará procedimientos ágiles para ejecutar las sentencias en
+materia de reparación
+
+del daño;
+
+V. Al resguardo de su identidad y otros datos personales en los
+siguientes casos: cuando
+
+sean menores de edad; cuando se trate de delitos de violación,
+secuestro o delincuencia
+
+organizada; y cuando a juicio del juzgador sea necesario para su
+protección,
+
+salvaguardando en todo caso los derechos de la defensa.
+
+El Ministerio Público deberá garantizar la protección de víctimas,
+ofendidos, testigos y en
+
+general todas los sujetos que intervengan en el proceso. Los jueces
+deberán vigilar el
+
+buen cumplimiento de esta obligación;
+
+VI. Solicitar las medidas cautelares y providencias necesarias para la
+protección y
+
+restitución de sus derechos, y
+
+VII. Impugnar ante autoridad judicial las omisiones del Ministerio
+Público en la
+
+investigación de los delitos, así como las resoluciones de reserva, no
+ejercicio,
+
+desistimiento de la acción penal o suspensión del procedimiento cuando
+no esté
+
+satisfecha la reparación del daño.
+
+Artículo 21. La investigación de los delitos corresponde al Ministerio
+Público y a las
+
+policías, las cuales actuarán bajo la conducción y mando de aquél en
+el ejercicio de esta
+
+función.
+
+El ejercicio de la acción penal ante los tribunales corresponde al
+Ministerio Público. La ley
+
+determinará los casos en que los particulares podrán ejercer la
+acción penal ante la
+
+autoridad judicial.
+
+La imposición de las penas, su modificación y duración son propias y
+exclusivas de la
+
+autoridad judicial.
+
+Compete a la autoridad administrativa la aplicación de sanciones por
+las infracciones de
+
+los reglamentos gubernativos y de policía, las que únicamente
+consistirán en multa,
+
+arresto hasta por treinta y seis horas o en trabajo a favor de la
+comunidad; pero si el
+
+infractor no pagaré la multa que se le hubiese impuesto, se permutará
+esta por el arresto
+
+correspondiente, que no excederá en ningún caso de treinta y seis
+horas.
+
+Si el infractor de los reglamentos gubernativos y de policía fuese
+jornalero, obrero o
+
+trabajador, no podrá ser sancionado con multa mayor del importe de su
+jornal o salario de
+
+un día.
+
+Tratándose de trabajadores no asalariados, la multa que se imponga por
+infracción de los
+
+reglamentos gubernativos y de policía, no excederá del equivalente a
+un día de su
+
+ingreso.
+
+El Ministerio Público podrá considerar criterios de oportunidad para
+el ejercicio de la
+
+acción penal, en los supuestos y condiciones que fije la ley.
+
+El Ejecutivo Federal podrá, con la aprobación del Senado en cada caso,
+reconocer la
+
+jurisdicción de la Corte Penal Internacional.
+
+La seguridad pública es una función a cargo de la Federación, el
+Distrito Federal, los
+
+Estados y los Municipios, que comprende la prevención de los delitos;
+la investigación y
+
+persecución para hacerla efectiva, así como la sanción de las
+infracciones administrativas,
+
+en los términos de la ley, en las respectivas competencias que esta
+Constitución señala.
+
+La actuación de las instituciones de seguridad pública se regirá por
+los principios de
+
+legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto
+a los derechos
+
+humanos reconocidos en esta Constitución.
+
+Las instituciones de seguridad pública serán de carácter civil,
+disciplinado y profesional. El
+
+Ministerio Público y las instituciones policiales de los tres órdenes
+de gobierno deberán
+
+coordinarse entre sí para cumplir los objetivos de la seguridad
+pública y conformarán el
+
+Sistema Nacional de Seguridad Pública, que estará sujeto a las
+siguientes bases
+
+mínimas:
+
+a) La regulación de la selección, ingreso, formación, permanencia,
+evaluación,
+
+reconocimiento y certificación de los integrantes de las instituciones
+de seguridad pública.
+
+La operación y desarrollo de estas acciones será competencia de la
+Federación, el Distrito
+
+Federal, los Estados y los municipios en el ámbito de sus respectivas
+atribuciones.
+
+b) El establecimiento de las bases de datos criminalísticos y de
+personal para las
+
+instituciones de seguridad pública. Ninguna persona podrá ingresar a
+las instituciones de
+
+seguridad pública si no ha sido debidamente certificado y registrado en
+el sistema.
+
+c) La formulación de políticas públicas tendientes a prevenir la
+comisión de delitos.
+
+d) Se determinará la participación de la comunidad que coadyuvará,
+entre otros, en los
+
+procesos de evaluación de las políticas de prevención del delito así
+como de las
+
+instituciones de seguridad pública.
+
+e) Los fondos de ayuda federal para la seguridad pública, a nivel
+nacional serán
+
+aportados a las entidades federativas y municipios para ser destinados
+exclusivamente a
+
+estos fines.
+
+Artículo 22. Quedan prohibidas las penas de muerte, de mutilación, de
+infamia, la marca,
+
+los azotes, los palos, el tormento de cualquier especie, la multa
+excesiva, la confiscación
+
+de bienes y cualesquiera otras penas inusitadas y trascendentales. Toda
+pena deberá ser
+
+proporcional al delito que sancione y al bien jurídico afectado.
+
+No se considerará confiscación la aplicación de bienes de una persona
+cuando sea
+
+decretada para el pago de multas o impuestos, ni cuando la decrete una
+autoridad judicial
+
+para el pago de responsabilidad civil derivada de la comisión de un
+delito. Tampoco se
+
+considerará confiscación el decomiso que ordene la autoridad judicial
+de los bienes en
+
+caso de enriquecimiento ilícito en los términos del artículo 109, la
+aplicación a favor del
+
+Estado de bienes asegurados que causen abandono en los términos de las
+disposiciones
+
+aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en
+sentencia. En el
+
+caso de extinción de dominio se establecerá un procedimiento que se
+regirá por las
+
+siguientes reglas:
+
+I. Será jurisdiccional y autónomo del de materia penal;
+
+II. Procederá en los casos de delincuencia organizada, delitos contra
+la salud, secuestro,
+
+robo de vehículos y trata de personas, respecto de los bienes
+siguientes:
+
+Aquellos que sean instrumento, objeto o producto del delito, aún cuando
+no se
+
+haya dictado la sentencia que determine la responsabilidad penal, pero
+existan
+
+elementos suficientes para determinar que el hecho ilícito sucedió.
+
+Aquellos que no sean instrumento, objeto o producto del delito, pero que
+hayan
+
+sido utilizados o destinados a ocultar o mezclar bienes producto del
+delito, siempre
+
+y cuando se reúnan los extremos del inciso anterior.
+
+Aquellos que estén siendo utilizados para la comisión de delitos por
+un tercero, si
+
+su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o
+hizo algo para
+
+impedirlo.
+
+Aquellos que estén intitulados a nombre de terceros, pero existan
+suficientes
+
+elementos para determinar que son producto de delitos patrimoniales o de
+
+delincuencia organizada, y el acusado por estos delitos se comporte como
+dueño.
+
+III. Toda persona que se considere afectada podrá interponer los
+recursos respectivos
+
+para demostrar la procedencia lícita de los bienes y su actuación de
+buena fe, así como
+
+que estaba impedida para conocer la utilización ilícita de sus bienes.
+
+Artículo 73. El Congreso tiene facultad:
+
+I. a XX. ...
+
+XXI. Para establecer los delitos y faltas contra la Federación y fijar
+los castigos que por
+
+ellos deban imponerse, así como legislar en materia de delincuencia
+organizada.
+
+...
+
+...
+
+XXII. ...
+
+XXIII. Para expedir leyes que establezcan las bases de coordinación
+entre la Federación,
+
+el Distrito Federal, los Estados y los Municipios, así como para
+establecer y organizar alas
+
+instituciones de seguridad pública en materia federal, de conformidad
+con lo establecido
+
+en el artículo 21 de esta Constitución.
+
+XXIV. a XXX. ...
+
+Artículo 115....
+
+I. a VI. ...
+
+VII. La policía preventiva estará al mando del presidente municipal en
+los términos de la
+
+Ley de Seguridad Pública del Estado. Aquélla acatará las órdenes que
+el Gobernador del
+
+Estado le transmita en aquellos casos que éste juzgue como de fuerza
+mayor o alteración
+
+grave del orden público.
+
+...
+
+VIII. ...
+
+...
+
+IX a X. ...
+
+Artículo 123. Toda persona tiene derecho al trabajo digno y socialmente
+útil; al efecto, se
+
+promoverán la creación de empleos y la organización social de
+trabajo, conforme a la ley.
+
+El Congreso de la Unión, sin contravenir a las bases siguientes deberá
+expedir leyes
+
+sobre el trabajo, las cuales regirán:
+
+Apartado A....
+
+Apartado B...
+
+I. a XII. ...
+
+XIII. Los militares, marinos, personal del servicio exterior, agentes
+del Ministerio Público,
+
+peritos y los miembros de las instituciones policiales, se regirán por
+sus propias leyes.
+
+Los agentes del Ministerio Público, los peritos y los miembros de las
+instituciones
+
+policiales de la Federación, el Distrito Federal, los Estados y los
+Municipios, podrán ser
+
+separados de sus cargos si no cumplen con los requisitos que las leyes
+vigentes en el
+
+momento del acto señalen para permanecer en dichas instituciones, o
+removidos por
+
+incurrir en responsabilidad en el desempeño de sus funciones. Si la
+autoridad
+
+jurisdiccional resolviere que la separación, remoción, baja, cese o
+cualquier otra forma de
+
+terminación del servicio fue injustificada, el Estado sólo estará
+obligado a pagar la
+
+indemnización y demás prestaciones a que tenga derecho, sin que en
+ningún caso
+
+proceda su reincorporación al servicio, cualquiera que sea el resultado
+del juicio o medio
+
+de defensa que se hubiere promovido.
+
+Las autoridades del orden federal, estatal, del Distrito Federal y
+municipal, a fin de
+
+propiciar el fortalecimiento del sistema de seguridad social del
+personal del Ministerio
+
+Público, de las corporaciones policiales y de los servicios periciales,
+de sus familias y
+
+dependientes, instrumentarán sistemas complementarios de seguridad
+social.
+
+El Estado proporcionará a los miembros en el activo del Ejército,
+Fuerza Aérea y Armada,
+
+las prestaciones a que se refiere el inciso f) de la fracción XI de
+este apartado, en
+
+términos similares y a través del organismo encargado de la seguridad
+social de los
+
+componentes de dichas instituciones.
+
+XIII bis. y XIV. ...
+
+Transitorios
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su
+publicación en el
+
+Diario Oficial de la Federación, con excepción de lo dispuesto en los
+artículos transitorios
+
+siguientes.
+
+Segundo. El sistema procesal penal acusatorio previsto en los artículos
+16, párrafos
+
+segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y
+21, párrafo
+
+séptimo, de la Constitución, entrará en vigor cuando lo establezca la
+legislación
+
+secundaria correspondiente, sin exceder el plazo de ocho años, contado
+a partir del día
+
+siguiente de la publicación de este Decreto.
+
+En consecuencia, la Federación, los Estados y el Distrito Federal, en
+el ámbito de sus
+
+respectivas competencias, deberán expedir y poner en vigor las
+modificaciones u
+
+ordenamientos legales que sean necesarios a fin de incorporar el sistema
+procesal penal
+
+acusatorio. La Federación, los Estados y el Distrito Federal adoptarán
+el sistema penal
+
+acusatorio en la modalidad que determinen, sea regional o por tipo de
+delito.
+
+En el momento en que se publiquen los ordenamientos legales a que se
+refiere el párrafo
+
+anterior, los poderes u órgano legislativos competentes deberán
+emitir, asimismo, una
+
+declaratoria que se publicará en los órganos de difusión oficiales,
+en la que señale
+
+expresamente que el sistema procesal penal acusatorio ha sido
+incorporado en dichos
+
+ordenamientos y, en consecuencia, que las garantías que consagra esta
+Constitución
+
+empezarán a regular la forma y términos en que se substanciarán los
+procedimientos
+
+penales.
+
+Tercero. No obstante lo previsto en el artículo transitorio segundo, el
+sistema procesal
+
+penal acusatorio previsto en los artículos 16, párrafos segundo y
+decimotercero; 17,
+
+párrafos tercero, cuarto y sexto; 19, 20 y 21, párrafo séptimo, de la
+Constitución, entrará
+
+en vigor al día siguiente de la publicación del presente Decreto en el
+Diario Oficial de la
+
+Federación, en las entidades federativas que ya lo hubieren incorporado
+en sus
+
+ordenamientos legales vigentes, siendo plenamente válidas las
+actuaciones procesales
+
+que se hubieren practicado con fundamento en tales ordenamientos,
+independientemente
+
+de la fecha en que éstos entraron en vigor. Para tal efecto, deberán
+hacer la declaratoria
+
+prevista en el artículo transitorio Segundo.
+
+Cuarto. Los procedimientos penales iniciados con anterioridad a la
+entrada en vigor del
+
+nuevo sistema procesal penal acusatorio previsto en los artículos 16,
+párrafos segundo y
+
+decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21,
+párrafo séptimo, de la
+
+Constitución, serán concluidos conforme a las disposiciones vigentes
+con anterioridad a
+
+dicho acto.
+
+Quinto. El nuevo sistema de reinserción previsto en el párrafo segundo
+del artículo 18,
+
+así como el régimen de modificación y duración de penas establecido
+en el párrafo tercero
+
+del artículo 21, entrarán en vigor cuando lo establezca la
+legislación secundaria
+
+correspondiente, sin que pueda exceder el plazo de tres años, contados
+a partir del día
+
+siguiente de la publicación de este Decreto.
+
+Sexto. Las legislaciones en materia de delincuencia organizada de las
+entidades
+
+federativas, continuarán en vigor hasta en tanto el Congreso de la
+Unión ejerza la facultad
+
+conferida en el artículo 73, fracción XXI, de esta Constitución. Los
+procesos penales
+
+iniciados con fundamento en dichas legislaciones, así como las
+sentencias emitidas con
+
+base en las mismas, no serán afectados por la entrada en vigor de la
+legislación federal.
+
+Por lo tanto, deberán concluirse y ejecutarse, respectivamente,
+conforme a las
+
+disposiciones vigentes antes de la entrada en vigor de esta última.
+
+Séptimo. El Congreso de la Unión, a más tardar dentro de seis meses a
+partir de la
+
+publicación de este Decreto, expedirá la ley que establezca el Sistema
+Nacional de
+
+Seguridad Pública. Las entidades federativas expedirán a más tardar
+en un año, a partir
+
+de la entrada en vigor del presente Decreto, las leyes en esta materia.
+
+Octavo. El Congreso de la Unión, las Legislaturas de los estados y el
+órgano legislativo
+
+del Distrito Federal, deberán destinar los recursos necesarios para la
+reforma del sistema
+
+de justicia penal. Las partidas presupuestales deberán señalarse en el
+presupuesto
+
+inmediato siguiente a la entrada en vigor del presente decreto y en los
+presupuestos
+
+sucesivos. Este presupuesto deberá destinarse al diseño de las
+reformas legales, los
+
+cambios organizacionales, la construcción y operación de la
+infraestructura, y la
+
+capacitación necesarias para jueces, agentes del Ministerio Público,
+policías, defensores,
+
+peritos y abogados.
+
+Noveno. Dentro de los dos meses siguientes a la entrada en vigor del
+presente Decreto
+
+se creará una instancia de coordinación integrada por representantes
+de los Poderes
+
+Ejecutivo, Legislativo y Judicial, además del sector académico y la
+sociedad civil, así
+
+como de las Conferencias de Seguridad Pública, Procuración de Justicia
+y de Presidentes
+
+de Tribunales, la cual contará con una secretaría técnica, que
+coadyuvará y apoyará a las
+
+autoridades locales y federales, cuando así se lo soliciten.
+
+Décimo. La Federación creará un fondo especial para el financiamiento
+de las actividades
+
+de la secretaría técnica a que se refiere el artículo transitorio
+octavo. Los fondos se
+
+otorgarán en función del cumplimiento de las obligaciones y de los
+fines que se
+
+establezcan en la Ley.
+
+Décimo Primero. En tanto entra en vigor el sistema procesal acusatorio,
+los agentes del
+
+Ministerio Público que determine la ley podrán solicitar al juez el
+arraigo domiciliario del
+
+indiciado tratándose de delitos graves y hasta por un máximo de
+cuarenta días.
+
+Esta medida será procedente siempre que sea necesaria para el éxito de
+la investigación,
+
+la protección de personas o bienes jurídicos, o cuando exista riesgo
+fundado de que el
+
+inculpado se sustraiga a la acción de la justicia.
+
+T R A N S I T O R I O S :
+
+ARTÍCULO PRIMERO.- Publíquese el presente Decreto en el Diario Oficial
+del Gobierno
+
+del Estado de Yucatán.
+
+ARTÍCULO SEGUNDO.- Envíense a la Cámara de Senadores del Honorable
+Congreso
+
+de la Unión, dos ejemplares del correspondiente Diario Oficial del
+Gobierno del Estado,
+
+para los efectos legales que correspondan.
+
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA CIUDAD DE
+
+MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS ONCE DÍAS DEL MES DE
+
+ABRIL DEL AÑO DOS MIL OCHO.- PRESIDENTE DIPUTADO EFRAÍN ERNESTO
+
+AGUILAR GÓNGORA.- SECRETARIO DIPUTADO JULIO EDGARDO GARRIDO ROJAS.-
+
+SECRETARIO DIPUTADO ENRIQUE ANTONIO DE JESÚS MAGADÁN VILLAMIL.-
+
+RÚBRICAS.”
+
+Y, POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU
+
+CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
+
+DADO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE MÉRIDA,
+
+YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS CATORCE DÍAS DEL MES DE
+
+ABRIL DEL AÑO DOS MIL OCHO.
+
+(RÚBRICA)
+
+C. IVONNE ARACELLY ORTEGA PACHECO
+
+GOBERNADORA DEL ESTADO
+
+                          (RÚBRICA)
+
+C. ROLANDO RODRIGO ZAPATA BELLO
+
+SECRETARIO GENERAL DE GOBIERNO
+
+PÁGINA   PAGE  2
+                                     DIARIO  OFICIAL
+  MÉRIDA, YUC., VIERNES 25 DE ABRIL DE 2008.
+
+MÉRIDA, YUC., VIERNES 25 DE ABRIL DE 2008.
+ DIARIO  OFICIAL
+                              PÁGINA   PAGE  3
+
+Publicación periódica: Permiso No. 0100921
+
+Características: 111182816. Autorizado por SEPOMEX
+
+DEL GOBIERNO DEL ESTADO
+
+ DE YUCATÁN.
+
+DIARIO OFICIAL
+
+Dirección: Calle 90 No. 498-A entre 61 A y 63
+
+Colonia Bojórquez, (Complejo de Seguridad Jurídica)
+
+Mérida, Yucatán. C.P. 97240. TEL: 930-30-23.
+
+DIRECTOR: LIC. SALVADOR SOLORZA CASTILLO.
+
+AÑO CXI             MÉRIDA, YUC., VIERNES 25 DE ABRIL DE 2008.
+    No. 31,091

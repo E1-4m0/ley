@@ -1,0 +1,131 @@
+---
+titulo: "SE DESIGNAN AL CARGO DE CONSEJEROS ELECTORALES DEL CONSEJO GENERAL DEL INSTITUTO DE PROCEDIMIENTOS ELECTORALES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE YUCATÁN. (EDICIÓN VESPERTINA)"
+tipo: "Acuerdo"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "31 de Agosto de 2012"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "48011"
+---
+GOBIERNO DEL ESTADO
+
+# PODER EJECUTIVO
+
+DECRETO NÚMERO 550
+
+C. IVONNE ARACELLY ORTEGA PACHECO, GOBERNADORA DEL ESTADO
+
+DE YUCATÁN, CON FUNDAMENTO EN LOS ARTÍCULOS 38 Y 55
+
+FRACCIONES II Y XXV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE
+
+YUCATÁN, Y 14 FRACCIONES VII Y IX DEL CÓDIGO DE LA
+
+ADMINISTRACIÓN PÚBLICA DE YUCATÁN, A SUS HABITANTES HAGO
+
+SABER:
+
+QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA
+
+SERVIDO DIRIGIRME EL SIGUIENTE DECRETO:
+
+“EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN,
+
+CONFORME A LO DISPUESTO EN EL ARTÍCULO 30 FRACCIONES V Y XVI
+
+DE LA CONSTITUCIÓN POLÍTICA; ARTÍCULOS 120 Y 121 DE LA LEY DE
+
+INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y ARTÍCULO 18 DE
+
+LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, TODAS DEL ESTADO DE
+
+YUCATÁN, EMITE EL SIGUIENTE;
+
+D E C R E T O:
+
+ARTÍCULO ÚNICO.- Se designan al cargo de Consejeros Electorales del
+Consejo
+
+General del Instituto de Procedimientos Electorales y Participación
+Ciudadana del
+
+Estado de Yucatán, para el período comprendido del 1 de diciembre de
+2012 al 30
+
+de noviembre de 2018, a las personas siguientes y con el carácter que a
+
+continuación se indica:
+
+	PROPIETARIO	SUPLENTE
+
+1	ABOG. MARÍA ELENA ACHACH
+
+ASAF	LIC. NAYBI JANETH HERRERA CETINA
+
+2	LIC. ANTONIO IGNACIO MATUTE GONZÁLEZ	LIC. EDUARDO PÉREZ
+
+ALCOCER
+
+3	LIC. CARLOS FERNANDO PAVÓN DURÁN	LIC. ARTURO ROMÁN OCHOA
+
+T R A N S I T O R I O S:
+
+ARTÍCULO PRIMERO.- Este Decreto entrará en vigor el día siguiente al
+de su
+
+publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+ARTÍCULO SEGUNDO.- Notifíquese al Instituto de Procedimientos
+Electorales y
+
+Participación Ciudadana del Estado de Yucatán, y a los Consejeros
+Electorales
+
+propietarios y suplentes, los efectos a que refiere el presente Decreto.
+
+ARTÍCULO TERCERO.- Se instruye al Secretario General del Poder
+Legislativo,
+
+para que notifique a los Consejeros Electorales propietarios designados
+en este
+
+Decreto, a efecto de que rindan el compromiso constitucional ante el H.
+Congreso
+
+del Estado de Yucatán, e inicien sus funciones el 1 de diciembre de
+2012.
+
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA
+
+CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS
+
+DIECISIETE DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL DOCE.-
+
+PRESIDENTA.- DIPUTADA MARTHA LETICIA GÓNGORA SÁNCHEZ.-
+
+SECRETARIO.- DIPUTADO PEDRO COUOH SUASTE.- SECRETARIO.-
+
+DIPUTADO CARLOS DAVID RAMÍREZ Y SÁNCHEZ.- RÚBRICAS.”
+
+Y, POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU
+
+CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
+
+EXPEDIDO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE
+
+MÉRIDA, CAPITAL DEL ESTADO DE YUCATÁN, ESTADOS UNIDOS
+
+MEXICANOS, A LOS VEINTIÚN DÍAS DEL MES DE AGOSTO DEL AÑO DOS
+
+MIL DOCE.
+
+( RÚBRICA )
+
+C. IVONNE ARACELLY ORTEGA PACHECO
+
+GOBERNADORA DEL ESTADO DE YUCATÁN
+
+                         ( RÚBRICA )
+
+C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ

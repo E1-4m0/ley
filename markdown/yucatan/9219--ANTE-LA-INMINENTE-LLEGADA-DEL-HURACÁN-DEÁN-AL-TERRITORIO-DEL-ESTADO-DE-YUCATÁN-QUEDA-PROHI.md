@@ -1,0 +1,158 @@
+---
+titulo: "ANTE LA INMINENTE LLEGADA DEL HURACÁN DEÁN AL TERRITORIO DEL ESTADO DE YUCATÁN, QUEDA PROHIBIDA LA VENTA DE BEBIDAS ALCOHÓLICAS DURANTE LOS DÍAS 20 DE AGOSTO A PARTIR DE LAS 15:00 HORAS HASTA LAS 00:00 HORAS DEL DÍA 22 DE AGOSTO DE 2007."
+tipo: "Disposición General"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "20 de Agosto de 2007"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "9219"
+---
+EDICION VESPERTINA
+
+-SUMARIO-
+
+# GOBIERNO DEL ESTADO
+
+PODER EJECUTIVO
+
+DECRETO NUMERO 05
+
+DECRETO MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE CONTINGENCIA CON
+MOTIVO DEL HURACÁN “DEAN”.	2
+
+DECRETO NUMERO 06
+
+ANTE LA INMINENTE LLEGADA DEL HURACAN “DEAN” AL TERRITORIO DEL
+ESTADO DE YUCATAN, QUEDA PROHIBIDA LA VENTA DE BEBIDAS ALCOHOLICAS
+DURANTE LOS DIAS 20 DE AGOSTO A PARTIR DE LAS 15:00 HORAS HASTA LAS
+00:00 HORAS DEL DIA 22 DE AGOSTO DE 2007.	5
+
+PODER LEGISLATIVO
+
+ANTE EL POSIBLE IMPACTO DEL HURACAN “DEAN” EN EL ESTADO DE YUCATAN,
+SE DETERMINA LA SUSPENSIÓN DE LA SESION ORDINARIA DEL PLENO DE LA
+ASAMBLEA CONVOCADA PARA EL DIA LUNES 20 DE AGOSTO DEL PRESENTE AÑO, ASI
+COMO DEJAR PENDIENTE LA CELEBRACION DE LA SESION ORDINARIA AGENDADA PARA
+EL DIA 22 DEL MES EN CURSO.	7
+
+GOBIERNO DEL ESTADO
+
+PODER EJECUTIVO
+
+DECRETO NÚMERO  06
+
+CIUDADANA IVONNE ARACELLY ORTEGA PACHECO, GOBERNADOR DEL
+
+ESTADO DE YUCATÁN, A SUS HABITANTES HAGO SABER:
+
+QUE EN USO DE LAS ATRIBUCIONES CONFERIDAS EN LOS ARTÍCULOS 35
+
+FRACCIÓN II, 55 Y 60 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE
+
+YUCATÁN, 253-F FRACCIÓN III DE LA LEY DE SALUD DEL ESTADO, 3, 5, Y 71
+DE
+
+LA LEY DE PROTECCIÓN CIVIL DEL ESTADO; Y
+
+C O N S I D E R A N D O
+
+En virtud de la inminente llegada del huracán “Dean” al territorio
+del Estado de Yucatán, y a fin
+
+de evitar situaciones que puedan resultar perjudiciales para la
+población yucateca, por causas
+
+de seguridad pública y en ejercicio de las facultades que me confieren
+los artículos 55 de la
+
+Constitución Política del Estado de Yucatán, 253-F fracción III de
+la Ley de Salud del Estado de
+
+Yucatán, 3, 5 y 71 de la Ley de Protección Civil, tengo a bien expedir
+el siguiente:
+
+DECRETO
+
+ARTÍCULO ÚNICO.- Queda prohibida la venta de bebidas alcohólicas
+durante los días lunes 20
+
+de agosto a partir de las 15:00 horas hasta las 00:00 horas del día 22
+de agosto  de 2007.
+
+La persona que infrinja esta disposición, se hará acreedora a las
+sanciones administrativas y/o
+
+penales señaladas en los ordenamientos legales aplicables al caso
+según corresponda.
+
+TRANSITORIOS
+
+ÚNICO.- El presente decreto entrará en vigor el día de su
+publicación en el Diario Oficial del
+
+Gobierno del Estado de Yucatán.
+
+Y POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU CONOCIMIENTO Y
+
+DEBIDO CUMPLIMIENTO.
+
+DADO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE MÉRIDA, YUCATÁN,
+
+ESTADOS UNIDOS MEXICANOS, A  LOS VEINTE DÍAS DEL MES DE  AGOSTO DEL
+AÑO
+
+DOS MIL SIETE.
+
+EL GOBERNADOR DEL ESTADO DE YUCATÁN
+
+( RÚBRICA )
+
+C. IVONNE ARACELLY ORTEGA PACHECO
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+( RÚBRICA )
+
+LIC. ROLANDO RODRIGO ZAPATA BELLO
+
+	EL SECRETARIO DE SALUD Y DIRECTOR GENERAL DE LOS SERVICIOS DE SALUD DE
+YUCATÁN
+
+( RÚBRICA )
+
+DR. ALVARO AUGUSTO QUIJANO VIVAS.
+
+ESTA ÚLTIMA HOJA FORMA PARTE DEL DECRETO 06 MEDIANTE EL CUAL SE DECRETA
+LA PROHIBICIÓN DE LA VENTA
+
+DE BEBIDAS ALCOHÓLICAS DURANTE LOS DÍAS 20, 21 y 22 DE AGOSTO DE 2007.
+
+PAGINA   PAGE  2
+                                        DIARIO  OFICIAL
+  MERIDA, YUC., LUNES 20 DE AGOSTO DE 2007.
+
+MERIDA, YUC., LUNES 20 DE AGOSTO DE 2007.
+DIARIO  OFICIAL
+                               PAGINA   PAGE  3
+
+Publicación periódica: Permiso No. 0100921
+
+Características: 111182816. Autorizado por SEPOMEX
+
+DEL GOBIERNO DEL ESTADO
+
+ DE YUCATAN.
+
+DIARIO OFICIAL
+
+Dirección: Calle 90 No. 498-A entre 61 A y 63
+
+Colonia Bojórquez, (Complejo de Seguridad Jurídica)
+
+Mérida, Yucatán. C.P. 97240. TEL: 930-30-23.
+
+DIRECTOR: LIC. SALVADOR SOLORZA CASTILLO.
+
+AÑO CX          MERIDA, YUC., LUNES 20 DE AGOSTO DE 2007.
+NUM. 30,920

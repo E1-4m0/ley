@@ -1,0 +1,5681 @@
+---
+titulo: "Decreto del Presupuesto de Egresos del Gobierno del Estado de Sonora para el Ejercicio Fiscal 2017"
+tipo: "Decreto Legislativo"
+estado: "Sonora"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "26 de Diciembre de 2016"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "72868"
+---
+DECRETO
+
+DEL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO
+
+DE SONORA PARA EL EJERCICIO FISCAL 2017
+
+TITULO PRIMERO
+
+Del Presupuesto de Egresos
+
+Capítulo Único
+
+Disposiciones Generales
+
+ARTÍCULO 1.- La asignación, ejercicio, control, evaluación, fiscalización y transparencia del Gasto Público Estatal para el ejercicio fiscal del año 2017, se realizará conforme a lo establecido en la Ley del Presupuesto de Egresos y Gasto Público Estatal; la Ley de Contabilidad Gubernamental del Estado de Sonora; la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal del Estado de Sonora; la Ley de Obras Públicas y Servicios Relacionados con las Mismas; la Ley de Fiscalización Superior del Estado de Sonora; la Ley de Acceso a la Información Pública y de Protección de Datos Personales del Estado de Sonora; este Decreto y las demás disposiciones jurídico normativas aplicables en la materia.
+
+ARTÍCULO 2.- Los anexos que soportan el presente Presupuesto de Egresos del Estado establecen:
+
+I.- Analítico de Partidas.- Presenta a detalle la Presupuestación a nivel de partida específica por unidad responsable.
+
+II.- Analítico de Plazas.- Integra la información sobre el número, categoría y adscripción de las plazas de servidores públicos de la Administración Pública Centralizada incluidas en el presente Presupuesto;
+
+III.- Analítico de Proyectos de Inversión.- Ofrece la descripción de proyectos de inversión previstos en el Presupuesto, su ubicación, monto, estructura financiera, fuente de financiamiento y partidas de gasto.
+
+IV.- Anexo de Reconducción Presupuestal.- Contiene la distribución por objeto de gasto del presupuesto aprobado en el ejercicio fiscal 2016 para efectos de lo dispuesto en la Ley del Presupuesto de Egresos y Gasto Público Estatal, en el caso de la aplicación de la reconducción presupuestal en el ejercicio fiscal de 2017.
+
+V.- Analítico de Metas de Actividad por Unidad Responsable.- En este anexo se visualizan los objetivos de los procesos y proyectos que integran los distintos programas, sus metas programáticas y el indicador correspondiente que permitirá evaluar el logro de sus resultados.
+
+ARTÍCULO 3.- Para los efectos del presente Decreto, se entenderá por:
+
+I.- ADEFAS: Asignaciones destinadas a cubrir las erogaciones devengadas y pendientes de liquidar al cierre del ejercicio fiscal anterior.
+
+II.- Aportaciones: Son los recursos federales del Ramo 33 a los que se refiere el Capítulo V de la Ley de Coordinación Fiscal.
+
+III.- Asignaciones: Ministración de los recursos públicos aprobados por el congreso del estado y que realiza el Ejecutivo Estatal a través de la Secretaría a los Ejecutores del Gasto.
+
+IV.- Balance Presupuestario: la diferencia entre los ingresos totales incluidos en la ley de ingresos y los gastos totales, considerados en el Presupuesto de Egresos, con excepción de la amortización de deuda.
+
+V.- Contraloría: a la Contraloría General del Gobierno del Estado.
+
+VI.- Clasificación por objeto económico: La que permite identificar cada renglón de gasto público según su naturaleza económica, en corriente o de inversión; los gastos corrientes no aumentan los activos del Estado, mientras que los de capital son los que incrementan la capacidad de producción.
+
+VII.- Clasificación por finalidad y función: La que agrupa los gastos según los objetivos socioeconómicos que persiguen los diferentes entes públicos. Esta clasificación agrupa los gastos por función y subsunción de acuerdo con los propósitos a que están destinados.
+
+VIII.- Clasificación programática: La que se agrupa en categorías y elementos ordenados en forma coherente, el cual define las acciones que efectúan los ejecutores de gasto para alcanzar sus objetivos y metas de acuerdo con las políticas definidas en el Plan Estatal de Desarrollo.
+
+IX.- Dependencias: a las dependencias que integran la Administración Pública Centralizada del Poder Ejecutivo, que se encuentran contenidas en el Artículo 22 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora.
+
+X.- Economías presupuestales: Gasto no ejercido. Asignación presupuestaria asignada que no fue utilizada total o parcialmente al cierre del ejercicio fiscal.
+
+XI.- Ejecutivo: al Titular del Poder Ejecutivo.
+
+XII.- Ejecutores de gasto: Los Poderes Legislativo y Judicial, los Órganos Autónomos, así como las Dependencias y Entidades que realicen erogaciones con recursos derivados del Presupuesto de Egresos del Estado.
+
+XIII.- Ejercicio: El ejercicio fiscal de 2017.
+
+XIV.- Entidades: a los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades y Asociaciones Civiles asimiladas a dichas empresas en los términos de la Ley Orgánica del Poder Ejecutivo y a los Fideicomisos Públicos en los que el fideicomitente sea la Secretaría o alguna entidad de las señaladas en esta fracción, que de conformidad con las disposiciones aplicables sean consideradas dentro de la Administración Pública Estatal Descentralizada.
+
+XV.- Funciones: las acciones que realizan las unidades responsables para cumplir con el cometido que les imponen los ordenamientos legales.
+
+XVI.- Gasto corriente: Gastos en recursos humanos y de compra de bienes y servicios que realizan las dependencias y entidades para la administración y operación gubernamental.
+
+XVII.- Gasto de inversión: Gastos que realizan las dependencias y entidades para adquirir, ampliar, conservar y mejorar sus bienes de capital para incrementar la capacidad productiva de los sectores de la economía.
+
+XVIII.- Gasto programable: Son las erogaciones que se realizan conforme a los programas para proveer bienes y servicios públicos a la población.
+
+XIX.- Gasto no programable: Son las erogaciones, que no corresponden directamente a los programas específicos, que se destinan para proveer bienes y servicios públicos a la población.
+
+XX.- Instituto: al Instituto Superior de Auditoría y Fiscalización del Estado de Sonora.
+
+XXI.- Legislatura: La Legislatura del Estado de Sonora.
+
+XXII.- Ley de Ingresos: La Ley de Ingresos del Estado de Sonora para el Ejercicio Fiscal del 2017.
+
+XXIII.- Órganos: Los Órganos Autónomos.
+
+XXIV.- Participaciones: Son los recursos asignados a los estados y los municipios en los términos establecidos por la Ley de Coordinación Fiscal.
+
+XXV.- Poderes: Los Poderes Legislativo y Judicial.
+
+XXVI.- Presupuesto: Al contenido del Presupuesto de Egresos del Estado de Sonora para el ejercicio fiscal 2017, incluyendo sus anexos.
+
+XXVII.- Procuraduría: La Procuraduría General de Justicia del Estado.
+
+XXVIII.- Programas: Categoría programática que contiene un conjunto de acciones coordinadas para alcanzar objetivos y metas. Identifica las acciones en las que participan las dependencias y entidades, de acuerdo con las directrices contenidas en Plan Estatal de Desarrollo.
+
+XXIX.- Programas prioritarios: aquellos programas contenidos en los Ejes Rectores del Plan Estatal de Desarrollo 2016-2021.
+
+XXX.- Secretaría: a la Secretaría de Hacienda.
+
+XXXI.- Sub-funciones: El desglose de la función que identifica con mayor precisión las actividades que realizan las dependencias y entidades, incluyendo sus unidades responsables.
+
+XXXII.- Subsidios: Asignaciones que el Gobierno Estatal otorga para actividades prioritarias, generales y de carácter temporal, a los diferentes sectores de la sociedad, en forma directa o a través de los Organismos Públicos.
+
+XXXIII.- Transferencias: Recursos públicos para el cumplimiento de los programas y prestación de servicios a cargo de organismos autónomos y entidades.
+
+ARTÍCULO 4.- La Secretaría estará facultada para interpretar las disposiciones del presente Decreto para efectos administrativos, así como para resolver las consultas que se susciten.
+
+ARTÍCULO 5.- Las facultades y obligaciones que se le confieren a la Secretaría a través de este Decreto, se regularán para el ejercicio y cumplimiento de las mismas en el Manual de Políticas y Normas del Ejercicio del Gasto Público que se encuentren en vigor.
+
+En el caso de los Poderes Legislativo y Judicial y de los Órganos Autónomos, sus respectivas unidades de administración podrán establecer las disposiciones generales correspondientes, en tanto no se contrapongan con la normativa general.
+
+ARTÍCULO 6.- El incumplimiento por parte de los servidores públicos a las obligaciones que les impone el presente Decreto, será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y demás disposiciones aplicables.
+
+TÍTULO SEGUNDO
+
+Del Gasto Público Estatal
+
+Capítulo I
+
+De las Asignaciones Presupuestales
+
+ARTÍCULO 7.- El Gasto Neto Total previsto en el presente Decreto para el ejercicio fiscal de 2017 es de $ 56,451,879,944.00 (Cincuenta y seis mil cuatrocientos cincuenta y un millones ochocientos setenta y nueve mil novecientos cuarenta y cuatro pesos 00/100 M.N.). Corresponde al total de los ingresos establecidos en la Ley de Ingresos y se distribuyen conforme a lo establecido en el capítulo de las asignaciones presupuestales.
+
+ARTÍCULO 8.- El Poder Legislativo del Estado dispone de una asignación para el ejercicio fiscal de 2017 por la cantidad de $832’501,080.00 (Ochocientos treinta y dos millones quinientos un mil ochenta pesos 00/100 M.N.).
+
+ARTÍCULO 9.- El Poder Judicial tendrá un presupuesto para el año 2017 que importa la cantidad de $981’402,248.00 (Novecientos Ochenta y Un Millones Cuatrocientos Dos Mil Doscientos Cuarenta y Ocho Pesos 00/100 M.N.).
+
+ARTÍCULO 10.- El Presupuesto para el ejercicio fiscal de 2017 para los Órganos Autónomos asciende a la cantidad de $1,438,334,585.00 (Mil Cuatrocientos Treinta y Ocho Millones Trescientos Treinta y Cuatro Mil Quinientos Ochenta y Cinco Pesos 00/100 M.N.), el cuál se distribuirá de la siguiente forma:
+
+ No.
+
+ ÓRGANOS AUTÓNOMOS
+
+PRESUPUESTO
+
+2017
+
+15
+
+TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+
+50,673,555.00
+
+17
+
+TRIBUNAL ESTATAL ELECTORAL
+
+38,103,000.00
+
+18
+
+COMISIÓN ESTATAL DE DERECHOS HUMANOS
+
+36,650,200.00
+
+19
+
+INSTITUTO SONORENSE DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES
+
+30,364,011.00
+
+24
+
+INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA
+
+364,382,147.00
+
+25
+
+UNIVERSIDAD DE SONORA
+
+907,561,672.00
+
+26
+
+CONSEJO CIUDADANO TRANSPORTE PÚBLICO SUSTENTABLE DEL ESTADO DE SONORA
+
+10,600,000.00
+
+TOTAL
+
+1,438,334,585.00
+
+En cumplimiento de los artículos 92 fracción I, inciso a, fracción II, inciso a y 93 de la Ley de Instituciones y Procedimientos Electorales para el Estado de Sonora, señala que los partidos tendrán derecho al financiamiento público tanto para sus actividades permanentes, como para campañas electorales. Para 2017 las prerrogativas ascienden a la cantidad total de $102,124,015.00 (Ciento dos millones ciento veinticuatro mil quince pesos 00/100 M.N.).
+
+ARTÍCULO 11.- Al Poder Ejecutivo del Estado le corresponde una asignación presupuestal para el ejercicio fiscal de 2017 por un importe de $53,199,642,031.00 (Cincuenta y tres mil ciento noventa y nueve millones seiscientos cuarenta y dos mil treinta y un pesos 00/100 M.N.).
+
+ARTÍCULO 12.- Del presupuesto asignado al Poder Ejecutivo en el artículo 11 del presente Decreto, a la Administración Central del Poder Ejecutivo le corresponde una previsión presupuestal de $27,250,494,261.50 (Veintisiete mil doscientos cincuenta millones cuatrocientos noventa y cuatro mil doscientos sesenta y un pesos 50/100 M.N.) distribuidos de la siguiente manera:
+
+CLAVE
+
+ADMINISTRACIÓN CENTRAL DEL PODER  EJECUTIVO
+
+IMPORTE
+
+03
+
+EJECUTIVO DEL ESTADO
+
+234,755,480.00
+
+04
+
+SECRETARIA DE GOBIERNO
+
+350,220,908.00
+
+05
+
+SECRETARIA DE HACIENDA
+
+1,493,757,703.27
+
+06
+
+SECRETARIA DE LA CONTRALORIA GENERAL
+
+183,967,477.00
+
+07
+
+SECRETARIA DE DESARROLLO SOCIAL
+
+266,892,909.00
+
+08
+
+SECRETARIA DE EDUCACION Y CULTURA
+
+5,260,245,186.00
+
+09
+
+SECRETARIA DE SALUD PUBLICA
+
+119,634,997.00
+
+10
+
+SECRETARIA DE INFRAESTRUCTURA Y
+
+DESARROLLO URBANO
+
+4,060,740,936.30
+
+11
+
+SECRETARIA DE ECONOMIA
+
+75,370,964.99
+
+12
+
+SECRETARIA DE AGRICULTURA, GANADERIA,
+
+RECURSOS HIDRAULICOS, PESCA Y ACUACULTURA
+
+408,699,891.00
+
+13
+
+PROCURADURIA GENERAL DE JUSTICIA DEL
+
+ESTADO
+
+1,174,121,527.57
+
+14
+
+SECRETARIA DE SEGURIDAD PUBLICA
+
+2,078,814.420.90
+
+16
+
+SECRETARIA DEL TRABAJO
+
+133,578,841.00
+
+20
+
+DESARROLLO MUNICIPAL
+
+7,271,621,181.00
+
+21
+
+DEUDA PUBLICA
+
+4,003,894,765.47
+
+27
+
+SECRETARÍA DE LA CONSEJERÍA JURÍDICA
+
+134,177,073.00
+
+TOTAL
+
+27,250,494,261.50
+
+El Presupuesto de cada Dependencia a nivel de Unidad Responsable se detalla en el Apéndice A de este Decreto.
+
+ARTÍCULO 13.- Del presupuesto asignado al Poder Ejecutivo en el artículo 11 del presente Decreto, a la Administración Descentralizada del Poder Ejecutivo le corresponde una asignación presupuestal de $25,949,147,769.50 (Veinticinco mil novecientos cuarenta y nueve millones ciento cuarenta y siete mil setecientos sesenta y nueve pesos 50/100), distribuidos de la siguiente manera:
+
+ADMINISTRACIÓN DESCENTRALIZADA DEL PODER EJECUTIVO
+
+IMPORTE
+
+BIBLIOTECA PUBLICA JESUS CORRAL RUIZ
+
+7,646,834.00
+
+CENTRO DE EVALUACIÓN  Y CONTROL DE CONFIANZA
+
+54,022,980.00
+
+CENTRO ESTATAL DE TRASPLANTES
+
+1,431,352.00
+
+CENTRO REGIONAL DE FORMACION DOCENTE E INVESTIGACION
+
+EDUCATIVA
+
+15,774,732.00
+
+COLEGIO DE BACHILLERES DEL ESTADO DE SONORA
+
+341,549,598.00
+
+COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE SONORA
+
+CONALEP
+
+331,467,422.00
+
+COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE
+
+SONORA
+
+274,235,048.00
+
+COMISIÓN DE ECOLOGÍA Y DESARROLLO SUSTENTABLE DEL ESTADO DE
+
+SONORA
+
+86,245,416.00
+
+COMISIÓN DE ENERGÍA DEL ESTADO DE SONORA
+
+4,447,570.00
+
+COMISIÓN DE FOMENTO AL TURISMO DEL ESTADO DE SONORA
+
+179,816,125.00
+
+COMISION DE VIVIENDA DEL ESTADO DE SONORA
+
+221,143,529.00
+
+COMISION DEL DEPORTE DEL ESTADO DE SONORA
+
+140,708,710.00
+
+COMISIÓN ESTATAL DEL AGUA
+
+411,123,542.00
+
+COMISION ESTATAL PARA EL DESARROLLO DE LOS PUEBLOS Y
+
+COMUNIDADES INDIGENAS
+
+40,302,300.00
+
+COMISIÓN PARA EL DESARROLLO ECONÓMICO DE SONORA
+
+41,977,308.00
+
+CONSEJO ESTATAL DE CIENCIA Y TECNOLOGÍA
+
+3,855,045.00
+
+CONSEJO ESTATAL DE CONCERTACIÓN PARA LA OBRA PÚBLICA
+
+431,991,645.11
+
+CONSEJO PARA LA PROMOCIÓN ECONÓMICA DE SONORA
+
+64,610,885.00
+
+CONSEJO SONORENSE PROMOTOR DE LA REGULACIÓN DEL BACANORA
+
+1,425,000.00
+
+EL COLEGIO DE SONORA
+
+57,467,997.00
+
+FIDEICOMISO PUENTE COLORADO
+
+8,100,000.00
+
+Cont…
+
+ADMINISTRACIÓN DESCENTRALIZADA DEL PODER EJECUTIVO
+
+IMPORTE
+
+FINANCIERA PARA EL DESARROLLO ECONOMICO DE SONORA
+
+42,130,100.00
+
+FONDO DE OPERACIÓN DE OBRAS SONORA SI
+
+416,790,252.00
+
+FONDO ESTATAL DE MODERNIZACION DEL TRANSPORTE
+
+218,159,690.00
+
+FONDO ESTATAL DE SOLIDARIDAD
+
+2,000,000.00
+
+FONDO REVOLVENTE SONORA
+
+9,426,000.00
+
+IMPULSOR-FIDEICOMISO
+
+23,784,540.00
+
+INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DEL ESTADO DE
+
+SONORA
+
+5,828,413,016.00
+
+INSTITUTO DE ACUACULTURA DEL ESTADO DE SONORA
+
+13,571,500.00
+
+INSTITUTO DE BECAS Y ESTIMULOS EDUCATIVOS DEL ESTADO DE SONORA
+
+81,748,263.00
+
+INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE SONORA
+
+37,107,171.00
+
+INSTITUTO DE CREDITO EDUCATIVO DEL ESTADO DE SONORA
+
+270,423,617.00
+
+INSTITUTO DE FORMACION DOCENTE DEL ESTADO DE SONORA
+
+109,233,900.00
+
+INSTITUTO DE INNOVACION Y EVALUACION EDUCATIVA DEL ESTADO DE SONORA
+
+1,899,510.00
+
+INSTITUTO SONORENSE DE CULTURA
+
+145,611,655.00
+
+INSTITUTO SONORENSE DE EDUCACION PARA LOS ADULTOS
+
+102,355,499.00
+
+INSTITUTO SONORENSE DE INFRAESTRUCTURA EDUCATIVA
+
+1,370,004,347.00
+
+INSTITUTO SONORENSE DE LA JUVENTUD
+
+28,256,428.00
+
+INSTITUTO SUPERIOR DE SEGURIDAD PUBLICA DEL ESTADO
+
+37,572,475.00
+
+INSTITUTO TECNOLOGICO DE SONORA
+
+409,915,317.00
+
+INSTITUTO TECNOLOGICO SUPERIOR DE CAJEME
+
+57,491,182.00
+
+INSTITUTO TECNOLOGICO SUPERIOR DE CANANEA
+
+19,523,910.00
+
+INSTITUTO TECNOLOGICO SUPERIOR DE PUERTO PEÑASCO
+
+16,772,569.00
+
+INSTITUTO SONORENSE DE LA MUJER
+
+32,968,360.00
+
+JUNTA DE CAMINOS DEL ESTADO DE SONORA
+
+332,571,825.00
+
+MUSEO DEL CENTRO CULTURAL MUSAS
+
+11,641,665.00
+
+MUSEO SONORA EN LA REVOLUCION
+
+3,904,970.00
+
+PROCURADURIA AMBIENTAL DEL ESTADO DE SONORA
+
+16,771,370.00
+
+PROGRESO FIDEICOMISO PROMOTOR URBANO
+
+16,277,090.00
+
+RADIO SONORA
+
+25,873,410.00
+
+Cont…
+
+ADMINISTRACIÓN DESCENTRALIZADA DEL PODER EJECUTIVO
+
+IMPORTE
+
+REGIMEN ESTATAL DE PROTECCION SOCIAL SALUD SONORA
+
+630,000,000.00
+
+SERVICIOS DE ENAJENACION DE BIENES
+
+5,038,130.00
+
+SERVICIOS DE SALUD DE SONORA
+
+3,372,604,538.39
+
+SERVICIOS EDUCATIVOS DEL ESTADO DE SONORA
+
+8,223,873,382.00
+
+SISTEMA DE PARQUES INDUSTRIALES
+
+4,455,699.00
+
+SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA *** DIF - SONORA
+
+***
+
+670,624,038.00
+
+TELEFONÍA RURAL DE SONORA
+
+6,327,200.00
+
+TELEVISORA DE HERMOSILLO SA DE CV
+
+138,356,423.00
+
+UNIVERSIDAD DE LA SIERRA
+
+27,006,977.00
+
+UNIVERSIDAD ESTATAL DE SONORA
+
+317,177,383.00
+
+UNIVERSIDAD TECNOLOGICA DE ETCHOJOA
+
+5,131,892.00
+
+UNIVERSIDAD TECNOLOGICA DE GUAYMAS
+
+12,642,343.00
+
+UNIVERSIDAD TECNOLOGICA DE HERMOSILLO
+
+54,354,559.00
+
+UNIVERSIDAD TECNOLOGICA DE NOGALES
+
+30,497,044.00
+
+UNIVERSIDAD TECNOLOGICA DE PUERTO PEÑASCO
+
+7,264,557.00
+
+UNIVERSIDAD TECNOLOGICA DE SAN LUIS RIO COLORADO
+
+10,039,070.00
+
+UNIVERSIDAD TECNOLOGICA DEL SUR DE SONORA
+
+32,211,865.00
+
+TOTAL
+
+25,949,147,769.50
+
+ARTÍCULO 14.- Las asignaciones contenidas en el presente Presupuesto para cada uno de los Ejes Rectores y sus Programas previstos para el Plan Estatal de Desarrollo 2016-2021, son las siguientes:
+
+EJE RECTOR
+
+IMPORTE
+
+E1
+
+SONORA EN PAZ Y TRANQUILIDAD
+
+5,886,807,207.92
+
+E2
+
+SONORA Y CIUDADES CON CALIDAD DE VIDA
+
+5,839,261,283.23
+
+E3
+
+ECONOMÍA CON FUTURO
+
+914,212,463.52
+
+E4
+
+TODOS LOS SONORENSES TODAS LAS
+
+OPORTUNIDADES
+
+30,683,443,673.07
+
+E5
+
+GOBIERNO EFICIENTE, INNOVADOR, TRANSPARENTE Y
+
+CON SENSIBILIDAD SOCIAL
+
+12,958,657,219.57
+
+E6
+
+GOBIERNO PROMOTOR DE LOS DERECHOS HUMANOS E
+
+IGUALDAD DE GÉNERO
+
+169,498,096.69
+
+TOTAL
+
+56,451,879,944.00
+
+EJE RECTOR
+
+RETO
+
+IMPORTE
+
+E1
+
+SONORA EN PAZ Y
+
+TRANQUILIDAD
+
+E101
+
+CONSOLIDAR EL ESTADO DE DERECHO EN EL MARCO DE GOBERNABILIDAD BASADO EN EL DIALOGO Y LA PARTICIPACIÓN CIUDADANA
+
+212,192,976.23
+
+E102
+
+LOGRAR LA CAPACIDAD INSTITUCIONAL PARA GENERAR LOS CUADROS NECESARIOS ENTRE LOS DISTINTOS PODERES, ORGANISMOS AUTÓNOMOS, NIVELES DE GOBIERNO Y FUERZAS POLÍTICAS EN UN MARCO DE RESPETO Y COLABORACIÓN.
+
+1,387,259,714.84
+
+E103
+
+FORTALECER LA SEGURIDAD PÚBLICA Y PROMOVER LA PARTICIPACIÓN CIUDADANA PARA LA PREVENCIÓN DEL DELITO
+
+1,211,812,634.87
+
+E104
+
+FORTALECER LA COORDINACIÓN INTERINSTITUCIONAL PARA DISMINUIR LA INCIDENCIA DELICTIVA EN EL ESTADO
+
+7,506,039.94
+
+E105
+
+IMPULSAR LA MODERNIZACIÓN Y EL FORTALECIMIENTO DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA E IMPARTICIÓN DE JUSTICIA.
+
+1,814,802,825.00
+
+E106
+
+IMPLEMENTAR EL NUEVO SISTEMA DE JUSTICIA PENAL ACUSATORIO, ADVERSARIAL Y ORAL
+
+238,222,791.74
+
+E107
+
+CONSOLIDAR LA FISCALÍA ESPECIALIZADA EN HECHOS DE CORRUPCIÓN
+
+61,306,988.96
+
+E108
+
+ESTABLECER POLÍTICAS PÚBLICAS PARA EL FORTALECIMIENTO DE LA REINSERCIÓN SOCIAL
+
+715,178,240.44
+
+E109
+
+FORTALECER LA CULTURA DE PROTECCIÓN CIVIL QUE PERMITA SALVAGUARDAR LA INTEGRIDAD FÍSICA DE LAS PERSONAS, SU PATRIMONIO Y ENTORNO
+
+34,130,225.49
+
+E110
+
+FOMENTAR UNA POLÍTICA INTEGRAL QUE GARANTICE LA SEGURIDAD LABORAL.
+
+204,394,770.41
+
+Total SONORA EN PAZ Y TRANQUILIDAD
+
+5,886,807,207.92
+
+EJE RECTOR
+
+RETO
+
+IMPORTE
+
+E2
+
+SONORA Y CIUDADES CON CALIDAD DE VIDA
+
+E201
+
+CONSOLIDAR EL SISTEMA DE PLANEACIÓN ESTATAL DEL ORDENAMIENTO TERRITORIAL Y DEL DESARROLLO URBANO
+
+80,888,295.19
+
+E202
+
+FAVORECER EL DESARROLLO SUSTENTABLE Y SOSTENIBLE DE LOCALIDADES URBANAS Y RURALES CON INFRAESTRUCTURA DE CALIDAD, CON RESPETO AL EQUILIBRIO AMBIENTAL.
+
+3,592,810,830.50
+
+E203
+
+MEJORAR LAS CONDICIONES DE SERVICIO Y SEGURIDAD QUE OFRECE LA RED CARRETERA ESTATAL, CON RESPETO AL MEDIO AMBIENTE
+
+132,643,630.00
+
+E204
+
+CONSERVAR Y MODERNIZAR TRAMOS CARRETEROS PAVIMENTADOS CON APEGO A LA NORMATIVIDAD Y RESPETO AL MEDIO AMBIENTE
+
+571,216,713.00
+
+E208
+
+IMPULSO AL ABASTECIMIENTO Y CALIDAD DEL AGUA 837,339,794.00 E209 IMPULSAR Y CONSOLIDAR UN SISTEMA DE MOVILIDAD Y TRANSPORTE COMPETITIVO Y SUSTENTABLE
+
+263,396,009.54
+
+E210
+
+AMPLIAR LAS POSIBILIDADES DE ACCESO A UNA VIVIENDA DIGNA
+
+257,949,225.00
+
+E213
+
+CONTRIBUIR A QUE LA SOCIEDAD CIVIL SONORENSE SE CARACTERICE POR LA CULTURA DE CUIDADO AL MEDIO AMBIENTE Y RECURSOS NATURALES
+
+103,016,786.00
+
+Total SONORA Y CIUDADES CON CALIDAD DE VIDA
+
+5,839,261,283.23
+
+EJE RECTOR
+
+RETO
+
+IMPORTE
+
+E3
+
+ECONOMÍA CON
+
+ FUTURO
+
+E301
+
+FORTALECER LA ECONOMÍA CUYO CRECIMIENTO Y DESARROLLO ECONÓMICO SEA SOSTENIBLE Y SUSTENTABLE; COMPETITIVA A PARTIR DE LA APROPIACIÓN DEL CONOCIMIENTO Y LA INNOVACIÓN; DONDE SE INCENTIVE LA CONFORMACIÓN DE CLÚSTER TANTO EN LAS ZONAS AGROPECUARIAS COMO EN LAS MÁS INDUSTRIALIZADAS
+
+82,684,033.21
+
+E302
+
+FORTALECER LAS VENTAJAS COMPETITIVAS DEL ESTADO EN LAS RAMAS INDUSTRIALES QUE AFIANCEN EL CRECIMIENTO SOSTENIBLE DE LA ENTIDAD, ESPECIALMENTE EN LOS SECTORES EMERGENTES Y ESTRATÉGICOS.
+
+222,602,591.15
+
+E304
+
+CONSOLIDAR EL LIDERAZGO DEL SECTOR MINERO EN EL ESTADO DE SONORA.
+
+6,838,323.16
+
+E305
+
+CONSOLIDAR LA INFRAESTRUCTURA Y LA CONECTIVIDAD PARA DESARROLLAR EL SECTOR TURÍSTICO.
+
+179,816,125.00
+
+E306
+
+PROMOVER POLÍTICAS QUE PERMITAN LA CAPITALIZACIÓN EN EL CONJUNTO DE LAS ACTIVIDADES PRIMARIAS, CON ATENCIÓN EN TEMAS ESTRATÉGICOS COMO LA INNOVACIÓN Y LAS SANIDADES
+
+408,699,891.00
+
+E307
+
+PROMOVER ANTE EL GOBIERNO FEDERAL LA RESTAURACIÓN DE TERRENOS FORESTALES DEGRADADOS Y LOS DE PROTECCIÓN Y REFORESTACIÓN CON ESPECIES NATIVAS
+
+13,571,500.00
+
+Total ECONOMÍA CON FUTURO
+
+914,212,463.52
+
+EJE RECTOR
+
+RETO
+
+IMPORTE
+
+E4
+
+TODOS LOS
+
+SONORENSES TODAS
+
+LAS OPORTUNIDADES
+
+E401
+
+GENERAR POLÍTICAS PARA EL DESARROLLO INTEGRAL DE LAS PERSONAS, LAS FAMILIAS Y LOS DIVERSOS GRUPOS SOCIALES
+
+1,296,688,912.37
+
+E402
+
+FOMENTAR LA INCLUSIÓN AL DESARROLLO SOCIAL Y HUMANO, EN EL EJERCICIO EFECTIVO DE LOS DERECHOS SOCIALES PARA TODA LA POBLACIÓN
+
+43,045,180.33
+
+E403
+
+MEJORAR LA INFRAESTRUCTURA Y EQUIPO DEL SECTOR EDUCATIVO PARA FORTALECER Y AMPLIAR LOS SERVICIOS FORMATIVOS CON UN ENFOQUE EQUITATIVO, INCLUYENTE, SUSTENTABLE Y CONGRUENTE CON LAS NECESIDADES ESPECÍFICAS DEL SECTOR.
+
+1,325,388,117.00
+
+E404
+
+ELEVAR LA CALIDAD DE LA EDUCACIÓN PARA IMPULSAR LA CREATIVIDAD, EL INGENIO, LAS COMPETENCIAS Y LOS VALORES FUNDAMENTALES DE LOS SONORENSES, POTENCIALIZANDO EL TALENTO DEL PERSONAL DOCENTE Y DESARROLLANDO SUS CAPACIDADES DE APRENDIZAJE.
+
+16,208,023,470.78
+
+E405
+
+ACTIVAR LA PARTICIPACIÓN SOCIAL DE LA CIUDADANÍA, ESTUDIANTES, PERSONAL DOCENTE, MADRES Y PADRES DE FAMILIA, SECTOR PRIVADO Y PÚBLICO CON EL OBJETO DE ESTABLECER SOLUCIONES INTEGRALES PARA LA EDUCACIÓN DE LAS Y LOS SONORENSES
+
+102,355,499.00
+
+E406
+
+FOMENTAR LAS ACTIVIDADES CULTURALES COMO UN MEDIO PARA LA FORMACIÓN INTEGRAL DEL INDIVIDUO
+
+196,678,534.00
+
+E407
+
+POSICIONAR A SONORA ENTRE LAS ENTIDADES LÍDERES A NIVEL NACIONAL EN EL DESARROLLO DEL DEPORTE
+
+140,708,710.00
+
+E408
+
+FORTALECER LA GESTIÓN ADMINISTRATIVA Y ACADÉMICA DE LAS INSTITUCIONES EDUCATIVAS DE SONORA
+
+586,082,880.95
+
+E410
+
+OPERAR UN MODELO DE VINCULACIÓN Y TRANSFERENCIA DE CONOCIMIENTOS PERMANENTES CON EL SECTOR EDUCATIVO, PRODUCTIVO, SOCIAL Y DE SERVICIOS
+
+23,170,073.13
+
+E411
+
+BRINDAR ACCESO UNIVERSAL A SERVICIOS INTEGRALES DE SALUD CON CALIDAD QUE RESPONDA CON EFICIENCIA Y OPORTUNIDAD A LAS NECESIDADES DE LAS FAMILIAS
+
+4,002,773,911.44
+
+E412
+
+AMPLIAR EN CORTO PLAZO LA CAPACIDAD DE ATENCIÓN HOSPITALARIA Y CLÍNICA DEL ESTADO
+
+192,897,638.39
+
+E413
+
+IMPULSAR EL DESARROLLO INTEGRAL, SUSTENTABLE Y PLURICULTURAL DE LAS COMUNIDADES Y PUEBLOS INDÍGENAS DEL ESTADO
+
+24,702,300.00
+
+E414
+
+FOMENTAR Y PONER AL ALCANCE DE LAS FAMILIAS MÁS NECESITADAS LAS FACILIDADES PARA QUE CUENTEN CON VIVIENDA DIGNA
+
+21,143,529.00
+
+E415
+
+APOYAR LA AMPLIACIÓN Y EL FORTALECIMIENTO DE LOS SERVICIOS DE SEGURIDAD SOCIAL
+
+5,828,413,016.00
+
+E416
+
+IMPULSAR EL DESARROLLO INTEGRAL DE LAS FAMILIAS EN SITUACIÓN VULNERABLE
+
+662,172,826.00
+
+E418
+
+MEJORAR LAS CONDICIONES DE VIDA DE LOS ADULTOS (AS) MAYORES Y LAS PERSONAS CON DISCAPACIDAD EN SONORA.
+
+29,199,074.68
+
+Total TODOS LOS SONORENSES TODAS LAS OPORTUNIDADES
+
+30,683,443,637.07
+
+EJE RECTOR
+
+RETO
+
+IMPORTE
+
+E5
+
+GOBIERNO EFICIENTE, INNOVADOR, TRANSPARENTE Y
+
+CON SENSIBILIDAD
+
+SOCIAL
+
+E501
+
+ESTABLECER MECANISMOS TRANSPARENTES Y PÚBLICOS DEL CONTROL DEL GASTO QUE PERMITA IDENTIFICAR LA DESVIACIÓN DE RECURSOS O POSIBLES ACTOS DE CORRUPCIÓN
+
+293,014,287.20
+
+E502
+
+GENERAR MAYORES INGRESOS DE FORMA SUSTENTABLE Y SOSTENIDA
+
+598,496,939.38
+
+E503
+
+MANEJAR DE MANERA RESPONSABLE, CON VISIÓN SUSTENTABLE Y DE DISCIPLINA FISCAL LA DEUDA PUBLICA
+
+4,003,894,765.47
+
+E504
+
+FORTALECER EL PROCESO DE PLANEACION-PROGRAMACION-PRESUPUESTACION VINCULANDOLO A LA EVALUACIÓN DE RESULTADOS DEL GOBIERNO ESTATAL
+
+6,663,635,991.70
+
+E505
+
+IMPULSAR LA EFECTIVIDAD DEL GOBIERNO EN EL LOGRO DE SUS OBJETIVOS A TRAVÉS DE LA RACIONALIZACIÓN DE LOS RECURSOS, LA PROFESIONALIZACIÓN DE LAS Y LOS SERVIDORES PÚBLICOS Y DE LA IMPLEMENTACIÓN DE SISTEMAS DE ADMINISTRACIÓN AUTOMATIZADOS
+
+1,002,875,147.53
+
+E506
+
+IMPULSAR LAS COMPETENCIAS DEL GOBIERNO DE SONORA A TRAVÉS DEL USO INTENSIVO Y ESTRATÉGICO DE LA INNOVACIÓN Y LAS NUEVAS TECNOLOGÍAS DE LA INFORMACIÓN Y EL CONOCIMIENTO
+
+396,740,088.29
+
+Total GOBIERNO EFICIENTE, INNOVADOR, TRANSPARENTE Y CON SENSIBILIDAD SOCIAL
+
+12,958,657,219.57
+
+E6
+
+GOBIERNO PROMOTOR DE LOS
+
+DERECHOS HUMANOS E IGUALDAD DE
+
+GÉNERO
+
+E601
+
+ESTABLECER UNA POLÍTICA CON APEGO A LAS DISPOSICIONES NACIONALES E INTERNACIONALES EN MATERIA DE DERECHOS HUMANOS; MEJORAR LAS CONDICIONES SOCIOPOLÍTICAS PARA QUE EN SONORA SE PROPICIÉ EL RESPETO A LOS DERECHOS HUMANOS
+
+36,650,200.00
+
+E603
+
+FOMENTAR LA PROFESIONALIZACIÓN DE LAS INSTITUCIONES DE SEGURIDAD PUBLICA RESPONSABLES DE PREVENIR, PROCURAR Y PROTEGER LOS DERECHOS HUMANOS DE TODA LA POBLACIÓN, INDEPENDIENTEMENTE DE SU SITUACIÓN JURÍDICA.
+
+91,595,455.00
+
+E604
+
+INCORPORAR LA PERSPECTIVA E IGUALDAD DE GÉNERO EN LA GESTIÓN DE GOBIERNO.
+
+36,494,568.21
+
+E605
+
+COORDINAR ACCIONES DE ACTUALIZACIÓN NORMATIVA Y PROCURACIÓN DE JUSTICIA PARA GARANTIZAR LA SEGURIDAD E INTEGRIDAD DE LAS MUJERES
+
+4,757,873.48
+
+Total GOBIERNO PROMOTOR DE LOS DERECHOS HUMANOS E IGUALDAD DE GÉNERO
+
+169,498,096.69
+
+TOTAL GENERAL EJE RECTOR/ RETOS
+
+56,451,879,944.00
+
+Los Programas Presupuestarios correlacionados con sus respectivas Fuentes financieras se detallan en el Apéndice B.
+
+ARTÍCULO 15.- Con el fin de llevar a cabo las actividades programadas, para apoyar la ejecución de las acciones contenidas en el Presupuesto de Egresos del Gobierno del Estado de Sonora, se clasifica para su ejercicio según el objeto de gasto como sigue:
+
+TIPO DE GASTO
+
+IMPORTE
+
+GASTO PROGRAMABLE
+
+45,176,363,997.53
+
+GASTO NO PROGRAMABLE
+
+11,275,515,946.47
+
+TOTAL
+
+56,451,879,944.00
+
+CAPITULO
+
+IMPORTE
+
+1000
+
+SERVICIOS PERSONALES
+
+8,634,776,995.00
+
+2000
+
+MATERIALES Y SUMINISTROS
+
+420,426,159.10
+
+3000
+
+SERVICIOS GENERALES
+
+1,335,854,416.17
+
+4000
+
+TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y
+
+OTRAS AYUDAS
+
+30,241,519,608.50
+
+5000
+
+BIENES MUEBLES, INMUEBLES E INTANGIBLES
+
+79,938,824.26
+
+6000
+
+INVERSIÓN PÚBLICA
+
+4,113,425,913.50
+
+7000
+
+INVERSIONES FINANCIERAS Y OTRAS
+
+PROVISIONES
+
+350,422,081.00
+
+8000
+
+PARTICIPACIONES Y APORTACIONES
+
+7,271,621,181.00
+
+9000
+
+DEUDA PÚBLICA
+
+4,003,894,765.47
+
+TOTAL
+
+56,451,879,944.00
+
+ARTÍCULO 16.- De acuerdo a la clasificación funcional, el presupuesto de egresos se distribuye conforme a lo siguiente:
+
+FINALIDAD
+
+FUNCIÓN
+
+IMPORTE
+
+1
+
+GOBIERNO
+
+11
+
+LEGISLACION
+
+1,063,281,502.52
+
+12
+
+JUSTICIA
+
+3,228,199,688.70
+
+13
+
+COORDINACION DE LA POLITICA DE
+
+GOBIERNO
+
+1,051,730,815.70
+
+15
+
+ASUNTOS FINANCIEROS Y HACENDARIOS
+
+1,245,859,362.16
+
+17
+
+ASUNTOS DE ORDEN PUBLICO Y DE
+
+SEGURIDAD INTERIOR
+
+1,689,361,860.95
+
+18
+
+OTROS SERVICIOS GENERALES
+
+405,633,104.45
+
+3
+
+DESARROLLO ECONOMICO
+
+31
+
+ASUNTOS ECONOMICOS, COMERCIALES Y
+
+LABORALES EN GENERAL
+
+358,822,921.53
+
+32
+
+AGROPECUARIA, SILVICULTURA, PESCA Y
+
+CAZA
+
+452,572,591.00
+
+35
+
+TRANSPORTE
+
+624,473,993.53
+
+36
+
+COMUNICACIONES
+
+6,327,200.00
+
+37
+
+TURISMO
+
+179,816,125.00
+
+38
+
+CIENCIA, TECNOLOGIA E INNOVACION
+
+38,717,516.14
+
+39
+
+OTRAS INDUSTRIAS Y OTROS ASUNTOS
+
+ECONOMICOS
+
+149,748,238.46
+
+Total DESARROLLO ECONOMICO
+
+1,810,478,585.66
+
+4
+
+OTRAS NO CLASIFICADAS EN
+
+FUNCIONES ANTERIORES
+
+41
+
+TRANSACCIONES DE LA DEUDA
+
+PUBLICA/COSTO FINANCIERO DE LA DEUDA
+
+3,003,894,765.47
+
+42
+
+TRANSFERENCIAS, PARTICIPACIONES Y
+
+APORTACIONES ENTRE DIFERENTES
+
+NIVELES Y ORDENES DE GOBIERNO
+
+6,316,446,920.00
+
+44
+
+ADEUDOS DE EJERCICIOS FISCALES
+
+ANTERIORES
+
+1,000,000,000.00
+
+Total OTRAS NO CLASIFICADAS EN FUNCIONES ANTERIORES
+
+10,320,341,685.47
+
+Total general
+
+56,451,879,944.00
+
+El apéndice C presenta a nivel Subfunción el Presupuesto previsto en el presente Decreto.
+
+ARTÍCULO 17.- Para el ejercicio fiscal de 2017, la información presupuestaria conforme a las clasificaciones previstas en la Fracción II del Artículo 61 d e la Ley General de Contabilidad Gubernamental es la siguiente:
+
+I.- Clasificador por Objeto del Gasto (Capítulo/Concepto)
+
+CAPÍTULO
+
+CONCEPTO
+
+IMPORTE
+
+1000
+
+SERVICIOS
+
+PERSONALES
+
+1700
+
+PAGO DE ESTIMULOS A SERVIDORES PUBLICOS
+
+151,937,952.08
+
+1400
+
+SEGURIDAD SOCIAL
+
+1,741,773,271.46
+
+1100
+
+REMUNERACIONES AL PERSONAL DE CARÁCTER
+
+PERMANENTE
+
+3,998,294,357.43
+
+1300
+
+REMUNERACIONES ADICIONALES Y ESPECIALES
+
+1,144,189,154.89
+
+1500
+
+OTRAS PRESTACIONES SOCIALES Y ECONOMICAS
+
+1,026,203,000.48
+
+1600
+
+PREVISIONES
+
+314,813,100.08
+
+1200
+
+REMUNERACIONES AL PERSONAL DE CARACTER TRANSITORIO
+
+257,566,158.58
+
+Total SERVICIOS PERSONALES
+
+8,634,776,995.00
+
+2000
+
+MATERIALES Y
+
+SUMINISTROS
+
+2100
+
+MATERIALES DE ADMINISTRACION, EMISION
+
+DOCUMENTOS Y ARTICULOS OFICIALES
+
+104,333,416.78
+
+2200
+
+ALIMENTOS Y UTENSILIOS
+
+203,917,379.55
+
+2400
+
+MATERIALES Y ARTICULOS DE CONSTRUCCION Y
+
+DE REPARACION
+
+9,252,410.77
+
+2500
+
+PRODUCTOS QUIMICOS, FARMACEUTICOS Y DE
+
+LABORATORIO
+
+5,963,460.53
+
+2600
+
+COMBUSTIBLES, LUBRICANTES Y ADITIVOS
+
+81,178,803.26
+
+2900
+
+HERRAMIENTAS, REFACCIONES Y ACCESORIOS
+
+MENORES
+
+10,806,358.06
+
+2700
+
+VESTUARIO,BLANCOS,PRENDAS DE PROTECCION Y ARTS.DEPORTIVOS
+
+4,926,132.15
+
+2800
+
+MATERIALES Y SUMINISTROS PARA SEGURIDAD
+
+18,198.00
+
+2300
+
+MATERIALES Y PRIMAS Y MATERIALES DE
+
+PRODUCCION Y COMERCIALIZACION
+
+30,000.00
+
+Total MATERIALES Y SUMINISTROS
+
+420,426,159.10
+
+CAPÍTULO
+
+CONCEPTO
+
+IMPORTE
+
+3000
+
+SERVICIOS GENERALES
+
+3100
+
+SERVICIOS BASICOS
+
+440,771,840.80
+
+3200
+
+SERVICIOS DE ARRENDAMIENTO
+
+155,146,540.01
+
+3300
+
+SERV.PROFESIONALES,CIENTIFICOS,TECNICOS Y
+
+OTROS SERVICIOS
+
+326,112,766.65
+
+3400
+
+SERVICIOS FINANCIEROS, BANCARIOS Y
+
+COMERCIALES
+
+63,587,832.77
+
+3500
+
+SERV.DE INSTALACION, REPARACION,
+
+MANTENIMIENTO Y CONSERVACION
+
+142,665,989.03
+
+3700
+
+SERVICIOS DE TRASLADO Y VIATICOS
+
+80,547,819.77
+
+3800
+
+SERVICIOS OFICIALES
+
+33,896,845.85
+
+3900
+
+OTROS SERVICIOS GENERALES
+
+9,359,281.63
+
+3600
+
+SERVICIOS DE COMUNICACION SOCIAL Y
+
+PUBLICIDAD
+
+83,765,499.66
+
+Total SERVICIOS GENERALES
+
+1,335,854,416.17
+
+4000
+
+TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y
+
+OTRAS AYUDAS
+
+4100
+
+TRANSFERENCIAS INTERNAS Y ASIGNACIONES
+
+AL SECTOR PUBLICO
+
+28,894,190,058.28
+
+4400
+
+AYUDAS SOCIALES
+
+760,935,586.22
+
+4600
+
+TRANSFERENCIAS A FIDEICOMISOS, MANDATOS
+
+Y OTROS ANALOGOS
+
+4,729,887.00
+
+4200
+
+TRANSFERENCIAS AL RESTO DEL SECTOR
+
+PUBLICO
+
+33,122,996.00
+
+4300
+
+SUBSIDIOS Y SUBVENCIONES
+
+548,541,081.00
+
+Total TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS
+
+30,241,519,608.50
+
+5000
+
+BIENES MUEBLES,
+
+INMUEBLES E
+
+INTANGIBLES
+
+5100
+
+MOBILIARIO Y EQUIPO DE ADMINISTRACION
+
+25,587,457.26
+
+5200
+
+MOBILIARIO Y EQUIPO EDUCACIONAL Y
+
+RECREATIVO
+
+184,687.00
+
+5600
+
+MAQUINARIA, OTROS EQUIPOS Y HERRAMIENTAS
+
+23,041,680.00
+
+5300
+
+EQUIPO E INSTRUMENTAL MEDICO Y DE
+
+LABORATORIO
+
+5,000.00
+
+5900
+
+ACTIVOS INTANGIBLES
+
+408,000.00
+
+5500
+
+EQUIPO DE DEFENSA Y SEGURIDAD
+
+30,212,000.00
+
+5400
+
+VEHICULOS Y EQUIPO DE TRANSPORTE
+
+500,000.00
+
+Total BIENES MUEBLES, INMUEBLES E INTANGIBLES
+
+79,938,824.26
+
+6000
+
+INVERSIÓN
+
+PÚBLICA
+
+6200
+
+OBRA PUBLICA EN BIENES PROPIOS
+
+755,967,617.90
+
+6100
+
+OBRA PUBLICA EN BIENES DE DOMINIO PUBLICO
+
+3,357,458,295.60
+
+Total INVERSIÓN PÚBLICA
+
+4,113,425,913.50
+
+CAPÍTULO
+
+CONCEPTO
+
+IMPORTE
+
+7000
+
+INVERSIONES FINANCIERAS Y
+
+OTRAS PROVISIONES
+
+7900
+
+PROVISIONES PARA CONTINGENCIAS Y OTRAS
+
+EROGACIONES ESPECIALES
+
+350,422,081.00
+
+Total INVERSIONES FINANCIERAS Y OTRAS PROVISIONES
+
+350,422,081.00
+
+8000
+
+PARTICIPACIONES Y
+
+APORTACIONES
+
+8500
+
+CONVENIOS
+
+955,174,261.00
+
+8100
+
+PARTICIPACIONES
+
+4,142,750,947.00
+
+8300
+
+APORTACIONES
+
+2,173,695,973.00
+
+Total PARTICIPACIONES Y APORTACIONES
+
+7,271,621,181.00
+
+9000
+
+DEUDA PÚBLICA
+
+9100
+
+AMORTIZACION DE LA DEUDA PUBLICA
+
+1,422,672,048.44
+
+9600
+
+APOYOS FINANCIEROS
+
+195,865,512.54
+
+9200
+
+INTERESES DE LA DEUDA PUBLICA
+
+1,270,746,316.64
+
+9300
+
+COMISIONES DE LA DEUDA PUBLICA
+
+54,610,887.85
+
+9500
+
+COSTOS POR COBERTURAS
+
+60,000,000.00
+
+9900
+
+ADEUDOS DE EJERCICIOS FISCALES
+
+ANTERIORES(ADEFAS)
+
+1,000,000,000.00
+
+Total DEUDA PÚBLICA
+
+4,003,894,765.47
+
+Total general
+
+56,451,879,944.00
+
+El desgloce a nivel partida genérica se expone en el Apéndice D.
+
+II.- Clasificación Administrativa
+
+Total
+
+Importe
+
+Poder Ejecutivo
+
+27,212,462,794.50
+
+Poder Legislativo
+
+832,501,080.00
+
+Poder Judicial
+
+981,402,248.00
+
+Órganos Autónomos*
+
+1,438,334,585.00
+
+Otras Entidades Paraestatales y Organismos
+
+25,987,179,236.50
+
+* Tribunal Estatal Electoral, Instituto Estatal Electoral y de Participación Ciudadana, Instituto de Transparencia Informativa del Estado de Sonora, Comisión Estatal de Derechos Humanos, Universidad de Sonora, Tribunal de lo Contencioso AdministrativoY Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora.
+
+III.- Clasificación Funcional
+
+FINALIDAD
+
+IMPORTE
+
+1
+
+GOBIERNO
+
+8,684,066,334.48
+
+2
+
+DESARROLLO SOCIAL
+
+35,636,993,335.39
+
+3
+
+DESARROLLO ECONOMICO
+
+1,810,478,585.66
+
+4
+
+OTRAS NO CLASIFICADAS EN FUNCIONES ANTERIORES
+
+10,320,341,685.47
+
+Total general
+
+56,451,879,944.00
+
+IV.- Clasificación por Tipo de Gasto
+
+TIPO DE GASTO
+
+IMPORTE
+
+1
+
+GASTO CORRIENTE
+
+40,571,442,153.90
+
+2
+
+GASTO DE CAPITAL
+
+7,035,480,317.26
+
+3
+
+AMORTIZACIÓN DE LA DEUDA Y DISMINUCIÓN DE
+
+PASIVOS
+
+4,003,894,765.47
+
+4
+
+PENSIONES Y JUBILACIONES
+
+701,467,760.37
+
+5
+
+PARTICIPACIONES
+
+4,139,250,947.00
+
+Total general
+
+56,451,879,944.00
+
+V.- Prioridades de Gasto
+
+Prioridades de Gasto
+
+Seguridad Social
+
+Salud y Asistencia Social
+
+Educación Integral para un Sonora Educado
+
+Sonora Competitivo
+
+Desarrollo Urbano
+
+Procuración de Justicia
+
+VI.- Analítico de Plazas, Puestos y Remuneraciones
+
+NOMBRE DEL PUESTO
+
+NUMERO DE
+
+PLAZAS
+
+REMUNERACIONES
+
+DE
+
+HASTA
+
+ACTUARIO EJECUTOR
+
+9
+
+8,238.48
+
+16,851.26
+
+ACTUARIO EJECUTOR DE JUZGADO
+
+163
+
+16,851.26
+
+16,851.28
+
+ACTUARIO NOTIFICADOR
+
+76
+
+14,703.29
+
+17,871.96
+
+ACTUARIO NOTIFICADOR Y EJECUTOR
+
+20
+
+10,966.44
+
+18,765.56
+
+ADMINISTRADOR
+
+6
+
+8,238.48
+
+14,703.29
+
+ADMINISTRADOR BASE DE DATOS
+
+1
+
+16,859.39
+
+16,859.39
+
+ADMINISTRADOR DE AREA
+
+50
+
+12,725.73
+
+18,765.56
+
+ADMINISTRADOR DE PROCESO
+
+287
+
+10,494.44
+
+18,765.56
+
+ADMINISTRADOR DE PROYECTOS
+
+194
+
+12,725.73
+
+18,765.56
+
+ADMINISTRADOR GENERAL
+
+9
+
+9,518.77
+
+9,518.77
+
+ADMINISTRADOR RED DE TRANSPORTE
+
+1
+
+16,859.39
+
+16,859.39
+
+AGENTE "B" DE LA POLICIA ESTATAL INVESTIGADORA
+
+275
+
+6,235.92
+
+7,150.77
+
+AGENTE DE LA POLICIA ESTATAL INVESTIGADORA
+
+519
+
+6,235.92
+
+16,210.38
+
+AGENTE DEL MINISTERIO PUBLICO ESPECIALIZADO
+
+5
+
+39,600.00
+
+39,600.00
+
+AGENTE DE SEGURIDAD
+
+15
+
+10,966.44
+
+17,020.92
+
+AGENTE DEL MINISTERIO PUBLICO
+
+50
+
+24,185.70
+
+24,185.70
+
+AGENTE DEL MINISTERIO PUBLICO "A"
+
+105
+
+24,185.70
+
+24,185.70
+
+AGENTE DEL MINISTERIO PUBLICO "B"
+
+1
+
+17,537.25
+
+17,537.25
+
+AGENTE DEL MINISTERIO PUBLICO FACILITADOR
+
+8
+
+24,185.70
+
+24,185.70
+
+AGENTE DEL MINISTERIO PUBLICO ORIENTADOR
+
+16
+
+17,537.25
+
+24,185.70
+
+AGENTE ESPECIAL
+
+14
+
+24,185.70
+
+24,185.70
+
+AGENTE FISCAL "A"
+
+2
+
+39,600.00
+
+39,600.00
+
+AGENTE FISCAL "B"
+
+11
+
+24,185.70
+
+24,185.70
+
+ANALISTA
+
+83
+
+7,150.77
+
+12,090.49
+
+ANALISTA DE INFORMACION
+
+286
+
+8,238.48
+
+18,765.56
+
+ANALISTA DE PROYECTOS
+
+15
+
+12,090.49
+
+14,030.12
+
+ANALISTA DE SISTEMAS
+
+47
+
+10,494.44
+
+15,438.45
+
+ANALISTA PROGRAMADOR
+
+75
+
+9,518.77
+
+14,030.12
+
+ANALISTA TECNICO
+
+240
+
+9,518.77
+
+16,210.38
+
+ANALISTA TECNICO AUXILIAR
+
+164
+
+8,238.48
+
+16,210.38
+
+ANALISTA TECNICO AUXILIAR "A"
+
+109
+
+9,518.77
+
+11,514.76
+
+ARCHIVISTA
+
+26
+
+8,238.48
+
+14,030.12
+
+ASESOR
+
+1
+
+17,537.25
+
+17,537.25
+
+ASESOR EJECUTIVO
+
+5
+
+24,185.70
+
+28,080.23
+
+ASESOR JURÍDICO
+
+10
+
+16,859.39
+
+16,859.39
+
+ASISTENTE
+
+16
+
+7,150.77
+
+17,020.92
+
+ASISTENTE "A"
+
+212
+
+7,150.77
+
+9,082.93
+
+ASISTENTE ADMINISTRADOR BASE DE DATOS
+
+12
+
+16,859.39
+
+16,859.39
+
+ASISTENTE ADMINISTRATIVO
+
+80
+
+7,150.77
+
+12,725.73
+
+ASISTENTE DE INGENIERO DE MANTENIMIENTO
+
+1
+
+8,238.48
+
+8,238.48
+
+ASISTENTE DE PROGRAMAS
+
+46
+
+16,781.26
+
+16,859.39
+
+ASISTENTE DE RED DE TRANSPORTE Y TELEFONOS
+
+4
+
+12,725.73
+
+12,725.73
+
+ASISTENTE EJECUTIVO
+
+86
+
+16,859.39
+
+24,185.70
+
+ASISTENTE TECNICO
+
+67
+
+7,883.72
+
+14,030.12
+
+AUDITOR
+
+1
+
+12,725.73
+
+12,725.73
+
+AUDITOR AUXILIAR
+
+1
+
+12,090.49
+
+12,090.49
+
+AUDITOR ENCARGADO
+
+152
+
+10,966.44
+
+16,210.38
+
+AUDITOR SUPERVISOR
+
+269
+
+12,725.73
+
+24,185.70
+
+AUXILIAR ADMINISTRATIVO
+
+23
+
+8,238.48
+
+12,090.49
+
+AUXILIAR ADMINISTRATIVO
+
+59
+
+6,235.92
+
+14,030.12
+
+NOMBRE DEL PUESTO
+
+NUMERO DE
+
+PLAZAS
+
+REMUNERACIONES
+
+DE
+
+HASTA
+
+AUXILIAR CONTABLE
+
+1
+
+14,030.12
+
+14,030.12
+
+AUXILIAR DE AGENTE DEL MINISTERIO PUBLICO ORIENTADOR
+
+2
+
+7,883.72
+
+7,883.72
+
+AUXILIAR DE ATENCION CIUDADANA
+
+12
+
+6,235.92
+
+12,090.49
+
+AUXILIAR DE COCINA
+
+1
+
+6,875.11
+
+6,875.11
+
+AUXILIAR DE JUSTICIA ALTERNATIVA
+
+44
+
+12,725.73
+
+14,030.12
+
+AUXILIAR DE MANTENIMIENTO
+
+5
+
+7,150.77
+
+7,883.72
+
+AUXILIAR DE SERVICIOS
+
+50
+
+7,883.72
+
+11,514.76
+
+AUXILIAR EDUCATIVO
+
+20
+
+7,150.77
+
+10,966.44
+
+AUXILIAR JURIDICO
+
+74
+
+9,082.93
+
+16,859.39
+
+AUXILIAR TECNICO
+
+63
+
+6,875.11
+
+12,090.49
+
+CAJERO
+
+11
+
+7,508.31
+
+18,765.56
+
+CALIFICADOR JURIDICO
+
+33
+
+9,994.71
+
+18,765.56
+
+CAPITAN PILOTO AVIADOR
+
+1
+
+17,537.25
+
+17,537.25
+
+CAPTURISTA
+
+7
+
+6,235.92
+
+14,030.12
+
+CHOFER
+
+5
+
+7,150.77
+
+9,518.77
+
+COCINERA
+
+17
+
+7,150.77
+
+10,494.44
+
+COCINERA "A"
+
+3
+
+9,082.93
+
+9,994.71
+
+CONSEJERO DEL PODER JUDICIAL
+
+2
+
+41,910.42
+
+41,910.42
+
+CONTADOR MAYOR DE HACIENDA
+
+1
+
+52,800.00
+
+52,800.00
+
+CONTRALOR DEL H. CONGRESO DEL ESTADO
+
+1
+
+52,800.00
+
+52,800.00
+
+COORDINADOR
+
+18
+
+7,150.77
+
+24,185.70
+
+COORDINADOR ADMINISTRATIVO
+
+120
+
+7,150.77
+
+16,210.38
+
+COORDINADOR DE ANALISIS Y DISEÑO DE SISTEMAS
+
+6
+
+14,030.12
+
+16,210.38
+
+COORDINADOR DE AREA
+
+761
+
+9,082.93
+
+20,689.03
+
+COORDINADOR DE ASUNTOS COLECTIVOS
+
+1
+
+17,537.25
+
+17,537.25
+
+COORDINADOR DE ENLACE
+
+1
+
+12,725.73
+
+12,725.73
+
+COORDINADOR DE INTENDENCIA
+
+1
+
+7,150.77
+
+7,150.77
+
+COORDINADOR DE LOGISTICA
+
+2
+
+9,082.93
+
+9,082.93
+
+COORDINADOR DE MANTENIMIENTO
+
+156
+
+7,150.77
+
+12,090.49
+
+COORDINADOR DE PROCESOS
+
+37
+
+12,725.73
+
+18,765.56
+
+COORDINADOR DE PROYECTOS
+
+39
+
+10,966.44
+
+18,765.56
+
+COORDINADOR EJECUTIVO
+
+16
+
+52,800.00
+
+52,800.00
+
+COORDINADOR ESTATAL
+
+7
+
+52,800.00
+
+52,800.00
+
+COORDINADOR FISCAL
+
+17
+
+16,859.39
+
+16,859.39
+
+COORDINADOR GENERAL
+
+15
+
+38,054.00
+
+53,972.58
+
+COORDINADOR GRAL. DE ADMON.
+
+1
+
+52,800.00
+
+52,800.00
+
+COORDINADOR JURIDICO
+
+38
+
+9,518.77
+
+18,765.56
+
+COORDINADOR MEDICO
+
+38
+
+6,047.55
+
+19,703.84
+
+COORDINADOR OPERATIVO
+
+31
+
+6,875.11
+
+14,703.29
+
+COORDINADOR PARAMEDICO
+
+44
+
+7,508.31
+
+12,090.49
+
+COORDINADOR PERSONAL
+
+1
+
+18,765.56
+
+18,765.56
+
+COORDINADOR TECNICO
+
+380
+
+9,994.71
+
+18,765.56
+
+DEFENSOR DE OFICIO
+
+75
+
+14,030.12
+
+18,765.56
+
+DELEGADO DEL TRABAJO
+
+3
+
+17,537.25
+
+17,537.25
+
+DELEGADO REGIONAL
+
+3
+
+39,600.00
+
+39,600.00
+
+DETECTIVE
+
+25
+
+16,859.39
+
+16,859.39
+
+DICTAMINADOR
+
+14
+
+16,859.39
+
+16,859.39
+
+DIPUTADO AL H. CONGRESO DEL ESTADO
+
+33
+
+52,800.00
+
+52,800.00
+
+DIRECTOR
+
+402
+
+24,185.70
+
+28,080.23
+
+DIRECTOR GENERAL
+
+195
+
+38,054.00
+
+39,600.00
+
+DIRECTOR GENERAL DE NOTARIAS
+
+1
+
+39,600.00
+
+39,600.00
+
+DIRECTOR JURIDICO
+
+1
+
+24,185.70
+
+24,185.70
+
+NOMBRE DEL PUESTO
+
+NUMERO DE
+
+PLAZAS
+
+REMUNERACIONES
+
+DE
+
+HASTA
+
+DIRECTOR(A) DE CAPACITACION
+
+1
+
+28,080.40
+
+28,080.40
+
+DOCTOR
+
+2
+
+10,966.44
+
+12,090.49
+
+EDUCADORA
+
+26
+
+10,494.44
+
+16,210.38
+
+EDUCADORA "A"
+
+1
+
+12,725.73
+
+12,725.73
+
+EMISOR DE INFORMACION
+
+13
+
+8,650.40
+
+15,438.45
+
+ENCARGADO DE ALMACEN
+
+1
+
+8,238.48
+
+8,238.48
+
+ENCARGADO DE ARCHIVO
+
+2
+
+12,725.73
+
+12,725.73
+
+ENCARGADO DEL MODULO RECAUDADOR
+
+1
+
+12,725.73
+
+12,725.73
+
+ENCARGADO(A) DE ATENCION CIUDADANA
+
+52
+
+8,238.48
+
+14,030.12
+
+ENFERMERO(A) AUXILIAR
+
+87
+
+7,150.77
+
+12,090.49
+
+ENFERMERO(A) ESPECIALISTA
+
+179
+
+9,082.93
+
+16,210.38
+
+ENFERMERO(A) ESPECIALISTA "A"
+
+59
+
+10,966.44
+
+16,210.38
+
+ENFERMERO(A) GENERAL
+
+434
+
+7,150.77
+
+17,871.96
+
+ENFERMERO(A) JEFA DE SERVICIO
+
+37
+
+9,518.77
+
+16,210.38
+
+ENFERMERO(A) JEFA DE SERVICIO "A"
+
+9
+
+12,725.73
+
+17,020.92
+
+ENLACE ADMINISTRATIVO
+
+133
+
+8,238.48
+
+24,185.70
+
+ESPECIALISTA EN JUSTICIA ALTERNATIVA
+
+71
+
+16,859.39
+
+16,859.39
+
+FACILITADOR
+
+30
+
+17,537.25
+
+17,537.25
+
+FISCAL ADJUNTO A
+
+1
+
+39,600.00
+
+39,600.00
+
+FISCAL GENERAL
+
+1
+
+52,800.00
+
+52,800.00
+
+FOGONERO
+
+5
+
+7,883.72
+
+14,030.12
+
+FUNCIONARIO CONCILIADOR
+
+3
+
+16,859.39
+
+16,859.39
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+1
+
+78,880.75
+
+78,880.75
+
+INGENIERO DE MANTENIMIENTO RED DE RADIO
+
+2
+
+16,859.39
+
+16,859.39
+
+INSPECTOR
+
+5
+
+9,518.77
+
+10,966.44
+
+INSPECTOR DEL TRABAJO
+
+1
+
+10,966.44
+
+10,966.44
+
+INSPECTOR DEL TRABAJO FORANEO
+
+4
+
+16,859.39
+
+16,859.39
+
+INSPECTOR ESPECIAL
+
+1
+
+8,238.48
+
+8,238.48
+
+INSPECTOR FISCAL
+
+46
+
+10,966.44
+
+12,090.49
+
+INSPECTOR FISCAL "A"
+
+4
+
+12,725.73
+
+14,030.12
+
+INSPECTOR LOCAL DEL TRABAJO
+
+19
+
+16,859.39
+
+16,859.39
+
+INSTRUCTOR
+
+3
+
+8,238.48
+
+11,514.76
+
+INTENDENTE
+
+4
+
+7,150.77
+
+10,494.44
+
+INVESTIGADOR
+
+6
+
+24,185.70
+
+24,185.70
+
+INVESTIGADOR "A"
+
+1
+
+24,185.70
+
+24,185.70
+
+INVESTIGADOR "B"
+
+7
+
+17,537.25
+
+17,537.25
+
+INVESTIGADOR "C"
+
+6
+
+14,703.29
+
+14,703.29
+
+JEFE DE AREA
+
+24
+
+8,238.48
+
+16,210.38
+
+JEFE DE AREA GENERAL
+
+4
+
+9,518.77
+
+10,494.44
+
+JEFE DE CENTRO
+
+11
+
+10,966.44
+
+11,514.76
+
+JEFE DE DEPARTAMENTO
+
+568
+
+12,725.73
+
+16,859.39
+
+JEFE DE GRUPO
+
+130
+
+12,725.73
+
+16,859.39
+
+JEFE DE GRUPO "A"
+
+31
+
+16,859.39
+
+16,859.39
+
+JEFE DE LA OFICINA DEL EJECUTIVO ESTATAL
+
+1
+
+75,594.00
+
+75,594.00
+
+JEFE DE OFICINA
+
+17
+
+10,966.44
+
+16,210.38
+
+JEFE DE PROYECTOS
+
+16
+
+19,703.84
+
+20,689.03
+
+JEFE DE SECCION
+
+39
+
+9,518.77
+
+14,030.12
+
+JEFE DE VIGILANTES
+
+72
+
+7,150.77
+
+7,883.72
+
+JUEZ DE PRIMERA INSTANCIA
+
+92
+
+41,910.41
+
+41,910.41
+
+MAESTRO
+
+2
+
+7,883.72
+
+9,082.93
+
+MAESTRO DE MANTENIMIENTO
+
+1
+
+6,875.11
+
+6,875.11
+
+MAESTRO DE OFICIOS
+
+1
+
+12,090.49
+
+12,090.49
+
+MAESTRO DE SECUNDARIA
+
+1
+
+11,514.76
+
+11,514.76
+
+NOMBRE DEL PUESTO
+
+NUMERO DE
+
+PLAZAS
+
+REMUNERACIONES
+
+DE
+
+HASTA
+
+MAESTRO DE SERVICIOS
+
+31
+
+6,875.11
+
+10,494.44
+
+MAGISTRADO
+
+1
+
+74,967.23
+
+74,967.23
+
+MAGISTRADO DEL S.T.J.
+
+6
+
+74,967.23
+
+74,967.23
+
+MAGISTRADO PROPIETARIO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+
+4
+
+74,967.23
+
+95,679.02
+
+MAGISTRADO REGIONAL DE CIRCUITO
+
+13
+
+53,972.57
+
+53,972.57
+
+MEDICO ESPECIALISTA
+
+172
+
+3,223.70
+
+18,765.56
+
+MEDICO GENERAL
+
+98
+
+5,942.70
+
+12,090.49
+
+MENSAJERO
+
+1
+
+8,238.48
+
+8,238.48
+
+NOTIFICADOR
+
+11
+
+9,518.77
+
+10,966.44
+
+NUTRIOLOGO
+
+2
+
+13,362.01
+
+15,438.45
+
+ODONTOLOGO
+
+1
+
+10,966.44
+
+10,966.44
+
+OFICIAL ADMINISTRATIVO
+
+54
+
+6,547.72
+
+10,494.44
+
+OFICIAL DE PARTES
+
+11
+
+9,082.93
+
+10,966.44
+
+OFICIAL DE PARTES DEL S.T.J. "A"
+
+5
+
+8,238.48
+
+8,238.48
+
+OFICIAL DE PARTES Y RADICACIONES
+
+3
+
+16,859.39
+
+16,859.39
+
+OFICIAL DE SEGURIDAD
+
+930
+
+8,238.48
+
+9,518.77
+
+OFICIAL DE SEGURIDAD "A"
+
+50
+
+12,725.73
+
+12,725.73
+
+OFICIAL DE SERVICIOS
+
+3
+
+6,875.11
+
+7,883.72
+
+OFICIAL DEL REGISTRO CIVIL
+
+13
+
+16,859.39
+
+16,859.39
+
+OFICIAL DEL REGISTRO CIVIL "A"
+
+17
+
+16,859.39
+
+16,859.39
+
+OFICIAL MAYOR DEL CONGRESO DEL ESTADO
+
+1
+
+52,800.00
+
+52,800.00
+
+OFICIAL MAYOR DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+1
+
+53,972.57
+
+53,972.57
+
+OPERADOR DE COMPUTADORA
+
+1
+
+8,238.48
+
+8,238.48
+
+OPERADOR DE EMERGENCIAS
+
+46
+
+10,966.44
+
+10,966.44
+
+PARAMEDICO
+
+18
+
+6,235.92
+
+12,090.49
+
+PEDAGOGA
+
+1
+
+15,438.45
+
+15,438.45
+
+PEDAGOGO
+
+2
+
+15,438.45
+
+15,438.45
+
+PERITO "A"
+
+10
+
+17,537.25
+
+17,537.25
+
+PERITO "B"
+
+82
+
+16,859.39
+
+17,537.25
+
+PERITO "D"
+
+24
+
+12,725.73
+
+12,725.73
+
+PILOTO AVIADOR
+
+3
+
+24,185.70
+
+24,185.70
+
+POLICIA ESTATAL DE SEGURIDAD PUBLICA
+
+468
+
+16,210.38
+
+16,210.38
+
+POLICIA ESTATAL DE SEGURIDAD PUBLICA "A"
+
+308
+
+6,235.92
+
+16,210.38
+
+POLICIA PROCESAL
+
+63
+
+16,859.39
+
+16,859.39
+
+PRESIDENTE DE LA JUNTA ESPECIAL DE CONCILIACION Y ARBITRAJE
+
+4
+
+24,185.70
+
+24,185.70
+
+PRESIDENTE DE LA JUNTA ESPECIAL DE CONCILIACION Y ARBITRAJE DEL ESTADO
+
+1
+
+24,185.70
+
+24,185.70
+
+PRESIDENTE DE LA JUNTA ESPECIAL DE CONCILIACION Y ARBITRAJE DEL NOROESTE
+
+1
+
+24,185.70
+
+24,185.70
+
+PRESIDENTE DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE
+
+2
+
+39,600.00
+
+39,600.00
+
+PRESIDENTE DE LA JUNTA PERMANENTE DE CONCILIACION
+
+2
+
+16,859.39
+
+16,859.39
+
+PRESIDENTE DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+1
+
+95,679.03
+
+95,679.03
+
+PROCURADOR DEL TRABAJO
+
+3
+
+16,859.39
+
+16,859.39
+
+PROCURADOR FISCAL
+
+1
+
+52,800.00
+
+52,800.00
+
+PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
+
+1
+
+75,594.00
+
+75,594.00
+
+PROFESIONISTA ESPECIALIZADO
+
+361
+
+14,030.12
+
+18,765.56
+
+PROGRAMADOR
+
+2
+
+11,514.76
+
+14,030.12
+
+PROGRAMADOR ANALISTA
+
+3
+
+9,518.77
+
+9,518.77
+
+PSICOLOGO
+
+34
+
+9,082.93
+
+18,765.56
+
+PSICOLOGO "A"
+
+3
+
+13,362.01
+
+17,871.96
+
+QUIMICO
+
+28
+
+13,362.01
+
+18,765.56
+
+QUIMICO "A"
+
+4
+
+10,966.44
+
+12,090.49
+
+QUIMICO "B"
+
+1
+
+12,725.73
+
+12,725.73
+
+QUIMICO "C"
+
+25
+
+15,438.45
+
+17,871.96
+
+QUIMICO ANALISTA
+
+5
+
+12,725.73
+
+12,725.73
+
+NOMBRE DEL PUESTO
+
+NUMERO DE
+
+PLAZAS
+
+REMUNERACIONES
+
+DE
+
+HASTA
+
+RADIO OPERADOR
+
+41
+
+7,150.77
+
+7,883.72
+
+RECAUDADOR
+
+2
+
+7,150.77
+
+7,508.31
+
+REGISTRADOR ANOTADOR
+
+6
+
+9,082.93
+
+12,090.49
+
+REPRESENTATE DEL GOB. DEL EDO. DE SON. EN NUEVO MEXICO
+
+1
+
+52,800.00
+
+52,800.00
+
+RERESENTANTE DEL GOB. DEL EDO. DE SON. EN ARIZONA
+
+1
+
+52,800.00
+
+52,800.00
+
+SECRETARIA EJECUTIVA
+
+182
+
+6,875.11
+
+16,210.38
+
+SECRETARIA EJECUTIVA BILINGUE
+
+130
+
+8,238.48
+
+11,514.76
+
+SECRETARIA EJECUTIVA BILINGUE "A"
+
+1
+
+8,238.48
+
+8,238.48
+
+SECRETARIA EJECUTIVA BILINGUE "B"
+
+139
+
+9,518.77
+
+11,514.76
+
+SECRETARIO (A)
+
+63
+
+6,875.11
+
+13,362.01
+
+SECRETARIO AUX. DE ACUERDOS DE TRIB. REG. DE CIRCUITO
+
+9
+
+20,351.09
+
+20,351.09
+
+SECRETARIO AUXILIAR DE ACUERDOS "A"
+
+227
+
+16,859.39
+
+17,537.25
+
+SECRETARIO AUXILIAR DE ACUERDOS "B"
+
+14
+
+12,725.73
+
+14,030.12
+
+SECRETARIO AUXILIAR DE ACUERDOS DEL SUPREMO TRIBUNAL
+
+20
+
+20,351.09
+
+20,351.09
+
+SECRETARIO DE ACUERDOS
+
+20
+
+14,030. 12
+
+24,185.70
+
+SECRETARIO DE ACUERDOS DE JUZGADO
+
+320
+
+20,351.09
+
+20,351.09
+
+SECRETARIO DE ACUERDOS DE LA SUBSECRETARIA DEL TRABAJO
+
+21
+
+16,859.39
+
+16,859.39
+
+SECRETARIO DE ACUERDOS DE TRIB. REG. DE CIRCUITO
+
+5
+
+28,081.23
+
+28,081.23
+
+SECRETARIO DE AMPAROS
+
+1
+
+16,859.39
+
+16,859.39
+
+SECRETARIO DEL RAMO
+
+12
+
+75,594.00
+
+75,594.00
+
+SECRETARIO EJECUTIVO
+
+1
+
+10,966.44
+
+10,966.44
+
+SECRETARIO EJECUTIVO DE LA PRESIDENCIA
+
+1
+
+53,972.57
+
+53,972.57
+
+SECRETARIO ESCRIBIENTE
+
+363
+
+6,235.92
+
+17,537.25
+
+SECRETARIO GENERAL
+
+4
+
+24,185.70
+
+24,185.70
+
+SECRETARIO GENERAL DE ACUERDOS DEL SUPREMO TRIBUNAL
+
+1
+
+53,972.57
+
+53,972.57
+
+SECRETARIO GENERAL DE ACUERDOS Y PROYECTOS
+
+1
+
+52,800.00
+
+52,800.00
+
+SECRETARIO GENERAL DE ASUNTOS INDIVIDUALES
+
+3
+
+17,537.25
+
+17,537.25
+
+SECRETARIO PARTICULAR
+
+14
+
+24,185.70
+
+39,600.00
+
+SECRETARIO PARTICULAR ADJUNTO DEL EJECUTIVO
+
+1
+
+52,800.00
+
+52,800.00
+
+SECRETARIO PARTICULAR DEL C. GOBERNADOR
+
+1
+
+75,594.00
+
+75,594.00
+
+SECRETARIO PROYECTISTA DE TRIBUNAL REGIONAL
+
+37
+
+21,769.18
+
+21,769.18
+
+SECRETARIO PROYECTISTA DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+34
+
+28,080.41
+
+28,080.41
+
+SECRETARIO(A) DE ACUERDOS Y PROYECTOS
+
+11
+
+28,080.40
+
+28,080.40
+
+SOCIOLOGO
+
+2
+
+14,030.12
+
+16,210.38
+
+SUBDIRECTOR
+
+288
+
+17,537.25
+
+18,100.14
+
+SUBDIRECTOR "A" DEL S.T.J.
+
+2
+
+16,240.63
+
+16,240.63
+
+SUBPROCURADOR
+
+2
+
+39,600.00
+
+52,800.00
+
+SUB-PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
+
+2
+
+52,800.00
+
+52,800.00
+
+SUB-SECRETARIO
+
+24
+
+52,800.00
+
+52,800.00
+
+SUPERVISOR DE AREA
+
+66
+
+14,030.12
+
+17,020.92
+
+SUPERVISOR DE CONSTRUCCION
+
+1
+
+9,518.77
+
+9,518.77
+
+SUPERVISOR DE EMERGENCIAS
+
+19
+
+12,725.73
+
+14,030.12
+
+SUPERVISOR DE MANTENIMIENTO
+
+71
+
+8,238.48
+
+13,362.01
+
+SUPERVISOR DE TRABAJO SOCIAL
+
+1
+
+14,030.12
+
+14,030.12
+
+SUPERVISOR PARAMEDICO
+
+57
+
+8,238.48
+
+14,030.12
+
+SUPERVISOR PARAMEDICO "A"
+
+13
+
+9,518.77
+
+12,725.73
+
+TECNICO
+
+11
+
+6,875.11
+
+9,082.93
+
+TECNICO ANALISTA
+
+48
+
+9,082.93
+
+14,030.12
+
+TECNICO LABORATORISTA
+
+1
+
+12,725.73
+
+12,725.73
+
+TECNICO PATOLOGO
+
+1
+
+13,362.01
+
+13,362.01
+
+TECNICO RADIOLOGO
+
+13
+
+9,082.93
+
+12,090.49
+
+TELEFONISTA-RECEPCIONISTA
+
+23
+
+6,875.11
+
+12,725.73
+
+TEMPLETERO
+
+2
+
+17,020.92
+
+18,765.56
+
+NOMBRE DEL PUESTO
+
+NUMERO DE
+
+PLAZAS
+
+REMUNERACIONES
+
+DE
+
+HASTA
+
+TESORERO DEL ESTADO
+
+1
+
+52,800.00
+
+52,800.00
+
+TOPOGRAFO
+
+1
+
+10,966.44
+
+10,966.44
+
+TRABAJADOR (A) SOCIAL
+
+12
+
+7,883.72
+
+16,210.38
+
+TRABAJADOR (A) SOCIAL "A"
+
+27
+
+8,238.48
+
+14,030.12
+
+TRABAJADOR (A) SOCIAL "B"
+
+15
+
+9,518.77
+
+14,030.12
+
+TRABAJADOR (A) SOCIAL "C"
+
+7
+
+10,966.44
+
+16,210.38
+
+TRABAJADOR (A) SOCIAL "D"
+
+1
+
+14,030.12
+
+14,030.12
+
+VALUADOR DE PUESTO
+
+1
+
+14,030.12
+
+14,030.12
+
+VELADOR
+
+1
+
+6,875.11
+
+6,875.11
+
+VERIFICADOR
+
+4
+
+12,725.73
+
+12,725.73
+
+VIGILANTE
+
+9
+
+6,235.92
+
+7,508.31
+
+VIGILANTE ESPECIAL
+
+60
+
+9,518.77
+
+10,494.44
+
+VISITADOR AUXILIAR
+
+4
+
+28,080.23
+
+28,080.23
+
+VISITADOR GENERAL
+
+1
+
+53,972.57
+
+53,972.57
+
+VISITADOR JUDICIAL
+
+3
+
+38,054.00
+
+38,054.00
+
+VOCAL EJECUTIVO
+
+3
+
+39,600.00
+
+52,800.00
+
+VOCERO DE LA FISCALÍA
+
+1
+
+24,185.70
+
+24,185.70
+
+TOTAL
+
+14,451*
+
+* Corresponde exclusivamente a la nómina de las Dependencias de la Adminsitración Pública Directa, que son cubiertas a través del Capítulo 1000 "Servicios Personales", así como los Servicios de Salud de Sonora, el Tribunal de lo Contencioso Administrativo y los Poderes Legislativo y Judicial que se integran al Capítulo 4000 "Transferencias, Asignaciones, Subsidios y Otras Ayudas"
+
+VII.- Distribución de Plantilla por Tipo de Plaza y Dependencia
+
+DEPENDENCIA
+
+BASE
+
+CONFIANZA
+
+TOTAL
+
+CONGRESO DEL ESTADO
+
+75
+
+357
+
+432
+
+SUPREMO TRIBUNAL DE JUSTICIA
+
+882
+
+974
+
+1,856
+
+SECRETARIA DEL EJECUTIVO ESTATAL
+
+161
+
+132
+
+293
+
+SECRETARIA DE GOBIERNO
+
+402
+
+193
+
+595
+
+SECRETARIA DE HACIENDA
+
+1,006
+
+745
+
+1,751
+
+SECRETARIA DE LA CONTRALORIA GENERAL
+
+65
+
+157
+
+222
+
+SECRETARIA DE DESARROLLO SOCIAL
+
+54
+
+52
+
+106
+
+SECRETARIA DE SALUD PUBLICA
+
+2,325
+
+65
+
+2,390 *
+
+SECRETARIA DE INFRESTRUCTURA Y DESARROLLO URBANO
+
+136
+
+72
+
+208
+
+SECRETARA DE ECONOMIA
+
+48
+
+51
+
+99
+
+SECRETARIA DE AGRICULTURA, GANADERIA, RECURSOS
+
+HIDRAULICOS, PESCA Y ACUACULTURA
+
+175
+
+50
+
+225
+
+PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
+
+600
+
+1,886
+
+2,486
+
+SECRETARIA EJECUTIVA DE SEGURIDAD PUBLICA
+
+489
+
+2,786
+
+3,275
+
+TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+
+9
+
+50
+
+59
+
+SECRETARIA DEL TRABAJO
+
+110
+
+161
+
+271
+
+SECRETARIA DE LA CONSEJERIA JURIDICA
+
+67
+
+116
+
+183
+
+6,604
+
+7,847
+
+14,451
+
+* Incluye 2,262 plazas de los Servicios de Salud de Sonora
+
+VIII.- Plazas y Número de Horas Catedra del Magisterio Estatal por Unidad Responsable
+
+U R
+
+DESCRIPCION
+
+PLAZAS
+
+HORAS
+
+00700
+
+DIRECCIÓN GENERAL DE ATENCIÓN CIUDADANA
+
+2
+
+00800
+
+COORDINACIÓN ESTATAL DEL SERVICIO PROFESIONAL DOCENTE
+
+7
+
+00900
+
+UNIDAD DE IGUALDAD DE GÉNERO
+
+2
+
+01000
+
+DESPACHO DEL SECRETARIO
+
+29
+
+01100
+
+UNIDAD DE ASUNTOS JURÍDICOS
+
+7
+
+01200
+
+UNIDAD DE ENLACE DE COMUNICACIÓN SOCIAL
+
+5
+
+02000
+
+SUBSECRETARÍA DE EDUCACIÓN BÁSICA
+
+18
+
+02000
+
+SUBSECRETARIA DE EDUCACIÓN BÁSICA (ESCUELAS DE CALIDAD)
+
+4
+
+02100
+
+DIRECCIÓN GENERAL DE EDUCACIÓN ELEMENTAL (PREESCOLAR)
+
+980
+
+649
+
+02100
+
+DIRECCIÓN GENERAL DE EDUCACIÓN ELEMENTAL (INICIAL)
+
+97
+
+60
+
+02100
+
+DIRECCIÓN GENERAL DE EDUCACIÓN ELEMENTAL (ESPECIAL)
+
+623
+
+13,470
+
+02200
+
+DIRECCIÓN GENERAL DE EDUCACIÓN PRIMARIA
+
+4,715
+
+32
+
+02300
+
+DIRECCIÓN GENERAL DE EDUCACIÓN SECUNDARIA ( TECNICA )
+
+414
+
+14,593
+
+02300
+
+DIRECCIÓN GENERAL DE EDUCACION SECUNDARIA ( GENERAL )
+
+983
+
+29,369
+
+02300
+
+DIRECCIÓN GENERAL DE EDUCACION SECUNDARIA ( TELESECUNDARIA )
+
+317
+
+29,848
+
+02300
+
+DIRECCIÓN GENERAL DE EDUCACION SECUNDARIA ( FISICA )
+
+52
+
+11,738
+
+02400
+
+COORDINACIÓN GENERAL DE SALUD Y SEGURIDAD ESCOLAR
+
+4
+
+02500
+
+DIRECCIÓN GENERAL DE TECNOLOGÍA EDUCATIVA
+
+11
+
+02600
+
+DIRECCIÓN GENERAL DE INNOVACIÓN Y DESARROLLO TECNOLÓGICO
+
+10
+
+03000
+
+SUBSECRETARÍA DE EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR
+
+18
+
+03100
+
+DIRECCIÓN GENERAL DE EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR
+
+13
+
+03200
+
+DIRECCIÓN GENERAL DE INTERCAMBIOS Y ASUNTOS INTERNACIONALES
+
+6
+
+03300
+
+DIRECCIÓN GENERAL DE VINCULACIÓN Y PARTICIPACIÓN SOCIAL
+
+4
+
+03400
+
+COORDINACIÓN GENERAL DE REGISTRO, CERTIFICACIÓN Y SERVICIOS A PROFESIONISTAS
+
+23
+
+04000
+
+SUBSECRETARÍA DE PLANEACIÓN Y ADMINISTRACIÓN
+
+19
+
+04100
+
+DIRECCIÓN GENERAL DE PLANEACIÓN
+
+22
+
+04200
+
+DIRECCIÓN GENERAL DE RECURSOS HUMANOS
+
+57
+
+04300
+
+DIRECCIÓN GENERAL DE ADMINISTRACIÓN Y FINANZAS
+
+25
+
+04400
+
+COORDINACIÓN GENERAL DE PROGRAMAS COMPENSATORIOS
+
+5
+
+04500
+
+DIRECCIÓN GENERAL DE SERVICIOS REGIONALES
+
+33
+
+04600
+
+DIRECCIÓN GENERAL DE INFORMÁTICA
+
+11
+
+07800
+
+INSTITUTO DE FORMACIÓN DOCENTE DEL ESTADO DE SONORA (IFODES)
+
+183
+
+3,166
+
+TOTAL
+
+8,699
+
+102,925
+
+IX.- Remuneraciones de los Servidores Públicos por Tipo de Percepción, incluye erogaciones correspondientes a Obligaciones, así como Previsiones salariales y económicas
+
+CONCEPTO
+
+IMPORTE
+
+Percepciones Ordinarias
+
+6,088,401,884.83
+
+Percepciones Extraordinarias
+
+484,130,779.55
+
+Obligaciones
+
+1,747,431,230.54
+
+Previsiones salariales y económicas
+
+314,813,100.08
+
+TOTAL:
+
+8,634,776,995.00
+
+Se presenta información complementaria sobre las plazas del Magisterio Estatal y Federalizado en el Apéndice E de este Decreto.
+
+Adicionalmente, es el Tabulador Salarial del Magisterio Federalizado se detalla en el Apéndice F.
+
+X.- Clasificación por Grupo Vulnerable
+
+Grupo Vulnerable
+
+Asignado
+
+%
+
+NIÑOS
+
+$ 49,991,304.70
+
+.0885
+
+JOVENES
+
+$ 298,680,045.00
+
+.5290
+
+ADULTOS MAYORES
+
+$296,396.37
+
+.0005
+
+INDIGENAS
+
+$40,302,300.00
+
+.0713
+
+PERSONAS CON CAPACIDADES DIFERENTES
+
+$ 10,451,212.00
+
+.0185
+
+MIGRANTES
+
+$ 18,805,547.87
+
+.0333
+
+NO DETERMINADA
+
+$ 55,959,804,838.38
+
+99.12
+
+Gasto Neto Total
+
+$ 56,451,879,944.00
+
+100
+
+XI.- Clasificación por Equidad de Género
+
+Género
+
+Asignado
+
+%
+
+MUJERES
+
+$ 13,189,074.54
+
+8.90
+
+ARTÍCULO 18.- Las Fuentes financieras previstas para cubrir el Presupuesto en el ejercicio fiscal de 2017, son las siguientes:
+
+FUENTE FINANCIERA
+
+IMPORTE
+
+1
+
+RECURSOS FISCALES
+
+6,721,014,163.23
+
+2
+
+FINANCIAMIENTOS INTERNOS
+
+4,500,000,000.00
+
+3
+
+FINANCIAMIENTOS EXTERNOS
+
+0.00
+
+4
+
+INGRESOS PROPIOS ENTIDADES
+
+7,186,770,866.00
+
+5
+
+RECURSOS FEDERALES
+
+37,965,397,479.77
+
+6
+
+RECURSOS ESTATALES
+
+78,697,435.00
+
+7
+
+OTROS RECURSOS
+
+0.00
+
+TOTAL GENERAL
+
+56,451,879,944.00
+
+ARTÍCULO 19.- Para los efectos del presente Decreto se entenderá por Deuda Pública a las erogaciones destinadas a cubrir las obligaciones del Gobierno del Estado por concepto de pago de servicio de la deuda derivada de la contratación de empréstitos directos, del costo financiero de los mismos, de avales, coberturas, proyectos de infraestructura de largo plazo y arrendamientos financieros especiales. Incluye los adeudos de ejercicios fiscales anteriores y pasivo contingente de las dependencias y entidades de la Administración Pública.
+
+En su conjunto, el monto de erogaciones proyectadas para el pago de la deuda pública durante el ejercicio fiscal 2017 asciende a $ 4,003,894,765.47 (Cuatro mil tres millones ochocientos noventa y cuatro mil setecientos sesenta y cinco Pesos 47/100 M.N.).
+
+Los créditos que integran la deuda pública Estatal al 30 de Septiembre de 2016 se presentan dentro del Apéndice G del presente documento.
+
+Capítulo II
+
+De las Participaciones, Aportaciones, Apoyos y
+
+Gasto Reasignado a los Municipios.
+
+ARTÍCULO 20.- Las transferencias por Participaciones, Fondos de Aportaciones Federales y Apoyos Estatales proyectados para los Municipios del Estado durante el ejercicio fiscal 2017, ascienden a la cantidad de $6,316,446,920.00 (Seis mil trescientos diez y seis millones cuatrocientos cuarenta y seis mil novecientos veinte pesos 00/100 M.N.).
+
+ARTÍCULO 21.- El importe estimado de las Participaciones a los Municipios para el ejercicio fiscal 2017 es de $4,139,250,947.00 (Cuatro mil ciento treinta y nueve millones doscientos cincuenta mil novecientos cuarenta y siete pesos 00/100 M.N.).
+
+La distribución de las Participaciones entre los Municipios la realizará la Secretaría conforme lo establece la Ley de Coordinación Fiscal y la Ley de Ingresos y Presupuesto de Ingresos del Estado para el Ejercicio Fiscal de 2017.
+
+ARTÍCULO 22.- El importe estimado correspondiente a los Fondos de Aportaciones Federales para los Municipios del Estado correspondientes al ejercicio fiscal de 2017 asciende a $2,173,695,973.00 (Dos mil ciento setenta y tres millones seiscientos noventa y cinco mil novecientos setenta y tres pesos 00/100 M.N.).
+
+La distribución entre los municipios de los recursos que señala el presente artículo, se realizará por la Secretaría en los términos de la Ley de Coordinación Fiscal.
+
+ARTÍCULO 23.- Adicionalmente, el Ejecutivo del Estado podrá destinar durante el ejercicio fiscal de 2017 recursos como Apoyos Estatales para el desarrollo comunitario que, en su caso, serán aplicados en función de las demandas sociales planteadas al Ejecutivo del Estado, y podrán ser canalizados a través de los Ayuntamientos, directamente a los beneficiarios o mediante la suscripción de Convenios para el Desarrollo Social Estatal.
+
+ARTÍCULO 24.-El Ejecutivo del Estado podrá convenir con los ayuntamientos la ejecución de obras, programas y acciones mediante la suscripción de un Convenio Estado-Municipio. Estos convenios deberán cumplir con las disposiciones siguientes:
+
+I.- Ser congruentes con lo dispuesto en el Plan Estatal de Desarrollo 2016-2021;
+
+II.- La ministración de los recursos se realizará previa firma de los Convenios Estado-Municipio;
+
+III.- Establecer de manera clara las responsabilidades, unidades encargadas de su ejecución y procedimientos de seguimiento, evaluación y fiscalización; y
+
+IV.- Cada obra, programa o acción contará preferentemente con aportaciones de los ayuntamientos y de la comunidad beneficiaria, conforme a los Convenios Estado-Municipio previstos en la fracción II anterior.
+
+ARTÍCULO 25.- En el caso de las transferencias consignadas en el artículo anterior de este Decreto, los municipios deberán observar lo siguiente:
+
+I.- Aperturar una cuenta bancaria por cada fondo y registrar la cuenta y firmas autorizadas ante la Secretaría;
+
+II.- Emitir el recibo correspondiente a cada ministración previo a la fecha de la transferencia electrónica;
+
+III.- Registrar los fondos en sus ingresos y realizar las erogaciones conforme lo dispuesto en el presente Decreto, la normatividad aplicable de acuerdo a la naturaleza de los recursos y en su caso, a las disposiciones establecidas en los convenios respectivos;
+
+IV.- En su caso, presentar los informes en los términos de lo dispuesto en el Titulo Cuarto del presente Decreto, de conformidad con las disposiciones aplicables;
+
+V.- Realizar las acciones de transparencia en el ejercicio de los recursos transferidos, en los términos de lo establecido en el presente Decreto, en lo que establece la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Sonora, y otras disposiciones aplicables; y
+
+VI.- El Instituto, será responsable de la fiscalización del ejercicio de los recursos transferidos, en los términos de las disposiciones aplicables.
+
+TITULO TERCERO
+
+De la Disciplina Presupuestaria
+
+Capítulo I
+
+Disposiciones Generales
+
+ARTÍCULO 26.- Los Poderes Legislativo y Judicial, los Órganos Autónomos, así como las Dependencias y Entidades, deberán sujetarse a los montos autorizados en este presupuesto para sus respectivos programas, salvo que se autoricen adecuaciones presupuestarias en los términos de las disposiciones aplicables. En el ejercicio de sus respectivos presupuestos, deberán tomar medidas para racionalizar el gasto destinado a las actividades administrativas y de apoyo, sin afectar el cumplimiento de los objetivos y las metas aprobadas en este Presupuesto.
+
+ARTÍCULO 27.- Los responsables de la administración en los Poderes Legislativo y Judicial, los titulares de los Órganos Autónomos y de las Dependencias, así como los miembros de los órganos de gobierno y los directores generales o sus equivalentes de las Entidades serán responsables de la administración por resultados. Para tal efecto, deberán cumplir con oportunidad y eficiencia las metas y objetivos previstos en sus respectivos programas, subprogramas y proyectos.
+
+Los sujetos obligados a cumplir las disposiciones del presente Decreto deberán observar que la administración de los recursos públicos se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+
+Los Poderes Legislativo y Judicial, así como los Órganos Autónomos y los Municipios, se sujetarán a las disposiciones de este Decreto en lo que no se contraponga a los ordenamientos legales que los rigen.
+
+ARTÍCULO 28.- Los Poderes, Órganos Autónomos, Dependencias y Entidades no podrán contraer obligaciones que impliquen comprometer recursos de los subsecuentes ejercicios fiscales, excepto cuando se trate de celebración de contratos multianuales de obra pública, adquisiciones, arrendamientos y servicios; para lo cual se requerirá la autorización de la Legislatura, así como de la Secretaría, en los términos de lo establecido en las disposiciones legales aplicables, quien la otorgará siempre y cuando se demuestre que dichos contratos representan mejores términos y condiciones que el contrato por un solo ejercicio fiscal, en el entendido de que el pago de los compromisos de los años subsecuentes quedará sujeto a la disponibilidad presupuestal que autorice la Legislatura.
+
+ARTÍCULO 29.- La Secretaría dará seguimiento mensual a la evolución de los ingresos y gastos proyectados y efectuará los ajustes al gasto que sean requeridos, a efecto de favorecer el balance presupuestario del Gobierno del Estado.
+
+Corresponderá a los Ejecutores del Gasto realizar las medidas pertinentes para que dichos ajustes se reflejen efectivamente en su gasto devengado.
+
+ARTÍCULO 30.- La Secretaría no reconocerá adeudos ni pagos por cantidades reclamadas o erogaciones efectuadas en contravención a lo dispuesto en este Decreto y los Acuerdos que al respecto sean emitidos.
+
+Será causa de responsabilidad de los titulares de las dependencias, de los directores, coordinadores o sus equivalentes en las entidades de la Administración Pública, los compromisos contraídos fuera de las limitaciones de los presupuestos aprobados.
+
+Los Poderes Legislativo y Judicial y los Órganos Autónomos emitirán las disposiciones normativas internas necesarias, para el cabal cumplimiento de lo dispuesto en el presente artículo.
+
+ARTÍCULO 31.- El Ejecutivo, a través de la Secretaría, autorizará las adecuaciones presupuestarias de las dependencias y entidades, en los términos de las disposiciones establecidas en la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público Estatal.
+
+Las Dependencias y Entidades serán responsables de que las adecuaciones a sus respectivos presupuestos se realicen siempre y cuando permitan un mejor cumplimiento de los objetivos de los programas autorizados a su cargo.
+
+Los Poderes Legislativo y Judicial, así como los Órganos Autónomos, a través de sus órganos competentes, podrán autorizar adecuaciones compensadas a sus respectivos presupuestos siempre que permitan un mejor cumplimiento de los objetivos de los programas a su cargo. Dichas adecuaciones deberán ser informadas al Ejecutivo por conducto de la Secretaría, para efectos de la integración de los informes trimestrales, así como del Informe de Avance de Gestión Financiera y la Cuenta Pública en los términos de la Ley de Fiscalización Superior del Estado de Sonora.
+
+ARTÍCULO 32.- Queda estrictamente prohibido realizar adecuaciones líquidas a los presupuestos del Estado sin que exista fuente de financiamiento debidamente correspondida en el presupuesto de ingresos, por lo que los entes públicos deberán solicitar la autorización de la Secretaría.
+
+Toda solicitud de ampliación liquida que efectúen las Dependencias y Entidades, deberá acompañarse de una amplia explicación que justifique su autorización, así como de las ampliaciones de metas a sus programas que respalden la ampliación líquida de recursos.
+
+ARTÍCULO 33.- Los Poderes Legislativo y Judicial, los Órganos Autónomos, así como las dependencias y entidades, con cargo a sus respectivos presupuestos y de conformidad con las disposiciones aplicables, cubrirán las contribuciones federales, estatales y municipales, así como las obligaciones contingentes o ineludibles que se deriven de resoluciones emitidas por autoridad competente.
+
+Las Dependencias y Entidades que no puedan cubrir la totalidad de las obligaciones contingentes o ineludibles conforme a lo previsto en este artículo, incluso las que se hubieren generado con anterioridad a este ejercicio, presentarán ante la autoridad competente un programa de cumplimiento que deberá ser considerado para todos los efectos legales en vía de ejecución respecto de la resolución que se hubiese emitido, con la finalidad de cubrir las obligaciones contingentes o ineludibles hasta por un monto que no afecte las metas y programas propios o el cumplimiento de sus atribuciones, sin perjuicio de que el resto de la obligación deberá pagarse en los ejercicios fiscales subsecuentes conforme a dicho programa.
+
+Los Poderes Legislativo y Judicial y los Órganos Autónomos, en caso de ser necesario, establecerán una propuesta de cumplimiento de obligaciones contingentes o ineludibles, observando en lo conducente lo dispuesto en los párrafos segundo y tercero de este artículo.
+
+ARTÍCULO 34.- En el ejercicio de sus presupuestos, las dependencias y entidades se sujetarán estrictamente a los calendarios de presupuesto autorizados a cada dependencia y entidad en los términos de las disposiciones aplicables.
+
+Los calendarios de ministración serán informados por la Secretaría a más tardar el décimo día hábil del mes de febrero de 2017.
+
+La Secretaría, tomando en cuenta los flujos de efectivo, así como las variaciones que se produzcan por situaciones contingentes o extraordinarias que incidan en el desarrollo de los mismos, determinará las adecuaciones a los calendarios de presupuesto en función de los compromisos reales de pago, los requerimientos, las disponibilidades y las alternativas de financiamiento que se presenten, procurando no afectar las actividades sustantivas y los programas prioritarios.
+
+Los Poderes Legislativo, Judicial, los Órganos Autónomos y Municipios, enviarán su propuesta de calendario de ministraciones a la Secretaría durante los diez días hábiles siguientes a la publicación del presente Decreto. Esta última, en la medida de la disponibilidad y liquidez del flujo de efectivo, convendrá dicho calendario.
+
+Se autoriza al Ejecutivo, por conducto de la Secretaría, para modificar los calendarios y montos de ministraciones a los Ejecutores del Gasto, atendiendo a la meta de Balance Presupuestario proyectada para el ejercicio.
+
+ARTÍCULO 35.- El Ejecutivo, por conducto de la Secretaría, podrá suspender las ministraciones de recursos a las dependencias y entidades y, en su caso, solicitar el reintegro de las mismas, cuando se presente alguno de los siguientes supuestos:
+
+I.- No envíen la información que les sea requerida en relación con el ejercicio de sus programas y presupuestos;
+
+II.- No cumplan con las metas de los programas aprobados o bien se detecten desviaciones en la ejecución o en la aplicación de los recursos correspondientes;
+
+III.- No remitan su informe de avance físico financiero a más tardar el día 10 del mes siguiente al del ejercicio de dichos recursos, lo que motivará la inmediata suspensión de las subsecuentes ministraciones de recursos que por el mismo concepto se hubieren autorizado, así como el reintegro a la Secretaría de Hacienda de los que se hayan suministrado;
+
+IV.- En el manejo de sus disponibilidades financieras no cumplan con las disposiciones aplicables; o
+
+V.- En general, no ejerzan sus presupuestos de conformidad con lo previsto en este Decreto y en las demás disposiciones legales y normativas vigentes para el ejercicio del gasto público.
+
+ARTÍCULO 36.- En caso de que las Dependencias y Entidades no cumplan con las disposiciones de este Decreto, la Secretaría podrá suspender la ministración de los recursos correspondientes al gasto operativo y de inversión de las mismas.
+
+ARTÍCULO 37.- Las Dependencias y Entidades que constituyan o incrementen el patrimonio de fideicomisos públicos no considerados entidad, o que celebren mandatos o contratos análogos, requerirán la autorización de la Secretaría, conforme a las disposiciones aplicables.
+
+Las dependencias y entidades que coordinen los fideicomisos a que se refiere el párrafo anterior deberán registrarlos ante la Secretaría de Hacienda.
+
+Las Dependencias y Entidades sólo podrán otorgar recursos públicos a fideicomisos, mandatos y contratos análogos a través de las partidas específicas que para tales fines prevé el Clasificador por Objeto del Gasto, con autorización de sus titulares o en los términos de las respectivas reglas de operación tratándose de subsidios, siempre y cuando estén previstos en su presupuesto y se haya dado cumplimiento a lo dispuesto en este artículo.
+
+Los fideicomisos se sujetarán, en lo conducente, a lo dispuesto en la Ley de Entidades Paraestatales del Estado de Sonora.
+
+ARTÍCULO 38.- Las Dependencias y Entidades podrán otorgar subsidios o donativos a los fideicomisos que constituyan, siempre y cuando cumplan con lo que a continuación se señala y las disposiciones aplicables:
+
+I.- Los recursos se identificarán en una partida específica y deberán reportarse en los informes trimestrales; y
+
+II.- Los subsidios y donativos serán fiscalizados en los términos de las disposiciones aplicables.
+
+Los informes en materia de subsidios otorgados a través de fideicomisos y mandatos, que deban enviarse a la Secretaría, se remitirán a ésta en los términos de las disposiciones aplicables.
+
+Los Poderes Legislativo y Judicial, así como los Órganos Autónomos, deberán incluir en los informes trimestrales los ingresos del período, incluyendo rendimientos financieros; egresos; destino y saldo de los fideicomisos en los que participen, informando de ello al Instituto. Dicha información deberá presentarse a más tardar 15 días naturales después de terminado el trimestre de que se trate.
+
+ARTÍCULO 39.- Las Dependencias y Entidades que coordinen fideicomisos públicos con la participación que corresponda al fiduciario, o que celebren mandatos o contratos análogos o con cargo a sus presupuestos se hayan aportado recursos a los mismos, serán las responsables de transparentar y rendir cuentas sobre el manejo de los recursos públicos otorgados, así como de proporcionar los informes que permitan su vigilancia y fiscalización. Asimismo, serán responsables de enviar oportunamente a la Secretaría la información correspondiente para la integración de los informes trimestrales.
+
+Las Dependencias y Entidades deberán incluir en los informes trimestrales el avance en materia de extinción de fideicomisos públicos o actos análogos, incluyendo el monto de recursos concentrados en la Secretaría, así como la relación de aquéllos que se hubieren extinguido o terminado. Asimismo incluirán el monto con el que se constituyan, ingresos, rendimientos financieros, egresos y disponibilidades.
+
+La Contraloría evaluará y verificará los fideicomisos, e informarán lo conducente a la Secretaría.
+
+ARTÍCULO 40.- Cuando en el contrato de los fideicomisos cuya extinción se promueva no esté previsto un destino distinto se deberán concentrar los remanentes de recursos públicos en la Secretaría, por lo que la institución fiduciaria deberá efectuar dicha concentración, aun cuando la formalización de la extinción no haya concluido. Asimismo, tratándose de los fideicomisos constituidos por entidades, los remanentes se concentraran en sus respectivas tesorerías.
+
+ARTÍCULO 41.- Los montos asignados y transferidos al Estado, con base a lo dispuesto en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2017, los que deriven de convenios con dependencias y entidades federales y, en general, las transferencias de recursos federales de cualquier naturaleza que sean captados para su ejercicio por el Gobierno del Estado formarán parte de manera automática del presente Presupuesto. Su asignación y destino corresponderá al Ejecutivo del Estado a través de la Secretaría de conformidad con lo establecido en dicho Decreto, los programas presentados y lo planteado en el Plan Estatal de Desarrollo.
+
+ARTÍCULO 42.- Las Dependencias y Entidades de la administración pública centralizada y descentralizada podrán aperturar una cuenta bancaria con la autorización de la Secretaría para el correcto manejo de su fondo revolvente, por lo que, cualquier otra cuenta que se hubiere aperturado por dichas dependencias y entidades deberá ser cancelada en el primer mes del ejercicio fiscal 2017, a excepción de las que autorice expresamente la Secretaría.
+
+La Secretaría será la única facultada para determinar la aplicación de los rendimientos que se generen en las cuentas bancarias aperturadas específicamente para los diferentes programas, en lo que respecta a los recursos estatales, previa comunicación de la dependencia o entidad.
+
+En lo referente a los rendimientos generados con recursos federales procederá su ejercicio de conformidad con las disposiciones federales vigentes.
+
+Los Organismos Descentralizados, a solicitud de la Secretaría de Hacienda, proporcionaran los accesos para consulta de la totalidad de sus cuentas bancarias y fideicomisos que manejen, incluyendo lo correspondiente a recursos federales, ingresos propios o de cualquier naturaleza.
+
+ARTÍCULO 43.- Las aplicaciones de ingresos de libre disposición superiores a los presupuestados, así como los ajustes que deban realizarse con motivo de ingresos menores a los previstos, seguirá la prelación estipulada en los artículos 14 y 15, respectivamente, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Capítulo II
+
+De los Servicios Personales
+
+ARTÍCULO 44.- Las Dependencias y Entidades al realizar los pagos por concepto de remuneraciones, prestaciones laborales y demás erogaciones relacionadas con servicios personales, deberán:
+
+I.- Apegarse estrictamente a los criterios de la política de servicios personales que establezca el Ejecutivo Estatal por conducto de la Secretaría;
+
+II.- Cubrir los pagos en los términos autorizados por la Secretaría y, por acuerdo del Órgano de Gobierno, previa autorización de la Secretaría en el caso de las Entidades;
+
+III.- Abstenerse de contraer obligaciones en materia de servicios personales que impliquen compromisos en subsecuentes ejercicios fiscales, sin la autorización de la Secretaría y, en su caso, del órgano de gobierno respectivo; previa autorización de la Secretaría;
+
+IV.- Sujetarse a los tabuladores de sueldos que apruebe la Secretaría, así como a los incrementos en las percepciones y demás asignaciones autorizadas por la misma para las dependencias y, en el caso de las entidades, a los acuerdos de sus respectivos Órganos de Gobierno, los que deberán observar las disposiciones y autorizaciones que apruebe la Secretaría, e informarlo oportunamente.
+
+En materia de incremento en las percepciones, las Dependencias y Entidades deberán sujetarse estrictamente a las previsiones presupuestarias aprobadas específicamente para este propósito en el presente Presupuesto;
+
+V.- Abstenerse de contratar trabajadores eventuales, salvo que tales contrataciones se encuentren previstas en el presupuesto destinado a servicios personales de la Dependencia o Entidad y se cuente con autorización de la Secretaría;
+
+VI.- Los importes no devengados en el pago de servicios personales quedarán definitivamente como economías del Presupuesto y, en ningún caso, las Dependencias y Entidades podrán hacer uso de ellos; y
+
+VII.- Los recursos autorizados a las Dependencias y Entidades para cubrir el capítulo de servicios personales, serán intransferibles a otros capítulos de gasto. Asimismo, los recursos de otros capítulos presupuestales no serán transferibles al capítulo de servicios personales, salvo con la autorización expresa de la Secretaría.
+
+ARTÍCULO 45.- La Secretaría con base en este Presupuesto, aprobará los tabuladores de sueldo de dependencias y entidades.
+
+TABULADOR INTEGRAL DE GOBIERNO*
+
+Vigente a partir del 1ro. de Enero del 2017
+
+Para puestos de Base y Confianza, Administrativos, Técnicos y Operativos
+
+NIVEL
+
+DESCRIPCIÓN
+
+OPCION
+
+I
+
+A
+
+B
+
+1
+
+Sueldo
+
+6,235.92
+
+6,547.72
+
+6,875.11
+
+2
+
+Sueldo
+
+7,150.77
+
+7,508.31
+
+7,883.72
+
+3
+
+Sueldo
+
+8,238.48
+
+8,650.40
+
+9,082.93
+
+4
+
+Sueldo
+
+9,518.77
+
+9,994.71
+
+10,494.44
+
+5
+
+Sueldo
+
+10,966.44
+
+11,514.76
+
+12,090.49
+
+6
+
+Sueldo
+
+12,725.73
+
+13,362.01
+
+14,030.12
+
+7
+
+Sueldo
+
+14,703.29
+
+15,438.45
+
+16,210.38
+
+8
+
+Sueldo
+
+17,020.92
+
+17,871.96
+
+18,765.56
+
+9
+
+Sueldo
+
+19,703.84
+
+20,689.03
+
+MANDOS MEDIOS Y SUPERIORES
+
+9
+
+Jefe de Departamento
+
+Sueldo
+
+16,859.39
+
+Compensación
+
+0.00
+
+Total
+
+16,859.39
+
+10
+
+Subdirector
+
+Sueldo
+
+17,537.25
+
+Compensación
+
+0.00
+
+Total
+
+17,537.25
+
+11
+
+Director
+
+Sueldo
+
+24,185.70
+
+Compensación
+
+0.00
+
+Total
+
+24,185.70
+
+12
+
+Director General
+
+Mínimo
+
+Máximo
+
+Sueldo
+
+22,860.00
+
+23,760.00
+
+Compensación
+
+15,240.00
+
+15,840.00
+
+Total
+
+38,100.00
+
+39,600.00
+
+NIVEL
+
+DESCRIPCION
+
+OPCION
+
+I
+
+A
+
+B
+
+13
+
+Subsecretario
+
+Sueldo
+
+25,380.00
+
+26,400.00
+
+Compensación
+
+25,380.00
+
+26,400.00
+
+Total
+
+50,760.00
+
+52,800.00
+
+14
+
+Secretario
+
+Sueldo
+
+36,340.00
+
+37,797.00
+
+Compensación
+
+36,340.00
+
+37,797.00
+
+Total
+
+72,680.00
+
+75,594.00
+
+Gobernador
+
+15
+
+Sueldo
+
+23,664.23
+
+Compensación
+
+55,216.52
+
+Total
+
+78,880.75
+
+* Tabulador Integral de Gobierno, vigente al 15 de Noviembre de 2016, se modificará en el curso de 2017.
+
+Remuneraciones Adicionales y/o Especiales
+
+Nivel
+
+Importe
+
+1 - 3
+
+2,500.00
+
+4 - 5
+
+3,000.00
+
+6 – 9*
+
+3,500.00
+
+9 - 10
+
+5,000.00
+
+11
+
+5,950.00
+
+12
+
+9,800.00
+
+13
+
+19,600.00
+
+14
+
+21,100.00
+
+* Nivel 9 de base
+
+En forma complementaria, los servidores públicos podrán percibir los importes máximos arriba señalados, de conformidad con las disposiciones emitidas para tales efectos.
+
+ARTÍCULO 46.- Las Dependencias y Entidades no podrán crear nuevas plazas, nuevas categorías, ni podrán llevar a cabo traspasos de plazas si no es con la autorización de la Secretaría. Los Órganos de Gobierno de las entidades no podrán crear nuevas plazas o modificar su plantilla laboral sin autorización previa de la Secretaría.
+
+ARTÍCULO 47.- La Secretaría al realizar la oferta de plazas de trabajo en las diversas modalidades que le permite la Ley de la materia, tomará en consideración las solicitudes que se le hayan presentado directamente ante la propia Secretaría, quien valorará y resolverá lo conducente en el marco de las disposiciones legales vigentes.
+
+ARTÍCULO 48.- Las Dependencias y Entidades sólo podrán modificar sus estructuras orgánicas y ocupacionales vigentes autorizadas por la Secretaría, conforme a las disposiciones aplicables y de acuerdo con las modificaciones a la estructura orgánica de la Administración Pública Estatal.
+
+Los Órganos de Gobierno de las Entidades no podrán crear nuevas plazas o modificar su plantilla laboral sin autorización previa de la Secretaría.
+
+La Secretaría podrá emitir disposiciones para promover el retiro voluntario de los servidores públicos, en razón de la disponibilidad financiera que se tenga.
+
+ARTÍCULO 49.- Para la autorización de modificaciones en los Manuales de Organización de Dependencias y Entidades que impliquen crecimientos en la estructura organizacional y/o en la plantilla de personal, se requerirá previamente el análisis y validación por parte de la Secretaría.
+
+La Contraloría no autorizará modificaciones en la estructura organizacional dentro de los Manuales de Organización de las Dependencias y Entidades, sin antes verificar que se cuente con fuente de financiamiento a largo plazo con la Secretaría.
+
+ARTÍCULO 50.- El gasto en Servicios Personales de las Entidades deberá ser congruente con la asignación de recursos estatales prevista en el presente Decreto y sera comprometido conforme a lo dispuesto en el Acuerdo por el que se Emiten las Normas y Metodología para la Determinación de los Momentos Contables de los Egresos, emitido por el Consejo Nacional de Armonización Contable.
+
+Las Entidades deberán realizar los ajustes a su plantilla de personal que sean requeridos para que el gasto en Servicios Personales financiado con el subsidio estatal corresponda a su presupuesto asignado para tal efecto en 2017.
+
+Dichos ajustes deberán aplicarse preferentemente en áreas no sustantivas e incorporar criterios de costo-beneficio que redundan en economías presupuestales a corto plazo.
+
+ARTÍCULO 51.- Las Entidades deberán aplicar el Tabulador vigente en el Gobierno del Estado para sus plantillas financiadas con subsidios estatales y/o ingresos propios.
+
+No deberán cubrirse prestaciones adicionales a las aplicadas en la Administración Pública Centralizada.
+
+La Secretaría y la Contraloría se coordinarán con las Entidades para implementar este proceso, así como para definir lineamientos para establecer los niveles tabulares aplicables en cada Entidad.
+
+La Secretaría iniciará un proceso gradual para procesar las nóminas de las Entidades que lo hacen en sus propias estructuras administrativas. Con este propósito la secretaría esta facultada para seleccionar bajo criterios de eficiencia y costo-beneficio, las Entidades que deberán incorporarse a este proceso.
+
+Capítulo III
+
+De los Materiales y Suministros y Servicios Generales
+
+ARTÍCULO 52.- Los Titulares de las Dependencias y los Directores Generales o sus equivalentes en las Entidades, serán responsables de reducir selectiva y racionalmente los gastos de operación, sin detrimento de la realización oportuna y eficiente de los programas a su cargo, y de la adecuada prestación de los bienes y servicios de su competencia, así como cubrir, con la debida oportunidad, sus compromisos de pago respetando los calendarios para el efecto autorizados.
+
+ARTÍCULO 53.- Las Dependencias y Entidades, deberán apegarse a las disposiciones establecidas tratándose de erogaciones relacionadas con:
+
+Combustibles
+
+Alimentación de personas
+
+Publicidad, propaganda, publicaciones especiales
+
+Pago de viáticos y gastos de camino
+
+Gastos menores, de ceremonias y de orden social
+
+Contratación de asesorías, estudios e investigaciones y capacitación
+
+Gastos de transportación terrestre y aérea
+
+Uso de vehículos oficiales
+
+Telefonía, telecomunicación, televisión por cable o vía satélite
+
+Arrendamientos, mobiliarios, inmobiliarios y financieros.
+
+Adquisición de vehículos.
+
+Capítulo IV
+
+De las Adquisiciones y la Obra Pública
+
+ARTÍCULO 54.- Para los efectos de lo señalado en el artículo 26 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal, las Dependencias y Entidades se ajustarán a lo siguiente:
+
+MILES DE PESOS
+
+RANGO DE PRESUPUESTO
+
+TOTAL ANUAL AUTORIZADO
+
+A LA DEPENDENCIA O
+
+ENTIDAD
+
+MONTO QUE PODRÁ ADJUDICARSE EN FORMA DIRECTA
+
+MONTO MÁXIMO DE
+
+CADA
+
+OPERACIÓN QUE
+
+PODRA ADJUDICARSE MEDIANTE
+
+DE
+
+A
+
+0
+
+2,000
+
+75
+
+220
+
+2,001
+
+4,000
+
+90
+
+260
+
+4,001
+
+7,000
+
+110
+
+350
+
+7,001
+
+10,000
+
+130
+
+450
+
+10,001
+
+14,000
+
+150
+
+650
+
+14,001
+
+28,000
+
+170
+
+850
+
+28,001
+
+40,000
+
+180
+
+950
+
+40,001
+
+65,000
+
+190
+
+1050
+
+65,001
+
+105,000
+
+220
+
+1,300
+
+105,001
+
+180,000
+
+240
+
+1,500
+
+180,001
+
+320,000
+
+270
+
+1,800
+
+320,001
+
+500,000
+
+310
+
+2,000
+
+500,001
+
+y más
+
+350
+
+2,500
+
+Los montos establecidos deberán de considerarse sin incluir el importe del Impuesto al Valor Agregado.
+
+ARTÍCULO 55.- Con fundamento en lo señalado en la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Sonora, los montos máximos por asignación directa, por concurso a tres contratistas y licitación pública que podrán realizar las dependencias y entidades durante el año 2017 para la ejecución de obra pública y de los servicios relacionados con la misma, se sujetarán a los lineamientos siguientes:
+
+I.- Para Obra Pública
+
+UNIDADES DE MEDIDA Y ACTUALIZACIÓN
+
+ADJUDICACIÓN
+
+DIRECTA
+
+POR
+
+INVITACIÓN A
+
+TRES
+
+CONTRATISTAS
+
+LICITACIÓN PÚBLICA
+
+DE
+
+   A
+
+DE
+
+     A
+
+     DE
+
+A
+
+0
+
+10,000
+
+10,001
+
+25,000
+
+25,001
+
+y más
+
+II.- Para servicios relacionados con las obras públicas:
+
+UNIDADES DE MEDIDA Y ACTUALIZACIÓN
+
+ADJUDICACIÓN
+
+DIRECTA
+
+POR INVITACIÓN A
+
+TRES CONTRATISTAS
+
+LICITACIÓN PÚBLICA
+
+DE
+
+A
+
+     DE
+
+A
+
+DE
+
+A
+
+0
+
+4,000
+
+4,001
+
+10,000
+
+10,001
+
+y más
+
+Los montos establecidos deberán considerarse sin incluir el importe del Impuesto al Valor Agregado.
+
+ARTÍCULO 56.- En el ejercicio del gasto de inversiones públicas para el año 2017, las dependencias y entidades de la Administración Pública Estatal deberán aplicar los siguientes lineamientos:
+
+I.- Los recursos estatales que se autoricen para ser ejercidos en cualquier modalidad de programas convenidos con la Federación y con los Municipios, son intransferibles a otras modalidades de inversión y las transferencias internas que se soliciten se sujetarán al trámite de aprobación que corresponda, conforme a los términos de los Convenios respectivos;
+
+II.- Las Dependencias y Entidades deberán abstenerse de suscribir o promover la suscripción de convenios con el Gobierno Federal u otras instancias, que comprometan recursos estatales superiores a su disponibilidad presupuestal;
+
+III.- Durante el ejercicio de los programas convenidos con la Federación, se llevará un seguimiento cuidadoso para asegurar que se apliquen todos los recursos federales que se tengan autorizados. Para ello se llevarán a cabo las adecuaciones que resulten necesarias, siempre que no contravengan lo establecido en los convenios correspondientes;
+
+IV.- Los programas de ejecución directa que presenten rezagos importantes podrán ser cancelados parcialmente para apoyar otras acciones que por su ritmo de ejercicio presenten posibilidades de aprovechar recursos adicionales, derivados de convenios federales;
+
+V.- Las economías presupuestales no podrán ser utilizadas por las dependencias. Esto comprende tanto los saldos a nivel de obra, así como aquellas asignaciones que habiendo sido incorporadas al Presupuesto, no cuenten con la disposición de recursos complementarios, ya sea aportaciones de particulares y la contraparte federales o municipales;
+
+VI.- Las Dependencias y Entidades no iniciarán obras que consideren mezclas de recursos, hasta contar con los convenios respectivos y sean captados recursos derivados de los mismos.
+
+La observancia de esta disposición es sin perjuicio de la obligación del Estado de iniciar por sí solo las obras que consideren mezclas de recursos, en aquellos casos que se trate de la atención de necesidades urgentes de la población o en casos de emergencia;
+
+VII.- En las acciones de ejecución directa, las Dependencias y Organismos no podrán reprogramar los saldos de los calendarios asignados a cada mes y que no sean utilizados, salvo con autorización de la Secretaría;
+
+VIII.- En la asignación de calendarios, tendrán prioridad las previsiones para realizar la aportación que corresponda al Estado en programas convenidos con la Federación y los Municipios;
+
+IX.- El trámite de transferencias del gasto de inversión se suspenderá a finales del mes de septiembre, por lo que oportunamente se deberán hacer las previsiones de modificaciones que requieran las Dependencias. Para la disposición de los saldos de las obras, se estará a lo dispuesto en la fracción VI del presente artículo;
+
+X.- A finales del mes de septiembre se hará un pre-cierre del gasto de inversión. Aquellas obras que se detecten sin ejercicio de recursos serán canceladas y sus recursos reasignados a la atención de programas prioritarios, con aquellas excepciones que determine la Secretaría;
+
+XI.- En el caso de obras a realizarse mediante aportaciones estatales y municipales, sus recursos serán intransferibles en tanto los Ayuntamientos cumplan con los porcentajes de aportación que se convengan;
+
+XII.- Para el pago de servicios profesionales en la formulación de estudios y proyectos, supervisión de obra y otros aspectos relacionados con los mismos, se podrá disponer de gastos indirectos de hasta el 3.0 % (tres por ciento) del monto asignado por obra; y
+
+XIII.- La Secretaría de Infraestructura y Desarrollo Urbano coordinará la integración del Banco de Proyectos de Inversión que sustentará las propuestas de gasto en materia del Capítulo 6000 Inversión Pública.
+
+ARTÍCULO 57.- Las Dependencias y Entidades bajo ninguna circunstancia podrán iniciar obras que no cuenten con la autorización correspondiente a través de la emisión de un oficio de autorización específico.
+
+Para tal efecto, deberán presentar ante la Secretaría el expediente técnico de inversión para obtener el oficio de autorización, con el cual tramitarán la liberación de los recursos asignados a cada proyecto.
+
+En el caso de obras que deban realizarse por tratarse de atención a emergencias, el Ejecutivo del Estado, por conducto de la Secretaría, podrá reasignar los recursos necesarios en los términos del presente Decreto y conforme a las disponibilidades presupuestales, para estar en condiciones de brindar una respuesta rápida ante contingencias ambientales o de otra naturaleza.
+
+ARTÍCULO 58.- En tanto no se cuente con la información definitiva de los programas de inversión que la Federación llevará a cabo en el Estado de Sonora, la Secretaría en coordinación con las Dependencias Ejecutoras, podrá modificar la distribución de los presupuestos asignados a efecto de estar en condiciones de aprovechar de la mejor manera posible los recursos Estado-Federación.
+
+De igual forma, la Secretaría podrá autorizar cambios en la programación de las obras, cuando correspondan a causas de carácter técnico, financiero y/o de prioridad de gobierno.
+
+Capítulo V
+
+De los Subsidios y Subvenciones
+
+ARTÍCULO 59.- El Ejecutivo del Estado, a través de la Secretaría, autorizará la ministración de los subsidios y subvenciones que con cargo a los presupuestos de las dependencias y entidades se prevén en este Decreto.
+
+Los Titulares de las dependencias y entidades con cargo a cuyos presupuestos se autorice la ministración de subsidios y subvenciones, serán responsables en el ámbito de sus competencias de que estos se otorguen y ejerzan conforme a lo establecido en este Decreto y en las demás disposiciones aplicables.
+
+Las dependencias y entidades que reciban recursos estatales deberán prever en reglas de operación o en los instrumentos jurídicos a través de los cuales se canalicen subsidios, la obligación de reintegrar a la Secretaría los recursos que no se destinen a los fines autorizados y aquellos que al cierre del ejercicio no se hayan devengado. Lo anterior, sin perjuicio de las adecuaciones presupuestales que se realicen durante el ejercicio para un mejor cumplimiento de los objetivos de los programas.
+
+Los subsidios y subvenciones cuyos beneficiarios sean los gobiernos municipales se considerarán devengados a partir de la entrega de los recursos a dichos Ayuntamientos.
+
+Los subsidios cuyos beneficiarios sean personas físicas o, en su caso, personas morales distintas a municipios, se considerarán devengados hasta que sean identificados dichos beneficiarios y los recursos sean puestos a su disposición para el cobro correspondiente, a través de los mecanismos previstos en las demás disposiciones aplicables.
+
+El Ejecutivo del Estado, por conducto de la Secretaría, podrá reducir, suspender o terminar la ministración de los programas, subsidios y transferencias, cuando las dependencias o entidades no cumplan con lo previsto en este Decreto.
+
+ARTÍCULO 60.- Los Subsidios y Subvenciones deberán sujetarse a los criterios de objetividad, equidad, transparencia, propaganda, selectividad, oportunidad y temporalidad, para lo cual las dependencias y entidades que los otorguen deberán:
+
+I.- Identificar con precisión a la población objetivo, tanto por grupo específico como por región del Estado y Municipio. Se deberá de establecer su elegibilidad bajo criterios de equidad;
+
+II.- En su caso, prever montos máximos por beneficiario o por porcentaje del costo total del proyecto. En los programas de beneficio directo a individuos o grupos sociales, los montos o porcentajes se establecerán con base en criterios redistributivos que deberán privilegiar a la población de menores ingresos y procurar la equidad entre regiones y comunidades, sin demérito de la eficiencia en el logro de los objetivos;
+
+III.- Procurar que el mecanismo de distribución, operación y administración otorgue acceso equitativo a todos los grupos sociales y géneros;
+
+IV.- Garantizar que los recursos se canalicen exclusivamente a la población objetivo y asegurar que el mecanismo de distribución, operación y administración facilite la obtención de información y la evaluación de los beneficios económicos y sociales de su asignación y aplicación; así como evitar que se destinen recursos a una administración costosa y excesiva;
+
+V.- Incorporar mecanismos periódicos de seguimiento, supervisión y evaluación que permitan ajustar las modalidades de su operación o decidir sobre su terminación;
+
+VI.- En su caso, buscar fuentes alternativas de ingresos para lograr una mayor autosuficiencia y una disminución o terminación de los apoyos con cargo a recursos presupuestales;
+
+VII.- Asegurar la coordinación de acciones entre dependencias y entidades, para evitar duplicidad en el ejercicio de los recursos y reducir gastos administrativos;
+
+VIII.- Garantizar la oportunidad y temporalidad en su otorgamiento;
+
+IX.- Procurar que sea el medio más eficaz y eficiente para alcanzar los objetivos y metas que se pretenden; y
+
+X.- Remitir a la Secretaría un análisis sobre las acciones que se llevarán a cabo para eliminar la necesidad de su posterior otorgamiento.
+
+Título Cuarto
+
+De la Información, la Evaluación y la Transparencia
+
+Capítulo I
+
+De la Evaluación Programática, el Control de Gestión y del
+
+Avance Financiero del Ejercicio Presupuestal.
+
+ARTÍCULO 61.- La Secretaría, en cumplimiento de las facultades que le confiere la Ley Orgánica del Poder Ejecutivo de Sonora y la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público Estatal, operará un sistema de control y evaluación presupuestal para llevar a cabo el seguimiento y la evaluación del ejercicio del gasto público y del presupuesto. La propia Secretaría establecerá las normas, criterios y lineamientos relativos a la organización, funcionamiento y requerimientos de dicho sistema.
+
+Las dependencias y entidades tendrán la obligación de cumplir con los requerimientos de información que demande el sistema.
+
+ARTÍCULO 62.- La Secretaría efectuará el seguimiento y la evaluación financiera y programática del gasto público, sin perjuicio de las facultades que la Ley le confiere expresamente a la Contraloría.
+
+ARTÍCULO 63.- La Contraloría, en ejercicio de las facultades que en materia de control de gestión le confiere la Ley, examinará y verificará el cumplimiento por parte de las propias dependencias y entidades de la Administración Pública el ejercicio del Gasto Público, así como el cumplimiento de los programas operativos congruentes con el presente Decreto, para lo cual tendrá amplias facultades para vigilar que toda erogación con cargo al Presupuesto, esté debidamente justificada y preverá lo necesario para que se finquen las responsabilidades correspondientes, cuando resulte que las erogaciones realizadas sean consideradas lesivas a los intereses del Estado.
+
+ARTÍCULO 64.- El Instituto Sonorense de la Mujer deberá de examinar y verificar el cumplimiento por parte de las dependencias y entidades de la Administración Pública, en materia de programas de equidad de género, que éstas cumplan los programas y las metas que se hayan propuesto, emitiendo en caso de ser necesario, una recomendación para que la Secretaría aplique las medidas conducentes para aquellas dependencias y entidades omisas.
+
+Capítulo II
+
+De los Informes de los Ejecutores del Gasto
+
+ARTÍCULO 65- Los ejecutores de gasto presentaran, conforme a la normatividad vigente informes mensuales y trimestrales que contengan el reporte del avance presupuestal financiero y programático de los programas autorizados en su presupuesto, así como la información complementaria en los términos que establece la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público Estatal y otras disposiciones aplicables.
+
+ARTÍCULO 66- Las dependencias y entidades que reciban directamente recursos de origen federal, social, privado o de organismos internacionales, deberán informarlos mensualmente a la Secretaría dentro de su estructura de ingreso global, diferenciando ingresos propios, aportaciones federales, aportaciones estatales y otros. Asimismo, informarán de su estructura de gasto global y específico.
+
+En caso de incumplimiento la Secretaría se reservará la facultad de seguir otorgando las ministraciones posteriores.
+
+ARTÍCULO 67.- Los titulares de las Entidades, así como los de sus órganos encargados del manejo y ejercicio de sus recursos, serán directamente responsables de la información presupuestal, financiera, programática y contable proporcionada a la Secretaría y a la Contraloría, para los efectos que señala la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público Estatal.
+
+Capítulo III
+
+De la Implementación del Presupuesto
+
+Basado en Resultados
+
+ARTÍCULO 68.- Durante el año 2017, las diferentes etapas del ciclo presupuestario se alinearán, de manera gradual y creciente, de acuerdo al modelo de Presupuesto basado en Resultados, en congruencia con la legislación federal y estatal aplicable. Dicho ciclo presupuestario se compone de: Planeación, Programación, Presupuestación, Ejercicio y Control, Seguimiento, Evaluación y Rendición de cuentas.
+
+ARTÍCULO 69.- La Secretaría emitirá los Lineamientos Generales para la Implementación del Modelo de Presupuesto basado en Resultados, analizará la normatividad vigente y, en su caso, propondrá las reformas legislativas que precisen para consolidar la implementación del Presupuesto basado en Resultados.
+
+ARTÍCULO 70.- Los Lineamientos Generales para la Implementación del Modelo Presupuesto basado en Resultados establecerán los principios y criterios de implementación del modelo; los alcances de las acciones a realizar durante el año 2017; las dependencias responsables con su respectivo ámbito de acción; las modalidades de implementación y los factores críticos de éxito. Estos lineamientos regirán los avances de la implementación en las siete etapas del ciclo presupuestario citadas en el Artículo 68.
+
+ARTÍCULO 71.- Sin detrimento de que durante la implementación del modelo de Presupuesto basado en Resultados se potencien sus alcances, los Lineamientos Generales establecerán los criterios mínimos que deberán atenderse en cada una de las siete etapas del ciclo presupuestario estatal, conforme a lo siguiente: la planeación consistirá en la alineación de los programas sectoriales y presupuestarios con el contenido del Plan Estatal de Desarrollo 2016-2021; la programación considerará la revisión y autorización, en su caso, de estructuras programáticas, la definición de programas presupuestarios, la elaboración de Matrices de Indicadores para Resultados; la presupuestación tomará en cuenta los resultados de los programas para la asignación de recursos; el ejercicio tendrá por objetivo la mejora en la gestión y de la calidad del gasto; el seguimiento incluirá la elaboración de informes de resultados y monitoreo de indicadores; la evaluación identificará oportunidades de mejora de los programas, con apego a la normatividad aplicable; y la rendición de cuentas incluirá la elaboración de informes con los resultados definitivos de los programas. El enfoque de avance en la implementación será gradual.
+
+ARTÍCULO 72.- Será responsabilidad de la Secretaría diseñar, conducir y coordinar la estrategia de implementación del Modelo de Presupuesto basado en Resultados, escuchando la opinión de las diferentes instancias involucradas, con apego al marco jurídico aplicable.
+
+Capítulo IV
+
+De la Transparencia
+
+ARTÍCULO 73.- Los ejecutores de gasto, en el manejo de los recursos públicos, deberán observar las disposiciones establecidas en la Ley de Acceso a la Información Pública del Estado de Sonora.
+
+ARTÍCULO 74.- La inobservancia del presente Decreto, será sancionado de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+ARTÍCULO 75.- El presente Decreto será publicado en el portal de transparencia del Gobierno del Estado, así como aquella información de índole presupuestaria cuya publicidad sea prevista por disposiciones de carácter general.
+
+Título Quinto
+
+De las Reasignaciones de Recursos
+
+Capítulo Único
+
+De las Reasignaciones de Recursos
+
+ARTÍCULO 76.- El Ejecutivo del Estado reducirá las asignaciones previstas en los artículos precedentes en los montos y conceptos siguientes:
+
+Inversiones Financieras y Otras Provisiones por $40’000,000.00 (Son: Cuarenta millones de pesos, 00/100 m.n.),
+
+Transferencias a cargo de la Secretaría de Educación y Cultura por $109’100,752.00 (Son: Ciento nueve millones cien mil setecientos cincuenta y dos pesos, 00/100 m.n.),
+
+Transferencias y gasto de operación a cargo de la Secretaría de Salud Pública por $10’000,000.00 (Son: Diez millones de pesos, 00/100 m.n.),
+
+En Estudios y Proyectos vinculados a Asociaciones Público Privadas y de Servicios a cargo de la Secretaría de Infraestructura y Desarrollo Urbano por $50’000,000.00 (Son: Cincuenta millones de pesos 00/100 m.n.),
+
+En presupuesto para Inversiones en Infraestructura correspondiente a los capítulos 4000 Transferencias, Asignaciones y Subsidios y Otras Ayudas y capítulo 6000 Inversiones Públicas, por $337’000,000.00 (Son: Trescientos treinta y siete millones de pesos 00/100 m.n.).
+
+ARTÍCULO 77.- Con las reducciones establecidas en el artículo precedente, el Ejecutivo del Estado efectuará ampliaciones presupuestales a los conceptos que se enlistan a continuación:
+
+Ampliación al Subsidio destinado al Instituto Tecnológico de Sonora por $15´000,000.00 (Son: Quince millones de pesos, 00/100 m.n.),
+
+Apoyo extraordinario para el Instituto Tecnológico de Hermosillo por $1’670,000.00 (Son: Un millón seiscientos setenta mil pesos, 00/100 m.n.),
+
+Ampliación al Subsidio estatal a la Universidad Tecnológica de San Luis Río Colorado por $5’250,000.00 (Son: Cinco millones doscientos cincuenta mil pesos, 00/100 m.n.),
+
+Ampliación al Subsidio del Instituto Sonorense de Cultura para la realización del Festival Alfonso Ortiz Tirado por $14’000,000.00 (Son: Catorce millones de pesos, 00/100 m.n.),
+
+Asignaciones para un programa integral para la realización de actividades culturales, cívicas, deportivas y de esparcimiento en el municipio de Bácum por $6’000,000.00 (Son: Seis millones de pesos, 00/100 m.n.),
+
+Ayuda para la operación de la Burbuja Museo del Niño hasta por $5’000,000.00 (Son Cinco millones de pesos, 00/100 m.n.),
+
+Apoyo extraordinario para el Instituto Municipal del Deporte del Ayuntamiento de Agua Prieta por $1’000,000.00 (Son: Un millón de pesos, 00/100 m.n.),
+
+Ampliación al presupuesto del Supremo Tribunal de Justicia del Estado por $118’597,752.00 (Son: Ciento dieciocho millones quinientos noventa y siete mil setecientos cincuenta y dos pesos, 00/100 m.n.),
+
+Asignación para un programa especial de apoyo a los municipios del Río Sonora por $6’300,000.00 (Son: Seis millones trescientos mil pesos, 00/100 m.n.),
+
+Ampliación a la Secretaría de Salud Pública para implementar una campaña permanente de esterilización canina por $10’000,000.00 (Son: Diez millones de pesos, 00/100 m.n.),
+
+Ampliación a la Secretaría de Salud Pública para apoyar la adquisición de una clínica móvil para la detección de cáncer de mama, a efectos de otorgarla en comodato a la Asociación George Papanicolaou de Cajeme, por un importe de $800,000.00 (Son: Ochocientos mil pesos, 00/100 m.n.),
+
+Subvención al programa especial Peso x Peso para la seguridad de la Costa de Hermosillo por $3’000,000.00 (Son: Tres millones de pesos, 00/100 m.n.),
+
+Subvención a la Fundación PRODUCE a cargo de la Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura por $5’000,000.00 (Son Cinco millones de pesos, 00/100 m.n.),
+
+Ampliación al Consejo Sonorense Promotor de la Regulación del Bacanora por $2’283,000.00 (Son: Dos millones doscientos ochenta y tres mil pesos, 00/100 m.n.),
+
+Subsidio para el Centro Regional Turístico y de Negocios en Navojoa por $1’000,000.00 (Son: Un millón de pesos, 00/100 m.n.),
+
+Subvención para la realización del evento Canacintra Expocar por $200,000.00 (Son: Doscientos mil pesos, 00/100 m.n.),
+
+Subvención para financiar un Foro Internacional de la Juventud a cargo del Instituto Sonorense de la Juventud por $5’000,000.00 (Son Cinco millones de pesos, 00/100 m.n.),
+
+Apoyo a los programas de capacitación de los trabajadores a cargo del Instituto de Capacitación, Competitividad y Relaciones Laborales para el Estado de Sonora por $6’500,000.00 (Son Seis millones quinientos mil pesos, 00/100 m.n.),
+
+Ampliación para fortalecer la infraestructura y equipamiento de los servicios periciales a cargo de la Procuraduría General de Justicia del Estado por $60’000,000.00 (Son: Sesenta millones de pesos, 00/100 m.n.),
+
+Asignación para la integración de un Fondo Estatal para la ejecución de infraestructura urbana y rural a cargo de la Secretaría de Infraestructura y Desarrollo Urbano por $115’500,000.00 (Son: Ciento quince millones quinientos mil pesos, 00/100 m.n.),
+
+Ampliación para obras de rehabilitación y/o construcción de vialidades, en diversos tramos de las calles 12 sur, 20 sur y 28 sur de la Costa de Hermosillo por $40’000,000.00 (Son: Cuarenta millones de pesos, 00/100 m.n.),
+
+Ampliación para la Construcción de un Centro Deportivo en el Plantel Hermosillo V del Colegio de Bachilleres del Estado de Sonora por $20’000,000.00 (Son: Veinte millones de pesos, 00/100 m.n.),
+
+Para la construcción de los parques Johnson y Lázaro Cárdenas, se amplía el presupuesto de la Secretaría de Infraestructura y Desarrollo Urbano en $5’000,000.00 (Son: Cinco millones de pesos, 00/100),
+
+Reasignación para la construcción de cancha deportiva en la Colonia Militar del Municipio de San Ignacio Río Muerto por $4’000,000.00 (Son: Cuatro millones de pesos, 00/100 m.n.),
+
+Asignación para la pavimentación con concreto asfáltico del camino a microondas, entre Carretera Federal No 15 y Ejido Tecobampo por $12’500,000.00 (Son: Doce millones quinientos mil pesos 00/100 m.n.),
+
+Asignación para estabilización riego en la calle 17 de san Ignacio Río Muerto por $28’000,000.00 (Son: Veintiocho millones de pesos, 00/100 m.n.),
+
+Ampliación para la obra de un puente peatonal en la Calle Kino y Antonio Caso en Cajeme por $8’000,000.00 (Son: Ocho millones de pesos 00/100 m.n.),
+
+Ampliación para obra de pavimentación en Bulevar Manlio Fabio Beltrones Rivera en municipio de Guaymas por $30’000,000.00 (Son: Treinta millones de pesos 00/100 m.n.),
+
+Apoyo al Municipio de Imuris para la adquisición de un terreno donde se construirá una planta tratadora de agua por $1’000,000.00 (Son: Un millón de pesos 00/100 m.n.),
+
+Asignación a la Secretaría de Educación y Cultura, para prevenir la discriminación, a través del otorgamiento de intérpretes en Lengua de Señas Mexicana (LSM), a personas con sordera o con alguna discapacidad auditiva, que impida su derecho a la educación, por $1,500,000.00 (Son: un millón quinientos mil pesos 00/100 m.n.),
+
+Reasignación para la construcción de Cancha Deportiva en la Colonia Las Haciendas del Municipio de Cajeme, por $4,000,000.00 (Son: Cuatro millones de pesos 00/100 m.n.),
+
+Asignación a la Procuraduría de Atención a Niñas, Niños y Adolescentes del Estado de Sonora, en atención a lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes, por: $5,000,000.00 (Son: Cinco millones de pesos 00/100), y
+
+Apoyo para el fortalecimiento financiero del Municipio de San Ignacio Río Muerto, por: $5,000,000.00 (Son: Cinco millones de pesos 00/100).
+
+ARTÍCULO 78.- Las economías presupuestales que obtenga el Gobierno del Estado provenientes de la aplicación de medidas de austeridad, racionalidad y disciplina presupuestal, se aplicarán en la atención de requerimientos adicionales del sector educativo, en el fortalecimiento del balance operativo, así como en la disminución de pasivos, preferentemente los que deriven de los sectores prioritarios de salud, educación y seguridad social.
+
+T R A N S I T O R I O
+
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor el primero de enero de 2017, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en el Boletín Oficial del Gobierno del Estado.- SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO. Hermosillo, Sonora, 14 de diciembre de 2016. C. IRIS FERNANDA SÁNCHEZ CHIU, DIPUTADA PRESIDENTA.- RÚBRICA.- C. KARMEN AIDA DÍAZ BROWN OJEDA, DIPUTADA SECRETARIA.- RÚBRICA.- C. TERESA M. OLIVARES OCHOA, DIPUTADA SECRETARIA.- RÚBRICA.
+
+Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
+
+Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veintiún días del mes de diciembre del año dos mil dieciséis.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+FECHA DE APROBACIÓN: 2016/12/14
+
+FECHA DE PROMULGACIÓN: 2016/12/21
+
+FECHA DE PUBLICACIÓN: 2016/12/26
+
+PUBLICACIÓN OFICIAL:  51, SECCIÓN II, BOLETÍN OFICIAL
+
+INICIO DE VIGENCIA:  2017/01/01

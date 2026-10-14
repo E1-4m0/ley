@@ -1,0 +1,35 @@
+---
+titulo: "Ley que aprueba el lema para toda correspondencia oficial en el Estado durante el año 2009"
+tipo: "Ley"
+estado: "Sonora"
+ambito: "Estatal"
+estatus: "Abrogado"
+fecha_publicacion: "26 de Diciembre de 2008"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "17261"
+---
+LEY
+
+QUE APRUEBA EL LEMA PARA TODA CORRESPONDENCIA OFICIAL EN EL ESTADO DURANTE EL AÑO 2009.
+
+ARTÍCULO PRIMERO.- El Congreso del Estado declara el año 2009 como “Año de la lectura”.
+
+ARTÍCULO SEGUNDO.- Toda correspondencia oficial que generen durante el año 2009 los poderes Ejecutivo, Legislativo y Judicial del Estado, así como los ayuntamientos del Estado, deberán incluir el lema “2009: Año de la lectura”.
+
+ARTÍCULO TRANSITORIO
+
+ÚNICO.- La presente ley entrará en vigor el día primero de enero de 2009, previa publicación en el Boletín Oficial del Gobierno del Estado.
+
+COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO. SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO, HERMOSILLO, SONORA, 22 DE DICIEMBRE DE 2008, DIPUTADO PRESIDENTE.- C. SERGIO CUELLAR YESCAS.- RÚBRICA.- DIPUTADA SECRETARIA.- C. IRMA DOLORES ROMO SALAZAR.- RÚBRICA.- DIPUTADO SECRETARIO.- C. REYNALDO MILLÁN COTA.- RÚBRICA.-
+
+POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS VEINTITRÉS DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL OCHO.- SUFRAGIO EFECTIVO NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO.- RÚBRICA.- EL SECRETARIO DE GOBIERNO.- WENCESLAO COTA MONTOYA.- RÚBRICA.-
+
+FECHA DE APROBACIÓN: 2008/12/22
+
+FECHA DE PROMULGACIÓN: 2008/12/23
+
+FECHA DE PUBLICACIÓN: 2008/12/26
+
+PUBLICACIÓN OFICIAL:  51, SECCIÓN III, BOLETÍN OFICIAL
+
+INICIO DE VIGENCIA:  2009/01/01

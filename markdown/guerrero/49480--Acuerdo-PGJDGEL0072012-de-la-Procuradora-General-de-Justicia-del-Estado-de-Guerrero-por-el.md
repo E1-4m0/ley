@@ -1,0 +1,238 @@
+---
+titulo: "Acuerdo PGJ/DGEL/007/2012 de la Procuradora General de Justicia del Estado de Guerrero, por el cual se instruye a los Agentes del Ministerio Público del Fuero Común Investigadores, especializados y adscritos, a los Agentes de la Policía Ministerial Investigadores y Especializados, y a los Peritos, para que cumplan con el respeto irrestricto de los derechos humanos dentro del ejercicio de sus funciones"
+tipo: "Acuerdo"
+estado: "Guerrero"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "05 de Octubre de 2012"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "49480"
+---
+TEXTO ORIGINAL
+# 
+	Acuerdo publicado en el Periódico Oficial del Gobierno del Estado No.
+80 Alcance I, el Viernes 05 de Octubre de 2012.
+
+ACUERDO PGJ/DGEL/007/2012 DE LA PROCURADORA GENERAL DE JUSTICIA DEL
+ESTADO DE GUERRERO, POR EL CUAL SE INSTRUYE A LOS AGENTES DEL MINISTERIO
+PÚBLICO DEL FUERO COMÚN INVESTIGADORES, ESPECIALIZADOS Y ADSCRITOS, A
+LOS AGENTES DE LA POLICÍA MINISTERIAL INVESTIGADORES Y ESPECIALIZADOS,
+Y A LOS PERITOS, PARA QUE CUMPLAN CON EL RESPETO IRRESTRICTO DE LOS
+DERECHOS HUMANOS DENTRO DEL EJERCICIO DE SUS FUNCIONES.
+
+	LA MAESTRA MARTHA ELVA GARZÓN BERNAL, PROCURADORA GENERAL DE JUSTICIA
+DEL ESTADO DE GUERRERO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN
+LOS ARTÍCULOS 21 PÁRRAFO PRIMERO DE LA CONSTITUCIÓN POLÍTICA DE LOS
+ESTADOS UNIDOS MEXICANOS; 78 PÁRRAFO PRIMERO DE LA CONSTITUCIÓN
+POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO; 1, 2, 10 FRACCIONES
+II Y IV, 11 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA;
+18 TERCER PÁRRAFO Y 35 FRACCIÓN I DE LA LEY ORGÁNICA DE LA
+ADMINISTRACIÓN PÚBLICA DEL ESTADO; ASÍ COMO 5 y 10 FRACCIONES IV Y VI
+DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE
+JUSTICIA,  Y
+
+C O N S I D E R A N D O
+
+	Que la Constitución Política de los Estados Unidos Mexicanos, en su
+parte dogmática, establece las garantías y derechos que todo individuo
+tiene, por el simple hecho de estar en territorio mexicano.
+
+	Que la Declaración Universal de Derechos Humanos, adoptada y
+proclamada por la Asamblea General en su resolución 217 A (III), del 10
+de diciembre de 1948, considera que la libertad, la justicia y la paz en
+el mundo tienen por base el reconocimiento de la dignidad intrínseca y
+de los derechos iguales de la raza humana, además de considerar que el
+desconocimiento y el menosprecio de los derechos humanos han originado
+actos de barbarie ultrajantes para la conciencia de la humanidad. Es
+importante señalar que las naciones miembros se han comprometido a
+asegurar, en cooperación con la organización de las Naciones Unidas,
+el respeto universal y efectivo a los derechos y libertades
+fundamentales del hombre.
+
+	Que la Declaración Americana de los Derechos y Deberes del Hombre,
+aprobada en 1948, en el marco de la Novena Conferencia Internacional
+Americana en Bogotá, Colombia, nos señala que el hombre tiene derecho
+a la justicia, debiendo disponer de un procedimiento sencillo y breve
+por el cual la justicia lo ampare contra actos de la autoridad que
+violen sus derechos fundamentales, consagrados constitucionalmente.
+
+	Que la Constitución Política del Estado Libre y Soberano de Guerrero,
+dispone que toda persona gozará de las garantías que reconoce la
+Constitución Política de los Estados Unidos Mexicanos, además de que
+el Poder Público del Estado deberá garantizar a sus habitantes el goce
+de sus derechos.
+
+	Que en debido cumplimiento de las funciones que tiene asignadas, esta
+Procuraduría General de Justicia del Estado de Guerrero debe, de manera
+permanente y sistematizada, generar e implementar la ejecución de
+medidas y acciones que impulsen y preserven el mejoramiento de la
+procuración de justicia, con el objeto de consolidar un sistema que
+garantice la transparencia y otorgue seguridad y certeza jurídica a la
+sociedad, por lo que resulta indispensable instruir a los servidores
+públicos de esta institución para que de acuerdo a la legislación
+aplicable, cumplan con el respeto irrestricto a los Derechos Humanos
+consagrada en la Constitución Política de los Estados Unidos
+Mexicanos, así como en los instrumentos internacionales ratificados por
+nuestro país.
+
+	Por lo anteriormente expuesto y fundado, he tenido a bien expedir el
+siguiente:
+
+ACUERDO PGJ/DGEL/007/2012 DE LA PROCURADORA GENERAL DE JUSTICIA DEL
+ESTADO DE GUERRERO, POR EL CUAL SE INSTRUYE A LOS AGENTES DEL MINISTERIO
+PÚBLICO DEL FUERO COMÚN INVESTIGADORES, ESPECIALIZADOS Y ADSCRITOS, A
+LOS AGENTES DE LA POLICÍA MINISTERIAL INVESTIGADORES Y ESPECIALIZADOS,
+Y A LOS PERITOS, PARA QUE CUMPLAN CON EL RESPETO IRRESTRICTO DE LOS
+DERECHOS HUMANOS DENTRO DEL EJERCICIO DE SUS FUNCIONES.
+
+	Artículo 1.  El presente Acuerdo tiene por objeto instruir a los
+Agentes del Ministerio Público del Fuero Común, Investigadores y
+Adscritos, así como a los agentes de la Policía Ministerial
+Investigadores y Especializados, y a los Peritos, a efecto de que en las
+diligencias que intervengan y demás funciones atribuibles a su cargo,
+cumplan con el respeto irrestricto a los Derechos Humanos.
+
+	Artículo 2. A fin de cumplir con el objeto del presente instrumento,
+deberán sujetar su actuar a lo que dispone la Constitución Política
+de los Estados Unidos Mexicanos, los tratados e instrumentos
+internacionales suscritos por nuestro país, la Constitución Política
+del Estado Libre y Soberano de Guerrero, así como las demás leyes,
+reglamentos y ordenamientos que dispongan el respeto a los Derechos
+Humanos.
+
+	Artículo 3. Para el mejor cumplimiento del presente acuerdo, los
+titulares de las Subprocuradurías de Control Regional y Procedimientos
+Penales, Jurídica y de Atención a Víctimas del Delito, y de las
+Direcciones Generales de Control de Averiguaciones Previas, de Control
+de Procesos, de la Policía Ministerial y de los Servicios Periciales,
+difundirán entre su personal el "Decálogo de los Derechos Humanos del
+Servidor Público de la Procuraduría General de Justicia" (anexo 1).
+
+	Artículo 4. Este "Decálogo" será guía básica para el respeto de
+los Derechos Humanos en materia de Procuración de Justicia, sin que su
+observancia exima del cumplimiento de la normatividad aplicable en la
+materia, descrita en el artículo Segundo que antecede.
+
+	Artículo 5. La Visitaduría General de la Institución, vigilará el
+exacto cumplimiento que los servidores públicos den al presente
+acuerdo.
+
+	Artículo 6. Los titulares de las Subprocuradurías de Control Regional
+y Procedimientos Penales,  Jurídica y de Atención a Víctimas del
+Delito, y de las Direcciones Generales de Control de Averiguaciones
+Previas, de Control de Procesos, de la Policía Ministerial y de los
+Servicios Periciales proveerán, en la esfera de su competencia, el
+cumplimiento del presente Acuerdo.
+
+	Artículo 7. En caso de detectarse incumplimiento de este Acuerdo,
+deberá hacerse del conocimiento de la Visitaduría General, de la
+Contraloría Interna y, en su caso, de la Fiscalía Especializada para
+la Protección de los Derechos Humanos, para determinar la
+responsabilidad administrativa  o penal que resulte.
+
+TRANSITORIOS
+
+	Primero.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+	Segundo.- El presente Acuerdo entrará en vigor al día siguiente de su
+publicación.
+
+	Tercero.- la Dirección General de Administración y Presupuesto,
+proveerá lo necesario para que en un plazo de treinta días naturales a
+partir de la entrada en vigor del presente acuerdo, se difundan los
+carteles que contengan los derechos de las Víctimas u Ofendidos, así
+como para proporcionarles los  folletos impresos donde se detalle el
+contenido de las Cartas de Derechos.
+
+	Cuarto.- La Dirección General de Presupuesto y Administración de la
+Procuraduría General de Justicia del Estado, contará con un plazo de
+treinta días naturales a partir de la entrada en vigor del presente
+acuerdo, para realizar las acciones necesarias a efecto de que se
+coloquen carteles en lugares visibles de todas las áreas de la
+Procuraduría, para difundir las cartas de derechos de las Victimas u
+Ofendidos.
+
+	Quinto.- La Dirección de Informática y Telecomunicaciones deberá
+ingresar en el sistema S.I.A.P., un campo en el que se incorporen los
+derechos que todos los Agentes del Ministerio Público ante quien se
+practique alguna diligencia, deberán hacer saber a los interesados.
+
+	Firmado en la ciudad de Chilpancingo de los Bravo, Gro., a los dos
+días del mes de octubre del año dos mil doce.
+
+La Procuradora General de Justicia del Estado de Guerrero.
+
+Mtra. Martha Elva Garzón Bernal.
+
+Rúbrica.
+
+ANEXO UNO
+
+Del Acuerdo PGJ/DGEL/007/2012 DE LA PROCURADORA GENERAL DE JUSTICIA DEL
+ESTADO DE GUERRERO, DE LA PROCURADORA GENERAL DE JUSTICIA DEL ESTADO DE
+GUERRERO, POR EL CUAL SE INSTRUYE A LOS AGENTES DEL MINISTERIO PÚBLICO
+DEL FUERO COMÚN INVESTIGADORES, ESPECIALIZADOS Y ADSCRITOS, A LOS
+AGENTES DE LA POLICÍA MINISTERIAL, INVESTIGADORES Y ESPECIALIZADOS, Y A
+LOS PERITOS, PARA QUE CUMPLAN CON EL RESPETO IRRESTRICTO DE LOS DERECHOS
+HUMANOS DENTRO DEL EJERCICIO DE SUS FUNCIONES.
+
+"Decálogo de los Derechos Humanos del Servidor Público de la
+Procuraduría General de Justicia",
+
+	1. Todos los seres humanos son libres e iguales en dignidad y derechos.
+
+	2. Todos los individuos son iguales ante la ley, sin distinción y sin
+discriminación alguna, y tienen derecho a ejercer las libertades y
+derechos que proclama la normatividad aplicable, sin distinción de
+raza, sexo, idioma, religión, opinión política, origen nacional,
+étnico o social, posición económica, o preferencia e identidad
+sexual.
+
+	3. Todo Individuo tiene derecho a la vida, a la libertad, a la
+seguridad y a la integridad de su persona.
+
+	4. Ninguna persona puede ser sometida a torturas o tratos crueles,
+inhumanos o degradantes.
+
+	5. Las mujeres, los niños y las niñas, tienen garantizado su derecho
+a una vida libre de violencia, y recibirán la atención y protección
+que las leyes establecen en esta materia.
+
+	6. Ninguna persona puede ser arbitrariamente detenida o retenida.
+
+	7. Toda persona acusada de un delito tiene derecho a que se presuma su
+inocencia mientras no se agote un procedimiento en que se pruebe su
+responsabilidad conforme a la ley, mediante juicio público en el que se
+le hayan facilitado todas las garantías necesarias para su defensa.
+
+	8. Toda persona tienen derecho a la protección de la ley contra
+injerencias arbitrarias en su vida privada, su familia, su domicilio o
+su correspondencia, o de ataques contra su honra o su reputación.
+
+	9. Nadie será privado arbitrariamente de su propiedad, sino mediante
+el procedimiento que para tal efecto marca la Ley.
+
+	10. En cualquier caso de investigación donde se encuentren
+involucrados adolescentes, éstos gozarán de los derechos que proclaman
+en su favor la Constitución Política de los Estados Unidos Mexicanos,
+los tratados e instrumentos internacionales suscritos por nuestro país,
+la Constitución Política del Estado Libre y Soberano de Guerrero, así
+como las demás leyes, reglamentos y ordenamientos que contengan normas
+referentes a adolescentes.
+
+	  HYPERLINK "http://www.guerrero.gob.mx/consejeriajuridica/"
+http://www.guerrero.gob.mx/consejeriajuridica
+
+	  HYPERLINK "mailto:consejeria_juridica@guerrero.gob.mx"
+consejeria_juridica@guerrero.gob.mx
+
+ACUERDO PGJ/DGEL/007/2012 DE LA PROCURADORA GENERAL DE JUSTICIA DEL
+ESTADO DE GUERRERO, POR EL CUAL SE INSTRUYE A LOS AGENTES DEL MINISTERIO
+PÚBLICO DEL FUERO COMÚN INVESTIGADORES, ESPECIALIZADOS Y ADSCRITOS, A
+LOS AGENTES DE LA POLICÍA MINISTERIAL INVESTIGADORES Y ESPECIALIZADOS,
+Y A LOS PERITOS, PARA QUE CUMPLAN CON EL RESPETO IRRESTRICTO DE LOS
+DERECHOS HUMANOS DENTRO DEL EJERCICIO DE SUS FUNCIONES
+
+ PAGE
+
+ PAGE   1

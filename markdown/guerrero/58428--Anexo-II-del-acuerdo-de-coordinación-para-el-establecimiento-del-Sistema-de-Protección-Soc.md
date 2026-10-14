@@ -1,0 +1,102 @@
+---
+titulo: "Anexo II del acuerdo de coordinación para el establecimiento del Sistema de Protección Social en Salud, celebrado por el Ejecutivo Federal y el Ejecutivo Estatal, el día 27 de marzo de dos mil trece"
+tipo: "Acuerdo de Coordinación"
+estado: "Guerrero"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "17 de Enero de 2014"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "58428"
+---
+TEXTO ORIGINAL.
+
+	Anexo II publicado en el Periódico Oficial del Gobierno del Estado No.
+05, el Viernes 17 de Enero de 2014.
+
+ANEXO II DEL ACUERDO DE COORDINACIÓN PARA EL ESTABLECIMIENTO DEL
+SISTEMA DE PROTECCIÓN SOCIAL EN SALUD, CELEBRADO POR EL EJECUTIVO
+FEDERAL Y EL EJECUTIVO ESTATAL, EL DÍA 27 DE MARZO DE DOS MIL TRECE.
+
+ANEXO II
+
+DEL ACUERDO DE COORDINACIÓN PARA EL ESTABLECIMIENTO DEL SISTEMA DE
+
+PROTECCIÓN SOCIAL EN SALUD
+
+PROYECCIÓN DE COBERTURA PARA EL EJERCICIO FISCAL 2013
+
+Por la Comisión Nacional de Protección Social en Salud.
+
+Gabriel J. O´Shea Cuevas.
+
+Comisionado Nacional de Protección Social en Salud.
+
+Por la Secretaría de Salud del Estado de Guerrero.
+
+Dr. Lázaro Mazón Alonso.
+
+Secretario de Salud y Titular del O.P.D. Servicios Estatales de Salud en
+Guerrero.
+
+Rúbrica.
+
+Por el Régimen Estatal de Protección Social en Salud en Guerrero.
+
+Arq. Alejandra Sánchez Córtes.
+
+Titular del Régimen Estatal de Protección Social en Salud en Guerrero.
+
+Rúbrica.
+
+EL SUSCRITO LICENCIADO ROBERTO NAVA CASTRO, SUBDIRECTOR JURÍDICO DE LA
+SECRETARÍA DE SALUD EN EL ESTADO DE GUERRERO, QUIEN ACTÚA CON LOS
+TESTIGOS DE ASISTENCIA QUIENES DAN FE Y LEGALIDAD DE LA PRESENTE Y CON
+FUNDAMENTO EN EL ACUERDO SSA/SJ/001/2005, PUBLICADO EL DÍA 11 DE
+OCTUBRE DEL 2005, EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE
+GUERRERO.
+
+C E R T I F I C A
+
+QUE LA PRESENTE FOTOSTATICA CONCUERDA EN TODAS Y CADA UNA DE SUS PARTES
+CON EL ANEXO II DEL ACUERDO DE COORDINACION PARA EL ESTABLECIMIENTO DEL
+SISTEMA DE PROTECCION SOCIAL EN SALUD, CELEBRADO EL VEINTISIETE DE MARZO
+DE DOS MIL TRECE, ENTRE EL EJECUTIVO FEDERAL Y EL EJECUTIVO ESTATAL, QUE
+CONSTA DE UNA FOJA UTIL, MISMO QUE TUVE A LA VISTA Y PREVIO COTEJO, SE
+DEVUELVE A LOS ARCHIVOS DE LA DIRECCION DE PROTECCION SOCIAL EN SALUD EN
+EL ESTADO, PARA QUE OBRE EN LOS MISMOS.- CONSTE.
+
+LO QUE CERTIFICO PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR, EN LA CIUDAD
+DE CHILPANCINGO, GUERRERO, EL DÍA TRES DE DICIEMBRE DEL AÑO DOS MIL
+TRECE.
+
+EL SUBDIRECTOR JURÍDICO DE LA SECRETARÍA DE SALUD
+
+EN EL ESTADO DE GUERRERO.
+
+LIC. ROBERTO NAVA CASTRO.
+
+Rúbrica.
+
+TESTIGOS DE ASISTENCIA.
+
+C. ALDAIR RAMIREZ MAGANDA.
+
+Rúbrica.
+
+C. VICENTE SALADO CHAVEZ.
+
+Rúbrica.
+
+	  HYPERLINK "http://www.guerrero.gob.mx/consejeriajuridica/"
+http://www.guerrero.gob.mx/consejeriajuridica
+
+	  HYPERLINK "mailto:consejeria_juridica@guerrero.gob.mx"
+consejeria_juridica@guerrero.gob.mx
+
+ANEXO II DEL ACUERDO DE COORDINACIÓN PARA EL ESTABLECIMIENTO DEL
+SISTEMA DE PROTECCIÓN SOCIAL EN SALUD, CELEBRADO POR EL EJECUTIVO
+FEDERAL Y EL EJECUTIVO ESTATAL, EL DÍA 27 DE MARZO DE DOS MIL TRECE
+
+ PAGE
+
+ PAGE   1

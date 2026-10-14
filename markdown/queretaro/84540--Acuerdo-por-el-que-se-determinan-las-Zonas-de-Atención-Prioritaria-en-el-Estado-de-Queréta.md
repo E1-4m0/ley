@@ -1,0 +1,2946 @@
+---
+titulo: "Acuerdo por el que se determinan las Zonas de Atención Prioritaria en el Estado de Querétaro, Secretaría de Desarrollo Social"
+tipo: "Acuerdo"
+estado: "Queretaro"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "15 de Febrero de 2019"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "84540"
+---
+Tonatiuh Cervantes Curiel, Secretario de Desarrollo Social del Poder Ejecutivo del Estado de Querétaro, en ejercicio de las facultades que me confieren los artículos 35 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y 22 de la Ley de Desarrollo Social del Estado de Querétaro, y
+
+CONSIDERANDO
+
+Que la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, señala en su artículo 35 párrafo primero y fracción II que la Secretaría de Desarrollo Social es la dependencia encargada de coordinar, por delegación del Gobernador del Estado, las políticas, programas y acciones del desarrollo social, teniendo la atribución de elaborar, con las dependencias y entidades de la administración pública estatal relacionadas con la materia, los programas de desarrollo social en el Estado, de conformidad con lo establecido en la Ley de Planeación del Estado de Querétaro.
+
+Que la Secretaría de Desarrollo Social, de conformidad con lo dispuesto por el artículo 22 de la Ley de Desarrollo Social del Estado de Querétaro, formulará la Declaratoria de las Zonas de Atención Prioritaria, que representen un interés para el Estado para la asignación de los recursos que permitan elevar los índices de bienestar en la población, considerando las disposiciones de la Ley General de Desarrollo Social, incluyendo la infraestructura social básica y complementaria, la evaluación de resultados sobre los indicadores de marginación, así como los índices de pobreza y desarrollo social.
+
+Que de acuerdo con el artículo 29 de dicha legislación general, se consideran Zonas de Atención Prioritaria las áreas o regiones, sean de carácter predominantemente rural o urbano, cuya población registra índices de pobreza, marginación indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social. Su determinación se orientará por los criterios de resultados que para el efecto defina el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+
+Que los Criterios Generales para la Determinación de las Zonas de Atención Prioritaria 2018, emitidos el 11 de agosto de 2017 por el Consejo Nacional de Evaluación de la Política de Desarrollo Social, señalan que a nivel de localidad se debe privilegiar, por lo menos, alguno de los siguientes indicadores: Indicadores e Índice de Rezago Social 2010 e Indicadores y Grado de Rezago Social 2010.
+
+Que dichos criterios consideran la utilización de otras fuentes de información complementarias que contengan información de pobreza de acuerdo con la metodología oficial en México y rezago social más actualizados y, que dichas fuentes complementarias deben documentar el rigor técnico con el que fueron construidas.
+
+Que en el ejercicio 2017, la Secretaría de Desarrollo Social realizó el Levantamiento de Información Socioeconómica 2017 Hombro con Hombro, usando como referente la metodología para la medición multidimensional de la pobreza en México emitida por el Consejo Nacional de Evaluación de la Política de Desarrollo Social, que recopiló información sobre carencias sociales de más de 152 mil familias en 875 localidades identificadas por el Consejo Nacional de Población con grado de marginación Muy Alto, Alto y Medio, dentro de los 18 municipios del Estado de Querétaro.
+
+Que en el año 2018, la Secretaría de Desarrollo Social realizó el cálculo del Índice de Rezago Social por localidad como medida ponderada que resume en un solo índice indicadores de carencias sociales referentes a educación, acceso a los servicios salud, calidad de la vivienda, servicios básicos en la vivienda y activos de la vivienda; y tiene como finalidad ordenar a las unidades de observación según sus carencias sociales, mismo que no constituye una medición de pobreza, puesto que no incluye información sobre el ingreso, el acceso a la seguridad social ni el acceso a la alimentación. Para éste se empleó como herramienta el Levantamiento de Información Socioeconómica 2017 Hombro con Hombro, en estricto apego a la metodología que para tal fin define el Consejo Nacional de Evaluación de la Política de Desarrollo Social. Para el cálculo se eligieron un conjunto de 11 variables tomando como referencia la metodología definida por el Consejo Nacional de Evaluación de la Política de Desarrollo Social:
+
+Porcentaje de población de 15 años o más analfabeta.
+
+Porcentaje de población de 6 a 14 años que no asiste a la escuela.
+
+Porcentaje de población de 15 años y más con educación básica incompleta.
+
+Porcentaje de población sin derechohabiencia a servicios de salud.
+
+Porcentaje de viviendas con piso de tierra.
+
+Porcentaje de viviendas que no disponen de excusado o sanitario.
+
+Porcentaje de viviendas que no disponen de agua entubada de la red pública.
+
+Porcentaje de viviendas que no disponen de drenaje.
+
+Porcentaje de viviendas que no disponen de energía eléctrica.
+
+Porcentaje de viviendas que no disponen de lavadora.
+
+Porcentaje de viviendas que no disponen de refrigerador.
+
+Que posterior a la definición de variables referidas en el considerando que antecede, la Secretaría de Desarrollo Social recurrió al método de componentes principales de combinación lineal, el cual es una técnica estadística de síntesis de la información para resumir diversas variables en una sola, que permite analizar la variabilidad del conjunto y ordenarlo de acuerdo a su importancia. De las 11 variables analizadas se generó un nuevo componente, factor o medida resumen, que por sus características cumple con las requeridas por el Consejo Nacional de Evaluación de la Política de Desarrollo Social para la conformación del Índice de Rezago Social estandarizado de tal forma que su media es cero, su varianza es de uno y es construida como una suma ponderada de los diferentes indicadores. Finalmente, se crearon cinco grupos que dan cuenta del nivel de rezago social de cada localidad. Estos grupos se clasificaron como grados de rezago social: “Muy bajo”, “Bajo”, “Medio”, “Alto” y “Muy alto” y dan muestra de una menor a una mayor carencia en los indicadores que conforman el índice, arrojando los siguientes resultados del número de localidades de acuerdo con su grado de rezago social:
+
+Grado de rezago social HcH
+
+Número de localidades
+
+Muy alto
+
+141
+
+Alto
+
+293
+
+Medio
+
+257
+
+Bajo
+
+151
+
+Muy bajo
+
+33
+
+Total
+
+875
+
+Que para asignar las Zonas de Atención Prioritaria en el Estado de Querétaro se consideraron las localidades con grado de rezago social Hombro con Hombro muy alto y para el caso de municipios que no presentaron localidades con este de grado de rezago social se priorizó las que tuvieran más del 50% de su población con 3 o más carencias y que adicionalmente presentaran indicadores de rezago por arriba del dato municipal. Quedando entonces la distribución por municipio de las 275 Zonas de Atención Prioritaria en el Estado de Querétaro (ZAPQ) que cumplen con los criterios antes descritos de la siguiente manera:
+
+Municipio
+
+Número de ZAPQ
+
+Amealco de Bonfil
+
+32
+
+Arroyo Seco
+
+13
+
+Cadereyta de Montes
+
+30
+
+Colón
+
+11
+
+Corregidora
+
+6
+
+El Marqués
+
+10
+
+Ezequiel Montes
+
+12
+
+Huimilpan
+
+13
+
+Jalpan de Serra
+
+12
+
+Landa de Matamoros
+
+16
+
+Pedro Escobedo
+
+10
+
+Peñamiller
+
+13
+
+Pinal de Amoles
+
+40
+
+Querétaro
+
+13
+
+San Joaquín
+
+9
+
+San Juan del Río
+
+11
+
+Tequisquiapan
+
+8
+
+Tolimán
+
+16
+
+Total
+
+275
+
+Que la declaración de Zonas de Atención Prioritaria constituye una valiosa herramienta para dirigir las acciones de gobierno del Poder Ejecutivo del Estado de Querétaro en materia de desarrollo social, promover la concurrencia presupuestal de las dependencias y entidades de la Administración Pública estatal para atender los rubros deficitarios, así como mejorar la eficiencia y eficacia en la aplicación de recursos para el cumplimiento de los objetivos plasmados en el Plan Estatal de Desarrollo 2016-2021.
+
+Por lo expuesto, tengo a bien expedir el siguiente:
+
+ACUERDO POR EL QUE SE DETERMINAN LAS ZONAS DE ATENCIÓN PRIORITARIA
+ EN EL ESTADO DE QUERÉTARO
+
+Único.- Se determinan 275 (doscientos setenta y cinco) Zonas de Atención Prioritaria en el Estado de Querétaro, siendo las siguientes:
+
+No.
+
+CLAVE LOCALIDAD
+
+MUNICIPIO
+
+LOCALIDAD
+
+GRADO DE REZAGO (HCH)
+
+1
+
+220010112
+
+AMEALCO DE BONFIL
+
+BARRIO LA JOYA
+
+MUY ALTO
+
+2
+
+220010121
+
+AMEALCO DE BONFIL
+
+CUISILLO (BARRIO DE SAN ILDEFONSO)
+
+MUY ALTO
+
+3
+
+220010174
+
+AMEALCO DE BONFIL
+
+LOMA DE LOS BLASES
+
+MUY ALTO
+
+4
+
+220010074
+
+AMEALCO DE BONFIL
+
+EL RINCÓN DE SAN ILDEFONSO
+
+MUY ALTO
+
+5
+
+220010143
+
+AMEALCO DE BONFIL
+
+TESQUEDO (PUERTO DEL CHIVATO)
+
+MUY ALTO
+
+6
+
+220010059
+
+AMEALCO DE BONFIL
+
+EL BOTHE
+
+MUY ALTO
+
+7
+
+220010070
+
+AMEALCO DE BONFIL
+
+YOSPHI
+
+MUY ALTO
+
+8
+
+220010099
+
+AMEALCO DE BONFIL
+
+LOS ARENALES (SAN JUAN DEHEDO)
+
+MUY ALTO
+
+9
+
+220010120
+
+AMEALCO DE BONFIL
+
+LA CAÑADA DEL VARAL
+
+MUY ALTO
+
+10
+
+220010049
+
+AMEALCO DE BONFIL
+
+SANTIAGO MEXQUITITLAN BARRIO 2DO.
+
+MUY ALTO
+
+11
+
+220010029
+
+AMEALCO DE BONFIL
+
+SANTIAGO MEXQUITITLÁN BARRIO 5TO. (EL PASTOREO)
+
+MUY ALTO
+
+12
+
+220010135
+
+AMEALCO DE BONFIL
+
+LA LOMA DEL ROSARIO
+
+MUY ALTO
+
+13
+
+220010050
+
+AMEALCO DE BONFIL
+
+SANTIAGO MEXQUITITLÁN BARRIO 1RO.
+
+MUY ALTO
+
+14
+
+220010106
+
+AMEALCO DE BONFIL
+
+LA VENTA (SANTIAGO MEXQUITITLÁN BARRIO 6TO.)
+
+MUY ALTO
+
+15
+
+220010054
+
+AMEALCO DE BONFIL
+
+EL TEPOZAN (BARRIO DE SAN ILDEFONSO)
+
+MUY ALTO
+
+16
+
+220010012
+
+AMEALCO DE BONFIL
+
+EL VARAL
+
+MUY ALTO
+
+17
+
+220010094
+
+AMEALCO DE BONFIL
+
+EL CACAHUATE (SANTIAGO MEXQUITITLÁN BARRIO 6TO.)
+
+MUY ALTO
+
+18
+
+220010111
+
+AMEALCO DE BONFIL
+
+LAS SALVAS
+
+MUY ALTO
+
+19
+
+220010038
+
+AMEALCO DE BONFIL
+
+SAN FELIPE (SANTIAGO MEXQUITITLÁN BARRIO 6TO.)
+
+MUY ALTO
+
+20
+
+220010047
+
+AMEALCO DE BONFIL
+
+SANTIAGO MEXQUITITLÁN BARRIO 3RO.
+
+MUY ALTO
+
+21
+
+220010137
+
+AMEALCO DE BONFIL
+
+SAN ANTONIO
+
+MUY ALTO
+
+22
+
+220010039
+
+AMEALCO DE BONFIL
+
+SAN ILDEFONSO TULTEPEC (CENTRO)
+
+MUY ALTO
+
+23
+
+220010062
+
+AMEALCO DE BONFIL
+
+CHITEJE DE GARABATO
+
+MUY ALTO
+
+24
+
+220010109
+
+AMEALCO DE BONFIL
+
+BARRIO DEL BARCO (SAN MIGUEL TLAXCALTEPEC)
+
+MUY ALTO
+
+25
+
+220010087
+
+AMEALCO DE BONFIL
+
+EJIDO DE SAN JUAN DEHEDO
+
+MUY ALTO
+
+26
+
+220010025
+
+AMEALCO DE BONFIL
+
+MESILLAS
+
+MUY ALTO
+
+27
+
+220010101
+
+AMEALCO DE BONFIL
+
+EL RINCÓN DE AGUA BUENA (SAN MIGUEL TLAXCALTEPEC)
+
+MUY ALTO
+
+28
+
+220010075
+
+AMEALCO DE BONFIL
+
+LOS ARCOS
+
+MUY ALTO
+
+29
+
+220010089
+
+AMEALCO DE BONFIL
+
+LOS ÁRBOLES
+
+MUY ALTO
+
+30
+
+220010118
+
+AMEALCO DE BONFIL
+
+EL COYOTE
+
+MUY ALTO
+
+31
+
+220010055
+
+AMEALCO DE BONFIL
+
+GUADALUPE EL TERRERO
+
+MUY ALTO
+
+32
+
+220010102
+
+AMEALCO DE BONFIL
+
+EL PUEBLITO (SAN MIGUEL TLAXCALTEPEC)
+
+MUY ALTO
+
+33
+
+220030010
+
+ARROYO SECO
+
+LA CANTERA
+
+MUY ALTO
+
+34
+
+220030057
+
+ARROYO SECO
+
+SANTA MARÍA DE LOS COCOS
+
+ALTO
+
+35
+
+220030059
+
+ARROYO SECO
+
+EL TEPOZAN
+
+ALTO
+
+36
+
+220030023
+
+ARROYO SECO
+
+EL JARDÍN
+
+ALTO
+
+37
+
+220030003
+
+ARROYO SECO
+
+EL AGUACATE
+
+ALTO
+
+38
+
+220030029
+
+ARROYO SECO
+
+MESA DE PALO BLANCO
+
+ALTO
+
+39
+
+220030048
+
+ARROYO SECO
+
+EL SABINITO
+
+MEDIO
+
+40
+
+220030054
+
+ARROYO SECO
+
+SAN JOSE DE LAS FLORES
+
+MEDIO
+
+41
+
+220030020
+
+ARROYO SECO
+
+LA FLORIDA
+
+MEDIO
+
+42
+
+220030006
+
+ARROYO SECO
+
+AYUTLA
+
+MEDIO
+
+43
+
+220030044
+
+ARROYO SECO
+
+EL REFUGIO
+
+MEDIO
+
+44
+
+220030047
+
+ARROYO SECO
+
+RÍO DEL CARRIZAL
+
+MEDIO
+
+45
+
+220030068
+
+ARROYO SECO
+
+EL CRUCERO DEL SABINITO
+
+MEDIO
+
+46
+
+220040132
+
+CADEREYTA DE MONTES
+
+RANCHO LA HONDA (SAN NICOLÁS)
+
+MUY ALTO
+
+47
+
+220040066
+
+CADEREYTA DE MONTES
+
+MESA DEL CASTILLO (LA FAJILLA)
+
+MUY ALTO
+
+48
+
+220040086
+
+CADEREYTA DE MONTES
+
+PUERTO DE LA LUZ
+
+MUY ALTO
+
+49
+
+220040063
+
+CADEREYTA DE MONTES
+
+EL MEMBRILLO
+
+MUY ALTO
+
+50
+
+220040135
+
+CADEREYTA DE MONTES
+
+EL PINALITO
+
+MUY ALTO
+
+51
+
+220040125
+
+CADEREYTA DE MONTES
+
+LAS VIGUITAS
+
+MUY ALTO
+
+52
+
+220040112
+
+CADEREYTA DE MONTES
+
+EL SOYATAL
+
+MUY ALTO
+
+53
+
+220040050
+
+CADEREYTA DE MONTES
+
+LA LAJA
+
+MUY ALTO
+
+54
+
+220040006
+
+CADEREYTA DE MONTES
+
+LOS AMOLITOS
+
+MUY ALTO
+
+55
+
+220040048
+
+CADEREYTA DE MONTES
+
+LOS JUÁREZ
+
+MUY ALTO
+
+56
+
+220040141
+
+CADEREYTA DE MONTES
+
+LAS JOYAS
+
+MUY ALTO
+
+57
+
+220040082
+
+CADEREYTA DE MONTES
+
+LA PUERTA
+
+MUY ALTO
+
+58
+
+220040070
+
+CADEREYTA DE MONTES
+
+OCOTITLÁN
+
+MUY ALTO
+
+59
+
+220040076
+
+CADEREYTA DE MONTES
+
+LA PASTILLA
+
+MUY ALTO
+
+60
+
+220040215
+
+CADEREYTA DE MONTES
+
+LA PRESA (LA NUEVA PRESITA)
+
+MUY ALTO
+
+61
+
+220040258
+
+CADEREYTA DE MONTES
+
+LA LOMA BONITA
+
+MUY ALTO
+
+62
+
+220040019
+
+CADEREYTA DE MONTES
+
+CARRICILLO
+
+MUY ALTO
+
+63
+
+220040005
+
+CADEREYTA DE MONTES
+
+ALTAMIRA (LA BONDOTITA)
+
+MUY ALTO
+
+64
+
+220040079
+
+CADEREYTA DE MONTES
+
+PORTEZUELO
+
+MUY ALTO
+
+65
+
+220040024
+
+CADEREYTA DE MONTES
+
+CERRO PRIETO
+
+MUY ALTO
+
+66
+
+220040111
+
+CADEREYTA DE MONTES
+
+SOMBRERETE
+
+MUY ALTO
+
+67
+
+220040017
+
+CADEREYTA DE MONTES
+
+CAMARONES
+
+MUY ALTO
+
+68
+
+220040261
+
+CADEREYTA DE MONTES
+
+LOS MATEOS
+
+MUY ALTO
+
+69
+
+220040115
+
+CADEREYTA DE MONTES
+
+EL TERRERO
+
+MUY ALTO
+
+70
+
+220040039
+
+CADEREYTA DE MONTES
+
+SAN JUAN DE ENRAMADAS
+
+MUY ALTO
+
+71
+
+220040190
+
+CADEREYTA DE MONTES
+
+LOS REMEDIOS
+
+MUY ALTO
+
+72
+
+220040031
+
+CADEREYTA DE MONTES
+
+CHAVARRÍAS
+
+MUY ALTO
+
+73
+
+220040192
+
+CADEREYTA DE MONTES
+
+SAN JOSÉ TEPOZAN
+
+MUY ALTO
+
+74
+
+220040134
+
+CADEREYTA DE MONTES
+
+LA RINCONADA
+
+MUY ALTO
+
+75
+
+220040107
+
+CADEREYTA DE MONTES
+
+SANTO TOMÁS
+
+MUY ALTO
+
+76
+
+220050007
+
+COLÓN
+
+EJIDO PATRIA
+
+MUY ALTO
+
+77
+
+220050004
+
+COLÓN
+
+NUEVO ÁLAMOS
+
+MUY ALTO
+
+78
+
+220050039
+
+COLÓN
+
+PUERTO DE SAN ANTONIO
+
+MUY ALTO
+
+79
+
+220050033
+
+COLÓN
+
+LA PILA
+
+MUY ALTO
+
+80
+
+220050016
+
+COLÓN
+
+EL FUENTEÑO
+
+MUY ALTO
+
+81
+
+220050037
+
+COLÓN
+
+EL MEZOTE
+
+MUY ALTO
+
+82
+
+220050036
+
+COLÓN
+
+PUERTA DE ENMEDIO
+
+ALTO
+
+83
+
+220050012
+
+COLÓN
+
+EL COYOTE
+
+ALTO
+
+84
+
+220050019
+
+COLÓN
+
+LA JOYA
+
+ALTO
+
+85
+
+220050059
+
+COLÓN
+
+EL ZAMORANO
+
+ALTO
+
+86
+
+220050060
+
+COLÓN
+
+LA ZORRA
+
+ALTO
+
+87
+
+220060231
+
+CORREGIDORA
+
+LOMAS DE ZARAGOZA
+
+ALTO
+
+88
+
+220060026
+
+CORREGIDORA
+
+LA PURÍSIMA DE LA CUEVA
+
+ALTO
+
+89
+
+220060143
+
+CORREGIDORA
+
+COLONIA VISTA HERMOSA
+
+MEDIO
+
+90
+
+220060187
+
+CORREGIDORA
+
+COLONIA VALLE DORADO DOS MIL
+
+MEDIO
+
+91
+
+220060014
+
+CORREGIDORA
+
+LA CUEVA
+
+MEDIO
+
+92
+
+220060020
+
+CORREGIDORA
+
+PITA
+
+MEDIO
+
+93
+
+220110382
+
+EL MARQUÉS
+
+SECCIÓN SUR DE SAN ISIDRO MIRANDA
+
+MUY ALTO
+
+94
+
+220110042
+
+EL MARQUÉS
+
+MATANZAS
+
+ALTO
+
+95
+
+220110436
+
+EL MARQUÉS
+
+SEGUNDO BARRIO DE DOLORES
+
+ALTO
+
+96
+
+220110387
+
+EL MARQUÉS
+
+NUEVA COLONIA LA CAMPANA
+
+ALTO
+
+97
+
+220110037
+
+EL MARQUÉS
+
+LA LABORCILLA
+
+ALTO
+
+98
+
+220110078
+
+EL MARQUÉS
+
+PRESA DEL CARMEN
+
+ALTO
+
+99
+
+220110050
+
+EL MARQUÉS
+
+LOS POCITOS
+
+MEDIO
+
+100
+
+220110431
+
+EL MARQUÉS
+
+AMPLIACIÓN JESÚS MARÍA
+
+MEDIO
+
+101
+
+220110054
+
+EL MARQUÉS
+
+EL RODEO
+
+MEDIO
+
+102
+
+220110082
+
+EL MARQUÉS
+
+LA MARIOLA (EL ROSARIO)
+
+MEDIO
+
+103
+
+220070029
+
+EZEQUIEL MONTES
+
+LOS RAMÍREZ
+
+MUY ALTO
+
+104
+
+220070033
+
+EZEQUIEL MONTES
+
+SAN ANTONIO
+
+MUY ALTO
+
+105
+
+220070165
+
+EZEQUIEL MONTES
+
+CERRITOS BARRIO SAN MIGUEL
+
+MUY ALTO
+
+106
+
+220070010
+
+EZEQUIEL MONTES
+
+EL COYOTE
+
+MUY ALTO
+
+107
+
+220070015
+
+EZEQUIEL MONTES
+
+GUANAJUATITO
+
+MUY ALTO
+
+108
+
+220070031
+
+EZEQUIEL MONTES
+
+LAS ROSAS
+
+MUY ALTO
+
+109
+
+220070185
+
+EZEQUIEL MONTES
+
+LA LUNA
+
+MUY ALTO
+
+110
+
+220070021
+
+EZEQUIEL MONTES
+
+LOBERAS
+
+ALTO
+
+111
+
+220070040
+
+EZEQUIEL MONTES
+
+SOMBRERETE
+
+ALTO
+
+112
+
+220070004
+
+EZEQUIEL MONTES
+
+EL BONDOTAL
+
+ALTO
+
+113
+
+220070102
+
+EZEQUIEL MONTES
+
+LOS SÁNCHEZ
+
+ALTO
+
+114
+
+220070036
+
+EZEQUIEL MONTES
+
+SAN JOSÉ DE LOS TREJO (LAS ADELITAS)
+
+ALTO
+
+115
+
+220080089
+
+HUIMILPAN
+
+GUADALUPE SEGUNDO FRACCIÓN PRIMERA
+
+MUY ALTO
+
+116
+
+220080006
+
+HUIMILPAN
+
+HUITRÓN
+
+ALTO
+
+117
+
+220080034
+
+HUIMILPAN
+
+SANTA TERESA
+
+ALTO
+
+118
+
+220080036
+
+HUIMILPAN
+
+SAN JOSÉ TEPUZAS
+
+ALTO
+
+119
+
+220080016
+
+HUIMILPAN
+
+LA JOYA
+
+ALTO
+
+120
+
+220080026
+
+HUIMILPAN
+
+PUERTA DEL TEPOZAN
+
+ALTO
+
+121
+
+220080030
+
+HUIMILPAN
+
+SAN IGNACIO
+
+ALTO
+
+122
+
+220080017
+
+HUIMILPAN
+
+LAGUNILLAS
+
+ALTO
+
+123
+
+220080027
+
+HUIMILPAN
+
+EL SALITRILLO
+
+ALTO
+
+124
+
+220080055
+
+HUIMILPAN
+
+LA MESITA LAGUNILLAS
+
+ALTO
+
+125
+
+220080135
+
+HUIMILPAN
+
+LA CEJA
+
+ALTO
+
+126
+
+220080015
+
+HUIMILPAN
+
+LA HACIENDITA
+
+ALTO
+
+127
+
+220080028
+
+HUIMILPAN
+
+SAN ANTONIO LA GALERA
+
+ALTO
+
+128
+
+220090048
+
+JALPAN DE SERRA
+
+MANZANILLOS
+
+MUY ALTO
+
+129
+
+220090090
+
+JALPAN DE SERRA
+
+TIERRA FRÍA
+
+MUY ALTO
+
+130
+
+220090177
+
+JALPAN DE SERRA
+
+EL POCITO
+
+ALTO
+
+131
+
+220090093
+
+JALPAN DE SERRA
+
+YERBABUENA
+
+ALTO
+
+132
+
+220090069
+
+JALPAN DE SERRA
+
+RANCHO NUEVO
+
+ALTO
+
+133
+
+220090049
+
+JALPAN DE SERRA
+
+MESA DEL SAUZ
+
+ALTO
+
+134
+
+220090051
+
+JALPAN DE SERRA
+
+MOCTEZUMAS
+
+ALTO
+
+135
+
+220090219
+
+JALPAN DE SERRA
+
+JAGUEY (JAGUEY GRANDE)
+
+ALTO
+
+136
+
+220090017
+
+JALPAN DE SERRA
+
+CARRERA DE TANCAMA
+
+ALTO
+
+137
+
+220090047
+
+JALPAN DE SERRA
+
+MADROÑO
+
+ALTO
+
+138
+
+220090015
+
+JALPAN DE SERRA
+
+CAPULINES
+
+ALTO
+
+139
+
+220090147
+
+JALPAN DE SERRA
+
+GUAYABOS
+
+ALTO
+
+140
+
+220100005
+
+LANDA DE MATAMOROS
+
+LA AGÜITA
+
+MUY ALTO
+
+141
+
+220100020
+
+LANDA DE MATAMOROS
+
+MALPAIS
+
+MUY ALTO
+
+142
+
+220100042
+
+LANDA DE MATAMOROS
+
+PUERTO DE SAN AGUSTÍN
+
+MUY ALTO
+
+143
+
+220100044
+
+LANDA DE MATAMOROS
+
+SAN JUANITO
+
+MUY ALTO
+
+144
+
+220100024
+
+LANDA DE MATAMOROS
+
+MESA DEL JAGUEY (JAGUEY DEL MUERTO)
+
+MUY ALTO
+
+145
+
+220100082
+
+LANDA DE MATAMOROS
+
+CERRO DE SAN AGUSTÍN
+
+MUY ALTO
+
+146
+
+220100041
+
+LANDA DE MATAMOROS
+
+EL SABINITO
+
+ALTO
+
+147
+
+220100045
+
+LANDA DE MATAMOROS
+
+SAN ONOFRE
+
+ALTO
+
+148
+
+220100061
+
+LANDA DE MATAMOROS
+
+LAGUNITA DE SAN DIEGO
+
+ALTO
+
+149
+
+220100033
+
+LANDA DE MATAMOROS
+
+LA POLVAREDA
+
+ALTO
+
+150
+
+220100072
+
+LANDA DE MATAMOROS
+
+PUERTO DEL SABINO
+
+ALTO
+
+151
+
+220100029
+
+LANDA DE MATAMOROS
+
+CERRO DE LA PALMA
+
+ALTO
+
+152
+
+220100055
+
+LANDA DE MATAMOROS
+
+LA YESCA
+
+ALTO
+
+153
+
+220100013
+
+LANDA DE MATAMOROS
+
+LA FLORIDA
+
+ALTO
+
+154
+
+220100111
+
+LANDA DE MATAMOROS
+
+ARBOLEDAS
+
+ALTO
+
+155
+
+220100068
+
+LANDA DE MATAMOROS
+
+EL AGUACATE (NEBLINAS)
+
+ALTO
+
+156
+
+220120028
+
+PEDRO ESCOBEDO
+
+SAN CLEMENTE
+
+ALTO
+
+157
+
+220120020
+
+PEDRO ESCOBEDO
+
+LA LIRA
+
+ALTO
+
+158
+
+220120011
+
+PEDRO ESCOBEDO
+
+LA D
+
+ALTO
+
+159
+
+220120019
+
+PEDRO ESCOBEDO
+
+LA PURÍSIMA
+
+MEDIO
+
+160
+
+220120022
+
+PEDRO ESCOBEDO
+
+NORIA NUEVA
+
+MEDIO
+
+161
+
+220120003
+
+PEDRO ESCOBEDO
+
+AJUCHITLANCITO
+
+MEDIO
+
+162
+
+220120029
+
+PEDRO ESCOBEDO
+
+SAN FANDILA
+
+MEDIO
+
+163
+
+220120017
+
+PEDRO ESCOBEDO
+
+GUADALUPE SEPTIÉN
+
+MEDIO
+
+164
+
+220120106
+
+PEDRO ESCOBEDO
+
+COLONIA MOCTEZUMA
+
+MEDIO
+
+165
+
+220120137
+
+PEDRO ESCOBEDO
+
+VILLAS DE ESCOBEDO
+
+MEDIO
+
+166
+
+220130011
+
+PEÑAMILLER
+
+ALTO BONITO
+
+MUY ALTO
+
+167
+
+220130035
+
+PEÑAMILLER
+
+LAS MESAS
+
+MUY ALTO
+
+168
+
+220130041
+
+PEÑAMILLER
+
+LA ORDEÑA
+
+MUY ALTO
+
+169
+
+220130006
+
+PEÑAMILLER
+
+AGUA DE PEDRO
+
+MUY ALTO
+
+170
+
+220130027
+
+PEÑAMILLER
+
+EL FRONTONCILLO
+
+MUY ALTO
+
+171
+
+220130133
+
+PEÑAMILLER
+
+PUEBLO NUEVO
+
+MUY ALTO
+
+172
+
+220130023
+
+PEÑAMILLER
+
+CUESTA COLORADA
+
+MUY ALTO
+
+173
+
+220130007
+
+PEÑAMILLER
+
+AGUA FRÍA
+
+MUY ALTO
+
+174
+
+220130037
+
+PEÑAMILLER
+
+EL MORAL
+
+ALTO
+
+175
+
+220130004
+
+PEÑAMILLER
+
+AGUA CALIENTE
+
+ALTO
+
+176
+
+220130017
+
+PEÑAMILLER
+
+EL CARRIZALILLO
+
+ALTO
+
+177
+
+220130046
+
+PEÑAMILLER
+
+LA PLAZUELA
+
+ALTO
+
+178
+
+220130152
+
+PEÑAMILLER
+
+VISTA ALEGRE
+
+ALTO
+
+179
+
+220020041
+
+PINAL DE AMOLES
+
+JOYAS DE BUCARELI
+
+MUY ALTO
+
+180
+
+220020152
+
+PINAL DE AMOLES
+
+EL LLANO DE HUAZQUILICO
+
+MUY ALTO
+
+181
+
+220020034
+
+PINAL DE AMOLES
+
+EPAZOTES GRANDES
+
+MUY ALTO
+
+182
+
+220020060
+
+PINAL DE AMOLES
+
+PIE DE LA CUESTA
+
+MUY ALTO
+
+183
+
+220020123
+
+PINAL DE AMOLES
+
+LAS MESAS DE SANTA INÉS
+
+MUY ALTO
+
+184
+
+220020027
+
+PINAL DE AMOLES
+
+CUATRO PALOS
+
+MUY ALTO
+
+185
+
+220020084
+
+PINAL DE AMOLES
+
+EL TIMBRE DE GUADALUPE
+
+MUY ALTO
+
+186
+
+220020141
+
+PINAL DE AMOLES
+
+SAUZ DE ARROYO HONDO
+
+MUY ALTO
+
+187
+
+220020015
+
+PINAL DE AMOLES
+
+LA BARRANCA
+
+MUY ALTO
+
+188
+
+220020115
+
+PINAL DE AMOLES
+
+AGUACATE DE SAN PEDRO
+
+MUY ALTO
+
+189
+
+220020046
+
+PINAL DE AMOLES
+
+LLANO DE SAN FRANCISCO
+
+MUY ALTO
+
+190
+
+220020009
+
+PINAL DE AMOLES
+
+AGUA FRÍA DE GUDIÑO
+
+MUY ALTO
+
+191
+
+220020077
+
+PINAL DE AMOLES
+
+SAN GASPAR
+
+MUY ALTO
+
+192
+
+220020092
+
+PINAL DE AMOLES
+
+PUERTO DE VIGAS
+
+MUY ALTO
+
+193
+
+220020074
+
+PINAL DE AMOLES
+
+EL RODEZNO
+
+MUY ALTO
+
+194
+
+220020050
+
+PINAL DE AMOLES
+
+MAGUEYCITOS
+
+MUY ALTO
+
+195
+
+220020078
+
+PINAL DE AMOLES
+
+SAN JOSÉ COCHINITO
+
+MUY ALTO
+
+196
+
+220020021
+
+PINAL DE AMOLES
+
+EL CARRIZALITO
+
+MUY ALTO
+
+197
+
+220020172
+
+PINAL DE AMOLES
+
+LA TROJA
+
+MUY ALTO
+
+198
+
+220020005
+
+PINAL DE AMOLES
+
+AGUACATE DE MORELOS
+
+MUY ALTO
+
+199
+
+220020054
+
+PINAL DE AMOLES
+
+LA MOHONERA
+
+MUY ALTO
+
+200
+
+220020030
+
+PINAL DE AMOLES
+
+DERRAMADERO DE BUCARELI
+
+MUY ALTO
+
+201
+
+220020114
+
+PINAL DE AMOLES
+
+AGUA FRÍA
+
+MUY ALTO
+
+202
+
+220020028
+
+PINAL DE AMOLES
+
+CUESTA BLANCA
+
+MUY ALTO
+
+203
+
+220020066
+
+PINAL DE AMOLES
+
+PUERTO DEL DERRAMADERO
+
+MUY ALTO
+
+204
+
+220020047
+
+PINAL DE AMOLES
+
+MABY
+
+MUY ALTO
+
+205
+
+220020134
+
+PINAL DE AMOLES
+
+LA CHARCA
+
+MUY ALTO
+
+206
+
+220020086
+
+PINAL DE AMOLES
+
+TONATICO
+
+MUY ALTO
+
+207
+
+220020073
+
+PINAL DE AMOLES
+
+RÍO ESCANELA
+
+ALTO
+
+208
+
+220020017
+
+PINAL DE AMOLES
+
+BUCARELI
+
+ALTO
+
+209
+
+220020087
+
+PINAL DE AMOLES
+
+TRES CRUCES
+
+ALTO
+
+210
+
+220020109
+
+PINAL DE AMOLES
+
+CASAS VIEJAS (AGUA ENTERRADA SAN CARLOS)
+
+ALTO
+
+211
+
+220020079
+
+PINAL DE AMOLES
+
+SAN PEDRO VIEJO
+
+ALTO
+
+212
+
+220020098
+
+PINAL DE AMOLES
+
+EL REFUGIO
+
+ALTO
+
+213
+
+220020049
+
+PINAL DE AMOLES
+
+MAGUEY BLANCO
+
+ALTO
+
+214
+
+220020136
+
+PINAL DE AMOLES
+
+LA JOYA DE AHUACATLÁN
+
+ALTO
+
+215
+
+220020035
+
+PINAL DE AMOLES
+
+EPAZOTITOS
+
+ALTO
+
+216
+
+220020040
+
+PINAL DE AMOLES
+
+HUILOTLA
+
+ALTO
+
+217
+
+220020037
+
+PINAL DE AMOLES
+
+EL GALLO
+
+ALTO
+
+218
+
+220020169
+
+PINAL DE AMOLES
+
+EL MADROÑO
+
+ALTO
+
+219
+
+220140214
+
+QUERÉTARO
+
+LA CANTERA
+
+MUY ALTO
+
+220
+
+220140063
+
+QUERÉTARO
+
+LLANO DE LA ROCHERA
+
+ALTO
+
+221
+
+220140080
+
+QUERÉTARO
+
+PRESA DE BECERRA
+
+ALTO
+
+222
+
+220140158
+
+QUERÉTARO
+
+CERRO PRIETO
+
+ALTO
+
+223
+
+220140076
+
+QUERÉTARO
+
+EL PIE
+
+ALTO
+
+224
+
+220140367
+
+QUERÉTARO
+
+SAN JOSÉ DE LOS PERALES
+
+ALTO
+
+225
+
+220140304
+
+QUERÉTARO
+
+ASOCIACIÓN DE COLONOS SANTA CATARINA
+
+ALTO
+
+226
+
+220140117
+
+QUERÉTARO
+
+LA VERSOLILLA
+
+ALTO
+
+227
+
+220140437
+
+QUERÉTARO
+
+SAN JOSÉ EL ALTO ZONA V
+
+ALTO
+
+228
+
+220140103
+
+QUERÉTARO
+
+SAN MIGUELITO
+
+ALTO
+
+229
+
+220140073
+
+QUERÉTARO
+
+PALO ALTO
+
+ALTO
+
+230
+
+220140042
+
+QUERÉTARO
+
+CHARAPE DE LOS PELONES
+
+ALTO
+
+231
+
+220140048
+
+QUERÉTARO
+
+LA ESTANCIA DE PALO DULCE
+
+ALTO
+
+232
+
+220150083
+
+SAN JOAQUÍN
+
+LAS TINAJAS
+
+MUY ALTO
+
+233
+
+220150066
+
+SAN JOAQUÍN
+
+ZARZA Y SOMERIAL
+
+MUY ALTO
+
+234
+
+220150053
+
+SAN JOAQUÍN
+
+SAN SEBASTIÁN
+
+MUY ALTO
+
+235
+
+220150004
+
+SAN JOAQUÍN
+
+LOS AZOGUEZ
+
+ALTO
+
+236
+
+220150017
+
+SAN JOAQUÍN
+
+EL PLÁTANO
+
+ALTO
+
+237
+
+220150063
+
+SAN JOAQUÍN
+
+SANTA MARÍA ÁLAMOS
+
+ALTO
+
+238
+
+220150024
+
+SAN JOAQUÍN
+
+SAN FRANCISCO GATOS
+
+ALTO
+
+239
+
+220150065
+
+SAN JOAQUÍN
+
+SAN JOSÉ CARRIZAL
+
+ALTO
+
+240
+
+220150016
+
+SAN JOAQUÍN
+
+LOS PLANES
+
+ALTO
+
+241
+
+220160099
+
+SAN JUAN DEL RÍO
+
+SANTA ISABEL EL COTO
+
+ALTO
+
+242
+
+220160029
+
+SAN JUAN DEL RÍO
+
+LA LABORCILLA
+
+ALTO
+
+243
+
+220160097
+
+SAN JUAN DEL RÍO
+
+SAN SEBASTIÁN LOMA LINDA
+
+ALTO
+
+244
+
+220160119
+
+SAN JUAN DEL RÍO
+
+NERIA DE DOLORES GODOY
+
+ALTO
+
+245
+
+220160013
+
+SAN JUAN DEL RÍO
+
+EL COTO
+
+ALTO
+
+246
+
+220160343
+
+SAN JUAN DEL RÍO
+
+SAN MARTÍN
+
+ALTO
+
+247
+
+220160017
+
+SAN JUAN DEL RÍO
+
+DOLORES GODOY
+
+ALTO
+
+248
+
+220160035
+
+SAN JUAN DEL RÍO
+
+LA MESA DE SAN ANTONIO
+
+ALTO
+
+249
+
+220160022
+
+SAN JUAN DEL RÍO
+
+ESTANCIA DE SANTA LUCÍA
+
+ALTO
+
+250
+
+220160101
+
+SAN JUAN DEL RÍO
+
+LA PRESITA
+
+MEDIO
+
+251
+
+220160002
+
+SAN JUAN DEL RÍO
+
+ARCILA
+
+MEDIO
+
+252
+
+220170172
+
+TEQUISQUIAPAN
+
+LAS CORRALETAS (FAMILIA CASTILLO)
+
+ALTO
+
+253
+
+220170135
+
+TEQUISQUIAPAN
+
+SECCIÓN ESTE DE LA FUENTE
+
+ALTO
+
+254
+
+220170019
+
+TEQUISQUIAPAN
+
+EL TEJOCOTE
+
+MEDIO
+
+255
+
+220170010
+
+TEQUISQUIAPAN
+
+LA LAJA
+
+MEDIO
+
+256
+
+220170014
+
+TEQUISQUIAPAN
+
+SAN JOSÉ DE LA LAJA
+
+MEDIO
+
+257
+
+220170005
+
+TEQUISQUIAPAN
+
+EL CERRITO
+
+MEDIO
+
+258
+
+220170016
+
+TEQUISQUIAPAN
+
+SAN NICOLÁS
+
+MEDIO
+
+259
+
+220170107
+
+TEQUISQUIAPAN
+
+RAMAS BLANCAS
+
+MEDIO
+
+260
+
+220180039
+
+TOLIMÁN
+
+PUERTO BLANCO
+
+MUY ALTO
+
+261
+
+220180061
+
+TOLIMÁN
+
+EL ZAPOTE
+
+MUY ALTO
+
+262
+
+220180119
+
+TOLIMÁN
+
+EL TULE
+
+MUY ALTO
+
+263
+
+220180030
+
+TOLIMÁN
+
+MESA DE RAMÍREZ
+
+MUY ALTO
+
+264
+
+220180004
+
+TOLIMÁN
+
+BOMINTZA
+
+MUY ALTO
+
+265
+
+220180081
+
+TOLIMÁN
+
+EL SAUCITO
+
+MUY ALTO
+
+266
+
+220180043
+
+TOLIMÁN
+
+SABINO DE SAN AMBROSIO
+
+MUY ALTO
+
+267
+
+220180009
+
+TOLIMÁN
+
+CASA BLANCA
+
+MUY ALTO
+
+268
+
+220180012
+
+TOLIMÁN
+
+EL CERRITO PARADO
+
+MUY ALTO
+
+269
+
+220180127
+
+TOLIMÁN
+
+LOMA DE CASA BLANCA
+
+MUY ALTO
+
+270
+
+220180067
+
+TOLIMÁN
+
+MESA DE CHAGOYA
+
+MUY ALTO
+
+271
+
+220180027
+
+TOLIMÁN
+
+MAGUEY MANSO
+
+MUY ALTO
+
+272
+
+220180008
+
+TOLIMÁN
+
+CARRIZALILLO
+
+ALTO
+
+273
+
+220180057
+
+TOLIMÁN
+
+LA VEREDA
+
+ALTO
+
+274
+
+220180126
+
+TOLIMÁN
+
+LOS GONZÁLEZ
+
+ALTO
+
+275
+
+220180016
+
+TOLIMÁN
+
+EL CHILAR
+
+ALTO
+
+Transitorios
+
+Único.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, “La Sombra de Arteaga”.
+
+Dado en la ciudad de Santiago de Querétaro, Qro. a los 28 días del mes de enero del año 2019.
+
+TONATIUH CERVANTES CURIEL
+
+SECRETARIO DE DESARROLLO SOCIAL
+
+DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
+
+Rúbrica
+
+ACUERDO POR EL QUE SE DETERMINAN LAS ZONAS DE ATENCIÓN PRIORITARIA EN EL ESTADO DE QUERÉTARO: PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO “LA SOMBRA DE ARTEAGA”, 15 DE FEBRERO DE 2019 (P. O. No. 20)

@@ -1,0 +1,523 @@
+---
+titulo: "Resolución relativa a la solicitud de registro de la fórmula de Ayuntamiento y lista de regidores por el principio de representación proporcional, presentada por la Coalición Flexible PRI-PVEM-PANAL y en candidatura común con el Partido del Trabajo, Consejo Distrital XI, Pedro Escobedo, Qro."
+tipo: "Resolución"
+estado: "Queretaro"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "10 de Junio de 2015"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "63858"
+---
+PEDRO ESCOBEDO, QUERÉTARO, 04 DE ABRIL DE 2015.
+
+VISTOS PARA RESOLVER LOS AUTOS DEL EXPEDIENTE CDXI/RCA/004/2015,
+RELATIVO A LA SOLICITUD DE REGISTRO DE LA FÓRMULA DE AYUNTAMIENTO Y
+LISTA DE REGIDORES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL
+PRESENTADA POR EL COALICIÓN FLEXIBLE PRI-PVEM-PANAL Y EN CANDIDATURA
+COMÚN CON EL PARTIDO DEL TRABAJO ANTE ESTE CONSEJO DISTRITAL XI Y:
+
+ RESULTANDO
+
+1. Declaratoria de Inicio del Proceso Electoral. El 1 de octubre de
+2014, a través de la sesión extraordinaria del Consejo General, el
+máximo órgano de dirección del Instituto Electoral del Estado de
+Querétaro, emitió la declaratoria de inicio del Proceso Electoral
+Ordinario 2014-2015, de conformidad con lo establecido en el artículo
+cuarto transitorio de la Ley que reforma, deroga y adiciona diversas
+disposiciones de la Ley Electoral del Estado de Querétaro, publicada el
+29 de junio de 2014.
+
+2. Integración de los Consejos Distritales y Municipales. Por Acuerdo
+del Consejo General de fecha 14 de enero de 2015, y con fundamento en
+los artículos 65, fracción V; 82, fracciones I y II; y 102, fracción
+I, de la Ley Electoral del Estado de Querétaro, se aprobó la
+integración de los Consejos Distritales y Municipales para el Proceso
+Electoral Ordinario 2014-2015, designando para ello a los ciudadanos que
+fungirían como Consejeros Electorales propuestos por el Secretario
+Ejecutivo; de igual manera, se ratificó la designación de los
+ciudadanos que ocuparían el cargo de Secretarios Técnicos.
+
+3. Instalación de los Consejos Distritales y Municipales. En
+cumplimiento al resolutivo TERCERO del Acuerdo del Consejo General
+citado anteriormente, los Consejos Distritales y Municipales llevaron a
+cabo la sesión de instalación el 24 de enero del año que transcurre.
+
+4. Presentación Plataforma Electoral. La Secretaría Ejecutiva del
+Consejo General del Instituto Electoral del Estado de Querétaro, a
+través del Sistema de Información del Proceso Electoral
+“INFOPREL”, informó a este órgano electoral del registro de la
+Plataforma Electoral que sostendrán los candidatos de la COALICIÓN
+FLEXIBLE PRI-PVEM-PANAL y en candidatura común con el Partido del
+Trabajo durante el presente proceso electoral; por lo que de conformidad
+a lo dispuesto por el artículo 105 de la Ley Electoral del Estado de
+Querétaro, dicha fuerza política ha cumplido con el requisito de
+procedibilidad para solicitar el registro de sus aspirantes.
+
+5. Solicitud de Registro. 31 de Marzo de 2015, se recibió en este
+órgano el escrito signado por el C. LIC. MAURICIO ORTÍZ PROAL, en su
+carácter de Presidente del Comité Directivo Estatal del Partido
+Revolucionario Institucional, así como por el C. DIP. FED. RICARDO
+ASTUDILLO SUÁREZ en su carácter de Secretario General del Comité
+Ejecutivo Estatal del Partido Verde Ecologista de México, a su vez por
+el C. PROF. ABEL ESPINOSA SUÁREZ, en su carácter de Presidente del
+Comité de Dirección Estatal del Partido Nueva Alianza, para conformar
+la COALICIÓN FLEXIBLE PRI-PVEM-PANAL ante este el Instituto Electoral
+del Estado de Querétaro y por ende, ante este Consejo Distrital XI, con
+cabecera en Pedro Escobedo, y en candidatura común con el Partido del
+Trabajo asimismo firmada la solicitud por parte de la Lic. Gabriela
+Moreno Mayorga, Comisionada Política Estatal del Partido del Trabajo,
+mediante el cual solicitaron el registro de la fórmula de Ayuntamiento
+y lista de Regidores por el principio de representación proporcional
+integrada de la siguiente manera:
+
+Presidente Municipal	JUAN CARLOS PIÑA TEJEIDA
+
+Síndico propietario	LISSET ÁLVAREZ MENDOZA
+
+Síndico suplente	PILAR VARGAS ISLAS
+
+Síndico propietario	FELIPE CRUZ SÁNCHEZ
+
+Síndico suplente	CÉSAR RUÍZ URIBE
+
+Regidor propietario por el principio de mayoría relativa	YOLANDA DE
+CARLOS LÓPEZ
+
+Regidor suplente por el principio de mayoría relativa	ROXANA VELÁZQUEZ
+JIMÉNEZ
+
+Regidor propietario por el principio de mayoría relativa	TIRSO JULIÁN
+PERRUSQUÍA
+
+Regidor suplente por el principio de mayoría relativa	FELIPE VÁZQUEZ
+DE JESÚS
+
+Regidor propietario por el principio de mayoría relativa	NADIA
+GUADALUPE SORIA VEGA
+
+Regidor suplente por el principio de mayoría relativa	GISELLE QUINTANAR
+CRUZ
+
+Regidor propietario por el principio de mayoría relativa	JUAN JOSÉ
+URQUIZA SOTO
+
+Regidor suplente por el principio de mayoría relativa	MAXIMINO RANGÉL
+COLÍN
+
+6. Integración de Expediente. Seguidos los trámites de ley, se
+admitió la solicitud de registro ordenándose integrar para tal efecto,
+el expediente No. CDXI/RCA/004/2015, en el cual, se procedió a realizar
+el estudio relativo al cumplimiento de las formalidades y requisitos que
+señala la Ley Electoral del Estado de Querétaro por lo que se pusieron
+los autos en estado de resolución, la cual se dicta al tenor de los
+siguientes:
+
+7. Resolución del Consejo General. El seis de marzo del presente año,
+mediante resolución del Consejo General se aprobó el registro del
+convenio de la coalición integrado en el expediente identificado con la
+clave IEEQ/AG/030/2015-P; en esa virtud, se registró la plataforma
+electoral de la  coalición y se expidió la constancia de registro de
+la misma.
+
+8. Recurso de apelación. El diez de marzo de este año, los
+representantes propietarios del Partido Acción Nacional y Movimiento
+Ciudadano ante el Consejo General, presentaron respectivamente, recurso
+de apelación a fin de impugnar la resolución de la coalición, los
+cuales fueron registrados por el Tribunal Electoral del Estado de
+Querétaro, con las claves TEEQ-RAP/JLD-16/2014 y TEEQ-RAP/JLD-17/2014.
+
+9. Sentencia del Tribunal Electoral del Estado de Querétaro. El
+veintitrés de marzo del presente año, en el recurso de apelación
+identificado con la clave TEEQ-RAP/JLD-16/2014 y su acumulado
+TEEQ-RAP/JLD-17/2014, el Tribunal Electoral del Estado de Querétaro
+emitió sentencia que confirmó la resolución de la coalición.
+
+10. Presentación de la plataforma electoral. En observancia a la fecha
+límite del veintiséis de marzo de este año para la presentación de
+la plataforma electoral, consta en el archivo del Consejo que la
+coalición y el Partido del Trabajo, presentaron la plataforma electoral
+respectiva para postular la candidatura común que refiere la solicitud
+de registro.
+
+11. Presentación de la solicitud de registro. El veintinueve de marzo
+del año en curso, en la Oficialía de Partes del Instituto se presentó
+la solicitud de registro, acompañada de la documentación considerada
+pertinente, así como en fecha 31 de Marzo de 2015 ante este Consejo
+Distrital XI.
+
+CONSIDERANDOS
+
+I. Competencia. Este Consejo Distrital es competente para conocer y
+resolver sobre la solicitud de registro de la fórmula de Ayuntamiento y
+lista de Regidores por el principio de representación proporcional
+presentada por el COALICIÓN FLEXIBLE PRI-PVEM-PANAL, y en candidatura
+común con el Partido del Trabajo acorde a lo dispuesto por los
+artículos 80, 83, fracción III; 86, fracción III; 193, fracción II,
+de la Ley Electoral del Estado de Querétaro; 72, fracción I; y 75, del
+Reglamento Interior del Instituto Electoral del Estado de Querétaro.
+
+ II. Trámite. El Trámite dado a la solicitud fue el correcto de
+acuerdo a lo dispuesto por los artículos 199, 201 y 202, de la ley
+comicial en cita.
+
+ III. Personalidad. La personalidad del C. LIC. MAURICIO ORTÍZ PROAL,
+DIP. FED. RICARDO ASTUDILLO SUÁREZ y PROF. ABEL ESPINOSA SUÁREZ y de
+la Lic. Gabriela Moreno Mayorga, Comisionada Política Estatal del
+Partido del Trabajo, están debidamente reconocidas en términos de los
+artículos 192 de la ley electoral vigente; y 32, fracción I, de la Ley
+de Medios de Impugnación en Materia Electoral del Estado de Querétaro,
+aplicada supletoriamente, para actuar ante este órgano electoral según
+se desprende de la acreditación que obra en los archivos del propio
+Consejo.
+
+ IV. Análisis de los requisitos de forma. La presente resolución se
+emite con fundamento en lo establecido por los artículos 61 y 62 de la
+Ley de Medios de Impugnación en Materia Electoral del Estado de
+Querétaro, aplicada supletoriamente a la ley comicial para esta
+entidad.
+
+Dentro de este considerando nos ocuparemos del estudio de los requisitos
+formales que debe llenar la solicitud de registro de candidatos y
+fórmulas de acuerdo a lo estipulado por el artículo 194 de la Ley
+Electoral del Estado de Querétaro, del que se desprende que las
+solicitudes deberán señalar el partido político o coalición que
+postula a los candidatos o, en su caso, de que se trata de un candidato
+independiente, así como los datos personales de éstos, cubriendo los
+siguientes requisitos: a) Nombre completo y apellidos; b) Lugar y fecha
+de nacimiento; c) Domicilio y tiempo de residencia en el mismo; d) Clave
+de elector; e) Cargo para el que se postula; y f) Tratándose de
+candidatos postulados por partidos políticos o coaliciones electorales,
+la manifestación escrita y bajo protesta de decir verdad, que el
+procedimiento para la postulación del candidato se efectuó de
+conformidad con la Ley Electoral del Estado de Querétaro, los estatutos
+y la normatividad interna del partido o, en su caso, en términos de lo
+previsto en el convenio de coalición, según sea el caso; además de
+que la solicitud deberá estar suscrita tanto por el candidato o
+candidatos, como por quien esté facultado por el partido político o
+coalición que lo registra.
+
+Debe mencionarse que la COALICIÓN FLEXIBLE PRI-PVEM-PANAL, dio
+cumplimiento a los requisitos de forma que la ley exige, en los
+términos que se exponen a continuación:
+
+De la prueba documental privada consistente en la solicitud de registro,
+se desprende que la misma contiene nombre completo y apellidos; lugar y
+fecha de nacimiento; domicilio y tiempo de residencia en el mismo; clave
+de elector; cargo para el que se les postula; y a su escrito acompañó
+la manifestación escrita y bajo protesta de decir verdad, de que el
+procedimiento para la postulación de los candidatos se efectuó de
+conformidad con lo establecido en la Ley Electoral del Estado de
+Querétaro, a los estatutos y normatividad interna del partido
+político, o, en su caso, en términos de lo previsto en el convenio de
+coalición; así como las anuencias por parte de los órganos locales y
+nacionales correspondientes de los partidos políticos solicitantes.
+
+Así mismo, la solicitud de mérito se encuentra suscrita por el C. LIC.
+MAURICIO ORTÍZ PROAL, DIP. FED. RICARDO ASTUDILLO SUÁREZ y PROF. ABEL
+ESPINOSA SUÁREZ quien, en los términos señalados en el considerando
+III de la presente resolución, tiene capacidad legal para solicitar el
+registro la fórmula de Ayuntamiento y lista de Regidores por el
+principio de representación proporcional; adicionalmente la solicitud
+en estudio lleva inserta la firma autógrafa de cada uno de los
+candidatos.
+
+Por lo que refiere a lo dispuesto por el artículo 195 de la ley
+electoral local, la COALICIÓN FLEXIBLE PRI-PVEM-PANAL acompañó a su
+solicitud copias certificadas de las actas de nacimiento, de la
+credencial para votar, así como las constancias de tiempo de residencia
+expedidas por el Secretario del Ayuntamiento, donde los candidatos
+tienen su domicilio; documentales que al no ser objetadas en tiempo y
+forma por las partes, este órgano electoral les confiere valor
+probatorio suficiente para tener por acreditados los requisitos
+señalados; lo anterior, de conformidad con el artículo 47, fracción
+I, de la Ley de Medios de Impugnación en Materia Electoral del Estado
+de Querétaro, aplicada de manera supletoria.
+
+ V. Análisis de los requisitos de fondo. Finalmente, de acuerdo al
+marco jurídico vigente, en concreto los artículos 8, de la
+Constitución del Estado; y 13, de la ley electoral local, se desprende
+que para ser postulado y ocupar un cargo de elección popular como el de
+integrante del Ayuntamiento, se deberán cubrir los siguientes
+requisitos: a) Ser ciudadano mexicano y estar en pleno ejercicio de sus
+derechos políticos; b) Estar inscrito en el Padrón Electoral; c) Tener
+residencia efectiva en el municipio de cuando menos tres años
+anteriores a la fecha de la elección; d) No ser militar en servicio
+activo o contar con mando en los cuerpos policíacos; e) No ser
+Presidente Municipal, ni ser titular de ninguno de los organismos a los
+que la Constitución del Estado otorga autonomía, ni ser Secretario o
+Subsecretario de Estado, ni titular de alguno de los organismos
+descentralizados o desconcentrados de la Administración Pública
+Federal, Estatal o Municipal, a menos que se separe de sus funciones,
+mediante licencia o renuncia en los términos de ley, por lo menos
+noventa días naturales antes del día de la elección. Los Diputados,
+Síndicos y Regidores, no requerirán separarse de sus funciones; y f)
+No ser ministro de algún culto religioso.
+
+De igual manera, no debe perderse de vista que de acuerdo a lo
+establecido en el artículo 7 de la Constitución Política del Estado
+de Querétaro, el derecho de solicitar el registro de candidatos ante la
+autoridad electoral para todos los cargos de elección popular,
+corresponde a los partidos políticos así como a los ciudadanos que de
+manera independiente cumplan con los requisitos, condiciones y términos
+que determine la legislación correspondiente.
+
+Ahora bien, por lo que toca al primer requisito, para ser postulado y en
+su caso ocupar un cargo de elección popular como lo es ser integrante
+de la fórmula de Ayuntamiento y lista de Regidores por el principio de
+representación proporcional que se está analizando, es necesario ser
+ciudadano mexicano y estar en pleno ejercicio de sus derechos
+políticos; requisito que acreditan tanto el candidato al cargo de
+Presidente Municipal, el C. JUAN CARLOS PIÑA TEJEIDA, así como el
+resto de los ciudadanos integrantes de la fórmula con sus respectivas
+copias certificadas de sus actas de nacimiento, las cuales, obran
+agregadas dentro del expediente y de las que se desprende que son
+mexicanos por nacimiento; que a la fecha han cumplido dieciocho años
+para ser considerados ciudadanos, según lo preceptúa el artículo 34
+de la Constitución General de la República, tan es así, que
+acompañaron a la solicitud las copias certificada de sus respectivas
+credenciales para votar, documento que en términos del artículo 9 de
+la Ley General de Instituciones y Procedimientos Electorales, es
+catalogado como el medio indispensable para que los ciudadanos puedan
+ejercer su derecho al voto, dicho de otra manera, para obtener la
+credencial para votar, se requiere tener dieciocho años cumplidos.
+
+Tocante al requisito de estar en pleno ejercicio de sus derechos
+políticos, se acredita con las cartas bajo protesta de decir verdad
+suscritas por cada uno de ellos y dirigidas a este Consejo, en las que
+señalan que cumplen con los requisitos establecidos por la
+Constitución Política del Estado de Querétaro y la ley electoral
+vigente, además de que sobre el particular no existió controversia.
+
+Por lo que ve al requisito de estar inscritos en el Padrón Electoral,
+éste se encuentra satisfecho en términos de lo contenido en el
+artículo 135 de la ley general de la materia, del que se desprende
+esencialmente que para estar incorporado, se requerirá solicitud
+individual de acuerdo a lo previsto en el artículo 140 del mismo
+ordenamiento, para que con base en esta solicitud, la Dirección
+Ejecutiva del Registro Federal de Electores expida la correspondiente
+credencial para votar; en consecuencia, si como ya vimos, los aspirantes
+a candidatos exhibieron entre otros documentos la copia certificada de
+sus respectivas credenciales para votar, se desprende entonces
+válidamente que previo a ello, debieron estar inscritos en el Padrón
+Electoral.
+
+El requisito de residencia efectiva en el municipio de cuando menos tres
+años anteriores a la fecha de la elección, éste se cumple cabalmente
+con las constancias de tiempo de residencia expedidas por el Secretario
+del Ayuntamiento, las cuales tienen el carácter de pruebas documentales
+públicas en virtud de ser expedidas por un funcionario público en
+ejercicio y con motivo de sus funciones. De esta forma y de un estudio
+de cada una de las referidas constancias, se desprende lo siguiente:
+
+Nombre	Candidato al cargo de:	Años de Residencia efectiva en el
+municipio anterior al 7 de junio de 2015
+
+JUAN CARLOS PIÑA TEJEIDA	Presidente Municipal	26
+
+LISSET ÁLVAREZ MENDOZA	Síndico propietario	 24
+
+PILAR VARGAS ISLAS	Síndico suplente	 10
+
+FELIPE CRUZ SÁNCHEZ	Síndico propietario	 20
+
+CÉSAR RUÍZ URIBE	Síndico suplente	30
+
+YOLANDA DE CARLOS LÓPEZ	Regidor propietario por el principio de
+mayoría relativa	35
+
+ROXANA VELÁZQUEZ JIMÉNEZ	Regidor Suplente por el principio de mayoría
+relativa	20
+
+TIRSO JULIÁN PERRUSQUÍA	Regidor propietario por el principio de
+mayoría relativa	35
+
+FELIPE VÁZQUEZ DE JESÚS	Regidor suplente por el principio de mayoría
+relativa	20
+
+NADIA GUADALUPE SORIA VEGA	Regidor propietario por el principio de
+mayoría relativa	27
+
+GISELLE QUINTANAR CRUZ	Regidor Suplente por el principio de mayoría
+relativa	22
+
+JUAN JOSÉ URQUIZA SOTO	Regidor propietario por el principio de mayoría
+relativa	35
+
+MAXIMINO RANGÉL COLÍN	Regidor suplente por el principio de mayoría
+relativa	57
+
+Por su parte, sobre la lista de Regidores por el principio de
+representación proporcional será presentada de manera independiente
+por parte de cada uno de los Partidos Políticos que integran dicha
+coalición, es decir, el Partido de Revolucionario Institucional, el
+Parido Verde Ecologista de México y el Nueva Alianza, se reservan y
+solicitarán de manera autónoma su propia lista de Regidores por el
+principio de representación proporcional:
+
+Pasando al análisis de los requisitos consistentes en: no ser militar
+en servicio activo o contar con mando en los cuerpos policíacos; no ser
+Presidente Municipal, ni ser titular de ninguno de los organismos a los
+que la Constitución del Estado otorga autonomía, ni ser Secretario o
+Subsecretario de Estado, ni titular de alguno de los organismos
+descentralizados o desconcentrados de la Administración Pública
+Federal, Estatal o Municipal, a menos que se separe de sus funciones,
+mediante licencia o renuncia en los términos de ley, por lo menos
+noventa días naturales antes del día de la elección; y no ser
+ministro de algún culto religioso; tenemos que se debe señalar que al
+tratarse de hechos negativos, la COALICIÓN FLEXIBLE PRI-PVEM-PANAL se
+encuentra relevado de acreditarlos, además de que no se presentó
+controversia sobre este particular; lo anterior, con base a lo dispuesto
+por el artículo 36 de la Ley de Medios de Impugnación en Materia
+Electoral del Estado de Querétaro, aplicado de manera supletoria a la
+Ley Electoral del Estado de Querétaro.
+
+No obstante y de conformidad a lo dispuesto por el artículo 195 de la
+Ley Electoral del Estado de Querétaro, respectivamente,; por el otro,
+deben manifestar por escrito y bajo protesta de decir verdad que cumplen
+con los requisitos exigidos en la Constitución Política del Estado de
+Querétaro y en la propia ley comicial para poder ser postulados a
+cargos de elección popular; por ello, con los escritos que de forma
+adjunta se acompañan a la solicitud de registro, los aspirantes a
+candidatos cumplen cabalmente con los requisitos exigidos.
+
+En mérito de lo antes expuesto es de resolverse y se resuelve:
+
+RESOLUTIVOS
+
+PRIMERO. Este Consejo Distrital es competente para conocer y resolver
+sobre el registro de la fórmula de Ayuntamiento y lista de Regidores
+por el principio de representación proporcional de este municipio
+presentada por el COALICIÓN FLEXIBLE PRI-PVEM-PANAL, en candidatura
+común con el Partido del Trabajo
+
+SEGUNDO. El trámite dado a la solicitud fue el correcto, conforme a los
+requisitos y procedimientos establecidos en la Constitución Política
+del Estado de Querétaro y en la Ley Electoral del Estado de Querétaro,
+en los términos asentados en la presente resolución.
+
+TERCERO. Es procedente el registro de la fórmula de Ayuntamiento
+integrada por:
+
+Presidente Municipal	JUAN CARLOS PIÑA TEJEIDA
+
+Síndico propietario	LISSET ÁLVAREZ MENDOZA
+
+Síndico suplente	PILAR VARGAS ISLAS
+
+Síndico propietario	FELIPE CRUZ SÁNCHEZ
+
+Síndico suplente	CÉSAR RUÍZ URIBE
+
+Regidor propietario por el principio de mayoría relativa	YOLANDA DE
+CARLOS LÓPEZ
+
+Regidor suplente por el principio de mayoría relativa	ROXANA VELÁZQUEZ
+JIMÉNEZ
+
+Regidor propietario por el principio de mayoría relativa	TIRSO JULIÁN
+PERRUSQUÍA
+
+Regidor suplente por el principio de mayoría relativa	FELIPE VÁZQUEZ
+DE JESÚS
+
+Regidor propietario por el principio de mayoría relativa	NADIA
+GUADALUPE SORIA VEGA
+
+Regidor suplente por el principio de mayoría relativa	GISELLE QUINTANAR
+CRUZ
+
+Regidor propietario por el principio de mayoría relativa	JUAN JOSÉ
+URQUIZA SOTO
+
+Regidor suplente por el principio de mayoría relativa	MAXIMINO RANGÉL
+COLÍN
+
+CUARTO. Se reservan los Partidos Políticos que integran la COALICIÓN
+FLEXIBLE PRI-PVEM-PANAL, el presentar en lo individual la solicitud y
+documentos que han de acompañarse para el debido registro de la lista
+de Regidores por el principio de representación proporcional
+respectiva.
+
+QUINTO. Comuníquese inmediatamente a la Secretaría Ejecutiva y a la
+Dirección Ejecutiva de Organización Electoral del Instituto Electoral
+del Estado de Querétaro el contenido de la presente resolución,
+remitiéndole al efecto copia certificada de la misma para los efectos
+legales a que haya lugar y para su publicación en el Periódico Oficial
+del Gobierno del Estado La Sombra de Arteaga, conforme a lo dispuesto
+por los artículos 67, fracción XV; 78, fracción IV; y 202, de la Ley
+Electoral del Estado de Querétaro.
+
+SEXTO. Notifíquese la presente resolución al Instituto Nacional
+Electoral, por conducto de la Vocal Ejecutiva de la Junta Local
+Ejecutiva del organismo nacional en el estado de Querétaro, para los
+efectos legales a que haya lugar.
+
+SÉPTIMO. Notifíquese personalmente en todos sus términos la presente
+resolución al COALICIÓN FLEXIBLE PRI-PVEM-PANAL, facultando para ello
+al Secretario Técnico de este Consejo.
+
+El suscrito Secretario Técnico de este Consejo DISTRITAL XI del
+Instituto Electoral del Estado de Querétaro. HACE CONSTAR: Que el
+sentido de la votación en la presente resolución fue como sigue:
+
+CONSEJERO ELECTORAL	SENTIDO DEL VOTO
+
+	A FAVOR	EN CONTRA
+
+C. MARCELA EVANGELISTA SANTIAGO	X
+
+	C. RAÚL BÁRCENAS PÉREZ	X
+
+	C. VIRGILIO LÓPEZ MARTÍNEZ	X
+
+	C. JUANA MONTES OZORNIO	X
+
+	C. MIGUEL PACHECO GARCÍA	X
+
+Así lo resolvieron los Consejeros Electorales del Consejo DISTRITAL XI,
+del Instituto Electoral de Querétaro, en sesión extraordinaria de
+fecha 04 de Abril de 2015, quienes actúan ante quien autoriza y da fe.
+DOY
+FE.---------------------------------------------------------------------
+--------------------------------------------------------
+
+_______________________________
+
+C. MIGUEL PACHECO GARCÍA
+
+PRESIDENTE
+
+Rúbrica	___________________________
+
+LIC. CARLOS IMANOL PALACIOS RODRÍGUEZ
+
+SECRETARIO TÉCNICO
+
+Rúbrica
+
+El (La) suscrito(a), Lic. Carlos Imanol Palacios Rodríguez, Secretario
+Técnico del Consejo Distrital XI, con cabecera en Pedro Escobedo del
+Instituto Electoral del Estado de Querétaro, en uso de las facultades
+que me confiere el artículo 88 fracción IX, de la Ley Electoral del
+Estado de Querétaro, CERTIFICO: que la(s) presente(s) copia(s)
+fotostática(s) concuerda(n) fiel y exactamente con su original la cual
+doy fe de tener a la vista. Van en 13 foja(s) útil(es), debidamente
+selladas y cotejada(s). Se extiende la presente en el Municipio de Pedro
+Escobedo, Qro., a los 05 del mes de Abril del año 2015. DOY
+FE.----------------------------
+
+Lic. Carlos Imanol Palacios Rodríguez
+
+Nombre y firma del
+
+SECRETARIO TÉCNICO
+
+Rúbrica
+
+RESOLUCIÓN RELATIVA A LA SOLICITUD DE REGISTRO DE LA FÓRMULA DE
+AYUNTAMIENTO Y LISTA DE REGIDORES POR EL PRINCIPIO DE REPRESENTACIÓN
+PROPORCIONAL, PRESENTADA POR LA COALICIÓN FLEXIBLE PRI-PVEM-PANAL Y EN
+CANDIDATURA COMÚN CON EL PARTIDO DEL TRABAJO, CONSEJO DISTRITAL XI,
+PEDRO ESCOBEDO, QRO.: PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO
+DEL ESTADO “LA SOMBRA DE ARTEAGA”, EL 10 DE JUNIO DE 2015 (P. O. No.
+34)

@@ -1,0 +1,66 @@
+---
+titulo: "Declara día festivo en el Estado el día 13 de diciembre de cada año en Conmemoración del Inicio de la Carrera de Don Mariano Matamoros."
+tipo: "Decreto Administrativo"
+estado: "Morelos"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "03 de Marzo de 1933"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "2744"
+---
+Gobierno del
+
+Estado de Morelos
+
+Consejería Jurídica
+
+DECLARA DÍA FESTIVO EN EL ESTADO EL DÍA 13 DE DICIEMBRE DE CADA AÑO
+EN CONMEMORACIÓN DEL INICIO DE LA CARRERA DE DON MARIANO MATAMOROS.
+
+Fecha de Aprobación          1933/03/03
+
+Fecha de Promulgación      1933/03/03
+
+Fecha de Publicación          1933/03/05
+
+Vigencia                               1933/03/08
+
+Decretó                                 000069
+
+Expidió                                  25 LEGISLATURA
+
+Publicación Oficial                497 SECCIÓN SEGUNDA PERIÓDICO
+OFICIAL MORELOS NUEVO.
+
+Observación General.- EL PRESENTE DECRETO NO CONTIENE ARTÍCULOS
+TRANSITORIOS.
+
+ARTÍCULO ÚNICO. A INICIATIVA DEL H. AYUNTAMIENTO CONSTITUCIONAL DE
+JANTETELCO, SE DECLARA ''DÍA FESTIVO EN EL ESTADO'' EL DÍA 13 DE
+DICIEMBRE DE CADA AÑO EN CONMEMORACIÓN A LA FECHA QUE INICIO SU
+BRILLANTE CARRERA DE ARMAS EL HÉROE DE LA INDEPENDENCIA NACIONAL DON
+MARIANO MATAMOROS.
+
+SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO, A LOS TRES DÍAS DEL MES
+DE MARZO DE MIL NOVECIENTOS TREINTA Y TRES. DIPUTADO PRESIDENTE,
+JOAQUÍN PINEDA. DIPUTADO SECRETARIO, PROF. AGUSTÍN GUEMES. DIPUTADO
+SECRETARIO JESÚS GÓMEZ. RÚBRICAS.
+
+EN CUMPLIMIENTO DE LO DISPUESTO POR LA FRACCIÓN I DEL ARTÍCULO 71 DE
+LA CONSTITUCIÓN POLÍTICA LOCAL Y PARA SU PUBLICACIÓN Y OBSERVANCIA,
+PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL
+ESTADO DE MORELOS, A TRES DE MARZO DE MIL NOVECIENTOS TREINTA Y TRES.
+
+SUFRAGIO EFECTIVO. NO. REELECCIÓN.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+Vicente Estrada Cajigal
+
+EL SECRETARIO GENERAL DE GOBIERNO,
+
+Dip. Luis G. Campo.
+
+Dirección General de Legislación
+
+Subdirección de Informática Jurídica

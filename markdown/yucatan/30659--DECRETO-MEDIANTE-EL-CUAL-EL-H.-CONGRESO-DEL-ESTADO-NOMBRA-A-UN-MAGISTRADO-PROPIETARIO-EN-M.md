@@ -1,0 +1,117 @@
+---
+titulo: "DECRETO MEDIANTE EL CUAL EL H. CONGRESO DEL ESTADO NOMBRA A UN MAGISTRADO PROPIETARIO EN MATERIA DE JUSTICIA PARA ADOLESCENTES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN"
+tipo: "Decreto Legislativo"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "26 de Febrero de 2011"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "30659"
+---
+GOBIERNO DEL ESTADO
+
+# PODER EJECUTIVO
+
+DECRETO NÚMERO 387
+
+C. IVONNE ARACELLY ORTEGA PACHECO, GOBERNADORA DEL ESTADO
+
+DE YUCATÁN, CON FUNDAMENTO EN LOS ARTÍCULOS 38 Y 55 FRACCIÓN
+
+XXV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y 14
+
+FRACCIONES VII Y IX DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE
+
+YUCATÁN, A SUS HABITANTES HAGO SABER:
+
+QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA
+
+SERVIDO DIRIGIRME EL SIGUIENTE DECRETO:
+
+“EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN,
+
+CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V Y XXIII,
+
+65 Y 66 DE LA CONSTITUCIÓN POLÍTICA, 14 Y 15 DE LA LEY ORGÁNICA DEL
+
+PODER JUDICIAL Y 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO,
+
+TODAS DEL ESTADO DE YUCATÁN, EMITE EL SIGUIENTE;
+
+D E C R E T O:
+
+ARTICULO ÚNICO.- Se nombra Magistrado propietario en materia de
+Justicia
+
+para Adolescentes del Tribunal Superior de Justicia del Estado al
+Licenciado en
+
+Derecho Santiago Altamirano Escalante para el período comprendido del 1
+de
+
+Marzo del año 2011 al 28 de Febrero del año 2015.
+
+T R A N S I T O R I O S:
+
+ARTICULO PRIMERO.- Este Decreto entrará en vigor el día de su
+publicación en
+
+el Diario Oficial del Gobierno del Estado de Yucatán.
+
+ARTICULO SEGUNDO.- Conforme al Artículo Séptimo Transitorio del
+Decreto 296
+
+publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 17
+de mayo
+
+del 2010, el Magistrado nombrado por este Decreto, podrá ser ratificado
+por un
+
+período de 11 años.
+
+ARTICULO TERCERO.- Se instruye al Secretario General del Poder
+Legislativo
+
+para que notifique este Decreto de la manera más expedita posible al
+nombrado
+
+en el mismo, así como al Tribunal Superior de Justicia del Estado para
+los efectos
+
+legales correspondientes.
+
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA
+
+CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS
+
+VEINTICUATRO DÍAS DEL MES DE FEBRERO DEL AÑO DOS MIL ONCE.-
+
+PRESIDENTE: DIPUTADO ROBERTO ANTONIO RODRÍGUEZ ASAF.-
+
+SECRETARIA DIPUTADA LIZBETH EVELIA MEDINA RODRÍGUEZ.-
+
+SECRETARIO.- DIPUTADO OMAR CORZO OLÁN.- RÚBRICAS.”
+
+Y, POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU
+
+CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
+
+EXPEDIDO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE
+
+MÉRIDA, CAPITAL DEL ESTADO DE YUCATÁN, ESTADOS UNIDOS
+
+MEXICANOS, A LOS VEINTICUATRO DÍAS DEL MES DE FEBRERO DEL AÑO
+
+DOS MIL ONCE.
+
+( RÚBRICA )
+
+C. IVONNE ARACELLY ORTEGA PACHECO
+
+GOBERNADORA DEL ESTADO DE YUCATÁN
+
+                        ( RÚBRICA )
+
+C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
+
+SECRETARIO GENERAL DE GOBIERNO

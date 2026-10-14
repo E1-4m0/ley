@@ -1,0 +1,253 @@
+---
+titulo: "DECRETO QUE ESTABLECE LA EXENCIÓN DE PAGO DE LOS DERECHOS DEL REGISTRO CIVIL DEL ESTADO, PARA CONTRAER MATRIMONIO FUERA DE LAS OFICINAS, A FAVOR DE LOS AGREMIADOS DE LA FEDERACIÓN DE TRABAJADORES DEL ESTADO DE YUCATÁN, DE LA CONFEDERACIÓN DE TRABAJADORES MEXICANOS (C.T.M.)."
+tipo: "Decreto Administrativo"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "11 de Enero de 2008"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "9273"
+---
+-SUMARIO-
+
+GOBIERNO DEL ESTADO
+# 
+PODER EJECUTIVO
+
+DECRETO NUMERO 55
+
+REGLAMENTO DEL CONSEJO PROMOTOR PARA LA INTEGRACION DE LAS PERSONAS CON
+DISCAPACIDAD DEL ESTADO DE YUCATAN 	3
+
+DECRETO NUMERO 56
+
+DECRETO QUE ESTABLECE LA EXENCION DE PAGO DE LOS DERECHOS DEL REGISTRO
+CIVIL DEL ESTADO, PARA CONTRAER MATRIMONIO FUERA DE LAS OFICINAS, A
+FAVOR DE LOS AGREMIADOS DE LA FEDERACION DE TRABAJADORES DEL ESTADO DE
+YUCATAN, DE LA CONFEDERACION DE TRABAJADORES MEXICANOS (C.T.M.) 	8
+
+SECRETARIA DE LA JUVENTUD
+
+ACUERDO NUMERO 1
+
+ACUERDO ADMINISTRATIVO MEDIANTE EL CUAL SE MODIFICAN LOS NOMBRES DE LAS
+AREAS ADMINISTRATIVA, FINANZAS Y PLANEACION, ASI COMO LA DE ATENCION
+JUVENIL, LAS CUALES SE DENOMINARAN DIRECCION ADMINISTRATIVA Y LA
+DIRECCION DE PARTICIPACION JUVENIL Y ESTIMULOS EDUCATIVOS,
+RESPECTIVAMENTE, CON LAS ATRIBUCIONES DE LAS AREAS QUE SE MODIFICAN; SE
+CAMBIA EL NOMBRE DEL AREA DESARROLLO Y SERVICIOS JUVENILES POR EL DE
+DIRECCION DE CALIDAD DE VIDA Y DESARROLLO JUVENIL, Y SE CREAN LA
+DIRECCION DE PLANEACION Y ESTRATEGIA, LA DIRECCION DE EMPLEO Y PROYECTOS
+PRODUCTIVOS Y EL DEPARTAMENTO JURIDICO DE LA SECRETARIA DE LA JUVENTUD
+10
+
+SECRETARIA DE DESARROLLO URBANO
+
+Y MEDIO AMBIENTE
+
+ACUERDO 01
+
+ACUERDO ADMINISTRATIVO, MEDIANTE EL CUAL SE ESTABLECEN LAS ATRIBUCIONES
+DE LAS DIRECCIONES DE: ORDENAMIENTO ECOLOGICO Y TERRITORIAL Y SISTEMAS
+DE INFORMACION GEOGRAFICA, DESARROLLO URBANO Y DE CONSERVACION DEL
+PATRIMONIO CULTURAL ARQUITECTONICO	73
+
+PODER JUDICIAL
+
+NOTIFICACIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA	16
+
+NOTIFICACIONES DEL JUZGADO PRIMERO DE LO CIVIL	23
+
+NOTIFICACIONES DEL JUZGADO SEGUNDO DE LO CIVIL	28
+
+NOTIFICACIONES DEL JUZGADO TERCERO DE LO CIVIL	32
+
+NOTIFICACIONES DEL JUZGADO CUARTO DE LO CIVIL	38
+
+NOTIFICACIONES DEL JUZGADO QUINTO DE LO CIVIL	46
+
+NOTIFICACIONES DEL JUZGADO SEXTO DE LO CIVIL	52
+
+NOTIFICACIONES DEL JUZGADO PRIMERO DE LO FAMILIAR	56
+
+NOTIFICACIONES DEL JUZGADO SEGUNDO DE LO FAMILIAR	59
+
+NOTIFICACIONES DEL JUZGADO TERCERO DE LO FAMILIAR	62
+
+NOTIFICACIONES DEL JUZGADO CUARTO DE LO FAMILIAR	67
+
+NOTIFICACIONES DEL JUZGADO TERCERO DE DEFENSA SOCIAL	70
+
+NOTIFICACIONES DEL JUZGADO MIXTO DE LO CIVIL Y FAMILIAR
+
+DEL SEGUNDO DEPARTAMENTO JUDICIAL DEL ESTADO	71
+
+NOTIFICACIONES DEL JUZGADO MIXTO DE LO CIVIL Y FAMILIAR
+
+DEL TERCER DEPARTAMENTO JUDICIAL DEL ESTADO	72
+
+GOBIERNO DEL ESTADO
+
+PODER EJECUTIVO
+
+DECRETO NÚMERO 56
+
+CIUDADANA IVONNE ARACELLY ORTEGA PACHECO, GOBERNADOR
+
+DEL ESTADO DE YUCATÁN, A SUS HABITANTES HAGO SABER:
+
+QUE CON FUNDAMENTO EN LOS ARTÍCULOS 35 FRACCIÓN II, 55
+
+FRACCIÓN XI Y 60 DE LA CONSTITUCIÓN POLÍTICA; 13 Y 14
+
+FRACCIONES VIII Y IX DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA;
+
+57 FRACCIÓN IV INCISO b) DE LA LEY GENERAL DE HACIENDA, TODAS
+
+DEL ESTADO DE YUCATÁN; Y
+
+C O N S I D E R A N D O
+
+PRIMERO. Que la Federación de Trabajadores de Yucatán perteneciente a
+la
+
+Confederación de Trabajadores Mexicanos (CTM),  en el marco de su
+cuarenta
+
+aniversario, pretende a fin de proporcionar apoyo a sus integrantes,
+efectuar
+
+bodas colectivas en favor de aquellos que no han podido contraer nupcias
+por no
+
+contar con los recursos económicos suficientes.
+
+SEGUNDO. Que el Artículo 57 fracción IV de la Ley General de Hacienda
+del
+
+Estado, establece las modalidades y monto de los derechos para el caso
+de
+
+matrimonios; asimismo, en su último párrafo señala “El Ejecutivo,
+mediante
+
+Decreto, podrá eximir total o parcialmente el pago de los derechos que
+se
+
+establecen en las fracciones I, II, III, IV, VI, XI, XII y XIV, en los
+términos
+
+dispuestos en el Código Fiscal del Estado de Yucatán.
+
+TERCERO. Que el Gobierno del Estado, en soporte a la Federación de
+
+Trabajadores de Yucatán de la Confederación de Trabajadores Mexicanos
+(CTM),
+
+y por consecuencia a las familias pertenecientes a dicha Federación, ha
+
+decidido eximir del pago del derecho causado a favor del Registro Civil
+del
+
+Estado, por el registro de matrimonios en la ciudad de Mérida, Capital
+del
+
+Estado, fuera de las oficinas de la dependencia estatal citada.
+
+Por lo anteriormente expuesto, he tenido a bien expedir el siguiente:
+
+DECRETO QUE ESTABLECE LA EXENCION DE PAGO DE LOS DERECHOS
+
+DEL REGISTRO CIVIL DEL ESTADO, PARA CONTRAER MATRIMONIO
+
+FUERA DE LAS OFICINAS, A FAVOR DE LOS AGREMIADOS DE LA
+
+FEDERACIÓN DE TRABAJADORES DEL ESTADO DE YUCATÁN, DE LA
+
+CONFEDERACIÓN DE TRABAJADORES MEXICANOS (C.T.M.)
+
+ARTÍCULO ÚNICO. La exención de pago del derecho que se establece en
+la Ley
+
+General de Hacienda del Estado, en su Artículo 57 fracción IV, inciso
+b) para el
+
+registro de matrimonio fuera de la oficina del Registro Civil del
+Estado, se aplicará
+
+para las parejas que cumplan previamente con los requisitos que fijará
+el Registro
+
+Civil del Estado y será válido únicamente para la realización de los
+matrimonios
+
+que se llevarán a cabo el día doce de enero del año dos mil ocho,
+como parte del
+
+evento denominado “Expo Eventos, Boda, Quince Años y Graduaciones”
+dentro
+
+del marco del cuarenta aniversario de la Federación de Trabajadores de
+Yucatán,
+
+de la Confederación de Trabajadores Mexicanos (CTM).
+
+ARTÍCULO TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su
+publicación
+
+en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+EL DECRETO QUE ESTABLECE LA EXENCION DE PAGO, DE LOS
+
+DERECHOS DEL REGISTRO CIVIL DEL ESTADO PARA CONTRAER
+
+MATRIMONIO, ES DADO EN LA SEDE DEL PODER EJECUTIVO, EN LA
+
+CIUDAD DE MÉRIDA, CAPITAL DEL ESTADO DE YUCATÁN, ESTADOS
+
+UNIDOS MEXICANOS, A LOS OCHO DÍAS DEL MES DE ENERO DEL AÑO
+
+DOS MIL OCHO.
+
+( RÚBRICA )
+
+C. IVONNE ARACELLY ORTEGA PACHECO
+
+GOBERNADOR DEL ESTADO DE YUCATÁN
+
+                        ( RÚBRICA )
+
+C. ROLANDO RODRIGO ZAPATA BELLO
+
+SECRETARIO GENERAL DE GOBIERNO.
+
+PAGINA   PAGE  2
+                                     DIARIO  OFICIAL
+ MERIDA, YUC., VIERNES 11 DE ENERO DE 2008.
+
+MERIDA, YUC., VIERNES 11 DE ENERO DE 2008.
+DIARIO  OFICIAL
+                               PAGINA   PAGE  3
+
+Publicación periódica: Permiso No. 0100921
+
+Características: 111182816. Autorizado por SEPOMEX
+
+DEL GOBIERNO DEL ESTADO
+
+ DE YUCATAN.
+
+DIARIO OFICIAL
+
+Dirección: Calle 90 No. 498-A entre 61 A y 63
+
+Colonia Bojórquez, (Complejo de Seguridad Jurídica)
+
+Mérida, Yucatán. C.P. 97240. TEL: 930-30-23.
+
+DIRECTOR: LIC. SALVADOR SOLORZA CASTILLO.
+
+AÑO CXI          MERIDA, YUC., VIERNES 11 DE ENERO DE 2008.
+NUM. 31,018

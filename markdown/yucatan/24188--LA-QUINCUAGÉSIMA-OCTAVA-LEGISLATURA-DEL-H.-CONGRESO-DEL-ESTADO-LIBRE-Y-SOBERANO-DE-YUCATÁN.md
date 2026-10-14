@@ -1,0 +1,23 @@
+---
+titulo: "LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, ABRE SU TERCER PERÍODO ORDINARIO DE SESIONES, CORRESPONDIENTE AL TERCER AÑO DE SU EJERCICIO CONSTITUCIONAL."
+tipo: "Decreto Legislativo"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "27 de Enero de 2010"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "24188"
+---
+{\rtf1\ansi\ansicpg1252\uc1\deff0 {\fonttbl{\f0\fswiss\fcharset0 FOPADF+Arial,Bold{\*\falt Arial};}{\f1\fswiss\fcharset0 FOPAHF+Arial{\*\falt Arial};}}{\colortbl\red0\green0\blue0;}{\stylesheet{\s0\f0\fs24\cf0\sbasedon222\snext0\ql Default;}{\s1\sl388\slmult0\sbasedon0\snext0 CM1;}{\s2\sbasedon0\snext0 CM4;}{\s3\sbasedon0\snext0 CM5;}{\s4\sl366\slmult0\sbasedon0\snext0 CM2;}{\s5\sl376\slmult0\sbasedon0\snext0 CM3;}}
+{\*\generator Adobe Acrobat Exchange-Pro 9.0.0}{\info{\title Microsoft Word - DECRETO NUMERO 270.doc}{\author sergio.palomo}{\creatim\yr2010\mo2\dy9\hr16\min6\sec0}{\revtim\yr2010\mo2\dy9\hr16\min6\sec0}{\id4123304}}\pard\plain\ql\f0\fs24\cf0 \paperh15840
+\paperw12240\margt1558\margr1534\margl1890\pard\s1\s2\sa410\qc\sl388\slmult0\b\fs21 GOBIERNO DEL ESTAD\b0\b\fs21 O \b0\b\fs21 PODER EJECUTIV\b0\b\fs21 O \b0\ulnone\strike0\par\pard\s1\s3\sa795\qc\sl388\slmult0\b\fs21 DECRETO N\'DAMERO 27\b0\b\fs21 0 \b0\ulnone\strike0\par\pard\s4\s2\sa410\qj\sl366\slmult0\b\fs21
+C. \b0\b\fs21 IVONNE ARACELLY ORTEGA PACHECO, GOBERNADORA DEL ESTADO DE YUCAT\'C1N, CON FUNDAMENTO EN LOS ART\'CDCULOS 38, 55 FRACCI\'D3N XXIV DE LA CONSTITUCI\'D3N POL\'CDTICA DEL ESTADO DE YUCAT\'C1N Y 14 FRACCIONES VII Y IX DEL C\'D3DIGO DE LA ADMINISTRACI\'D3N P\'DABLICA DE YUCAT\'C1N, A SUS HABITANTES HAGO SABER:
+\b0\ulnone\strike0\par\pard\s4\s2\sa410\qj\sl366\slmult0\b\fs21 QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCAT\'C1N SE HA SERVIDO DIRIGIRME EL SIGUIENTE DECRETO: \b0\ulnone\strike0\par\pard\s4\s2\sa410\qj\sl366\slmult0\b\fs21 \ldblquote EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCAT\'C1N, CONFORME A LO DISPUESTO EN LOS ART\'CDCULOS 29 Y 30 FRACCI\'D3N V DE LA CONSTITUCI\'D3N POLITICA; 97, 150 Y 156 DE LA LEY ORG\'C1NICA DEL PODER LEGISLATIVO, AMBAS DEL ESTADO DE YUCAT\'C1N; Y EL ART\'CDCULO D\'C9CIMO SEGUNDO TRANSITORIO DEL DECRETO N\'DAMERO 677;
+\b0\ulnone\strike0\pghsxn16340\pgwsxn12240\margtsxn2058\margrsxn1534\marglsxn1890\par\'20\pard\par\pard\s1\s2\sa410\qc\sl388\slmult0\b\fs21 D E C R E T A:\b0\ulnone\strike0\par\pard\s5\s2\sa410\fi665\qj\sl376\slmult0\b\fs21  ART\'CDCULO \'DANICO.-\b0\fs21\f1
+ La Quincuag\'E9sima Octava Legislatura del H. Congreso del Estado Libre y Soberano de Yucat\'E1n, abre hoy su Tercer Per\'EDodo Ordinario de Sesiones, correspondiente al Tercer A\'F1o de su Ejercicio Constitucional. \ulnone\strike0\par\pard\plain\pghsxn16340\pgwsxn12240\margtsxn2058\margrsxn1534\marglsxn1890\par\'20\pard\par\pard\s1\s2\sa410\qc\sl388\slmult0\b\fs21
+T R A N S I T O R I O: \b0\ulnone\strike0\par\pard\s5\fi665\qj\sl376\slmult0\b\fs21 ART\'CDCULO \'DANICO.-\b0\fs21\f1 Publ\'EDquese el presente Decreto en el Diario Oficial del Gobierno del Estado de Yucat\'E1n. \ulnone\strike0\par\pard\pagebb\sa680\li4267\qj\sl173\slmult0\fs15
+ESTA HOJA DE FIRMAS FORMA PARTE DEL DECRETO POR EL CUAL EL PODER EJECUTIVO SANCIONA EL DECRETO MEDIANTE EL CUAL LA QUINCUAG\'C9SIMA OCTAVA LEGISLATURA ABRE SU TERCER PER\'CDODO ORDINARIO DE SESIONES. \ulnone\strike0\par\pard\s4\s2\sa410\qj\sl366\slmult0\b\fs20\f0
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO EN LA CIUDAD DE M\'C9RIDA, YUCAT\'C1N, ESTADOS UNIDOS MEXICANOS, A LOS DIECIS\'C9IS D\'CDAS DEL MES DE ENERO DEL A\'D1O DOS MIL DIEZ.-PRESIDENTE DIPUTADO JUAN DE LA CRUZ RODR\'CDGUEZ CANUL.- SECRETARIA DIPUTADA MAR\'CDA CECILIA PAV\'CDA GONZ\'C1LEZ.- SECRETARIA DIPUTADA MAR\'CDA DORIS YBONNE CANDILA ECHEVERR\'CDA.- R\'DABRICAS.\rdblquote
+\b0\ulnone\strike0\par\pard\s4\s2\sa410\qj\sl366\slmult0\b\fs20 Y, POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU CONOCIMIENTO Y DEBIDO CUMPLIMIENTO. \b0\ulnone\strike0\par\pard\s4\s3\sa795\qj\sl366\slmult0\b\fs20 EXPEDIDO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE M\'C9RIDA, YUCAT\'C1N, ESTADOS UNIDOS MEXICANOS, A LOS DIECIOCHO D\'CDAS DEL MES DE ENERO DEL A\'D1O DOS MIL DIEZ.
+\b0\ulnone\strike0\par\pard\s1\s2\sa410\qc\sl388\slmult0\b\fs20 ( R\'DABRICA ) \b0\ulnone\strike0\par\pard\s1\s3\sa795\qc\sl388\slmult0\b\fs20 C.\b0\b\fs20  IVONNE ARACELLY ORTEGA PACHEC\b0\b\fs20 O \b0\b\fs20 GOBERNADORA DEL ESTAD\b0\b\fs20 O \b0\ulnone\strike0\par\pard\s1\s2\sa410\qc\sl388\slmult0\b\fs20
+    ( R\'DABRICA ) \b0\ulnone\strike0\par\pard\s1\qc\sl388\slmult0\b\fs20 C.\b0\b\fs20  V\'CDCTOR MANUEL S\'C1NCHEZ \'C1LVARE\b0\b\fs20 Z \b0\b\fs20 SECRETARIO GENERAL DE GOBIERN\b0\b\fs20 O \b0\ulnone\strike0 }

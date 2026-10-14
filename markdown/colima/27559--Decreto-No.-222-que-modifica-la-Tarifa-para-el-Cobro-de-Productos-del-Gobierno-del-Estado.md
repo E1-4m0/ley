@@ -1,0 +1,885 @@
+---
+titulo: "Decreto No. 222 que modifica la Tarifa para el Cobro de Productos del Gobierno del Estado"
+tipo: "Decreto Legislativo"
+estado: "Colima"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "31 de Diciembre de 1999"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "27559"
+---
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE
+COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 33
+FRACCION III Y 39, DE LA CONSTITUCION POLITICA LOCAL, EN NOMBRE DEL
+PUEBLO, Y
+
+C O N S I D E R A N D O.
+
+PRIMERO.- Que mediante oficio número OCG-408/99 de fecha 10 de
+diciembre de 1999, se turnó a esta Soberanía la iniciativa suscrita
+por los CC. Lics. Fernando Moreno Peña, Jorge Humberto Silva Ochoa, e
+Ing. Almar Pettersen Mora, Gobernador del Estado, Secretario General de
+Gobierno y Secretario de Finanzas, respectivamente, en su orden, con la
+que se propone el Tabulador Oficial para el Pago del Impuesto a la
+Transmisión de la Propiedad de Vehículos Automotores Usados, para el
+Ejercicio Fiscal 2000.
+
+SEGUNDO.- Que la Ley de Hacienda del Estado en su artículo 23, regula
+el Impuesto a la Transmisión de la Propiedad de Vehículos de
+Automotores Usados, siendo la base para el cálculo del mismo, por lo
+que ve a los vehículos del último año de modelo, el 90% del valor
+neto de la primera facturación y para los vehículos de modelos
+anteriores al año en  que  se  realizó  la  primera  compra-venta, el
+valor consignado en el Tabulador Oficial que año con año es aprobado
+por esta Soberanía y se publica en el Periódico Oficial del Estado.
+
+TERCERO.- Que en el ejercicio 1999, los vehículos automotores han
+experimentado incrementos en sus precios, lo que vino a desfasar los
+valores previstos en el Tabulador Oficial vigente a partir del 1º de
+enero de este año.
+
+CUARTO.- Que el Tabulador materia de esta iniciativa, que entrará en
+vigor a partir del 1º de enero del año 2000, toma como base los
+precios promedios vigentes al mes de octubre de 1999, que mensualmente
+publica la Asociación Mexicana de Distribuidores de Automotores, A.C.
+(AMDA)  y que incluye a todos los automóviles y camiones nuevos y
+seminuevos de fabricación nacional y constituye la base para todo tipo
+de transacciones comerciales relacionadas con este giro.
+
+QUINTO.- Que con el objeto de facilitar a los contribuyentes la
+determinación de los valores que corresponden a cada tipo de vehículo
+y el monto a pagar por concepto de este impuesto, el Tabulador propone
+una compactación de la extensa línea de vehículos existentes en el
+mercado.
+
+SEXTO.- Que la comisión dictaminadora, habiendo analizado la propuesta
+de Tabulador para el cobro del impuesto antes mencionado, considera
+procedente su aprobación en virtud de que éste es justo y equitativo
+para los contribuyentes.
+
+Por lo anteriormente expuesto y fundado ha tenido a bien expedir el
+siguiente
+
+D E C R E T O   No. 222
+
+QUE APRUEBA EL TABULADOR OFICIAL PARA EL PAGO DEL
+
+IMPUESTO A LA TRANSMISIÓN DE LA PROPIEDAD DE VEHÍCULOS
+
+AUTOMOTORES USADOS, PARA EL EJERCICIO 2000.
+
+ARTICULO PRIMERO.- Las personas que realicen los actos de transmisión
+de la propiedad de vehículos automotores usados, pagarán el impuesto a
+la Transmisión de la Propiedad de Vehículos Automotores previsto en el
+Capítulo III del Título Primero de la Ley de Hacienda del Estado de
+Colima, de acuerdo al siguiente:
+
+TABULADOR
+
+(VALORES EN MILES DE PESOS)
+
+A          CHRYSLER-DODGE-JEEP
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	A001	CONCORDE
+
+	150	130	105	95	85
+
+	A002	DART
+
+25
+
+A003	IMPERIAL
+
+	60
+
+	A004	INTREPID	250	175	140	115	100	85
+
+A005	JEEP CHEROKEE	315	240	210	185	155	140	120
+
+	A006	JEEP WRANGLER	185	150	120	105	85	75	65
+
+	A007	LE BARON
+
+	70	60	55	50
+
+25
+
+A008	MAGNUM
+
+25
+
+A009	NEON	105	90	80	70	65
+
+	A010	NEW YORKER
+
+70	60	50	45	35
+
+A011	NEW YORKER, LH, LHS
+
+	160	135	120	110
+
+A012	PHANTOM
+
+60	50	40	35	25
+
+A013	RAM CHARGER	210
+
+	90	80	75	65	55	50	40
+
+A014	RAM WAGON	220	185	165	145	115	100
+
+A015	SHADOW
+
+50	45	40	35	25
+
+A016	SPIRIT
+
+	65	60	55	50	45	35
+
+A017	STRATUS	165	145	125	110	85
+
+	A018	VOLARE
+
+25
+
+A019	VOYAGER	220	185	170	160	130	115	100	90	80
+
+	A020	DODGE VIPER
+
+280	240
+
+	A021	SEBRING	240	180	170
+
+	A022	CHRYSLER RT, JXI, CONVERTIBLE	230	200	175
+
+	A023	CHRYSLER PATRULLA
+
+140	90
+
+	A024	RAM VAN, WAGON	220	185	165	145	115	100
+
+A031	BREEZE
+
+80
+
+A032	CIRRUS	220	160	130	115
+
+A038	PLYMOUTH
+
+130
+
+A039	DURANGO	260	216
+
+A040	CHRYSLER 300 SEDAN	260
+
+	A050	LINEAS DE AUTOMOVI- LES NO CLASIFICADOS
+
+25
+
+A051	ADVENTURER
+
+	50	40	35	30
+
+A052	CLUB CAB DIESEL
+
+	110	95
+
+A053	CLUB CAB Y RAM DOBLE CABINA	240	180	160	130	110
+
+	A054	ESTACAS 300 Y 350
+
+	60	50	45	30
+
+A055	RAM 3500 Y 4000 PICK UP Y VAN	150	135	115	90	80	75
+
+A056	PICK-UP 6 CILINDROS
+
+	40	35	30	25
+
+A057	PICK-UP 8 CILINDROS
+
+	45	40	35	30
+
+A058	PROSPECTOR
+
+	50	45	35	30
+
+A059	RAM 1500 PICK UP Y VAN	125	100	85	75	65	55
+
+A060	RAM 2500 PICK UP Y VAN	130	105	90	80	70	60
+
+A061	DAKOTA
+
+65
+
+B          RAMBLER
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	B001	TODAS LAS LINEAS RAMBRLE
+
+25
+
+C          CHEVROLET
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	C001	BLAZER	220	200	160	145	130	95	80	70	65	30
+
+C002	BUICK REGAL
+
+125	110	100
+
+C003	CADILLAC	350	300	260	220	175	155	125	110	95
+
+	C004	CAMARO	240	210	180	150	130
+
+	C005	SUBURBAN	280	220	175	150	130	110	95	85	75	65
+
+C006	CAVALIER	130	110	90	80	70	60	50	45	40
+
+	C007	CELEBRITY
+
+25
+
+C008	CENTURY LIMITED
+
+110	100	80	70	60	50	40
+
+C009	CHEVY	80	75	65	55	50	45
+
+C010	CITATION
+
+25
+
+C011	CORVETTE	400	385	340	280	230	190	170	150	125
+
+	C012	CUTLASS
+
+85	75	65	60	50	45	40
+
+C013	CUTLASS EUROSPORT
+
+100	90	80	70	60	50	45
+
+C014	GEO TRACKER 2 PTAS.	130	115
+
+	85	75	65
+
+	C015	LUMINA
+
+140	120
+
+	C016	OLDSMOBILE
+
+	120	100
+
+70
+
+C017	PONTIAC BONNEVILLE	250	220	180	150	130	120
+
+C018	PONTIAC FIREBIRD, TRANS AM	270	245	200	160	135
+
+	C019	SILHOUETTE
+
+	130	120
+
+100	90
+
+	C020	SILVERADO	270	230	160	145	130
+
+	C021	MONTECARLO
+
+25
+
+C022	PONTIAC SUNFIRE	140	125	110
+
+	C023	PONTIAC GRAN PRIX	250	210	185
+
+	C024	MALIBU	170	160	140
+
+	C025	VENTURE	230	190	175
+
+	C034	GEO TRACKER 4 PTAS.	150	130
+
+C035	EXPRESS VAN	160	130
+
+C036	TIGRA	140
+
+	C037	PONTIAC GRAND AM	180
+
+	C050	LINEAS DE AUTOMOVI- LES NO CLASIFICADOS
+
+25
+
+C051	C-35	150	135	115	90	80	70	65	55	40	35
+
+C052	G-20 VAN CARGA	170	155	140	125	95
+
+	C053	HUNTER
+
+	55	45
+
+C054	MAXICAB
+
+	55	45	40
+
+	C055	C-15 PICK-UP 6 CIL.	130	105	90	80	70	60	55	50	45	35
+
+C056	C-20 PICK.UP 8 CIL.	140	110	95	85	75	65	60	55	50	45
+
+C057	S-10	130	105	85	65	55
+
+	C058	CHEYENNE Y 400 SS	180	155	135	110	95	80	70	55
+
+C059	P-30 VANNETE	130	110	100	90	85	75	65	60	55	45
+
+C060	LUV	110	90	80
+
+	C061	EXTENDED CAB	220	185
+
+C062	CHEVY PICK-UP	90
+
+D          VOLKSWAGEN
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	D001	ATLANTIC
+
+25
+
+D002	CARIBE
+
+25
+
+D003	COMBI	130	120	110	95	85	75	65	60	50	40
+
+D004	CORSAR
+
+25
+
+D005	DERBY	95	80	70	60	55
+
+	D006	GOLF	135	110	100	85	75	60	50	40	30	25
+
+D007	JETTA	150	135	120	110	95	80	75	60	55	40
+
+D008	PASSAT	210
+
+175	150
+
+	75	70	65
+
+	D009	SEDAN	55	50	45	42	39	35	30	28	25	20
+
+D012	POINTER	80	75
+
+D013	BEETLE	155	130
+
+D050	LINEAS DE AUTOMOVI- LES NO CLASIFICADOS
+
+25
+
+D051	POINTER PICK-UP	85
+
+E          NISSAN
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	E001	240 SX
+
+170
+
+	100
+
+	E002	300 ZX
+
+220	200	180	160	150	130
+
+	E003	DATSUN Y TSURU SEDAN Y VAGONETA	80	70	65	65	60	55	50	45	40	30
+
+E004	HIKARI
+
+40	35	25
+
+E005	ICHI VAN
+
+75	65	55	45	30
+
+E006	INFINITI	350	320	290	260	225	200
+
+E007	MAXIMA	240	220	190	175	160
+
+110	90	80
+
+	E008	SAKURA
+
+30
+
+E009	SAMURAI
+
+25
+
+E010	SENTRA	110	100	90	80
+
+45
+
+E011	TSUBAME	110	100	85	75	65	55	50
+
+	E012	TSURU GSR 2000
+
+75	70	65	55
+
+	E013	ALTIMA	170	155	140	120
+
+E014	LUCINO	130	120	100	90
+
+E015	PATHFINDER	240	215	190
+
+	E016	QUEST	220	185	165
+
+	E050	LINEAS DE AUTOMO- VILES NO CLASIFICADOS
+
+25
+
+E051	DOBLE CABINA	115	105	90	80	75	65	60	50	45	35
+
+E052	ESTACAS	90	80	75	65	60	55	45	40	35	30
+
+E053	KING CAB	125	110	95	85	80
+
+	E054	PICK-UP	95	85	80	70	65	60	50	45	40	35
+
+F          FORD
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	F001	AEROESTAR
+
+	130	120	110	100	90
+
+	F002	CLUB WAGON	260	180	160	150	130
+
+	F003	COUGAR
+
+	85	75	65	50	45	35
+
+F004	ESCORT SEDAN Y VAGONETA	150	120	110	80	70	60
+
+F005	EXPLORER	260	220	200	180	150	130	110	90	75
+
+	F006	GHIA
+
+65	55	45	35
+
+	F007	GRAN MARQUIS, LTD, CROWN VICTORIA, GALAXI Y GRANADA	260	220	200
+170	140	115	95	75
+
+35
+
+F008	LINCON TOWN CAR	360	320	270	220	190	150	130	100	90
+
+	F009	LINCON MARK VIII
+
+200	160	140
+
+F010	MUSTANG	260	220	200	170	140	120
+
+25
+
+F011	MYSTIQUE	180	160	140	120	100
+
+	F012	SABLE	190	180	165	145	100	85
+
+F013	TAURUS
+
+	45	30
+
+F014	THUNDERBIRD
+
+100	90	75	60	50	45	30
+
+F015	TOPAZ
+
+55	45	35	30	25
+
+F016	WINDSTAR	230	200	185	160	140
+
+	F017	CONTOUR	180	140	120	110
+
+F018	EXPEDITION	270	240	220
+
+	F029	FIESTA	100	80
+
+F030	BRONCO
+
+30
+
+F031	LINCOLN CONTINENTAL	340	290	250
+
+	F032	LINCOLN NAVIGATOR	400	350
+
+F050	LINEAS DE AUTOMOVI- LES NO CLASIFICADOS
+
+25
+
+F051	ECONOLINE	140	125	115	100	90
+
+	F052	ESTACAS 350	150	135	115	90	80	70	65	55	45	35
+
+F053	FIGHTER
+
+70	65	55	45	35
+
+F054	LOBO	210	180	150	120	90	75	65	55	45	35
+
+F055	F-150 PICK-UP 6 CIL.	130	105	90	80	70	60	55	50	45	35
+
+F056	F-250 PICK-UP 8 CIL.	140	110	95	85	75	65	60	55	50	45
+
+F057	RANGER	130	105	90	80
+
+F058	SUPER CAB	220	190	165
+
+G          RENAULT
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	G001	JEEP WAGONEER
+
+30
+
+G050	LINEAS DE AUTOMOVI- LES NO CLASIFICADOS
+
+25
+
+H          CAMIONES DE CARGA Y PASAJE
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	H001	CAMIONES CARGA HASTA 1,000 Kg. Y HASTA 16 PASAJEROS 	140	110	95	85
+75	65	60	55	50	45
+
+H002	CAMIONES CARGA HASTA 3,000 Kg. Y MICROBUSES	150	135	115	90	80	70	65
+55	45	35
+
+H003	CAMIONES CARGA HASTA 10,000 K. Y OMNIBUS	200	170	150	140	120	100	80
+75	65	55
+
+H004	CAMIONES CARGA SUPERIOR A 10,000 Kg.	400	350	320	290	250	220	200
+170	150	100
+
+H005	IMPORTADOS NO EQUIPARABLE A  NACIONALES	300	275	250	225	200	175	150
+125	100	80
+
+I          MOTOCICLETAS
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	I001	HASTA  50 CC	9	8	7	6	5	5	4	4	3	3
+
+I002	               60 CC	12	10	9	8	7	7	6	5	4	4
+
+I003	               75 CC	15	13	12	11	10	9	8	7	6	5
+
+I004	               80 CC	15	13	12	11	10	9	8	7	6	5
+
+I005	               90 CC	13	11	10	9	8	7	6	5	4	3
+
+I006	             100 CC	13	11	10	9	8	7	6	5	4	3
+
+I007	             125 CC	17	14	13	12	11	10	9	8	7	6
+
+I008	             135 CC	17	14	13	12	11	10	9	8	7	6
+
+I009	             150 CC	17	14	13	12	11	10	9	8	7	6
+
+I010	             175 CC	18	15	13	11	10	8	7	6	5	4
+
+I011	             185 CC	18	15	13	11	10	8	7	6	5	4
+
+I012	             200 CC	20	17	16	14	13	12	10	8	7	6
+
+I013	             250 CC	26	22	19	17	16	14	12	9	7	6
+
+I014	             350 CC	26	22	19	17	16	14	12	9	7	6
+
+I015	             400 CC	38	32	28	25	22	19	16	13	9	8
+
+I016	             420 CC 	38	32	28	25	22	19	16	13	9	8
+
+I017	             425 CC	38	32	28	25	22	19	16	13	9	8
+
+I018	             450 CC	35	29	27	22	19	16	13	10	8	6
+
+I019	             465 CC	35	29	27	22	19	16	13	10	8	6
+
+I020	             490 CC	35	29	27	22	19	16	13	10	8	6
+
+I021	             500 CC	43	36	33	30	26	21	15	10	8	6
+
+I022	             550 CC	43	36	33	30	26	21	15	10	8	6
+
+I023	             600 CC	43	36	33	30	26	21	15	10	8	6
+
+I024	             650 CC	43	36	33	30	26	21	15	10	8	6
+
+I025	             700 CC	43	36	33	30	26	21	15	10	8	6
+
+I026	             750 CC	49	41	38	36	30	24	16	14	11	9
+
+I027	             800 CC	49	41	38	36	30	24	16	14	11	9
+
+I028	             850 CC	49	41	38	36	30	24	16	14	11	9
+
+I029	             900 CC	51	43	40	38	33	27	22	17	13	11
+
+I030	             950 CC	51	43	40	38	33	27	22	17	13	11
+
+I031	           1000 CC	61	51	48	40	35	31	26	21	16	13
+
+I032	           1050 CC	61	51	48	40	35	31	26	21	16	13
+
+I033	           1100 CC	61	51	48	40	35	31	26	21	16	13
+
+I034	           1150 CC	67	56	53	47	41	36	31	25	19	15
+
+I035	           1200 CC	67	56	53	47	41	36	31	25	19	15
+
+I036	           1250 CC	67	56	53	47	41	36	31	25	19	15
+
+I037	           1300 CC	67	56	53	47	41	36	31	25	19	15
+
+I038	           1350 CC	67	56	53	47	41	36	31	25	19	15
+
+I039	           1400 CC	72	60	56	51	45	40	35	30	25	19
+
+I040	           1450 CC	72	60	56	51	45	40	35	30	25	19
+
+I041	           1500 CC	79	66	61	54	47	41	36	31	26	21
+
+J          FERRARI - MASERATI
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	J001	F355	1,700
+
+	J002	360	1,500
+
+	J003	350	2,000
+
+	J004	456M	2,500
+
+J030	3200 GT	1,000
+
+	J031	EVOLUZIONE	950
+
+K          CREACIONES AUTOMOTRICES NACIONALES
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	K001	VENTURY 4 PTAS.	140	90	75
+
+	K002	VENTURY 2 PTAS.	120	80	60
+
+L          HONDA
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	L001	ACCORD	180	140	125
+
+	L002	CIVIC	135	110	95
+
+	L003	ACURA
+
+M          B M W  - LAND ROVER - PORSCH
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	M001	SERIE 3	380	350	280	230	200
+
+	M002	SERIE 5	540	520	450	380
+
+M003	SERIE 7	950	900	850	600	550
+
+	M004	SERIE 8	950	900	750	650	600
+
+	M005	SERIE M	750	700	600	550	400
+
+	M006	SERIE Z3	350	320	285	230
+
+M031	DISCOVERY	370	350	300
+
+	M032	RANGE ROVER	620	580	510
+
+	M033	FREELANDER	250
+
+	M061	BOXSTER	680	620	550
+
+	M062	CARRERA 911	1,000	850	750
+
+N          PEUGEOT
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	N001	306	130	125	110
+
+	N002	405	150	140	125
+
+K          VOLVO
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	K001	S-40 	250
+
+	K002	V-40	260
+
+	K003	S-70 	320
+
+	K004	V-70	350
+
+	K005	C-70	400
+
+	K006	S-80 	450
+
+U          MERCEDES BENZ
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	U001	C-220
+
+	270	250	220
+
+	U002	C280  E-280	380	350	320	290	260
+
+	U003	S-500L 	850	750	650	550	450	350	250
+
+	U004	SL-500  Y CL-500	960	900	850	700	650
+
+	U005	S-600L
+
+1,300	1,100	1,000	850
+
+	U006	SL-600 	1,100	950	850	750	650
+
+	U007	400
+
+	195
+
+	U008	C-230 Y C-230K	300	280	260
+
+220
+
+	U009	SL-320
+
+880	820	700	600
+
+	U010	C-36
+
+	600	530	450	370
+
+U011	CLK-320	550	500
+
+U012	SLK-230
+
+470	400
+
+	U013	E-420 Y E-430 	580	490	350	280	250	220
+
+U014	ML-320	370	320
+
+U015	GE-320
+
+1,150	900	750	700
+
+	U016	E-320	490	450	400	360
+
+U017	E-50 Y E-55	910	850	760
+
+	U018	SL-60	1,100	920	850
+
+	U019	C-43	660	580
+
+U020	CL-600	1,400	1,250	1,150	1,050	900
+
+	U021	ML-430	430
+
+	U022	C2-80	440
+
+	U023	CLK-430	570
+
+	U024	SLK-320	420
+
+	U025	S-420	710
+
+620	580	500	420
+
+U026	S-420L
+
+	700	630	550	470
+
+V          AUDI - JAGUAR
+
+CVE	DESCRIPCION	1999	1998	1997	1996	1995	1994	1993	1992	1991	1990
+
+	V001	A 4	300	285	260
+
+	V002	A 8
+
+680	500
+
+	V003	CABRIOLET
+
+400	320
+
+	V004	A 6	400	350
+
+V005	A 3	195
+
+	V031	XJ8 Y VANDEN	630	520
+
+V032	XK8	750	550
+
+V033	XJR	680
+
+ARTICULO SEGUNDO.- Para los vehículos de modelos anteriores a 1990, la
+base gravable será la siguiente:
+
+Para los vehículos modelos de  1989  a  1985:   75% del valor señalado
+para el modelo 1990.
+
+Para los vehículos modelos de  1984  a  1980:   50% del valor señalado
+para el modelo 1990.
+
+Para los vehículos modelos de  1979  y  anteriores:   25% del valor
+señalado para el modelo 1990.
+
+ARTICULO TERCERO.- Para determinar la equiparabilidad de los vehículos
+importados al país, con los de fabricación nacional, se tomará como
+base la clasificación que para esos efectos establece la Ley del
+Impuesto Sobre Tenencia o Uso de Vehículos.
+
+T R A N S I T O R I O:
+
+ARTÍCULO UNICO.- El presente decreto entrará en vigor el día 1º de
+enero del año 2000, previa su publicación en el Periódico Oficial
+“El Estado de Colima”.
+
+El Gobernador del Estado dispondrá se publique, circule y observe.
+
+Dado en el Recinto Oficial del Poder Legislativo a los veintiocho días
+del mes de diciembre de mil novecientos noventa y nueve.
+
+Ing. Armando González Manzo.
+
+Diputado Presidente.
+
+C. Antonio García Núñez 				Profra. Evangelina Quintana Ramírez.
+
+   Diputado Secretario					    Diputada Secretaria
+
+ PÁGINA   1
+
+ PÁGINA   10

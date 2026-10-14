@@ -1,0 +1,339 @@
+---
+titulo: "Resolución en los autos del expediente IEEQ/UTF/07/2016, respecto del Dictamen de la Unidad Técnica de Fiscalización que somete a consideración la Comisión de Fiscalización, por el que se determina no realizar el procedimiento de fiscalización de Roberto Eudaldo Hevia Rocha"
+tipo: "Resolución"
+estado: "Queretaro"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "09 de Septiembre de 2016"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "70282"
+---
+RESOLUCIÓN EN MATERIA DE FISCALIZACIÓN.
+
+  PROMOVENTE: ROBERTO EUDALDO HEVIA ROCHA.
+
+  EXPEDIENTE: IEEQ/UTF/07/2016.
+
+  ASUNTO: SE DICTA RESOLUCIÓN.
+
+ Santiago de Querétaro, Querétaro, veintinueve de agosto de dos mil dieciséis.
+
+ El Consejo General del Instituto Electoral del Estado de Querétaro dicta resolución en los autos del expediente IEEQ/UTF/07/2016, respecto del Dictamen de la Unidad Técnica de Fiscalización que somete a consideración la Comisión de Fiscalización, por el que se determina no realizar el procedimiento de fiscalización de Roberto Eudaldo Hevia Rocha, quien pretendía constituirse como partido político local.
+
+ Para facilitar el entendimiento de esta resolución se presenta el siguiente
+
+G L O S A R I O:
+
+Instituto:
+
+Instituto Electoral del Estado de Querétaro.
+
+Comisión:
+
+Comisión de Fiscalización del Consejo General del Instituto.
+
+Secretaría Ejecutiva:
+
+Secretaría Ejecutiva del Instituto.
+
+Consejo General:
+
+Consejo General del Instituto.
+
+Promovente:
+
+Unidad Técnica:
+
+Roberto Eudaldo Hevia Rocha.
+
+Unidad Técnica de Fiscalización del Instituto.
+
+Ley Electoral:
+
+Ley Electoral del Estado de Querétaro.
+
+Ley de Medios:
+
+Ley de Medios de Impugnación en Materia Electoral del Estado de Querétaro.
+
+Reglamento:
+
+Lineamientos:
+
+Dictamen:
+
+Reglamento de Fiscalización del Instituto.
+
+Lineamientos que deberán observarse para la constitución y registro de los partidos políticos locales en el estado de Querétaro.
+
+Dictamen de la Unidad Técnica de Fiscalización que somete a consideración la Comisión de Fiscalización, por el que se determina no realizar el procedimiento de fiscalización del promovente.
+
+ R E S U L T A N D O S:
+
+  De las constancias que obran en autos se desprende lo siguiente:
+
+ I. Reforma al Reglamento de Fiscalización del Instituto. En sesión ordinaria de veintiocho de noviembre de dos mil catorce, el Consejo General aprobó el Acuerdo relativo al proyecto de Dictamen por el que la Comisión Jurídica del Instituto sometió a su consideración el Reglamento; el cual en los Títulos I y III, establecen las reglas en materia de fiscalización que deberán observar las organizaciones de ciudadanos interesadas en constituirse como partidos políticos locales.
+
+II. Presentación de aviso. El treinta y uno de enero de dos mil dieciséis,1 se recibió en la Oficialía de Partes del Instituto, el escrito signado por Roberto Eudaldo Hevia Rocha, a través del cual informó su intención de constituirse como partido político local.
+
+III. Registro y radicación. El ocho de febrero, la Secretaría Ejecutiva dictó proveído por el cual tuvo por recibido el escrito signado por el promovente, y ordenó el registro con el expediente IEEQ/AG/005/2016-P.
+
+IV. Requerimiento y prevención. En dicho proveído, la Secretaría Ejecutiva previno al promovente para que proporcionara los documentos que acreditaran su personalidad; así como que señalara el nombre y representante de la organización que pretende constituirse como partido político, el nombre de la persona que actúe en su representación ante el Instituto, el domicilio para oír y recibir notificaciones, además de las personas autorizadas para tal efecto; apercibido que de no hacerlo, las subsecuentes notificaciones se realizarían en los estrados del Instituto.
+
+V. Solicitud de información. El diez de febrero, se recibió en la Oficialía de Partes del Instituto, escrito presentado por el promovente mediante el cual compareció a fin de solicitar la información relativa al procedimiento de constitución de partido político local y formatos para la presentación de estados financieros para personas físicas.
+
+VI. Respuesta a solicitud. El dieciséis de febrero, la Unidad Técnica de lo Contencioso Electoral dictó proveído por medio del cual informó al promovente que en su oportunidad el órgano competente del Instituto se pronunciaría al respecto.
+
+VII. Incumplimiento al requerimiento. El dieciocho de febrero, la Unidad Técnica de lo Contencioso Electoral dictó proveído a través del que hizo efectivo el apercibimiento realizado al promovente mediante acuerdo de ocho de febrero, de practicarle las notificaciones por estrados.
+
+VIII. Emisión de Lineamientos. En sesión ordinaria del veintiséis de febrero, el Consejo General aprobó el acuerdo relativo a los Lineamientos, así como los formatos respectivos. Los citados Lineamientos fueron impugnados mediante recurso de apelación, al cual recayó la sentencia en el expediente TEEQ-RAP/JLD-2/2016 y acumulados.
+
+Dicha sentencia modificó lo relativo al porcentaje de afiliados requerido para la constitución de partidos políticos locales; asimismo, determinó que esta autoridad debía emitir las reglas para la creación de un aviso de privacidad tendente a la obtención de datos de las personas que se pretendan afiliar a las organizaciones de ciudadanos que aspiren constituirse como partidos políticos locales, en el que se cumplieran con los requisitos mínimos establecidos por la Ley Federal de Protección de Datos Personales en Posesión de Particulares; además, ordenó que en el formato FA-1 se debía insertar un aviso de privacidad que contara con dichas condiciones.
+
+1 Las fechas señaladas en la presente determinación corresponden a dos mil dieciséis.
+
+En ese sentido, los demás preceptos normativos quedaron firmes para todos los efectos legales conducentes; la determinación jurisdiccional fue confirmada en el expediente SM-JRC-29/2016 y acumulado SM-JRC-34/2016.
+
+IX. Notificación de Lineamientos. El primero de marzo, el promovente compareció personalmente en las oficinas del Instituto a efecto de que le fuera notificado el acuerdo del Consejo General relativo a los Lineamientos; por lo que se le hizo entrega en copia certificada del acuerdo y dichos Lineamientos.
+
+X. Requerimientos. El cuatro de marzo, la Unidad Técnica de lo Contencioso Electoral dictó acuerdo mediante el cual requirió al promovente para que en el término de tres días hábiles contados a partir de que surtiera efectos la notificación, designara al representante de la organización que pretende constituirse como partido político local, así como la denominación de la misma.
+
+El seis de abril, la Unidad Técnica de lo Contencioso Electoral dictó proveído por medio del cual requirió al promovente que debía informar mensualmente al Instituto Nacional Electoral sobre el origen y destino de sus recursos, dentro de los primeros diez días de cada mes, contado a partir del aviso correspondiente, hasta la resolución de procedencia de su solicitud, en su caso.
+
+Asimismo, se le informó al promovente que los estados financieros debían presentarse ante el Consejo General, a más tardar el viernes de la semana siguiente al cierre del ejercicio mensual que se informara, hasta la resolución de procedencia, en su caso de lo solicitado.
+
+XI. Desistimiento. El siete de abril, se recibió en la Oficialía de Partes del Instituto, escrito de desistimiento signado por Roberto Eudaldo Hevia Rocha, respecto del procedimiento para la constitución de partido político local.
+
+XII. Ratificación. El ocho de abril, el promovente compareció a las oficinas del Instituto, a efecto de ratificar en todos sus términos el escrito mencionado en el párrafo anterior.
+
+XIII. Proveído de sobreseimiento. El quince de abril, la Secretaría Ejecutiva dictó proveído mediante el cual tuvo al promovente desistiéndose del procedimiento de constitución como partido político local y determinó el sobreseimiento.
+
+XIV. Recepción del expediente. El veintiuno de abril, a través del oficio UTCE/061/2016, la Unidad Técnica de lo Contencioso Electoral remitió a la Unidad Técnica los documentos siguientes: a) Copia certificada del proveído de seis de abril; y b) Copia certificada del expediente IEEQ/AG/005-2016.
+
+XV. Oficio del Instituto Nacional Electoral. El veinticinco de abril, por oficio SE/581/16, la Secretaría Ejecutiva remitió a la Unidad Técnica, copia de la circular INE/UTVOPL/169/2016, recibida vía correo electrónico, a través de la cual acompañó el oficio INE/UTF/DA-F/8764/16, por el que el Director de Fiscalización del Instituto Nacional Electoral señaló que los organismos públicos locales son los competentes para fiscalizar a las organizaciones que pretenden constituirse como partidos políticos locales.
+
+XVI. Publicación de Lineamientos. El diez de junio, en el Periódico Oficial del Gobierno del Estado de Querétaro La Sombra de Arteaga, se publicaron los Lineamientos que contienen el Catálogo de Cuentas y Formatos para las organizaciones de ciudadanos que pretenden constituirse como partido político local.
+
+XVII. Registro y radicación en la Unidad Técnica. El ocho de junio, la Unidad Técnica dictó proveído en el cual tuvo por recibidos los documentos remitidos por la Unidad Técnica de lo Contencioso Electoral, a través del oficio UTCE/061/2016, y ordenó el registro  del expediente IEEQ/UTF/07/2016.
+
+XVIII. Formulación de Dictamen. El once de julio, la Unidad Técnica emitió el dictamen respectivo.
+
+XIX. Sesión de la Comisión. En sesión ordinaria del trece de julio, la Unidad Técnica sometió a consideración de la Comisión el Dictamen; dicho órgano colegiado determinó remitirlo a la Secretaría Ejecutiva para conocimiento del Consejo General.
+
+XX. Remisión de Dictamen a la Secretaría Ejecutiva. En esa fecha, mediante oficio IEEQ-CF/102/16, la Presidenta de la Comisión remitió a la Secretaría Ejecutiva el Dictamen para los efectos conducentes.
+
+XXI. Presentación del Dictamen. El veinte de julio, la Secretaría Ejecutiva presentó al Consejo General el Dictamen, en términos del artículo 77 del Reglamento, y ordenó la elaboración de la determinación correspondiente para someterla a consideración del órgano de dirección superior en la siguiente sesión ordinaria.
+
+  XXII. Observaciones al Dictamen.  El veintidós de agosto, por oficio SE/1276/16, la Secretaría Ejecutiva instruyó a la Unidad Técnica a fin de que atendiera las observaciones vertidas en la sesión ordinaria de la Comisión, respecto del Dictamen sometido a su consideración; en atención a dicho documento, el veinticuatro de agosto, mediante oficio UTF/053/16, la Unidad Técnica informó a la Secretaría Ejecutiva que solventó las observaciones respectivas.
+
+  XXIII. Proyecto de resolución. En cumplimiento a los artículos 65, fracción XXXIV, 71, inciso c) y 76 bis inciso k) de la Ley Electoral y 77 del Reglamento, se elaboró el proyecto de resolución correspondiente.
+
+  XXIV. Remisión del proyecto de resolución. El veinticinco de agosto, mediante oficio SE/1282/16 el Secretario Ejecutivo remitió al Consejero Presidente el proyecto de resolución para los efectos conducentes.
+
+  XXV. Convocatoria a sesión del Consejo General. El veinticinco de agosto, en la Secretaría Ejecutiva se recibió el oficio P/396/16 signado por el Consejero Presidente, por el cual instruyó se convocara a sesión para someter a consideración del Consejo General la presente determinación.
+
+C O N S I D E R A N D O S:
+
+ Primero. Competencia. El Consejo General es competente para conocer y, en su caso, aprobar la resolución respecto del Dictamen que somete a consideración la Comisión de Fiscalización; de conformidad con los artículos 41, Base V, apartado C y 116, fracción IV, inciso c) de la Constitución Política de los Estados Unidos Mexicanos; 98, párrafos 1 y 2, y 104, inciso r) de la Ley General de Instituciones y Procedimientos Electorales; 32, párrafos primero y tercero de la Constitución Política del Estado de Querétaro; 55, 60, 65, fracción XXXIV de la Ley Electoral; primero transitorio del Reglamento de Fiscalización del Instituto Nacional Electoral; 77 del Reglamento; 72, fracción I y 76 del Reglamento Interior del Instituto, así como con el oficio INE/UTF/DA-F/8764/16 del Instituto Nacional Electoral.
+
+Segundo. Materia de la resolución. Esta resolución tiene como finalidad conocer y, en su caso, aprobar el Dictamen que somete a consideración la Comisión de Fiscalización.
+
+Tercero. Conclusiones.
+
+1. El marco normativo respecto de las reglas derivadas de la fiscalización de los recursos de las organizaciones de ciudadanos que pretenden constituirse como partidos políticos locales, es el siguiente:
+
+2. La Ley Electoral establece:
+
+Artículo 71. El Consejo General integrará comisiones para la realización de los asuntos de su competencia…
+
+  En todo caso, contará con una Comisión de Fiscalización la cual se sujetará a los lineamientos, acuerdos generales, normas técnicas y demás disposiciones que emita el Consejo General del Instituto Nacional Electoral.
+
+  La Comisión de Fiscalización, estará integrada por tres consejeros electorales y tendrá como facultades las siguientes:
+
+ Revisar y someter a la aprobación de Consejo General los proyectos de resolución relativos a los dictámenes que emita la Unidad Técnica de Fiscalización.
+
+ …
+
+Para el cumplimiento de sus funciones, la Comisión de Fiscalización contará con una Unidad Técnica de Fiscalización en la materia.
+
+…
+
+Artículo 76 bis. La Unidad Técnica de Fiscalización tendrá las facultades siguientes:
+
+…
+
+k) Fiscalizar y vigilar los ingresos y gastos de las organizaciones de ciudadanos que  pretendan obtener registro como partido político estatal, a partir del momento en que notifiquen de tal propósito al Instituto, en los términos establecidos en esta Ley y demás disposiciones aplicables;
+
+…
+
+3. Por su parte, el Reglamento señala:
+
+…
+
+Artículo 62. Las agrupaciones interesadas, deberán presentar ante el Consejo, los estados financieros en la forma y plazos establecidos por la Ley.
+
+Artículo 63. Los estados financieros que presenten las agrupaciones interesadas, deberán sujetarse a lo sigue:
+
+I. De acuerdo a los lineamientos que emita la Unidad Técnica de Fiscalización y lo establecido en el presente Reglamento, basándose en el programa informático y lineamientos que indique el órgano electoral.
+
+II. Debidamente suscritos por el presidente y por el responsable del órgano interno, y
+
+III. Se acusará recibo y se hará constar la fecha, hora, y relación de documentos presentados.
+
+Artículo 66. La Unidad Técnica de Fiscalización dictaminará, los estados financieros, dentro del plazo de un mes; para lo cual se observará el contenido de este Reglamento.
+
+Artículo 67. La Unidad Técnica de Fiscalización tendrá en todo momento la facultad de solicitar a las agrupaciones interesadas, la presentación de información y documentación necesaria para verificar el contenido de los estados financieros.
+
+Artículo 68. El Instituto Electoral del Estado de Querétaro podrá requerir a las autoridades estatales y municipales así como a los particulares la información, documentos y registros necesarios para compulsarlos con los datos asentados en los estados financieros presentados por las agrupaciones interesadas.
+
+Artículo 69. De la revisión de los estados financieros que ejecute la Unidad Técnica de Fiscalización se podrán generar observaciones.
+
+Artículo 70. Las agrupaciones interesadas, deberán dar respuesta a las observaciones dentro del plazo de los tres días siguientes a la fecha en que se notifiquen. En caso de observaciones posteriores, el plazo para responder será de un día.
+
+Artículo 71. En los escritos de respuesta a las observaciones las agrupaciones interesadas, podrán exponer lo que a su derecho convenga sin contravenir a las disposiciones aplicables en la fiscalización; pudiendo aclarar, rectificar y aportar documentación e información idónea para subsanar lo observado. Los documentos deberán ser suscritos por el presidente mancomunadamente con el responsable del órgano interno.
+
+Artículo 72. El o los escritos de respuesta a las observaciones no implican en su caso, que se dé por satisfactorio la respuesta a lo observado.
+
+Se podrá solicitar aclaración sobre el contenido del escrito, contando con un plazo de hasta tres días hábiles para responder el presidente y el responsable del órgano interno.
+
+Artículo 75. El dictamen podrá tener uno de los siguientes sentidos:
+
+I. Aprobatorio cuando acredite origen, monto y destino de los recursos financieros y solo existan recomendaciones por actos u omisiones formales, o
+
+II. No aprobatorio, cuando las asociación política, incurra en inconsistencias de fondo.
+
+Se consideran inconsistencias de fondo, la omisión de:
+
+a) Presentar los estados financieros completos;
+
+b) Presentar la documentación legal comprobatoria completa;
+
+c) Exhibir información o documentación verídica;
+
+d) Proporcionar información o documentación requerida;
+
+e) Acatar de manera reiterada las recomendaciones hechas, y
+
+f) Acreditar el origen, monto y destino de los recursos.
+
+Artículo 76. La Unidad Técnica de Fiscalización… [enviará]… a la Comisión de Fiscalización, los dictámenes que emita respecto a los estados financieros presentados por las agrupaciones interesadas y la Comisión …[remitirá]… al Consejo General para su aprobación.
+
+Artículo 77. El Consejo General emitirá el acuerdo correspondiente en la sesión ordinaria del mes siguiente a aquella en que los dictámenes se sometan a consideración. Para efecto de lo dispuesto en el párrafo anterior se estará a lo siguiente:
+
+a) Cuando se apruebe un dictamen que apruebe los estados financieros presentados y en el mismo se hayan emitido recomendaciones, el Consejo General, en el acuerdo correspondiente, apercibirá a la agrupación interesada.
+
+b) Cuando se apruebe un dictamen que a su vez no apruebe los estados financieros presentados, en el acuerdo respectivo se acordará el inicio del procedimiento sancionador previsto en la ley, o
+
+c) Cuando no se apruebe un dictamen, se ordenará su devolución, con las instrucciones necesarias, para que en un plazo no menor a veinte días emita la Unidad Técnica de Fiscalización un nuevo dictamen.
+
+…
+
+4. De lo anterior se desprenden las obligaciones que en materia de fiscalización tienen las organizaciones que pretenden constituirse como partidos políticos locales, aunado a  las facultades de los órganos del Instituto que intervienen en el procedimiento de fiscalización de los ingresos y egresos de los recursos con los que cuenten las organizaciones, a fin de hacer del conocimiento las observaciones respectivas, así como salvaguardarles la garantía de audiencia y el debido proceso.
+
+ 5. Ahora bien, en el Dictamen, que se tiene por reproducido como si a la letra si insertase para que surta sus efectos legales, y en la parte que interesa señala:
+
+ …
+
+Cuarto. Informe Técnico. En razón de que del expediente al rubro citado no se desprenden informes financieros que …[haya]… presentado el ciudadano y derivado del sobreseimiento dictado el quince de abril de dos mil dieciséis en el expediente no se entra al estudio correspondiente, a efecto de cumplir con la garantía de seguridad jurídica.
+
+ DICTAMEN
+
+ …
+
+SEGUNDO. En razón de las constancias que obran en autos, la Unidad Técnica, determina no realizar el procedimiento de fiscalización correspondiente, derivado del escrito de desistimiento presentado por el ciudadano Roberto Eudaldo Hevia Rocha, así como del proveído de sobreseimiento dictado el quince de abril del dos mil dieciséis en el expediente de mérito por …[la Secretaría Ejecutiva]...
+
+ …
+
+… (Énfasis original)
+
+ 6. Como se advierte, la Unidad Técnica determinó no realizar el procedimiento de fiscalización correspondiente, derivado del escrito de desistimiento presentado por el promovente, así como del proveído de sobreseimiento dictado el quince de abril por la Secretaría Ejecutiva en los autos del expediente IEEQ/AG/005/2016-P.
+
+   7. Aunado a ello, se toma en consideración que la presentación de informes sobre el origen y monto de los ingresos de las organizaciones que pretenden constituirse como partidos políticos locales, recibidos por la modalidad de financiamiento privado, así como su empleo, aplicación y destino, el registro de los ingresos, así como egresos de estas y de la documentación comprobatoria sobre el manejo de sus recursos, tiene como finalidad comprobar la veracidad de lo reportado en los informes respectivos, en aras de cumplir con las garantías que toda revisión o auditoría debe observar en cumplimiento a los principios de equidad, legalidad, audiencia y defensa del sujeto revisado o auditado, aunado a que en el particular se cumplen con las garantías de legalidad, audiencia y defensa que se consagran en los artículos 14 y 16 de la Constitución Federal, así como 11, párrafo 2 de la Ley General de Partidos Políticos.
+
+8. Bajo esa tesitura, se indica que el promovente presentó escrito a través del cual se desistió de su intención de constituirse como partido político local y que de las constancias que obran en autos se advierte que el solicitante no realizó actividades tendentes a cumplir con su objetivo, pues no abrió la cuenta bancaria respectiva, no realizó gastos de asambleas municipales o distritales que generaran un gasto y tampoco obtuvo ingresos ni egresos.
+
+9. Existe la paralización del procedimiento que derivó no de la resolución heterocompositiva de la causa sino de la solución autocompositiva que se sustenta en el desistimiento del promovente, que originó el sobreseimiento del procedimiento, el cual quedó sin materia al desparecer el motivo que lo generó, aunado a que de las constancias que obran en autos no se desglosan informes financieros.
+
+10. Por consiguiente, se concluye que es acertado que en el Dictamen respectivo se haya determinado no realizar el procedimiento de fiscalización correspondiente, en observancia a la garantía de seguridad jurídica, que debe imperar en todo proceso; sirve de apoyo Tesis Jurisprudencial 161/2010, de la Segunda Sala de la Suprema Corte de Justicia de la Nación, con el rubro: “Desistimiento de la demanda de amparo. No procede su retractación una vez ratificado ante la presencia judicial”, así como la Jurisprudencia 5/2002, de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, con el rubro: “Fundamentación y motivación. Se cumple si en cualquier parte de la resolución se expresan las razones y fundamentos que la sustentan (legislación del estado de Aguascalientes y similares).
+
+   Con base en las consideraciones vertidas y con fundamento en los artículos 41, Base V, apartado C y 116, fracción IV, incisos b y c) de la Constitución Política de los Estados Unidos Mexicanos; 32, párrafos primero y tercero de la Constitución Política del Estado de Querétaro; 1, 65, fracción XXXIV, 71, incisos a), b) y c), 76 bis, inciso k) de la Ley Electoral; 62, 66, 76, 77, 78, 79 del Reglamento; 1, 6, fracciones I, VI, VII, y IX y 42 de los Lineamientos, el Consejo General emite los siguientes
+
+   R E S O L U T I V O S:
+
+ PRIMERO. El Consejo General es competente para conocer y, en su caso, aprobar la resolución que somete a consideración la Comisión de Fiscalización, relativa al Dictamen por el que se determina no realizar el procedimiento de fiscalización de Roberto Eudaldo Hevia Rocha, quien pretendía constituirse como partido político local, en términos del considerando primero; por tanto, glósese la presente determinación a los autos del expediente.
+
+   SEGUNDO. Se aprueba la determinación respecto del Dictamen de la Unidad Técnica de Fiscalización, en términos del considerando tercero.
+
+   TERCERO. Notifíquese la presente resolución como corresponda, de conformidad con la Ley de Medios de Impugnación en Materia Electoral del Estado de Querétaro y del Reglamento Interior del Instituto Electoral del Estado de Querétaro.
+
+   CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Querétaro La Sombra de Arteaga, así como en el sitio de internet del Instituto Electoral del Estado de Querétaro.
+
+   Dada en Santiago de Querétaro, Querétaro, el veintinueve de agosto de dos mil dieciséis. DOY FE.
+
+   El Secretario Ejecutivo del Consejo General del Instituto HACE CONSTAR: que el sentido de la votación en la presente resolución, fue como sigue:
+
+CONSEJERO ELECTORAL
+
+SENTIDO DEL VOTO
+
+A FAVOR
+
+EN CONTRA
+
+C.P. GABRIELA BENITES DONCEL
+
+√
+
+LIC. YOLANDA ELÍAS CALLES CANTÚ
+
+√
+
+SOC. JAZMÍN ESCOTO CABRERA
+
+√
+
+LIC. GEMA NAYELI MORALES MARTÍNEZ
+
+------------
+
+-----------
+
+MTRO. JESÚS URIBE CABRERA
+
+-----------
+
+------------
+
+MTRO. LUIS OCTAVIO VADO GRAJALES
+
+√
+
+M. en A. GERARDO ROMERO ALTAMIRANO
+
+√
+
+M. en A. GERARDO ROMERO ALTAMIRANO
+
+Consejero Presidente
+
+Rúbrica
+
+LIC. CARLOS RUBÉN EGUIARTE MERELES
+
+Secretario Ejecutivo
+
+Rúbrica
+
+   El suscrito licenciado Carlos Rubén Eguiarte Mereles, Secretario Ejecutivo del Consejo General del Instituto Electoral del Estado de Querétaro, en uso de las facultades que me confiere la fracción XI del artículo 67 de la Ley Electoral del Estado de Querétaro, CERTIFICO: Que las presentes copias fotostáticas concuerdan fiel y exactamente con los documentos que obran en el archivo de la Secretaría Ejecutiva de este Instituto, las cuales doy fe tener a la vista.--------------------------------------
+
+   Va en diez fojas útiles, debidamente selladas y cotejadas.--------------------------------------------------------
+
+Se extiende la presente en la ciudad de Santiago de Querétaro, Qro., a los treinta días del mes de agosto de dos mil dieciséis.- DOY FE.----------------------------------------------------------------------------------
+
+Lic. Carlos Rubén Eguiarte Mereles
+
+Secretario Ejecutivo
+
+Rúbrica
+
+RESOLUCIÓN EN LOS AUTOS DEL EXPEDIENTE IEEQ/UTF/07/2016, RESPECTO DEL DICTAMEN DE LA UNIDAD TÉCNICA DE FISCALIZACIÓN QUE SOMETE A CONSIDERACIÓN LA COMISIÓN DE FISCALIZACIÓN, POR EL QUE SE DETERMINA NO REALIZAR EL PROCEDIMIENTO DE FISCALIZACIÓN DE ROBERTO EUDALDO HEVIA ROCHA: PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO “LA SOMBRA DE ARTEAGA”, EL 9 DE SEPTIEMBRE DE 2016 (P. O. No. 49)

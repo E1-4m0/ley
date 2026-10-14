@@ -1,0 +1,301 @@
+---
+titulo: "REGLAMENTO INTERIOR DE LA COMISIÓN PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS DEL ESTADO DE BAJA CALIFORNIA SUR"
+tipo: "Reglamento"
+estado: "Baja California Sur"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "10 de Enero de 2023"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "103913"
+---
+82777844378659666154166231356163346723O
+
+O
+
+1427743354718S
+
+S
+
+1495405378670M
+
+M
+
+1569579408736E
+
+E
+
+1616421442979X
+
+X
+
+1669249474741I
+
+I
+
+1688348508726C
+
+C
+
+1725843557572A
+
+A
+
+1754505613398N
+
+N
+
+918982577024A
+
+A
+
+954526522700D
+
+D
+
+1002105470597O
+
+O
+
+1061981431937S
+
+S
+
+1122315391293U
+
+U
+
+1185736366285N
+
+N
+
+1252240354132I
+
+I
+
+1286030347136D
+
+D
+
+2074791157978BOLETÍN OFICIAL
+
+BOLETÍN OFICIAL
+
+TOMO L LA PAZ, BAJA CALIFORNIA SUR, 10 DE ENERO DE 2023 No 01
+
+1778518-363136O
+
+O
+
+1806996-304734S
+
+S
+
+863869-309164E
+
+E
+
+880464-358882S
+
+S
+
+891871-411138T
+
+T
+
+DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR
+
+LAS LEYES Y DEMÁS DISPOSICIONES SUPERIORES SON OBLIGATORIAS POR EL HECHO DE PUBLICARSE EN ESTE PERIÓDICO.
+
+D I R E C C I O N : SECRETARÍA GENERAL DE GOBIERNO
+
+CORRESPONDENCIA DE SEGUNDA CLASE REGISTRO DGC-No. 0140883 CARACTERÍSTICAS 315112816
+
+PODER EJECUTIVO
+
+INDICE
+
+ 2765624470404DECRETO Se crea la Comisión para Prevenir y Erradicar la Trata de Personas del Estado de Baja California Sur. 1
+
+REGLAMENTO INTERIOR De la Comisión para Prevenir y Erradicar la Trata de
+
+ Personas del Estado de Baja California Sur. 34
+
+H. XVII. AYUNTAMIENTO DE LA PAZ, BAJA CALIFORNIA SUR SECRETARÍA GENERAL MUNICIPAL
+
+ FE DE ERRATAS A las Reformas del Reglamento de la Administración Pública Municipal del Ayuntamiento de La Paz, Baja California Sur, publicadas el 10 de diciembre de 2022, en el Boletín Oficial del Gobierno del Estado Numero 74 51
+
+TESORERÍA MUNICIPAL DIRECCIÓN DE INGRESOS
+
+SUBDIRECCIÓN DE EJECUCIÓN FISCAL ACUERDO DE NOTIFICACIÓN POR EDICTOS
+
+ CARBALLO RODRÍGUEZ FERNANDO FRANCISCO. Notificación de Adeudo de Impuesto Predial. 52
+
+ YEOMANS LEÓN ABELARDO. Notificación de Adeudo de Impuesto Predial. 53
+
+ BARAJAS CRUZ CARLOS. Notificación de Adeudo de Impuesto Predial.        54 JUÁREZ PÉREZ SERGIO ISAAC. Notificación de Adeudo de Impuesto Predial 55
+
+ NAVARRO DE ALBA CARLOS. Notificación de Adeudo de Impuesto Predial 56
+
+ATARDECER ENTERPRISES S DE R.I DE CV. Notificación de Adeudo de Impuesto
+
+ 1331272153695Predial. 57
+
+ 1994212283914GONZÁLEZ ANGULO JOSÉ TRINIDAD Y COPS. Notificación de Adeudo de Impuesto Predial. 58
+
+ 1338889314844EAST CAPE ESCAPE DEVELOPMENT. Notificación de Adeudo de Impuesto Predial. 59
+
+ RAMÍREZ CRUZ ROGELIO. Notificación de Adeudo de Impuesto Predial 60
+
+ ARAIZA COTA MARÍA GUADALUPE. Notificación de Adeudo de Impuesto Predial. 61
+
+ SEA LOTS THE BAJA S A DE C V. Notificación de Adeudo de Impuesto Predial. 62
+
+ORGANISMO OPERADOR MUNICIPAL DEL SISTEMA DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LA PAZ
+
+FE DE ERRATAS Del punto Tercero de la Actualización de Cuotas y Tarifas de fecha 13 de diciembre de 2022, publicado en el Boletín Oficial de Gobierno Número 77, tomo
+
+ XLIX, de fecha 20 de diciembre de 2022. 63
+
+  TOMO L LA PAZ, BAJA CALIFORNIA SUR, 10 DE ENERO DE 2023 No 01
+
+H. XIV AYUNTAMIENTO DE LOS CABOS, BAJA CALIFORNIA SUR ACUERDO N°191 ACTA NUMERO:42 SESIÓN:EXTRAORDINARIA
+
+ DICTAMEN Que presenta la Comisión Técnica Especializada, encargada de rendir un dictamen técnico, financiero, legal y administrativo a este Ayuntamiento, respecto del otorgamiento de la concesión para la prestación de los Servicios Públicos Municipales relativos al tratamiento y a la disposición final de los residuos en el Municipio de Los Cabos, mediante el cual se aprueba la Concesión del Servicio para la Recepción, Traslado, Manejo y Disposición de Residuos Sólidos del Municipio de Los Cabos, B.C.S, a favor de la empresa El Dorado Atardecer S.A de C.V. (Gamamacat Logistic SAPI de C.V). 64
+
+PODER LEGISLATIVO
+
+  FE DE ERRATAS A la Certificación de la Votación emitida en la aprobación del Decreto 2732, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, Número 45 BIS, de fecha 30 de septiembre de 2020. 69
+
+PODER JUDICIAL DE LA FEDERACIÓN SUPREMA CORTE DE JUSTICIA DE LA NACIÓN ACCIÓN DE INCONSTITUCIONALIDAD 164/2021
+
+PROMOVENTE : COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
+
+ VOTO CONCURRENTE Que formula el Ministro Presidente Arturo Zaldívar Lelo de Larrea en la Acción de Inconstitucionalidad 164/2021, promovida por la Comisión Nacional de los Derechos Humanos. 71
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1194816251890
+
+1121663305066
+
+33
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1219200276274
+
+1170432183412
+
+34
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1219200251890
+
+1121663195604
+
+35
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1146047217712
+
+36
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1170432290331
+
+37
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1170432193328
+
+38
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1146047168677
+
+39
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1121663278139
+
+40
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1146047241563
+
+41
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1146047168944
+
+42
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1243583251890
+
+1097280183412
+
+43
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1219200276274
+
+1146047183412
+
+44
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1121663278139
+
+45
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1243583251890
+
+1121663207796
+
+46
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1243583239698
+
+1121663171220
+
+47
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1243583239698
+
+1146047195604
+
+48
+
+0010/01/2023 BOLETÍN OFICIAL N°1
+
+1243583264082
+
+1170432183412
+
+49
+
+lefttop010/01/2023 BOLETÍN OFICIAL N°1
+
+1243583264082
+
+1024127195604
+
+50

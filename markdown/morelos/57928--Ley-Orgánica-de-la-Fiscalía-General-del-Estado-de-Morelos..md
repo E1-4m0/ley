@@ -1,0 +1,3973 @@
+---
+titulo: "Ley Orgánica de la Fiscalía General del Estado de Morelos."
+tipo: "Ley"
+estado: "Morelos"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "11 de Julio de 2018"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "57928"
+---
+# LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2024.
+
+[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE NOVIEMBRE DE
+2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO DOSCIENTOS CUARENTA Y
+DOS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2019.]
+
+Ley publicada en el Alcance al Periódico Oficial del Estado de Morelos,
+el miércoles 11 de julio de 2018.
+
+Al margen izquierdo un Escudo del estado de Morelos que dice: “Tierra
+y Libertad”.- La tierra volverá a quienes la trabajan con sus manos.-
+Poder Legislativo. LIII Legislatura. 2015-2018.
+
+GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO
+LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+
+Que el H. Congreso del Estado se ha servido enviarme para su
+promulgación lo siguiente:
+
+LA QUINCUAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y
+SOBERANO DE MORELOS. EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA
+FRACCIÓN II, DEL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO
+LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
+
+ANTECEDENTES
+
+[…]
+
+Por lo anteriormente expuesto, esta LIII Legislatura ha tenido a bien
+expedir el siguiente:
+
+DECRETO NÚMERO TRES MIL DOSCIENTOS CUARENTA Y OCHO POR EL QUE SE EXPIDE
+LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; Y SE
+REFORMAN, ADICIONAN Y DEROGAN DISTINTAS DISPOSICIONES DE DIVERSAS LEYES
+ESTATALES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE
+MORELOS; PARA ADSCRIBIR A LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS,
+NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE
+MORELOS.
+
+ARTÍCULO PRIMERO. Se expide la Ley Orgánica para la Fiscalía General
+del Estado de Morelos, para quedar como sigue:
+
+LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
+
+TÍTULO PRIMERO
+
+DE LA INSTITUCIÓN DEL MINISTERIO PÚBLICO
+
+CAPÍTULO I
+
+DISPOSICIONES GENERALES
+
+Artículo 1. Esta Ley es de orden público y de interés social, y tiene
+por objeto establecer, organizar y regular las atribuciones de la
+Fiscalía General del Estado de Morelos, así como de las Unidades
+Administrativas que la integran, para el despacho de los asuntos que al
+Ministerio Público le confieren la Constitución Política de los
+Estados Unidos Mexicanos, la Constitución Política del Estado Libre y
+Soberano de Morelos y demás normas aplicables.
+
+Artículo 2. Para los efectos de esta Ley se entiende por:
+
+I. Agente del Ministerio Público, al servidor público encargado en
+primer plano de la investigación de hechos delictivos;
+
+II. Cadena de custodia, a la que hace referencia el artículo 227 del
+Código Nacional de Procedimientos Penales;
+
+III. CECC, al Centro de Evaluación y Control de Confianza del Estado de
+Morelos;
+
+IV. Centro Nacional, al Centro Nacional de Certificación y
+Acreditación del Secretariado Ejecutivo del Sistema Nacional de
+Seguridad Pública;
+
+V. Consejo, al Consejo de Profesionalización;
+
+VI. Consejo de Honor, al Consejo de Honor y Justicia;
+
+VII. Ficha Identificativa, al documento de identificación de los
+cadáveres o restos humanos que carecen de la misma, que tengan
+relación con una carpeta de investigación, que contenga el número y
+fecha de inicio de la misma; así como cualquier información que
+permita el pleno reconocimiento de los mismos, como son, antropología
+forense, criminalística de campo, video, fotografía forense, medicina
+forense, dactiloscopia, genética forense y odontología forense;
+
+VIII. Fiscalía General, a la Fiscalía General del Estado de Morelos;
+
+IX. Fiscal General, a la persona Titular de la Fiscalía General y Jefe
+del Ministerio Público;
+
+(ADICIONADA, P.O. 22 DE MAYO DE 2019)
+
+X. Fiscal en retiro, a la persona que haya dejado de ser Fiscal General,
+habiendo sido nombrada de acuerdo a lo establecido en el artículo 79-B
+de la Constitución local. Para efectos de ser sujeto a portar arma
+oficial, se considerará personal operativo honorario de acuerdo a lo
+que establece el inciso c), apartado B, del artículo 29 de la Ley
+Federal de Armas de Fuego y Explosivos, el artículo 125 de la Ley
+General del Sistema Nacional de Seguridad Pública y la demás normativa
+aplicable;
+
+XI. Fiscalía Anticorrupción, a la Fiscalía Especializada en Combate a
+la Corrupción del Estado de Morelos;
+
+XII. Fiscal Anticorrupción, a la persona Titular de la Fiscalía
+Especializada en Combate a la Corrupción del Estado de Morelos;
+
+XIII. Fiscalía Antisecuestro, a la Fiscalía Especializada en Combate
+al Secuestro y Extorsión;
+
+XIV. Fiscalía en Desaparición de Personas, a la Fiscalía
+Especializada en Desaparición Forzada de Personas;
+
+XV. Instituto de Procuración de Justicia, al Instituto de Procuración
+de Justicia, Escuela de Investigación;
+
+XVI. Institución de Procuración de Justicia, al área del Estado que
+integra al Ministerio Público, los servicios periciales y demás
+auxiliares de aquél, es decir, a la Fiscalía General;
+
+XVII. Instituciones de Seguridad Pública, a las instituciones
+policiales, de procuración de justicia, del sistema penitenciario y de
+las unidades encargadas de la seguridad pública a nivel estatal,
+municipal, así como a los encargados de su capacitación, formación y
+profesionalización durante el desarrollo del servicio de carrera;
+
+XVIII. Instituciones policiales, a los elementos de la policía
+preventiva estatal, con sus grupos de investigación, y municipal, de la
+policía ministerial, a los elementos de vigilancia y custodia de los
+establecimientos penitenciarios, así como a los encargados de la
+seguridad durante los procesos judiciales y la vigilancia del
+cumplimiento de las medidas cautelares, tanto de adolescentes como de
+adultos, bomberos y de rescate; y, en general, todas las dependencias
+encargadas de la seguridad pública a nivel estatal y municipal;
+
+XIX. Ley, a la Ley Orgánica para la Fiscalía General del Estado de
+Morelos;
+
+XX. Ley General, a la Ley General para Prevenir y Sancionar los Delitos
+en Materia de Secuestro, reglamentaria de la fracción XXI del artículo
+73 de la Constitución Política de los Estados Unidos Mexicanos;
+
+XXI. Ley General en Materia de Desaparición de Personas, a la Ley
+General en Materia de Desaparición Forzada de Personas, Desaparición
+Cometida por Particulares y del Sistema Nacional de Búsqueda de
+Personas;
+
+XXII. Ministerio Público, a la Institución del Ministerio Público,
+única e indivisible;
+
+XXIII. Oficial, al Oficial del Registro Civil del Municipio que
+corresponda;
+
+XXIV. Periódico Oficial, al Periódico Oficial "Tierra y Libertad",
+órgano de difusión del Gobierno del Estado de Morelos;
+
+XXV. Placa Identificativa, a la placa de material anticorrosivo que
+contiene la mayor cantidad de datos posibles de la Ficha Identificativa;
+
+XXVI. Protocolo, al Protocolo para el Tratamiento e Identificación
+Forense, expedido por la Procuraduría General de la República;
+
+XXVII. Policía de Investigación Criminal, al cuerpo de Policía que
+auxilia al Ministerio Público en las funciones de investigación y
+persecución de los delitos, en términos de la Constitución Federal;
+
+XXVIII. Registro, al Registro de Datos de los cadáveres no
+identificados relacionados con una carpeta de investigación;
+
+XXIX. Reglamento, al Reglamento de la Ley;
+
+(REFORMADA, P.O. 22 DE MAYO DE 2019)
+
+XXX. Servicio de Carrera, al Servicio de Carrera de la Fiscalía General
+para los Agentes del Ministerio Público, Oficiales Auxiliares del
+Ministerio Público, Peritos y Agentes de la Policía de Investigación
+Criminal que les estén adscritos; y,
+
+XXXI. Servicios Periciales, al cuerpo de personas con conocimientos y
+experiencia en las diferentes profesiones, ciencias, técnicas, artes u
+oficios, que mediante la emisión de opiniones y dictámenes auxilian al
+Ministerio Público en su función.
+
+Artículo 3. La Fiscalía General es un órgano constitucional autónomo
+cuya función primordial es la persecución de los delitos como una de
+las necesidades torales tanto del Estado como de la sociedad en general;
+su autonomía constitucional consiste en lo siguiente:
+
+(REFORMADA, P.O. 22 DE MAYO DE 2019)
+
+I. Autonomía Financiera, por la que contará con un presupuesto que no
+podrá ser menor en términos reales, al que le haya correspondido en el
+Presupuesto de Egresos del Gobierno del Estado del año inmediato
+anterior, de conformidad con lo establecido en el artículo 79-A de la
+Constitución local. Del equivalente total que resulte, corresponde el
+cinco por ciento a la Fiscalía Anticorrupción;
+
+II. Independencia en su estructura orgánica y la determinación de
+niveles, categorías y salarios, conforme al tabulador que para tal
+efecto se publique en el Periódico Oficial "Tierra y Libertad", y
+
+III. Facultad reglamentaria, la cual debe ser entendida como la
+posibilidad que le ha sido otorgada para expedir sus propias
+disposiciones normativas, con el propósito de regular las acciones que
+desarrolla en el ámbito de su competencia, delimitar las atribuciones
+que ejerce y regir su actuación, bajo las políticas permanentes de
+especialización técnica, profesionalización y rendición de cuentas,
+debiendo respetar en todo momento la Constitución Federal, la
+Convención de las Naciones Unidas Contra la Corrupción, los Tratados
+Internacionales en materia de derechos humanos de los que el Estado
+Mexicano sea parte, los Códigos y Leyes Nacionales, Generales y
+Federales que rijan su actuar procesal, la Constitución Local y, en
+general, toda disposición jurídica aplicable.
+
+Artículo 4. El patrimonio propio de la Fiscalía General se integra con
+los siguientes conceptos:
+
+I. El presupuesto asignado en términos de la fracción I del artículo
+que antecede;
+
+II. Sus bienes muebles e inmuebles;
+
+III. Los bienes que se incorporen legítimamente a su esfera jurídica;
+
+IV. Los recursos provenientes de apoyos o programas de la Federación u
+organismos internacionales;
+
+V. Los recursos provenientes de los servicios que legalmente preste la
+Fiscalía General por conducto de sus Unidades Administrativas;
+
+VI. Los recursos provenientes de arrendamientos;
+
+VII. Los recursos provenientes del ejercicio de las acciones de
+extinción de dominio y abandono de bienes, y
+
+VIII. Los demás que le sean legalmente asignados.
+
+Artículo 5. El Fiscal General para el ejercicio de la autonomía
+constitucional a que se refiere el artículo 3 de esta Ley, contará con
+las siguientes atribuciones:
+
+I. Instrumentar y organizar políticas sobre la administración de los
+recursos humanos, la adquisición de bienes y servicios y el
+arrendamiento de inmuebles;
+
+II. Planear, coordinar, dirigir y controlar la administración de los
+recursos presupuestales;
+
+III. Nombrar, adscribir y remover libremente al personal de la Fiscalía
+General como facultad originaria, como Fiscales, Agentes del Ministerio
+Público, Policías de Investigación, Peritos, Coordinadores,
+Directores, Subdirectores, Técnicos, Auxiliares, y demás servidores
+públicos, con excepción de la Fiscalía Anticorrupción;
+
+IV. Dictar órdenes directamente al personal de la Fiscalía General,
+con excepción de la Fiscalía Anticorrupción;
+
+V. Aprobar la adquisición del equipo operativo, técnico, científico,
+móvil y demás que sea necesario para los fines y necesidades de su
+actividad;
+
+VI. Aprobar la contratación de prestadores de servicios profesionales
+para la capacitación y profesionalización de personal;
+
+VII. Aprobar el arrendamiento de inmuebles para los fines de seguridad,
+protección de víctimas y testigos, de conformidad con las
+disposiciones legales aplicables;
+
+VIII. Autorizar las propuestas de modificación de la estructura
+administrativa y la plantilla del personal adscrito a la Fiscalía
+General, con excepción de la Fiscalía Anticorrupción;
+
+IX. Coadyuvar en el diseño, construcción y remodelación de los bienes
+inmuebles, oficinas e instalaciones que ocupen la Fiscalía General,
+conforme a las disposiciones jurídicas aplicables;
+
+X. Planear y promover la calidad en los servicios que presten la
+Fiscalía General;
+
+XI. Fijar criterios y medidas administrativas para la simplificación de
+los trámites y procesos que se realicen ante la Fiscalía General;
+
+XII. Integrar el Comité de adquisiciones de la Fiscalía General;
+
+XIII. Aprobar el Programa Anual de Adquisiciones de la Fiscalía
+General, y
+
+XIV. Las demás que le confieran las disposiciones legales y
+reglamentarias aplicables a la Fiscalía General.
+
+El Comité de Adquisiciones de la Fiscalía General se integrará y
+funcionará de conformidad con lo que disponga para tales efectos el
+Reglamento y la normativa aplicable.
+
+(REFORMADO, P.O. 30 DE AGOSTO DE 2018)
+
+Artículo 6. Entre la Fiscalía General y su personal existe una
+relación administrativa o laboral, de conformidad con las disposiciones
+jurídicas aplicables a cada hipótesis y conforme a las actividades
+desempeñadas.
+
+Para efectos del párrafo anterior, las relaciones administrativas se
+sujetarán a la normativa aplicable al efecto, como la Ley de
+Prestaciones de Seguridad Social de las Instituciones Policiales y de
+Procuración de Justicia del Sistema Estatal de Seguridad Pública; y
+para el caso de las relaciones laborales será aplicable la Ley del
+Servicio Civil del Estado de Morelos.
+
+Artículo 7. La Fiscalía General a través del Ministerio Público,
+tiene a su cargo la investigación de los delitos y el ejercicio de la
+acción penal ante los tribunales.
+
+Asimismo, la Fiscalía General tiene a su cargo la representación y
+defensa de los intereses de la sociedad y le compete la intervención en
+los asuntos de orden civil, familiar y otros, en la forma que señale la
+normativa.
+
+Artículo 8. El Ministerio Público es único, indivisible y jerárquico
+en su organización; sus funciones no podrán ser objeto de influencia,
+restricción o cualquier injerencia ajena a su autonomía, so pena de
+incurrir en responsabilidad administrativa y penal en términos de la
+legislación aplicable, sin distinción alguna al respecto.
+
+Artículo 9. La actuación de la Institución del Ministerio Público se
+encuentra sujeta a los principios de legalidad, imparcialidad,
+objetividad, eficiencia, eficacia, profesionalismo, honradez, lealtad,
+probidad y respeto a los derechos humanos reconocidos en la
+Constitución y en los tratados internacionales.
+
+Artículo 10. El Ministerio Público y sus agentes podrán actuar en
+ejercicio de sus funciones, en cualquier lugar del Estado o en otra
+Entidad Federativa, conforme a los Convenios de Colaboración
+respectivos.
+
+Artículo 11. Los servidores públicos que tengan bajo su mando directo
+y permanente a Agentes del Ministerio Público o de la Policía de
+Investigación Criminal o Peritos, no forman parte del Servicio de
+Carrera, serán nombrados y removidos conforme a los ordenamientos
+legales aplicables; por lo que se consideran personal de confianza y los
+efectos de su nombramiento se podrán dar por terminados en cualquier
+momento conforme a las disposiciones jurídicas aplicables.
+
+CAPÍTULO II
+
+DE LAS FUNCIONES DEL MINISTERIO PÚBLICO
+
+SECCIÓN PRIMERA
+
+FUNCIONES GENERALES
+
+Artículo 12. Son funciones del Ministerio Público:
+
+I. Vigilar la correcta aplicación de la Ley en todos los casos que
+conozca y preponderantemente en aquellos en que alguna de las partes sea
+miembro o parte de comunidades indígenas;
+
+II. Conducir las investigaciones de los hechos que pudieran constituir
+delitos de su competencia y, en los casos que proceda, promover el
+ejercicio de la acción penal;
+
+III. Solicitar la aplicación de medidas cautelares en coordinación con
+las áreas correspondientes;
+
+IV. Solicitar a la autoridad jurisdiccional la autorización de los
+actos de investigación que impliquen molestia y demás actuaciones que
+sean necesarias dentro de la misma;
+
+V. Vigilar y asegurar que durante la investigación y el proceso se
+respete el debido proceso, el principio de presunción de inocencia,
+así como los derechos humanos del imputado, de la víctima u ofendido
+del delito y de los testigos;
+
+VI. Requerir informes o documentación a otras autoridades,
+Secretarías, Dependencias y Entidades de la Administración Pública
+Estatal y a particulares, así como solicitar la práctica de peritajes
+y diligencias para la obtención de evidencias y medios de prueba;
+
+VII. Brindar atención integral a las víctimas del delito, de
+conformidad con la normatividad aplicable hasta la total reparación del
+daño;
+
+VIII. Adoptar o, en su caso, ordenar las medidas necesarias para la
+protección, atención y auxilio de las víctimas, ofendidos y testigos,
+e implementarlas hacia sus propios funcionarios cuando se requiera, en
+coordinación con las autoridades competentes y conforme a la normativa
+aplicable;
+
+IX. Aplicar las medidas de protección conforme a las disposiciones del
+Código Nacional de Procedimientos Penales y la legislación aplicable;
+
+X. Promover la resolución de los conflictos surgidos como consecuencia
+de los delitos, a través de la mediación, conciliación, negociación
+y el proceso restaurativo entre la víctima u ofendido y el imputado
+ante la instancia competente, de conformidad con las leyes aplicables;
+
+XI. Promover la aplicación de formas anticipadas de terminación del
+proceso, mecanismos de aceleración o salidas alternas;
+
+XII. Determinar el no ejercicio de la acción penal, la abstención de
+investigación o el archivo temporal de la investigación;
+
+XIII. Ejercer las atribuciones en materia de justicia penal para
+adolescentes, de conformidad con las leyes aplicables;
+
+XIV. Coadyuvar con el Ministerio Público de la Federación y de las
+demás Entidades Federativas, en los términos de las Leyes y los
+Convenios de Colaboración respectivos;
+
+XV. Aplicar los criterios de oportunidad conforme los acuerdos generales
+emitidos por el Fiscal General y las demás leyes aplicables;
+
+XVI. Dirigir a la Policía de Investigación Criminal y demás
+Instituciones Policiales del Estado, cuando éstas actúen como
+auxiliares en la investigación y persecución de delitos, así como
+vigilar que los mismos realicen sus actuaciones con apego al debido
+proceso, con pleno respeto a los derechos humanos, y conforme a los
+principios de legalidad y objetividad;
+
+XVII. Proveer lo necesario para que se desahoguen prioritariamente las
+intervenciones periciales en las investigaciones relacionadas con
+procedimientos de disposición de órganos o tejidos de cadáveres con
+fines de trasplantes y autorizar su disposición, de forma pronta y
+expedita, cuando se reúnan los requisitos establecidos en el Código
+Nacional de Procedimientos Penales y demás disposiciones jurídicas
+aplicables;
+
+XVIII. Ordenar la elaboración de la Ficha Identificativa conforme a la
+normativa aplicable;
+
+XIX. Una vez cumplido el protocolo y registrados los datos del cadáver
+o restos humanos no identificados en el Registro, ordenar su inhumación
+acompañando la Placa Identificativa en cada caso, lo cual se llevará a
+cabo una vez que se tengan los informes periciales para identificación
+humana, dando cuenta al Oficial para la elaboración del acta de
+defunción;
+
+XX. Proporcionar la información que en materia de seguridad pública le
+sea requerida y mantenerla actualizada, en términos de la Ley del
+Sistema de Seguridad Pública del Estado de Morelos y de conformidad con
+las disposiciones jurídicas aplicables;
+
+XXI. Solicitar la reparación del daño a favor de la víctima u
+ofendido, en términos de las disposiciones jurídicas aplicables;
+
+XXII. Solicitar a la autoridad judicial, la imposición de las penas o
+medidas de seguridad que correspondan;
+
+XXIII. Intervenir en los procesos de ejecución de las sanciones penales
+y medidas de seguridad, de conformidad con las disposiciones jurídicas
+aplicables;
+
+XXIV. Interponer los recursos que fueren procedentes e intervenir en
+cuanto corresponda para que la administración de justicia sea pronta y
+expedita;
+
+XXV. Preparar y ejercer la acción de extinción de dominio, así como
+las atribuciones que le correspondan en el procedimiento respectivo, de
+conformidad con la ley de la materia y demás disposiciones jurídicas
+aplicables;
+
+XXVI. Ordenar por escrito la realización de operaciones encubiertas y
+entregas vigiladas, siempre y cuando haya sido autorizado en cada caso
+por el Fiscal General o por el servidor público autorizado, de
+conformidad con el Reglamento correspondiente. La orden respectiva
+deberá contener los términos, limitaciones, modalidades y condiciones
+a los que deberán sujetarse los miembros de la Policía de
+Investigación Criminal que ejecuten la operación encubierta o la
+entrega vigilada;
+
+XXVII. Activar y dar cumplimiento a los protocolos en materia de
+personas desaparecidas y demás instrumentos normativos aplicables para
+la investigación de los hechos delictivos, y
+
+XXVIII. Las demás que le otorguen otras disposiciones jurídicas
+aplicables.
+
+SECCIÓN SEGUNDA
+
+DE LAS FUNCIONES DEL MINISTERIO PÚBLICO POR ESPECIALIDADES
+
+Artículo 13. Son funciones del Ministerio Público en materia de
+delitos contra la salud en su modalidad de narcomenudeo:
+
+I. Perseguir y conocer de los delitos a que se refiere el Capítulo
+correspondiente a delitos contra la salud en su modalidad de
+narcomenudeo de la Ley General de Salud en los términos que esta
+señale;
+
+II. Remitir al Ministerio Público de la Federación, cuando así lo
+solicite, conforme a lo dispuesto en la Ley General de Salud, la
+investigación correspondiente relativa a delitos contra la salud;
+
+III. Informar oportunamente al Ministerio Público de la Federación,
+del inicio de investigaciones por los delitos a que se refiere el
+Capítulo correspondiente a delitos contra la salud en su modalidad de
+narcomenudeo, en términos de lo previsto en la Ley General de Salud;
+
+IV. Ordenar la práctica de los actos de investigación que correspondan
+y remitir el acta o actas levantadas, así como todo lo que con ellas se
+relacione, al Ministerio Público de la Federación dentro de los tres
+días siguientes a la fecha de su conclusión;
+
+V. Realizar el reporte de no ejercicio de la acción penal a la
+Secretaría de Salud del Poder Ejecutivo Estatal por el delito previsto
+en la Ley General de Salud, a favor de quien sea farmacodependiente o
+consumidor y posea alguno de los narcóticos señalados en la tabla
+contenida en el artículo 479 de dicha Ley, siempre y cuando se realice
+fuera de centros educativos, asistenciales, policiales o de reclusión,
+o fuera del espacio comprendido en un radio que diste a menos de
+trescientos metros de los límites de la colindancia del mismo y se
+colmen los supuestos del artículo 474 del mismo ordenamiento;
+
+VI. Informar de inmediato y, en su caso, dar intervención a las
+autoridades sanitarias competentes, para los efectos del tratamiento que
+corresponda, tan pronto identifique que una persona es
+farmacodependiente;
+
+VII. Remitir la investigación al Ministerio Público de la Federación
+en la etapa de investigación inicial o al Juez Federal que corresponda,
+dependiendo de la etapa procesal en que se encuentre, a fin de que se
+continúe el procedimiento, cuando de las constancias que obren en él
+se advierta su incompetencia legal;
+
+VIII. Informar a la autoridad administrativa competente cuando tenga
+conocimiento que el propietario, poseedor, arrendatario o usufructuario
+de un establecimiento de la naturaleza que sea, lo empleare para
+realizar cualquiera de las conductas previstas y sancionadas para los
+delitos contra la salud en su modalidad de narcomenudeo en términos de
+lo previsto en la Ley General de Salud;
+
+IX. Recibir del Ministerio Público de la Federación o de quien para
+tal efecto haya designado, el aviso mediante el cual se autorizó para
+fines de investigación a los Agentes de la Policía bajo su conducción
+y mando, comprar, adquirir o recibir la transmisión material de algún
+narcótico en la entidad para lograr la detención y el aseguramiento
+correspondiente del imputado del comercio o suministro de narcóticos o
+de la posesión de los mismos con dichos fines, y
+
+X. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+
+Artículo 14. Son funciones del Ministerio Público en materia del
+delito de secuestro:
+
+I. Perseguir y conocer del delito de secuestro en términos de la Ley
+General;
+
+II. Detallar la investigación correspondiente precisando las
+constancias o las actuaciones realizadas;
+
+III. Dar aviso al Ministerio Público competente, por razón de fuero o
+materia, cuando de las diligencias practicadas en la investigación de
+los delitos contemplados en la Ley General se desprende la comisión de
+alguno diferente;
+
+IV. Solicitar atención médica, psicológica y jurídica para las
+víctimas de las conductas previstas en la Ley General;
+
+V. Decretar las providencias precautorias para la protección de la vida
+o integridad de las víctimas o sus familiares;
+
+VI. Asesorar a los familiares en las acciones para lograr la libertad de
+las víctimas;
+
+VII. Recibir, por cualquier medio, las denuncias sobre los delitos e
+iniciar la investigación correspondiente;
+
+VIII. Utilizar las técnicas de investigación previstas en la Ley
+General y en los demás ordenamientos aplicables;
+
+IX. Vigilar, con absoluto respeto a los derechos constitucionales, a las
+personas respecto de las cuales se tengan indicios de que pudieran estar
+involucradas en el delito de secuestro;
+
+X. Sistematizar la información obtenida para lograr la liberación de
+las víctimas y la detención de los imputados;
+
+XI. Solicitar a personas físicas o morales la entrega inmediata de
+información que pueda ser relevante para la investigación del delito o
+la liberación de las víctimas;
+
+XII. Proponer Políticas y Programas para la prevención e
+investigación del delito de secuestro;
+
+XIII. Proponer al Fiscal General, la celebración de Convenios con las
+Empresas de telecomunicaciones para la obtención de datos adicionales
+contenidos en la base de datos prevista en la Ley Federal de
+Telecomunicaciones y sobre el uso de las mismas;
+
+XIV. Utilizar cualquier medio de investigación que les permita regresar
+con vida a la víctima, así como identificar y ubicar a los imputados y
+cumplir con los fines de la Ley General, siempre y cuando dichas
+técnicas de investigación sean legales y con pleno respeto a los
+derechos humanos, y
+
+XV. Las demás que le otorguen otras disposiciones jurídicas
+aplicables.
+
+Artículo 15. La Unidad Especializada de Justicia Penal para
+adolescentes contará con el número de agentes del Ministerio Público
+que se designen para su función, respetando en todo momento la
+suficiencia presupuestal; para los efectos de la investigación se
+auxiliará de personal de la Policía de Investigación Criminal, de los
+Servicios Periciales, así como del Centro de Justicia Alternativa,
+dicho personal deberá contar con el perfil idóneo, ser capacitado en
+materia de derechos de niñas, niños y adolescentes, así como
+especializados en justicia para adolescentes en términos de la
+legislación de la materia aplicable, y además, certificados en
+términos de la Ley Nacional de Mecanismos Alternativos de Solución de
+Controversias en Materia Penal.
+
+Artículo 16. Son atribuciones del Ministerio Público Especializado en
+Justicia para Adolescentes, además de las obligaciones y atribuciones
+previstas por la legislación de la materia y demás normativa
+aplicable, las siguientes:
+
+I. Ejercitar las acciones legales en materia del Sistema Especializado
+de Justicia para Adolescentes, salvaguardando en todo momento el
+interés superior de la niñez, así como sus derechos;
+
+II. Vigilar la observancia de los principios constitucionales en el
+ámbito de su competencia, sin perjuicio de las facultades que
+legalmente correspondan a otras autoridades jurisdiccionales o
+administrativas;
+
+III. Solicitar a la autoridad administrativa correspondiente la
+evaluación de riesgos, para los efectos correspondientes;
+
+IV. Ejercer acción penal ante los Tribunales especializados, y
+
+V. Generar información estadística para el Sistema Nacional
+contemplado en la Ley Nacional del Sistema Integral de Justicia Penal
+para Adolescentes.
+
+El Reglamento de la presente Ley establecerá la conformación y
+estructura orgánica que atenderá la investigación de los delitos
+relacionados con justicia penal para adolescentes, observando en todo
+momento la suficiencia presupuestal con la que se cuente.
+
+SECCIÓN TERCERA
+
+DE LOS AUXILIARES DEL MINISTERIO PÚBLICO
+
+Artículo 17. En el ejercicio de sus funciones de investigación y
+persecución, son auxiliares del Ministerio Público todas las
+Instituciones Policiales, Estatales y Municipales, estando obligadas a
+cumplir con las órdenes que aquel les realice, a informarle de los
+asuntos en que intervengan con ese carácter, a proporcionarle la
+información que requiera y participar en el proceso penal con el
+carácter que corresponda.
+
+Artículo 18. Son obligaciones de la Policía de Investigación
+Criminal, con independencia de las señaladas en otras disposiciones
+legales y reglamentarias aplicables, las siguientes:
+
+I. Velar por la legalidad y respeto a los derechos humanos, en el
+ámbito de su competencia, promoviendo la pronta, expedita y debida
+procuración de justicia;
+
+II. Recibir las denuncias sobre los hechos que pudieran ser
+constitutivos de delitos, así como recibir denuncias anónimas e
+informar inmediatamente de ello al Ministerio Público, realizando las
+diligencias urgentes e indispensables dependiendo el caso y actuar bajo
+la conducción y mando de aquél;
+
+III. Realizar la detención en los casos que autoriza la Constitución,
+haciendo saber a la persona detenida los derechos que le otorga la Ley,
+así como informar por cualquier medio al Ministerio Público sobre la
+detención, e inscribir inmediatamente las mismas en el registro que al
+efecto establezcan las disposiciones aplicables; así mismo preservar el
+lugar de los hechos o hallazgos, tomando las providencias necesarias
+para recolectar, resguardar, procesar y trasladar indicios respetando la
+cadena de custodia;
+
+IV. Prestar auxilio y protección a víctimas, ofendidos o testigos del
+delito, en coordinación con las autoridades competentes y conforme a la
+normativa aplicable;
+
+V. Emitir el informe policial correspondiente que derive de los hechos
+investigados y demás documentos, de conformidad con las disposiciones
+aplicables. Para tal efecto se podrá apoyar en los conocimientos que
+resulten necesarios, sin que ello tenga el carácter de informes
+periciales;
+
+VI. Manejar correctamente los indicios, huellas o vestigios del hecho
+delictivo, respetando la cadena de custodia correspondiente;
+
+VII. Cumplir con las órdenes legalmente fundadas del Ministerio
+Público, o autoridades administrativas de la Fiscalía General, así
+como auxiliar a las diferentes autoridades;
+
+VIII. Entregar, cuando así lo solicite el Ministerio Público, todos
+los objetos, materiales, evidencias e instrumentos del delito
+relacionados con las investigaciones encomendadas, así como aquellos de
+cualquier naturaleza que se encuentren abandonados;
+
+IX. Guardar la debida reserva en el cumplimiento de sus obligaciones,
+evitando toda comunicación innecesaria que entorpezca, perjudique o
+paralice el desempeño normal de los asuntos a su cargo;
+
+X. Excusarse de intervenir de cualquier forma en la atención,
+tramitación o resolución de asuntos en los que tenga interés
+personal, familiar o de negocios, incluyendo aquellos de los que pueda
+resultar algún beneficio para él, su cónyuge o parientes
+consanguíneos hasta el cuarto grado, por afinidad o civiles, o para
+terceros con los que tenga relaciones profesionales, laborales o de
+negocios, o para socios o sociedades de las que el servidor público o
+las personas antes referidas formen o hayan formado parte;
+
+XI. Participar en operativos de coordinación con otras autoridades o
+corporaciones policiales, así como brindar apoyo a otras autoridades;
+
+XII. Impedir que se consumen los delitos o que los hechos produzcan
+consecuencias ulteriores. Especialmente estará obligada a realizar
+todos los actos necesarios para evitar una agresión real, actual o
+inminente y sin derecho en protección de bienes jurídicos de los
+gobernados a quienes tiene la obligación de proteger;
+
+XIII. Actuar bajo el mando del Ministerio Público en el aseguramiento
+de bienes relacionados con la investigación de los delitos;
+
+XIV. Practicar las inspecciones y otros actos de investigación, así
+como reportar los resultados al Ministerio Público. En aquellos que se
+requiera autorización judicial, deberá solicitarla a través del
+Ministerio Público;
+
+XV. Entrevistar a las personas que pudieran aportar algún dato o
+elemento para la investigación;
+
+XVI. Requerir a las autoridades competentes y solicitar a las personas
+físicas o morales, informes y documentos para fines de la
+investigación. En caso de negativa, informará al Ministerio Público
+para que determine lo conducente;
+
+XVII. Proporcionar atención a víctimas u ofendidos o testigos del
+delito. Para tal efecto, deberá:
+
+a) Prestar protección y auxilio inmediato, de conformidad con las
+disposiciones aplicables;
+
+b) Informar a la víctima u ofendido sobre los derechos que en su favor
+se establecen;
+
+c) Procurar que reciban atención médica y psicológica cuando sea
+necesaria, en coordinación con las autoridades competentes y conforme a
+la normativa aplicable, y
+
+d) Adoptar las medidas que se consideren necesarias, en el ámbito de su
+competencia, tendientes a evitar que se ponga en peligro su integridad
+física y psicológica;
+
+XVIII. Someterse a los procesos de control de confianza y evaluación de
+desempeño, de conformidad con las Leyes y Reglamentos aplicables;
+
+XIX. Participar y asistir a los programas y cursos de capacitación que,
+para efectos de profesionalización, disponga la Fiscalía General;
+
+XX. Desempeñar su función sin solicitar o aceptar compensaciones,
+dádivas, pagos o gratificaciones, y
+
+XXI. Las demás que señalen otras disposiciones jurídicas aplicables.
+
+El incumplimiento de estas obligaciones dará lugar a la sanción
+correspondiente en los términos de la Ley General de Responsabilidades
+Administrativas, de esta Ley, y el Reglamento.
+
+Artículo 19. Los servicios periciales tienen la misión de auxiliar con
+oportunidad, calidad y objetividad técnico-científica al Ministerio
+Público y a otras autoridades en el esclarecimiento de un hecho
+probablemente delictivo, a efecto de lograr la identificación del autor
+o autores del mismo.
+
+Son obligaciones de los Peritos, con independencia de las señaladas en
+otras disposiciones legales y reglamentarias aplicables, las siguientes:
+
+I. Manejar correctamente los indicios, huellas o vestigios del hecho
+delictivo, respetando la cadena de custodia correspondiente;
+
+II. Emitir los dictámenes con las formalidades técnicas y
+científicas, y conservarlos bajo los principios de confidencialidad y
+reserva; sin eximirlo de acudir a declarar en la Audiencia de Juicio
+Oral;
+
+III. Cumplir con las órdenes legalmente fundadas por el Ministerio
+Público, la Policía con conocimiento de éste o autoridades
+administrativas de la Fiscalía General, así como auxiliar a las
+diferentes autoridades;
+
+IV. Entregar, cuando así lo solicite el Ministerio Público, todos los
+objetos, materiales, evidencias e instrumentos del delito relacionados
+con las investigaciones encomendadas, así como aquellos de cualquier
+naturaleza que se encuentren abandonados;
+
+V. Guardar la debida reserva en el cumplimiento de sus obligaciones,
+evitando toda comunicación innecesaria que entorpezca, perjudique o
+paralice el desempeño normal de los asuntos a su cargo;
+
+VI. Excusarse de intervenir de cualquier forma en la atención,
+tramitación o resolución de asuntos en los que tenga interés
+personal, familiar o de negocios, incluyendo aquellos de los que pueda
+resultar algún beneficio para él, su cónyuge o parientes
+consanguíneos hasta el cuarto grado, por afinidad o civiles, o para
+terceros con los que tenga relaciones profesionales, laborales o de
+negocios, o para socios o sociedades de las que el servidor público o
+las personas antes referidas formen o hayan formado parte;
+
+VII. Someterse a los procesos de control de confianza y evaluación de
+desempeño, de conformidad con las Leyes y Reglamentos aplicables;
+
+VIII. Participar y asistir a los programas y cursos de capacitación
+que, para efectos de profesionalización, disponga la Fiscalía General;
+
+IX. Desempeñar su función sin solicitar o aceptar compensaciones,
+dádivas, pagos o gratificaciones, y
+
+X. Las demás que señalen otras disposiciones jurídicas aplicables.
+
+El incumplimiento de estas obligaciones dará lugar a la sanción
+correspondiente en los términos de esta Ley y el Reglamento.
+
+Artículo 20. Toda persona o autoridad está obligada a proporcionar
+gratuita, expedita y oportunamente la información que requiera el
+Ministerio Público, en el ejercicio de sus funciones de investigación
+de un hecho delictuoso concreto y no podrá excusarse de suministrarla.
+En caso de desacato, se estará a lo dispuesto por las medidas
+señaladas en la legislación aplicable.
+
+CAPÍTULO III
+
+DE LA ESTRUCTURA Y ORGANIZACIÓN DE LA FISCALÍA GENERAL
+
+SECCIÓN PRIMERA
+
+DE LA FISCALÍA GENERAL
+
+(REFORMADO, P.O. 30 DE AGOSTO DE 2018)
+
+Artículo 21. La Fiscalía General está a cargo de un Fiscal General,
+quien es el Jefe de la Institución del Ministerio Público, y ejerce la
+autoridad jerárquica sobre todo el personal de la misma.
+
+Las ausencias del Fiscal General serán suplidas por el titular de la
+Fiscalía Metropolitana, en términos del Reglamento.
+
+Artículo 22. El Fiscal General tendrá las siguientes atribuciones:
+
+I. Dirigir, organizar, administrar, controlar y supervisar el
+funcionamiento de la Fiscalía General;
+
+II. Establecer las medidas necesarias para garantizar la autonomía
+constitucional de la Fiscalía General;
+
+III. Autorizar el proyecto de Presupuesto de Egresos de la Fiscalía
+General, a fin (sic) solicitar su integración al del Poder Ejecutivo
+Estatal;
+
+IV. Implementar Programas y Proyectos piloto encaminados al desarrollo y
+funcionamiento de la Fiscalía General;
+
+V. Coadyuvar en la implementación, seguimiento, ejecución y
+evaluación del Sistema de Justicia Penal Acusatorio;
+
+VI. Gestionar, ante las autoridades de la Federación y Organismos
+Internacionales, recursos financieros, así como subsidios para la
+implementación de la reforma del Sistema de Justicia Penal Acusatorio y
+los fines de la Fiscalía General, debiendo informar de éstos en el
+informe de la cuenta pública en términos del artículo 32, párrafo
+sexto, de la Constitución Política del Estado;
+
+VII. Instruir de manera general o particular al personal de la Fiscalía
+General sobre el ejercicio de sus funciones y la prestación del
+servicio público;
+
+VIII. Dirigir reuniones e integrar grupos de trabajo especiales, para el
+diseño y ejecución de Proyectos o Programas específicos de la
+Fiscalía General;
+
+IX. Fijar las condiciones generales para el personal que integra la
+Fiscalía General, en términos de la normativa que resulte aplicable;
+
+X. Determinar los cambios de adscripción del personal de la Fiscalía
+General, de acuerdo con las necesidades del servicio, conforme a la
+normativa aplicable lo permita;
+
+XI. Administrar, de manera racional, eficiente y eficaz, los recursos
+materiales, financieros y humanos de la Fiscalía General destinados al
+cumplimiento de sus fines;
+
+XII. Denunciar ante la autoridad competente, los actos u omisiones que
+en ejercicio de sus funciones cometa algún servidor público adscrito a
+la Fiscalía General, que pueda constituir responsabilidad
+administrativa o de cualquier otra naturaleza, en los términos de esta
+Ley y otros ordenamientos aplicables;
+
+XIII. Formular opiniones al Congreso del Estado sobre los proyectos o
+modificaciones a las Leyes relacionadas con los fines de la Fiscalía
+General, mediante el titular de la oficina de enlace con el Poder
+Legislativo que para tales efectos designe el Fiscal General;
+
+XIV. Aprobar, en definitiva, así como reformar, modificar, derogar o
+abrogar, los reglamentos de las distintas unidades de la Fiscalía
+General, con excepción de los que esté facultados para emitir la
+Fiscalía Anticorrupción;
+
+XV. Comparecer ante el Congreso del Estado, en términos de lo dispuesto
+por el artículo 40, fracción LIX, de la Constitución Política del
+Estado Libre y Soberano de Morelos sin perjuicio de cumplimiento de sus
+responsabilidades oficiales;
+
+XVI. Proponer, en los términos de la normativa aplicable, la
+clasificación de información reservada competencia de la Fiscalía
+General y que genere riesgos en las investigaciones que realice;
+
+XVII. Celebrar Convenios y Acuerdos con la Federación, las Entidades
+Federativas, las Secretarías, Dependencias y Entidades de la
+Administración Pública Estatal, los Ayuntamientos, así como con las
+entidades privadas, docentes, académicas y de investigación, para la
+consecución de los fines de la Fiscalía General;
+
+XVIII. Coadyuvar en la definición y aplicación de la política de
+persecución de los delitos en el Estado, en los términos que
+establezcan las leyes aplicables;
+
+XIX. Solicitar la extradición de imputados que se encuentren fuera de
+territorio nacional, conforme a lo dispuesto por las normas procesales
+aplicables;
+
+XX. Formar parte de la Conferencia Nacional de Procuración de Justicia,
+así como formar parte en Fideicomisos o Comités en representación de
+la Fiscalía General;
+
+XXI. Representar legalmente a la Fiscalía General ante todo tipo de
+autoridades Federales, Estatales y Municipales;
+
+XXII. Certificar y expedir copias cotejadas de los documentos que obren
+en sus archivos y de aquellos que expidan, en el ejercicio de sus
+funciones, por sí o a través del personal que le está subordinado;
+
+XXIII. Aprobar y supervisar los acuerdos de cooperación y coordinación
+conjunta en el ámbito nacional, regional o internacional;
+
+XXIV. Ser parte integrante del Consejo Estatal de Seguridad Pública;
+
+XXV. Conocer y resolver las excusas y recusaciones que sean interpuestas
+por o en contra del personal que integra la Fiscalía General;
+
+XXVI. Determinar la política institucional del Ministerio Público, los
+criterios y prioridades en la investigación de los delitos y sobre el
+ejercicio de la acción penal;
+
+XXVII. Emitir las disposiciones generales sobre los criterios de
+oportunidad que deba aplicar el Ministerio Público y autorizar o
+delegar en el funcionario público la aplicación de los criterios de
+oportunidad;
+
+XXVIII. Solicitar a la autoridad jurisdiccional competente la
+intervención de comunicaciones privadas conforme al Código Nacional de
+Procedimientos Penales y a la normativa aplicable;
+
+XXIX. Emitir los criterios generales para el ejercicio de las
+atribuciones de la Fiscalía General en materia de justicia penal para
+adolescentes, de conformidad con las leyes aplicables;
+
+XXX. Formular acusación, solicitar el sobreseimiento o la suspensión
+del proceso, cuando el Ministerio Público de la causa no proceda a
+realizarlo;
+
+XXXI. Formular las correcciones de los vicios formales en la acusación
+o demanda de reparación de daños, cuando el Ministerio Público de la
+causa no lo realice;
+
+XXXII. Emitir lineamientos generales de actuación para atender de forma
+pronta y expedita las solicitudes de intervención para la disposición
+de órganos y tejidos de seres humanos con fines de trasplante, cuando
+con motivo de una investigación se encuentren a su disposición y se
+reúnan los requisitos establecidos en el Código Nacional de
+Procedimientos Penales y demás disposiciones jurídicas aplicables;
+
+XXXIII. Participar en su ámbito de competencia, en el desarrollo de
+acciones de prevención del delito;
+
+XXXIV. Conocer de manera exclusiva de los hechos delictivos en materia
+de corrupción atribuidos al Fiscal Anticorrupción;
+
+XXXV. Cuenta con legitimación activa o pasiva, o como tercero
+interesado, para intervenir en toda controversia constitucional del
+orden local a que se refiere el artículo 99, fracción XIII, de la
+Constitución local, cuando la ley o acto objeto de la misma, tengan
+relación con la Fiscalía General del Estado de Morelos, y
+
+XXXVI. Las demás que le otorguen y confieran otras disposiciones
+legales y reglamentarias, Federales y Estatales, aplicables.
+
+Artículo 23. El Fiscal General podrá ser representado ante las
+autoridades judiciales, administrativas, del trabajo o ante
+particulares, por el personal que para tal efecto designe.
+
+Artículo 24. El Fiscal General, para la mejor organización y
+funcionamiento de la Fiscalía General, podrá delegar el ejercicio de
+las atribuciones a que se refiere el artículo 22 de esta Ley, con
+excepción de las siguientes:
+
+I. Aquellas que le estén reservadas constitucionalmente, y
+
+II. Las señaladas en las fracciones III, IV, VII y VIII, del artículo
+22 y los artículos 25 y 28 de esta Ley.
+
+Artículo 25. El Fiscal General emitirá los acuerdos, circulares,
+instructivos, protocolos, programas, manuales administrativos y demás
+disposiciones que rijan la actuación de las Unidades Administrativas a
+su cargo.
+
+(REFORMADO, P.O. 25 DE ENERO DE 2024)
+
+Artículo 26. Para el despacho de los asuntos de su competencia, la
+Fiscalía General contará con las siguientes Unidades Administrativas:
+
+I. Fiscalía Anticorrupción;
+
+II. Fiscalía de Delitos Electorales;
+
+III. Fiscalía de Desaparición Forzada de Personas;
+
+IV. Fiscalía Antisecuestro;
+
+V. Fiscalía Especializada en la Investigación y Persecución de
+Delitos de Tortura;
+
+VI. Fiscalías Regionales;
+
+VII. Coordinación General de Órganos Auxiliares;
+
+VIII. Coordinación General de la Policía de Investigación Criminal;
+
+IX. Direcciones Generales;
+
+XI. Derogada
+
+XII. Unidad de Representación Social;
+
+XIII. Direcciones de Área;
+
+XIV. Unidades de Investigación;
+
+XV. Unidades Especializadas de Investigación, y
+
+XVI. Las demás que resulten necesarias para su funcionamiento y las que
+disponga la normativa aplicable y reglamentaria, de conformidad con el
+presupuesto autorizado para ello.
+
+Artículo 27. Sin perjuicio de lo que se establece en esta ley, la
+integración, funciones y atribuciones de cada una de las Unidades
+Administrativas, así como de los titulares que las integran, se
+establecerán en el Reglamento.
+
+Cada Unidad Administrativa contará con los Directores, Coordinadores,
+Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio
+Público, operadores de justicia alternativa y demás personal que sea
+necesario para el cumplimiento de sus funciones, conforme a la
+disponibilidad presupuestaria y lo previsto en el Reglamento.
+
+Artículo 28. El Fiscal General de conformidad con las disposiciones
+presupuestales asignadas para ello, podrá establecer las Unidades
+Administrativas u Operativas que se encuentren previstas en el
+Reglamento, así como las Fiscalías Especializadas o Unidades de
+Investigación para la persecución de delitos por géneros o
+específicos que por su trascendencia, interés y características así
+lo ameriten de acuerdo con las necesidades del servicio, en forma
+transitoria o permanente, así como modificarlas, fusionarlas o
+extinguirlas, según proceda.
+
+SECCIÓN SEGUNDA
+
+DE LA FISCALÍA ANTICORRUPCIÓN
+
+Artículo 29. Para los fines del presente artículo y conforme a lo
+previsto por el artículo 79-B, último párrafo, de la Constitución
+Política del Estado Libre y Soberano de Morelos, se establece la
+Fiscalía Anticorrupción, la cual pertenece a la Fiscalía General, con
+autonomía técnica constitucional y de gestión en términos de esta
+Ley, a fin de salvaguardar toda imparcialidad en el desempeño de sus
+actividades, así como las disposiciones presupuestales asignadas para
+ello, como integrante del Sistema Estatal Anticorrupción.
+
+Artículo 30. La autonomía técnica de la Fiscalía Anticorrupción
+debe ser entendida como la facultad que le ha sido otorgada
+constitucionalmente para expedir sus propias disposiciones normativas,
+con excepción de las disposiciones legales que le competan al Fiscal
+General, a efecto de llevar a cabo su propia administración,
+dirección, organización, disposición, distribución y suministro de
+recursos materiales, humanos, tecnológicas y otros similares, con el
+propósito de regular las acciones que desarrolla en el ámbito de su
+competencia, delimitar las atribuciones que ejerce y regir su
+actuación, bajo las políticas permanentes de especialización
+técnica, profesionalización y rendición de cuentas, debiendo respetar
+en todo momento, la Constitución Federal, la Convención de las
+Naciones Unidas Contra la Corrupción, los Tratados Internacionales en
+materia de derechos humanos de los que el Estado Mexicano sea parte, los
+Códigos y Leyes Nacionales, Generales y Federales que rijan su actuar
+procesal, la Constitución Local y, en general, toda disposición
+jurídica aplicable.
+
+Artículo 31. La Fiscalía Anticorrupción cuenta con autonomía de
+gestión por medio de la cual goza de la administración, dirección,
+organización, disposición, distribución y suministro de recursos
+humanos, materiales y financieros; así como de la capacidad de decidir
+responsablemente sobre la adquisición de productos y servicios, en los
+términos previstos por las disposiciones jurídicas aplicables, el
+ejercicio de sus recursos propios, su estructura administrativa, así
+como proponer los niveles remunerativos para el personal que la integra,
+de conformidad con el presupuesto autorizado para ello y en términos de
+lo dispuesto por la legislación Federal y Estatal que resulte
+aplicable.
+
+Cuenta con su propio Comité de Adquisiciones el cual se rige por su
+Reglamento, así como en los acuerdos, circulares y demás instrumentos
+que emita el Fiscal Anticorrupción.
+
+Artículo 32. Será el Fiscal General quien designe libremente al Fiscal
+Anticorrupción, por un periodo de siete años, el que iniciará a
+partir del día siguiente de la toma de protesta de la persona nombrada
+y concluirá en la fecha señalada en el nombramiento respectivo, el
+cual deberá publicarse en el Periódico Oficial “Tierra y
+Libertad”.
+
+Asimismo, el Fiscal General podrá solicitar al Congreso del Estado la
+remoción del Fiscal Anticorrupción por las causas graves que
+establezca la Ley General de Responsabilidades Administrativas, la Ley
+de Responsabilidades Administrativas para el Estado de Morelos o la
+presente Ley, previa audiencia del interesado. La remoción deberá ser
+aprobada dentro de los diez días posteriores, por la votación de las
+dos terceras partes de los miembros del Congreso; de no ser así, se
+entenderá que no hay remoción y el Fiscal Anticorrupción continuará
+en el ejercicio de sus funciones.
+
+Artículo 33. El Fiscal Anticorrupción cuenta con las atribuciones
+siguientes:
+
+I. Planear, programar, organizar y dirigir el funcionamiento de la
+Fiscalía Anticorrupción, para perseguir e investigar los delitos
+relacionados con hechos de corrupción previstos en el capítulo
+correspondiente del Código Penal, que sean cometidos por servidores
+públicos en el ejercicio de funciones públicas, y particulares que
+actúen o participen en los señalados hechos;
+
+II. Ejercitar acción penal en contra de los imputados de los delitos a
+que se refiere la fracción anterior;
+
+III. Autorizar la consulta de reserva, incompetencia, acumulación y
+separación de las investigaciones, archivo temporal, criterio de
+oportunidad, acuerdos reparatorios, y procedimiento abreviado que
+propongan los agentes del Ministerio Público de su adscripción;
+
+IV. Solicitar atención y reparación para las víctimas de las
+conductas previstas en la normativa aplicable en la materia;
+
+V. Recibir, por cualquier medio autorizado por la Ley, las denuncias
+sobre los delitos e iniciar la investigación correspondiente;
+
+VI. Dar aviso al Ministerio Público competente, por razón de fuero o
+materia, cuando de las diligencias practicadas en la investigación de
+los delitos de su competencia se desprenda la comisión de alguno
+diferente;
+
+VII. Utilizar las técnicas de investigación previstas en la normativa
+aplicable;
+
+VIII. Vigilar, con absoluto respeto a los derechos constitucionales, a
+las personas respecto de las cuales se tengan indicios de que pudieran
+estar involucradas en hechos de corrupción;
+
+IX. Sistematizar la información obtenida para la detención de los
+imputados;
+
+X. Requerir a las instancias de gobierno federales, de las entidades
+federativas y municipales, la información que resulte útil o necesaria
+para sus investigaciones, la que por ningún motivo le podrá ser
+negada, incluso anteponiendo el secreto bancario, fiduciario,
+industrial, fiscal, bursátil, postal, o cualquier otro de similar
+naturaleza, en términos del artículo 109, antepenúltimo párrafo, de
+la Constitución Política de los Estados Unidos Mexicanos, vigente;
+
+XI. Proponer, en coordinación con el Sistema Estatal Anticorrupción,
+políticas y programas para la prevención e investigación de hechos de
+corrupción;
+
+XII. Nombrar bajo su más estricta responsabilidad a los Titulares de
+las Unidades Administrativas, a que se refieren los artículos 34 y 35
+de esta Ley y, en general, a todo el personal de la Fiscalía
+Anticorrupción a su cargo, con estricta observancia a la normativa
+aplicable;
+
+XIII. Instruir a la Policía de Investigación Criminal, y al resto de
+las corporaciones policiales del Estado, cuando éstas actúen como
+auxiliares en la prevención, investigación y persecución de delitos
+relacionados con hechos de corrupción, realicen sus actuaciones con
+pleno respeto a los derechos fundamentales y conforme a los principios
+de legalidad y objetividad;
+
+XIV. Promover la participación de la ciudadanía en los programas de su
+competencia;
+
+XV. Participar como integrante del Comité Coordinador del Sistema
+Estatal Anticorrupción, atendiendo a las bases establecidas en el
+artículo 113, fracción III, inciso a), de la Constitución Política
+de los Estados Unidos Mexicanos, y 134, en lo conducente, de la
+Constitución Política del Estado Libre y Soberano de Morelos;
+
+XVI. Diseñar, establecer e implementar mecanismos de cooperación y
+colaboración con autoridades federales, de la Ciudad de México,
+estatales y municipales, incluyendo autoridades que ejerzan facultades
+de fiscalización, bancarias y de similar naturaleza, en el ámbito de
+su competencia, atendiendo a las normas y políticas institucionales;
+
+XVII. Ordenar el aseguramiento, el embargo precautorio o ejercer la
+acción de extinción de dominio, o la declaratoria de abandono, cuando
+proceda, de bienes propiedad de los imputados sujetos a investigación,
+así como aquellos sobre los que se conduzca como dueños o dueño
+beneficiario o beneficiario controlador;
+
+XVIII. Emitir o solicitar las órdenes o medidas para la protección,
+atención y auxilio de las personas víctimas de delito o de los
+testigos, e implementar medidas de protección hacia sus propios
+servidores públicos cuando sea necesario;
+
+XIX. Autorizar en definitiva que los Agentes del Ministerio Público
+adscritos a la Fiscalía Anticorrupción, decreten el no ejercicio de la
+acción penal, de conformidad a la disposición procesal penal
+correspondiente, y cuando así se concluya del estudio pormenorizado de
+los datos de prueba correspondientes;
+
+XX. Autorizar la formulación de conclusiones no acusatorias en los
+procesos penales o en su caso, la solicitud del desistimiento de la
+acción penal ante el órgano jurisdiccional que establece el artículo
+144 del Código Nacional de Procedimientos Penales;
+
+XXI. Designar en forma discrecional a los peritos en función de su
+especialidad, experticia, grado de confianza y prestigio, de entre los
+autorizados por el Tribunal Superior de Justicia del Estado, consultando
+al efecto la lista correspondiente;
+
+XXII. Ejercer en forma directa la facultad de excepción que establece
+el artículo 142, fracción II, de la Ley General de Instituciones de
+Crédito, en directa relación con el artículo 109, antepenúltimo
+párrafo, de la Constitución Política de los Estados Unidos Mexicanos;
+
+XXIII. Emitir o suscribir los instrumentos jurídicos que faciliten el
+funcionamiento y operación de la Fiscalía Anticorrupción, el cual
+incluye el Reglamento Interior y otros, así como los acuerdos,
+circulares, instructivos, bases, y demás normas administrativas
+necesarias que rijan la actuación de la Fiscalía, en el ámbito de su
+competencia;
+
+XXIV. Supervisar y ejercer las facultades que correspondan a las
+unidades administrativas que le estén adscritas, sin perjuicio de que
+sean desempeñadas por sus respectivos titulares;
+
+XXV. Conocer de manera exclusiva de los hechos delictivos en materia de
+corrupción atribuidos al Fiscal General;
+
+XXVI. Ejercer la facultad de atracción para conocer de los hechos
+delictivos en materia de corrupción atribuidos al personal de la
+Fiscalía General sujetos a investigación por la Visitaduría General y
+de Asuntos Internos, cuando se tenga conocimiento de la comisión de un
+delito en materia de corrupción;
+
+XXVII. Supervisar y dirigir el Servicio Civil de Carrera de la Fiscalía
+Anticorrupción, conforme a las bases que al efecto se emitan;
+
+XXVIII. Dirigir y organizar el Comité de Adquisiciones de la Fiscalía
+Anticorrupción;
+
+XXIX. Contará con legitimación activa o pasiva, o como tercero
+interesado, para intervenir en toda controversia constitucional del
+orden local a que se refiere el artículo 99, fracción XIII, de la
+Constitución del Estado, cuando la ley o acto objeto de la misma,
+tengan relación con la Fiscalía Especializada en Combate a la
+Corrupción, independientemente de la facultad que al efecto tiene el
+Fiscal General, y
+
+XXX. Las demás que le otorguen el Reglamento Interior, las que le sean
+conducentes consignadas en el artículo 22 de esta Ley, y otras
+disposiciones jurídicas aplicables.
+
+Artículo 34. A la Fiscalía Anticorrupción y a todo su personal les
+son aplicables en lo conducente y siempre que no se opongan a la
+función especializada que tiene, las disposiciones previstas en los
+artículos 55 y 56 de esta Ley, considerando lo dispuesto por el
+artículo anterior y su previsión constitucional como integrante del
+Sistema Estatal Anticorrupción en términos del artículo 134 de la
+Constitución Política del Estado, y sin perjuicio de otras
+disposiciones jurídicas de este y otros ordenamientos que deba
+observar.
+
+El personal de la Fiscalía Anticorrupción, en coordinación con el
+Sistema Estatal Anticorrupción, deberá capacitarse en la materia, así
+como desempeñar sus funciones, empleos, cargos y comisiones en el marco
+de los principios de legalidad, honradez, lealtad, imparcialidad,
+eficiencia y secrecía.
+
+Para ingresar al servicio de esta unidad especializada, los aspirantes
+deberán asumir el compromiso de sujetarse a vigilancia no intrusiva,
+por la autoridad competente, en cualquier tiempo de su servicio y dentro
+de los cinco años posteriores a la terminación del mismo, así como
+rendir y mantener actualizada la información en materia de corrupción.
+
+Artículo 35. Para el despacho de los asuntos de su competencia, la
+Fiscalía Anticorrupción contará con las siguientes Unidades
+Administrativas:
+
+I. Secretaría Técnica;
+
+II. Vice-Fiscalías;
+
+III. Coordinaciones Generales;
+
+IV. Direcciones Generales;
+
+V. Visitaduría Interna, y
+
+VI. Las demás que resulten necesarias para su funcionamiento y las que
+disponga la normativa aplicable y reglamentaria, de conformidad con el
+presupuesto autorizado para ello.
+
+Cada Unidad Administrativa contará con los Directores, Coordinadores,
+Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio
+Público, Peritos y demás personal que sea necesario para el
+cumplimiento de sus funciones, conforme a la disponibilidad
+presupuestaria y lo previsto en el Reglamento.
+
+Artículo 36. Con independencia de lo establecido en el artículo que
+antecede, la Fiscalía Anticorrupción contará con la estructura que al
+efecto se establezca en el Reglamento, así como en los Manuales
+Administrativos conforme a lo previsto en la Constitución Política del
+Estado Libre y Soberano de Morelos, esta Ley y demás normativa
+aplicable, atendiendo a su propio presupuesto.
+
+Artículo 37. La integración, funciones y atribuciones de las Unidades
+Administrativas, así como de los titulares que integran la Fiscalía
+Anticorrupción, y las demás cuestiones que así lo exijan, se
+establecerán en el reglamento respectivo.
+
+SECCIÓN TERCERA
+
+DE LA FISCALÍA ESPECIALIZADA EN DELITOS ELECTORALES
+
+Artículo 38. La persona titular de la Fiscalía de Delitos Electorales
+tiene las siguientes atribuciones específicas:
+
+I. Designar a servidores públicos a su cargo para participar en la
+capacitación de formadores y replicar el conocimiento como
+capacitadores de su mismo personal para integrar grupos de trabajo en la
+elaboración de manuales, protocolos, o cualquier instrumento jurídico
+administrativo especializado, con acuerdo del Fiscal General;
+
+II. En materia de investigación de delitos, intercambiar información
+en forma ágil y oportuna, en términos de la legislación aplicable;
+
+III. Proponer al Fiscal General los mecanismos de colaboración con
+instancias estatales o federales para ejecutar operativos en los que
+participen integrantes de la Policía de Investigación Criminal;
+
+IV. Proponer mecanismos de coordinación con instancias del gobierno
+municipal, estatal y federal para definir conjuntamente estrategias y
+acciones orientadas a la prevención y combate de los delitos de su
+competencia;
+
+V. Generar mecanismos de estrategia e inteligencia, derivados del
+análisis de información relacionada con la investigación del delito,
+para ser desarrollada en el ámbito de su competencia;
+
+VI. Permitir la intervención a las Unidades Administrativas para que,
+en el ámbito de sus atribuciones, le brinden los servicios, insumos o
+bienes correspondientes;
+
+VII. Coordinarse con las Unidades Administrativas correspondientes para
+el control, uso del armamento y equipo de investigación y del parque
+vehicular y demás insumos que requieran para el desarrollo de sus
+actividades;
+
+VIII. Subsanar los vicios de la acusación o de la demanda de
+reparación de daños, cuando el agente del Ministerio Público de la
+causa no lo realice, y se le haya delegado esa atribución;
+
+IX. Solicitar ante la Comisión Nacional Bancaria y de Valores, los
+requerimientos de información y documentación, así como órdenes de
+aseguramiento o desbloqueos de cuentas y transferencia de saldos, con
+motivo de la investigación del Ministerio Público, por conducto del
+Fiscal General;
+
+X. Formular las acusaciones, cuando así proceda y autorizar el
+sobreseimiento o la suspensión del proceso, en los casos en que proceda
+legalmente o cuando el agente del Ministerio Público de la causa sea
+omiso, conforme la normativa aplicable, y
+
+XI. Autorizar la solicitud del desistimiento de la acción penal que le
+consulte el agente del Ministerio Público en los casos delegados,
+previo acuerdo con el Fiscal General.
+
+El titular de la Fiscalía Especializada en Delitos Electorales será
+nombrado libremente por el Fiscal General; pero su remoción será de
+conformidad con el artículo 81 de la presente Ley.
+
+SECCIÓN CUARTA
+
+DE LA FISCALÍA ESPECIALIZADA EN MATERIA DE DESAPARICIÓN DE PERSONAS
+
+Artículo 39. La Fiscalía de Desaparición Forzada de Personas, es una
+Fiscalía Especializada de la Fiscalía General, que cuenta con
+competencia en todo el territorio del Estado; investigará y perseguirá
+los delitos previstos en los artículos 25 y 26 de la Ley General en
+Materia de Desaparición Forzada de Personas, Desaparición cometida por
+Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Artículo 40. La Fiscalía en Desaparición de Personas, deberá contar
+con los recursos humanos, financieros, materiales, técnicos
+especializados y multidisciplinarios y una unidad de análisis de
+contexto, que se requieran para su efectiva operación; deberá contar
+con personal sustantivo ministerial, policial, pericial y de apoyo
+psicosocial de acuerdo a la suficiencia presupuestal de la Fiscalía
+General.
+
+Todas las autoridades, en el ámbito de sus competencias, están
+obligadas a colaborar de forma eficaz con la Fiscalía en Desaparición
+de Personas para el cumplimiento de la Ley General en Materia de
+Desaparición Forzada.
+
+Artículo 41. La Fiscalía en Desaparición de Personas deberá de
+capacitar a los servidores públicos, conforme a los más altos
+estándares internaciones en materia de derechos humanos, perspectiva de
+género, interés superior de la niñez, atención a las víctimas,
+sensibilización y relevancia específica de la Desaparición de
+Personas, aplicación del Protocolo Homologado para la investigación,
+identificación forense, cadena de custodia, entre otros. De igual
+forma, podrán participar con las autoridades competentes, en la
+capacitación de los servidores públicos conforme a los lineamientos
+que sobre la materia emita el Sistema Nacional, en términos de la Ley
+General en Materia de Desaparición Forzada.
+
+Artículo 42. La Fiscalía de Desaparición Forzada de Personas tiene,
+en el ámbito de su competencia, las atribuciones siguientes:
+
+I. Recibir las denuncias relacionadas con la probable comisión de
+hechos constitutivos de los delitos materia de la Ley General de
+Desaparición Forzada e iniciar las carpetas de investigación
+correspondientes;
+
+II. Mantener coordinación con la Comisión Nacional y la Comisión de
+Búsqueda del Estado de Morelos para realizar todas las acciones
+relativas a la investigación y persecución de los delitos materia de
+la Ley General de Desaparición Forzada, conforme al Protocolo
+Homologado de Investigación y demás disposiciones aplicables;
+
+III. Dar aviso de manera inmediata, a través del Registro Nacional, a
+la Comisión de Búsqueda del Estado de Morelos sobre el inicio de una
+investigación de los delitos materia de la Ley General de Desaparición
+Forzada, a fin de que se inicien las acciones correspondientes a la
+búsqueda; así como compartir la información relevante, de conformidad
+con el Protocolo Homologado de Investigación y demás disposiciones
+aplicables;
+
+IV. Mantener comunicación continua y permanente con la Comisión
+Nacional de Búsqueda y Comisión de Búsqueda del Estado de Morelos, a
+fin de compartir información que pudiera contribuir en las acciones
+para la búsqueda y localización de personas, en términos de las
+disposiciones aplicables;
+
+V. Informar de manera inmediata a la Comisión Nacional de Búsqueda o a
+la Comisión de Búsqueda del estado de Morelos, según sea el caso, la
+localización o identificación de una persona;
+
+VI. Solicitar directamente la localización geográfica en tiempo real o
+la entrega de los datos conservados, en los términos establecidos en el
+Código Nacional de Procedimientos Penales;
+
+VII. Solicitar a la autoridad judicial competente la autorización para
+ordenar la intervención de comunicaciones, en términos de las
+disposiciones aplicables;
+
+VIII. Realizar y comunicar sin dilación todos aquellos actos que
+requieran de autorización judicial que previamente hayan sido
+solicitados por la Comisión que corresponda para la búsqueda y
+localización de una Persona Desaparecida;
+
+IX. Solicitar el apoyo policial a las autoridades competentes, para
+realizar las tareas de investigación en campo;
+
+X. Recabar la información necesaria para la persecución e
+investigación de los delitos previstos en la Ley General de
+Desaparición Forzada u otras leyes;
+
+XI. Remitir la investigación y las actuaciones realizadas a las
+autoridades competentes cuando advierta la comisión de uno o varios
+delitos diferentes a los previstos en la Ley de Desaparición Forzada;
+
+XII. Solicitar al Juez de Control competente las medidas cautelares que
+sean necesarias, de conformidad con el Código Nacional de
+Procedimientos Penales;
+
+XIII. Establecer mecanismos de cooperación destinados al intercambio de
+información y adiestramiento continuo de los servidores públicos
+especializados en la materia;
+
+XIV. Localizar a las familias de las personas fallecidas identificadas
+no reclamadas, en coordinación con las instituciones correspondientes,
+para poder hacer la entrega de cadáveres o restos humanos, conforme a
+lo señalado por el Protocolo Homologado de Investigación y demás
+normas aplicables;
+
+XV. Solicitar a las autoridades jurisdiccionales competentes la
+autorización para la realización de las exhumaciones en cementerios,
+fosas o de otros sitios en los que se encuentren o se tengan razones
+fundadas para creer que se encuentran cadáveres o restos humanos de
+Personas Desaparecidas;
+
+XVI. Solicitar a las autoridades jurisdiccionales competentes el
+traslado de las personas internas a otros centros de reclusión
+salvaguardando sus derechos humanos, siempre que esta medida favorezca
+la búsqueda o localización de las Personas Desaparecidas o la
+investigación de los delitos materia de la Ley General de Desaparición
+Forzada, en términos de la Ley Nacional de Ejecución Penal;
+
+XVII. Facilitar la participación de familiares en la investigación de
+los delitos previstos en la Ley General de Desaparición Forzada,
+incluido brindar información periódicamente a familiares sobre los
+avances en el proceso de la investigación y persecución de los delitos
+previstos en la Ley General de Desaparición Forzada en términos del
+Código Nacional de Procedimientos Penales;
+
+XVIII. Celebrar convenios de colaboración o cooperación, para el
+óptimo cumplimiento de las atribuciones que le corresponden de
+conformidad con la Ley General de Desaparición Forzada;
+
+XIX. Brindar la información que la Comisión Ejecutiva y las Comisiones
+de Víctimas, Federal y Estatal, a que se refiere el artículo 4,
+fracciones I y II, de la Ley de la Especialidad, le soliciten para
+mejorar la atención a las víctimas, en términos de lo que establezcan
+las disposiciones aplicables;
+
+XX. Brindar la información que el Consejo Ciudadano previsto en la Ley
+General de Desaparición Forzada, le solicite para el ejercicio de sus
+funciones, en términos de lo que establezcan las disposiciones
+aplicables, y
+
+XXI. Las demás que establezcan otras disposiciones jurídicas
+aplicables.
+
+Artículo 43. La Fiscalía en Desaparición de Personas debe remitir
+inmediatamente a la Fiscalía Especializada de la Procuraduría General
+de la República o la autoridad competente, los expedientes de los que
+conozcan cuando se actualicen los supuestos previstos en el artículo 24
+de la Ley General de Desaparición Forzada, o iniciar inmediatamente la
+carpeta de investigación, cuando el asunto no esté contemplado
+expresamente como competencia de la Federación.
+
+Artículo 44. La Fiscalía en Desaparición de Personas deberá generar
+criterios y metodología específica para la investigación y
+persecución de los delitos de desaparición forzada de personas, de
+acuerdo a lo siguiente:
+
+I. Los procedimientos de búsqueda permanente que se lleven a cabo para
+buscar personas en cualquier lugar donde se presuma pudieran estar
+privadas de libertad como son centros penitenciarios, centros
+clandestinos de detención, centros de salud y cualquier otro lugar en
+donde se pueda presumir pueda estar la persona desaparecida, y
+
+II. Cuando se sospecha que la víctima ha sido privada de la vida,
+realizar las diligencias pertinentes para la exhumación de los restos
+en los lugares que se presume pudieran estar, de acuerdo con los
+estándares internacionales, siendo derecho de los familiares solicitar
+la participación de peritos especializados independientes, en términos
+de las disposiciones legales aplicables. En la generación de los
+criterios y metodología específicos, se tomarán en cuenta las
+sentencias y resoluciones nacionales e internacionales en materia de
+búsqueda e investigación de los casos de desaparición forzada.
+
+Artículo 45. Las autoridades de todos los órdenes de gobierno están
+obligadas a proporcionar, en el ámbito de su competencia, el auxilio e
+información que la Fiscalía en Desaparición de Personas que les
+soliciten para a (sic) investigación y persecución de los delitos
+previstos en la Ley General en Materia de Desaparición Forzada.
+
+Artículo 46. Las personas físicas o jurídicas que cuenten con
+información que pueda contribuir a la investigación y persecución de
+los delitos previstos en la Ley General en Materia de Desaparición
+Forzada, están obligadas a proporcionarla a la Fiscalía en
+Desaparición de Personas directamente, a través del número
+telefónico previsto en la Ley General en materia de Desaparición
+Forzada de Personas o cualquier otro medio, en términos de la normativa
+aplicable.
+
+Artículo 47. La Fiscalía en Desaparición de Personas no puede
+condicionar la recepción de la información a que se refiere el
+párrafo anterior al cumplimiento de formalidad alguna.
+
+SECCIÓN QUINTA
+
+DE LA FISCALÍA ANTISECUESTRO
+
+Artículo 48. La Fiscalía Antisecuestro cuenta con competencia en todo
+el territorio del Estado; investigará y perseguirá los delitos
+previstos en la Ley General para prevenir y sancionar los Delitos en
+Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73
+de la Constitución Política de Los Estados Unidos Mexicanos, que sean
+de su jurisdicción.
+
+Artículo 49. La persona titular de la Fiscalía Antisecuestro será
+designada por el Fiscal General y podrá ser removida libremente por el
+mismo.
+
+Artículo 50. La Fiscalía Antisecuestro deberá contar con los recursos
+humanos, financieros, materiales, técnicos especializados y
+multidisciplinarios y los que se requieran para su efectiva operación;
+deberá contar con personal sustantivo ministerial, policial, pericial y
+de apoyo psicosocial de acuerdo a la suficiencia presupuestal de la
+Fiscalía General.
+
+Todas las autoridades, en el ámbito de sus competencias, están
+obligadas a colaborar de forma eficaz con la Fiscalía Antisecuestro
+para el cumplimiento de la Ley General en la Materia de Secuestro.
+
+Artículo 51. La Fiscalía Antisecuestro deberá de capacitar a los
+servidores públicos, conforme a los más altos estándares
+internaciones en materia de derechos humanos, perspectiva de género,
+interés superior de la niñez, atención a las víctimas,
+sensibilización y relevancia específica del Secuestro y Extorsión,
+aplicación del Protocolo Homologado para la investigación,
+identificación forense, cadena de custodia, entre otros. De igual
+forma, podrán participar con las autoridades competentes, en la
+capacitación de los servidores públicos conforme a los lineamientos
+que sobre la materia emita el Sistema Nacional de Seguridad Pública.
+
+Artículo 52. La Fiscalía Antisecuestro tiene, en el ámbito de su
+competencia, las atribuciones siguientes:
+
+I. Recibir toda denuncia, querella, noticia o aviso que tenga relación
+con hechos posiblemente constitutivos del delito de extorsión y
+privación ilegal de la libertad en su modalidad de secuestro;
+
+II. Investigar los delitos, con el auxilio de la Policía al mando del
+Ministerio Público, los Servicios Periciales y las demás autoridades
+competentes, en los términos de las disposiciones legales aplicables,
+practicando las diligencias necesarias para obtener todas las evidencias
+y allegándose de las pruebas que considere pertinentes para la
+acreditación de que existen datos que establezcan que se ha cometido
+ese hecho y exista la probabilidad de que el indiciado lo cometió o
+participó en su comisión, así como el monto de los daños y
+perjuicios causados;
+
+III. Proponer, cuando procedan, los criterios de oportunidad o el no
+ejercicio de la acción penal, cuando la averiguación previa o carpeta
+de investigación verse sobre el delito de extorsión y privación de la
+libertad en su modalidad de secuestro;
+
+IV. Restituir provisionalmente y de inmediato al ofendido en el goce de
+sus derechos, en los términos de las disposiciones jurídicas
+aplicables;
+
+V. Decretar la detención o la retención de los probables responsables
+de la comisión del delito de extorsión y de privación ilegal de la
+libertad en su modalidad de secuestro, en los términos previstos por el
+artículo 16 de la Constitución Política de los Estados Unidos
+Mexicanos y el Código de Procedimientos Penales para el Estado de
+Morelos;
+
+VI. Solicitar las medidas precautorias de arraigo y las órdenes de
+cateo que sean necesarias, conforme a la Constitución Política de los
+Estados Unidos Mexicanos y el Código Nacional de Procedimientos
+Penales;
+
+VII. Instruir a los agentes de la Policía al mando del Ministerio
+Público y a los Peritos que le estén adscritos, sobre los elementos o
+indicios que deban ser investigados o recabados, así como sobre otras
+acciones de investigación que fueren necesarias para recabar los datos
+que establezcan que se ha cometido ese hecho y que exista la
+probabilidad de que el indiciado lo cometió o participó en la
+comisión de los delitos de extorsión o privación ilegal de la
+libertad en la modalidad de secuestro;
+
+VIII. Asegurar los bienes, instrumentos, huellas, objetos, vestigios o
+productos relacionados con los hechos delictivos, en los casos que
+corresponda, para ponerlos a disposición del órgano jurisdiccional, e
+informar de ello para su debido control a la Unidad de Bienes Asegurados
+y posteriores acciones de su competencia;
+
+IX. Recabar de las dependencias y entidades de la Administración
+Pública Federal y del Estado de Morelos, así como de los Estados y
+Municipios de la República, en los términos de las disposiciones
+aplicables, los informes, documentos, opiniones y dictámenes necesarios
+para integrar la investigación que versen sobre el delito de extorsión
+y privación ilegal de la libertad en su modalidad de secuestro;
+
+X. Requerir informes y documentos de los particulares para el ejercicio
+de sus atribuciones;
+
+XI. Auxiliar al Ministerio Público Federal y al de las entidades
+federativas en los términos que determinen las disposiciones jurídicas
+aplicables;
+
+XII. Solicitar al Ministerio Público Federal o de las entidades
+federativas, el auxilio o colaboración para la práctica de diligencias
+en la investigación, de conformidad con el artículo 119 de la
+Constitución Política de los Estados Unidos Mexicanos, las demás
+disposiciones aplicables y los convenios de colaboración que suscriban
+las respectivas Procuradurías;
+
+XIII. Remitir a la Fiscalía Especializada para Adolescentes copia
+autorizada de las averiguaciones previas o carpetas de investigación
+que se relacionen con menores de dieciocho años que se encuentren en
+situación de daño, peligro o conflicto, en los delitos contra menores;
+
+XIV. Remitir a las autoridades correspondientes las investigaciones de
+delitos que no sean competencia del Ministerio Público del fuero común
+del Estado de Morelos;
+
+XV. Solicitar el aseguramiento precautorio de bienes, para los efectos
+del pago de la reparación de los daños y perjuicios, y
+
+XVI. Las demás previstas en la Ley y otros ordenamientos.
+
+Artículo 53. La Fiscalía Antisecuestro contará con sus propios
+Manuales de organización y demás que al efecto se requieran para su
+eficaz funcionamiento.
+
+(ADICIONADA SECCIÓN, P.O. 25 DE ENERO DE 2024)
+
+SECCIÓN QUINTA BIS
+
+DE LA FISCALÍA ESPECIALIZADA EN LA INVESTIGACIÓN Y PERSECUCIÓN DE
+DELITOS DE TORTURA
+
+(ADICIONADO, P.O. 25 DE ENERO DE 2024)
+
+Artículo 53 bis. La Fiscalía Especializada en la Investigación y
+Persecución de Delitos de Tortura tiene competencia en todo el
+territorio del Estado, y
+
+cuenta con plena autonomía técnica y operativa para el conocimiento,
+investigación y persecución de los delitos previstos en Ley General
+para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas
+Crueles, Inhumanos o Degradantes, competencia de la Fiscalía General.
+
+(ADICIONADO, P.O. 25 DE ENERO DE 2024)
+
+Artículo 53 ter. La persona titular de la Fiscalía Especializada en la
+Investigación y Persecución de Delitos de Tortura será nombrada y
+removida libremente por el Fiscal General, previo cumplimiento de los
+requisitos previstos en el artículo 78 de la presente Ley y demás
+normativa aplicable.
+
+(ADICIONADO, P.O. 25 DE ENERO DE 2024)
+
+Artículo 53 quáter. La Fiscalía Especializada en la Investigación y
+Persecución de Delitos de Tortura tendrá, conforme el ámbito de su
+competencia, las obligaciones y facultades que prevé el artículo 59 de
+la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros
+Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+(ADICIONADO, P.O. 25 DE ENERO DE 2024)
+
+Artículo 53 quinquies. La Fiscalía Especializada en la Investigación
+y Persecución de Delitos de Tortura contará, conforme la suficiencia
+presupuestal, con los recursos humanos, presupuestales y materiales
+necesarios para su correcta operación. Los Agentes del Ministerio
+Público, Agentes de la Policía de Investigación Criminal o Peritos
+que se le adscriban deberán ser especializados.
+
+Las atribuciones y funciones de la persona titular, así como del
+personal y estructura que la integren se establecerán en el Reglamento
+y los Manuales Administrativos correspondientes.
+
+(ADICIONADO, P.O. 25 DE ENERO DE 2024)
+
+Artículo 53 sexies. La persona titular de la Fiscalía Especializada en
+la Investigación y Persecución de Delitos de Tortura podrá emitir las
+disposiciones jurídicas y administrativas que considere necesarias para
+el cumplimiento de sus atribuciones.
+
+(ADICIONADO, P.O. 25 DE ENERO DE 2024)
+
+Artículo 53 septies. La Fiscalía Especializada en la Investigación y
+Persecución de Delitos de Tortura, podrá celebrar convenios con la
+Comisión Ejecutiva de Atención a Víctimas del Estado, para dar
+cumplimiento a lo previsto en los artículos 40 y 41 de la Ley General
+para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas
+Crueles, Inhumanos o Degradantes y demás disposiciones aplicables.
+
+(ADICIONADO, P.O. 25 DE ENERO DE 2024)
+
+Artículo 53 octies. El personal que integre a la Fiscalía
+Especializada en la Investigación y Persecución de Delitos de Tortura
+deberá estar en constante profesionalización, conforme los planes y
+programas de capacitación y demás eventos académicos que determine el
+Instituto de Procuración de Justicia, con el fin de lograr la mejora
+continua en la investigación de los delitos a su cargo; en especial en
+materia de planeación, desarrollo y técnicas de investigación
+criminal, uso adecuado, legal, proporcional, razonable y gradual de la
+fuerza, así como en derechos humanos.
+
+(ADICIONADO, P.O. 25 DE ENERO DE 2024)
+
+Artículo 53 nonies. Para ser integrante y permanecer en la Fiscalía
+Especializada en la Investigación y Persecución de Delitos de Tortura
+será
+
+necesario cumplir con los requisitos previstos por el artículo 58 de la
+Ley General para Prevenir, Investigar y Sancionar la Tortura y otros
+Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+SECCIÓN SEXTA
+
+DE LAS FISCALÍAS REGIONALES
+
+Artículo 54. La Fiscalía General, para ejercer las atribuciones que en
+materia de investigación y persecución de los delitos le confiere la
+Constitución General y la Constitución Local, contará con las
+Fiscalías Regionales que resulten necesarias, en los términos que
+dispongan la normativa, tanto federal como local, las disposiciones
+reglamentarias y las que por acuerdo emita el Fiscal General, en su
+calidad de Jefe de la Institución del Ministerio Público.
+
+Las Fiscalías Regionales, para el cumplimiento de sus funciones,
+tendrán adscritas las unidades especializadas de investigación
+integradas por Agentes del Ministerio Público, de la Policía de
+Investigación Criminal y Peritos, así como las Unidades
+Administrativas y el personal que resulten necesarios, las cuales
+dependen directamente del Fiscal General.
+
+Artículo 55. Para ser Fiscal Regional se deberá cumplir con los
+siguientes requisitos:
+
+I. Ser ciudadano mexicano, preferentemente morelense en pleno ejercicio
+de sus derechos;
+
+II. Poseer título y cédula profesional de licenciado en derecho, con
+antigüedad de cuando menos cinco años previos a la fecha de su
+designación, y contar por lo menos con treinta años de edad cumplidos
+al día de su designación;
+
+III. Tener por lo menos tres años de experiencia profesional en materia
+penal, a partir de la expedición de la cédula profesional
+correspondiente y al menos dos en integración de carpetas de
+investigación;
+
+IV. Ser de reconocida honorabilidad y honradez;
+
+V. No estar suspendido ni haber sido destituido o inhabilitado por
+resolución firme como servidor público, en los términos de las normas
+aplicables;
+
+VI. No estar vinculado a un proceso penal por delito doloso o en materia
+de corrupción;
+
+VII. No haber sido condenado por sentencia irrevocable como responsable
+de un delito doloso. Si se tratare de ilícitos que lesionen seriamente
+la buena fama de la persona en el concepto público, inhabilitará a
+esta para ocupar el cargo, cualquiera que haya sido la sanción
+impuesta, y
+
+VIII. Aprobar examen de control de confianza en los términos que
+establezcan las disposiciones legales aplicables.
+
+Artículo 56. A las personas Titulares de las Fiscalías Regionales les
+corresponden, de manera enunciativa más no limitativa, las siguientes
+atribuciones comunes:
+
+I. Atender el despacho de los asuntos de su competencia y de las
+Unidades Administrativas a su cargo;
+
+II. Desempeñar las funciones, comisiones o atribuciones delegables que
+el Fiscal General instruya;
+
+III. Someter a la aprobación del Fiscal General estudios, proyectos o
+programas en los que participe por su competencia y la de las unidades a
+su cargo, así como proponer aquellos lineamientos normativos de
+coordinación y de operación de las diversas unidades a su cargo;
+
+IV. Velar por el correcto funcionamiento y coordinación de las
+actividades de las unidades que le estén adscritas, así como su
+vigilancia y evaluación, de conformidad con los lineamientos
+correspondientes;
+
+V. Participar en la elaboración del anteproyecto de presupuesto de las
+unidades a su cargo;
+
+VI. Proponer al Fiscal General la delegación de las atribuciones que
+estimen necesarias en el personal subalterno para el óptimo desarrollo
+de las mismas;
+
+VII. Propiciar la comunicación con los titulares de las Unidades
+Administrativas de su adscripción y resolver los asuntos que sean
+competencia de los mismos;
+
+VIII. Resolver, por delegación que realice el Fiscal General mediante
+acuerdo, sobre los casos en que se considere el no ejercicio de la
+acción penal, así como las consultas que los Agentes del Ministerio
+Público formulen o las prevenciones que la autoridad judicial acuerde,
+en los términos que la Ley establezca;
+
+IX. Rendir informes al Fiscal General del cumplimiento de sus funciones,
+así como de asuntos que correspondan a las unidades a su cargo;
+
+X. Aportar información para la generación de datos estadísticos y
+otros de naturaleza diversa que puedan propiciar políticas públicas,
+programas o acciones institucionales;
+
+XI. Atraer asuntos que conozca el personal a su cargo para su atención
+directa o a través de otras unidades de su adscripción;
+
+XII. Ejecutar, en el ámbito de sus atribuciones, las bases y convenios
+celebrados por la Fiscalía General en las materias que le corresponda;
+
+XIII. Solicitar al órgano competente que se otorguen los apoyos a la
+víctima u ofendido del delito para la restauración y protección
+especial;
+
+XIV. Verificar que los Agentes del Ministerio Público, ejerciten la
+acción de extinción de dominio o el abandono de bienes, cuando se
+reúnan los elementos y supuestos establecidos en la ley de la materia y
+demás disposiciones jurídicas aplicables;
+
+XV. Supervisar la substanciación de los procedimientos en que participe
+el Ministerio Público, y
+
+XVI. Las demás que por disposición normativa o delegación expresa
+resulten pertinentes.
+
+Artículo 57. Las Fiscalías Regionales ejercerán las atribuciones
+respecto de la investigación y persecución de los delitos, en las
+circunscripciones territoriales que sean asignadas por Acuerdo del
+Fiscal General, el que será publicado en el Periódico Oficial.
+
+Las Fiscalías Regionales, en el ejercicio de sus funciones y
+actividades, organizarán y supervisarán las acciones tendientes a
+lograr la eficacia del Ministerio Público en las diferentes etapas
+procesales, así como aplicarán las técnicas de investigación a que
+se refiere la normativa aplicable.
+
+Artículo 58. Las disposiciones a que se refiere la presente sección
+resultan aplicables en lo conducente a las Fiscalías Especializadas a
+que se refieren los artículos 26, fracciones II, III, IV, V y 28 de la
+presente Ley.
+
+SECCIÓN SÉPTIMA
+
+DE LAS UNIDADES DE APOYO
+
+APARTADO I
+
+DEL CENTRO DE JUSTICIA PARA LAS MUJERES
+
+Artículo 59. El Centro de Justicia para las Mujeres es la unidad de la
+Fiscalía General en la atención de los hechos delictivos relacionados
+con la alerta de género con competencia en el estado de Morelos.
+
+Artículo 60. La persona titular del Centro de Justicia para las Mujeres
+será designada y removida libremente por el Fiscal General.
+
+Artículo 61. El Centro de Justicia para las Mujeres deberá contar con
+los recursos humanos, financieros, materiales, técnicos especializados
+y multidisciplinarios y los que se requieran para su efectiva
+operación; deberá contar con personal sustantivo ministerial,
+policial, pericial y de apoyo psicosocial de acuerdo a la suficiencia
+presupuestal de la Fiscalía General.
+
+Todas las autoridades, en el ámbito de sus competencias, están
+obligadas a colaborar de forma eficaz con el Centro de Justicia para las
+Mujeres para el cumplimiento de los objetivos de la alerta de género.
+
+Artículo 62. La Fiscalía General deberá de capacitar a los servidores
+públicos del Centro de Justicia para las Mujeres, conforme a los más
+altos estándares internaciones en materia de derechos humanos,
+perspectiva de género, interés superior de la niñez, atención a las
+víctimas, sensibilización y de la alerta de género y de violencia
+contra las mujeres, para la investigación, identificación forense,
+cadena de custodia, entre otros. De igual forma, podrán participar con
+las autoridades competentes, en la capacitación de los servidores
+públicos conforme a los lineamientos que sobre la materia se emitan.
+
+Artículo 63. El Centro de Justicia para las Mujeres contará con sus
+Manuales de Organización y demás que al efecto se requieran para su
+eficaz funcionamiento, así como el número de centros que se requieran
+para la eficaz atención de la alerta de género.
+
+APARTADO II
+
+DE LA UNIDAD DE BIENES ASEGURADOS
+
+Artículo 64. La Unidad de Bienes Asegurados es la unidad de la
+Fiscalía General encargada de la administración, control, vigilancia y
+final disposición de los bienes asegurados a consecuencia de los hechos
+delictivos de la competencia de la Fiscalía General.
+
+Artículo 65. La persona titular de la Unidad de Bienes Asegurados será
+designada y removida libremente por el Fiscal General.
+
+Artículo 66. La Unidad de Bienes Asegurados deberá contar con los
+recursos humanos, financieros y materiales que se requieran para su
+efectiva operación.
+
+Artículo 67. La Unidad de Bienes Asegurados contará con sus Manuales
+de organización y demás que al efecto se requieran para su eficaz
+funcionamiento.
+
+APARTADO III
+
+DE LAS UNIDADES DE SOLUCIÓN DE CONTROVERSIAS
+
+Artículo 68. La Fiscalía General contará con el número de Unidades
+de Solución de Controversias que sean necesarias, denominadas Centros
+de Justicia Alternativa, encargados de aplicar mecanismos alternativos
+de solución de controversias en el Estado de Morelos, consistentes en
+la mediación del conflicto, conciliación, negociación y restauración
+del daño, ante delitos menores como, robo, daño, lesiones, amenazas,
+fraude, abuso de despojo, allanamiento de morada, incumplimiento de
+obligaciones alimentarias, y similares.
+
+Los titulares de los Centro de Justicia Alternativa serán designados y
+removidos libremente por el Fiscal General.
+
+Artículo 69. Las Unidades de Solución de Controversias de la Fiscalía
+General, deberán prestar de forma gratuita los servicios de
+información, orientación y de aplicación de los mecanismos
+alternativos, a través de los facilitadores institucionales con los que
+cuenta la dependencia; quienes serán nombrados por el Fiscal General,
+cuando cumplan los requisitos pertinentes en los términos que establece
+la presente ley y su reglamentación.
+
+El Reglamento de esta Ley deberá establecer las funciones de las
+Unidades de Solución de Controversias, así como las facultades y
+obligaciones del personal adscrito a las mismas, y demás aspectos para
+su eficaz funcionamiento.
+
+APARTADO IV
+
+DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA
+FAMILIA
+
+Artículo 70. (DEROGADO, P.O. 22 DE MAYO DE 2019)
+
+TÍTULO SEGUNDO
+
+DEL SERVICIO DE CARRERA
+
+CAPÍTULO I
+
+DEL SERVICIO DE CARRERA
+
+SECCIÓN ÚNICA
+
+DEL CONCEPTO GENERAL DEL SERVICIO DE CARRERA
+
+Artículo 71. El Servicio de Carrera es un sistema de carácter
+obligatorio y permanente en el cual, se establecen los lineamientos de
+reclutamiento, selección, ingreso, certificación, formación y
+permanencia de los Agentes y Oficiales Auxiliares del Ministerio
+Público, los Peritos y los Agentes de la Policía de Investigación
+Criminal de la Fiscalía General, a cargo de la persona que al efecto
+designe el Fiscal General.
+
+El Servicio Civil de Carrera del personal de la Fiscalía
+Anticorrupción será paralelo al del personal de la Fiscalía General,
+en congruencia con sus respectivas autonomías.
+
+Artículo 72. El Servicio de Carrera de los Agentes y Oficiales
+Auxiliares del Ministerio Público, los Peritos y los Agentes de la
+Policía de Investigación Criminal de la Fiscalía General,
+comprenderá la selección, ingreso, permanencia, estímulos,
+promoción, reconocimiento y terminación del mismo, en las siguientes
+etapas:
+
+I. El ingreso, que comprende los requisitos y procedimientos de
+selección, formación y certificación inicial, así como registro;
+
+II. El desarrollo, que comprende los requisitos y procedimientos de
+formación continua y especializada, actualización, evaluación para la
+permanencia, evaluación del desempeño, desarrollo y ascenso,
+estímulos y reconocimientos, promoción, reingreso y certificación. De
+igual forma, comprenderá medidas disciplinarias y sanciones para el
+personal del Servicio de Carrera, y
+
+III. La terminación, que comprende las terminaciones ordinarias y
+extraordinarias del Servicio de Carrera, así como los procedimientos
+establecidos por las disposiciones jurídicas aplicables para el efecto.
+
+Artículo 73. Los miembros del Servicio de Carrera de la Fiscalía
+General dejarán de formar parte del mismo por terminación ordinaria o
+extraordinaria, conforme a lo siguiente:
+
+I. De manera ordinaria, por:
+
+a) Renuncia;
+
+b) Incapacidad permanente para el desempeño de las funciones, y
+
+c) Jubilación;
+
+II. De manera extraordinaria, por:
+
+a) No acreditar los requisitos de ingreso y permanencia, o
+
+b) Incurrir en alguna de las causas de responsabilidad, establecidas en
+la Ley.
+
+Las demás atribuciones y disposiciones necesarias de este sistema se
+desarrollarán en el Reglamento.
+
+CAPÍTULO II
+
+DISPOSICIONES COMPLEMENTARIAS
+
+SECCIÓN PRIMERA
+
+DE LOS NOMBRAMIENTOS, LAS AUSENCIAS Y LA SEPARACIÓN
+
+Artículo 74. Para ocupar el cargo de Fiscal General, además de los
+requisitos exigidos por la Constitución Política del Estado Libre y
+Soberano de Morelos, la persona deberá cumplir con lo siguiente:
+
+I. Contar con experiencia en materia penal o procesal penal de al menos
+cinco años;
+
+II. No estar sujeto a proceso penal, y
+
+III. No haber sido defensor particular o asesor jurídico en un proceso
+vigente al momento de su designación.
+
+(REFORMADO, P.O. 30 DE AGOSTO DE 2018)
+
+Artículo 75. El Fiscal General será suplido en su ausencia absoluta en
+términos de lo dispuesto por la Constitución Política del Estado
+Libre y Soberano de Morelos y la presente Ley.
+
+Artículo 76. El Fiscal General deberá protestar guardar y hacer
+guardar la Constitución Política de los Estados Unidos Mexicanos, la
+Constitución Política del Estado Libre y Soberano de Morelos y las
+leyes que de ellas emanen, desempeñando leal y patrióticamente el
+cargo conferido.
+
+Los Titulares de las Unidades Administrativas a que se refiere el
+artículo 26 de esta Ley, antes de tomar posesión de sus cargos,
+rendirán protesta en los términos a que se refiere el párrafo
+anterior ante el Fiscal General o la persona que este designe, en acto
+solemne que se celebre al efecto.
+
+Artículo 77. Para ser Fiscal Anticorrupción se deberá cumplir con los
+siguientes requisitos:
+
+I. Contar con experiencia en materia penal o procesal penal de al menos
+cinco años, de los cuales al menos uno en materia de delitos de
+corrupción;
+
+II. No estar sujeto a proceso penal, y
+
+III. No haber sido defensor particular o asesor jurídico de sujetos a
+proceso al momento de su designación.
+
+En el Reglamento se normará la suplencia del Fiscal Anticorrupción en
+los casos de ausencia temporal, suplencia que no podrá durar más de
+noventa días naturales.
+
+Artículo 78. Para ser Fiscal Regional o Especializado a que se refiere
+el artículo 26, fracciones II, II (sic) y IV, o en su caso, del
+artículo 28 de la presente Ley, se deberán cumplir con los siguientes
+requisitos:
+
+I. Ser ciudadano mexicano, preferentemente morelense en pleno ejercicio
+de sus derechos;
+
+II. Poseer título y cédula profesional de licenciado en derecho, con
+antigüedad de cuando menos cinco años previos a la fecha de su
+designación, y contar por lo menos con treinta años cumplidos al día
+de su designación;
+
+III. Tener por lo menos tres años de experiencia profesional en materia
+penal, a partir de la expedición de la cédula profesional
+correspondiente;
+
+IV. Ser de reconocida honorabilidad y honradez;
+
+V. No estar suspendido ni haber sido destituido o inhabilitado por
+resolución firme como servidor público, en los términos de las normas
+aplicables;
+
+VI. No haber sido condenado por sentencia irrevocable como responsable
+de un delito doloso. Si se tratare de ilícitos que lesionen seriamente
+la buena fama de la persona en el concepto público, inhabilitará a
+ésta para ocupar el cargo, cualquiera que haya sido la sanción
+impuesta, y
+
+VII. Aprobar examen de control de confianza en los términos que
+establezcan las disposiciones legales aplicables.
+
+Además, para ser Fiscal Especializado en Delitos en Electorales, se
+requerirá no ser ni haber sido candidato a cargo de elección popular o
+dirigente en los órganos nacionales, estatales o municipales de algún
+partido político, durante los tres años previos a su designación.
+
+El personal a que se refiere el presente artículo será nombrado y
+removido libremente por el Fiscal General, conforme a la normativa
+aplicable.
+
+Artículo 79. Los operadores de justicia alternativa deberán cumplir
+los requisitos que se señalan en el artículo anterior, con excepción
+de lo dispuesto en las fracciones II y VII, en virtud de no adquirir la
+calidad de agentes del Ministerio Público y demás supuestos que
+establece la normativa aplicable, quienes deberán de contar con título
+y cédula profesional de la especialidad de que se trate.
+
+Artículo 80. El resto de las personas titulares de las Unidades
+Administrativas que se señalan en el artículo 26 de esta Ley, deberán
+reunir los requisitos y el perfil exigidos en la presente ley o en el
+Reglamento.
+
+Artículo 81. El Fiscal General, el Fiscal Anticorrupción y el Fiscal
+Especializado en Delitos Electorales, una vez designados, no podrán ser
+removidos sino por causa administrativa grave, en los términos
+señalados por los artículos 51 al 64 de la Ley General de
+Responsabilidades Administrativas y, en lo conducente, lo que al efecto
+establece la Ley de Responsabilidades Administrativas para el Estado de
+Morelos.
+
+Lo anterior sin perjuicio de la garantía de audiencia previa que
+deberá concederles el Congreso del Estado.
+
+SECCIÓN SEGUNDA
+
+DEL RÉGIMEN LABORAL O ADMINISTRATIVO DEL PERSONAL
+
+(REFORMADO, P.O. 30 DE AGOSTO DE 2018)
+
+Artículo 82. En el caso de los Agentes del Ministerio Público, Peritos
+y Agentes de la Policía de Investigación Criminal, en términos del
+artículo 123, apartado B, fracción XIII, de la Constitución Política
+de los Estados Unidos Mexicanos, su ingreso y permanencia se regularán,
+de conformidad a la normativa aplicable al efecto, como la Ley de
+Prestaciones de Seguridad Social de las Instituciones Policiales y de
+Procuración de Justicia del Sistema Estatal de Seguridad Pública.
+
+(REFORMADO, P.O. 30 DE AGOSTO DE 2018)
+
+Artículo 83. El personal de la Fiscalía General que no realice
+funciones policiales, de pericia o de investigación y que no pertenezca
+al Servicio de Carrera, mantendrá una relación de carácter laboral
+con la Fiscalía General, por lo que el ingreso y permanencia serán de
+conformidad con las disposiciones de relaciones laborales, por lo que
+será aplicable la Ley del Servicio Civil del Estado de Morelos.
+
+El Reglamento determinará los requisitos que deberán satisfacer las
+personas titulares de las Unidades Administrativas que integran la
+Fiscalía General, que no se encuentren bajo el supuesto establecido en
+el párrafo anterior.
+
+Artículo 84. Para el ingreso y permanencia como Agentes del Ministerio
+Público, además de reunir los requisitos establecidos al efecto en la
+Ley General del Sistema Nacional de Seguridad Pública y la Ley del
+Sistema de Seguridad Pública del Estado de Morelos, se estará a lo
+siguiente:
+
+I. El ingreso se hará por Convocatoria Pública, resultando exigible
+los requisitos que se señalan a continuación:
+
+a) Tener por lo menos veintitrés años al momento de su nombramiento, y
+
+b) Tener experiencia de por lo menos un año en materia penal;
+
+II. Para su permanencia se requiere:
+
+a) No ausentarse del servicio sin causa justificada por un período
+mayor a tres días consecutivos o, en su caso, por cinco días dentro de
+un término de treinta días naturales, y
+
+b) Participar en los procesos de ascenso que se convoquen conforme a las
+disposiciones jurídicas aplicables.
+
+Artículo 85. Para el ingreso y permanencia como Perito del Servicio de
+Carrera, además de reunir los requisitos establecidos al efecto en la
+Ley General del Sistema Nacional de Seguridad Pública y la Ley del
+Sistema de Seguridad Pública del Estado de Morelos, se estará a lo
+siguiente:
+
+I. El ingreso se hará por Convocatoria Pública, y
+
+II. Para su permanencia, deberá satisfacer los requisitos a que se
+refiere la fracción II del artículo anterior.
+
+Artículo 86. Para el ingreso y permanencia como Agente de la Policía
+de Investigación Criminal de Servicio de Carrera, se deberá de reunir
+los requisitos establecidos al efecto en la Ley General del Sistema
+Nacional de Seguridad Pública y la Ley del Sistema de Seguridad
+Pública del Estado de Morelos. Asimismo, tratándose de su permanencia,
+resultarán exigibles los requisitos que se señalan a continuación:
+
+I. Cumplir las órdenes de comisión, rotación y cambios de
+adscripción de conformidad con las necesidades del servicio, y
+
+II. No incurrir en actos u omisiones que causen la pérdida de confianza
+o afecten la prestación del servicio.
+
+Artículo 87. Los aspirantes para ingresar como Agentes del Ministerio
+Público, Peritos y Agentes de la Policía de Investigación Criminal
+deberán contar con la certificación y registro correspondientes, de
+conformidad con las disposiciones jurídicas aplicables.
+
+No podrá autorizarse el ingreso o la permanencia en la Fiscalía
+General de persona alguna que no cuente con la certificación y registro
+vigentes.
+
+Artículo 88. La certificación tendrá por objeto, acreditar que el
+aspirante o servidor público es apto para ingresar o, en su caso,
+permanecer en la Fiscalía General, y que cuenta con los conocimientos,
+el perfil, las habilidades y las aptitudes necesarias para el desempeño
+de su cargo.
+
+Artículo 89. Previo al ingreso como Agentes del Ministerio Público,
+Peritos y Agentes de la Policía de Investigación Criminal, será
+obligatorio que la Fiscalía General consulte los antecedentes del
+aspirante en el Registro Nacional de Personal de Seguridad Pública y en
+el Sistema Estatal de Seguridad Pública, en los términos previstos en
+las disposiciones jurídicas aplicables, dejando constancia en el
+expediente laboral.
+
+Artículo 90. El personal de la Fiscalía General será suplido en sus
+ausencias en los términos que establezca el Reglamento.
+
+SECCIÓN TERCERA
+
+DE LOS DERECHOS, RESPONSABILIDADES Y SANCIONES DEL PERSONAL DE LA
+FISCALÍA GENERAL
+
+Artículo 91. El personal que integra la Fiscalía General tendrá los
+derechos siguientes:
+
+I. Participar en los cursos de capacitación, actualización y
+especialización correspondientes, así como en aquellos que se acuerden
+con otras instituciones académicas, nacionales y del extranjero, que
+tengan relación con sus funciones, sin perjuicio en sus derechos y
+antigüedad, y sujeto a las disposiciones presupuestales y a las
+necesidades del servicio;
+
+II. Sugerir al Consejo, las medidas que estimen pertinentes para el
+mejoramiento del Servicio de Carrera, por conducto de sus
+representantes;
+
+III. Percibir prestaciones acordes con las características de sus
+funciones, niveles de responsabilidad y riesgo en el desempeño de las
+mismas, de conformidad con el presupuesto de la Fiscalía General y las
+normas aplicables;
+
+IV. Acceder a estímulos y reconocimientos cuando su conducta y
+desempeño así lo ameriten y de acuerdo con las disposiciones
+jurídicas aplicables y la disponibilidad presupuestal;
+
+V. Participar en los concursos de ascenso a que se convoque;
+
+VI. Gozar de un trato digno y decoroso por parte de sus superiores
+jerárquicos;
+
+VII. Contar con el equipo e instrumentos de trabajo necesarios para el
+desempeño de sus funciones;
+
+VIII. Gozar de permisos y licencias sin goce de sueldo, en términos de
+las disposiciones jurídicas aplicables, y
+
+IX. Las demás que le confieran otras disposiciones jurídicas
+aplicables.
+
+Artículo 92. Son causas de responsabilidad del personal de la Fiscalía
+General, además de las previstas en la Ley General de Responsabilidades
+Administrativas y la legislación aplicable en la materia, las
+siguientes:
+
+I. Realizar o encubrir conductas que atenten contra la autonomía del
+Ministerio Público, tales como aceptar o ejercer consignas, presiones,
+encargos, comisiones o cualquier otra acción que genere o implique
+subordinación indebida respecto de alguna persona o autoridad;
+
+II. Omitir la práctica de dictámenes periciales o actos de
+investigación correspondientes materia de su competencia, cuando estos
+sean solicitados por parte del Ministerio Público o la autoridad
+jurisdiccional competente;
+
+III. Incumplir el aseguramiento de bienes, objetos, instrumentos o
+productos de delito y, en su caso, no solicitar el decomiso cuando así
+proceda en los términos que establezcan las leyes penales aplicables;
+
+IV. Faltar sin causa justificada a sus labores en los términos que
+señala la presente Ley y demás disposiciones jurídicas aplicables;
+
+V. Extraviar documentos, objetos o valores relacionados con las
+investigaciones penales materia de su competencia, sin perjuicio de las
+responsabilidades que de otra naturaleza se generen concomitantemente
+por dicho acto;
+
+VI. Abstenerse de ejercer la acción de extinción de dominio en los
+casos y en los términos que establezca las disposiciones jurídicas
+aplicables en la materia;
+
+VII. Dar un uso distinto al arma de fuego a su cargo para las
+actividades inherentes al desempeño de sus funciones, y
+
+VIII. Incumplir cualquiera de las obligaciones previstas en el artículo
+siguiente.
+
+Artículo 93. Son obligaciones del personal de la Fiscalía General:
+
+I. Conducirse siempre con apego a los principios constitucionales,
+tratados internacionales y respeto a los derechos humanos;
+
+II. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a
+persona alguna por razón de raza, religión, sexo, condición
+económica o social, preferencia sexual, ideología política o por
+algún otro motivo;
+
+III. Impedir, por los medios que tuvieren a su alcance y en el ámbito
+de sus atribuciones, que se infrinjan, toleren o permitan actos de
+tortura física o psicológica u otros tratos o sanciones crueles,
+inhumanas o degradantes. El personal de la Fiscalía General que tenga
+conocimiento de ello, deberá denunciarlo inmediatamente ante la
+autoridad competente;
+
+IV. Abstenerse de ejercer empleo, cargo o comisión y demás actividades
+a que se refiere la presente Ley;
+
+V. Observar un trato respetuoso con todas las personas, debiendo
+abstenerse de todo acto arbitrario y de limitar indebidamente las
+acciones o manifestaciones que en ejercicio de sus derechos
+constitucionales y con carácter pacífico realice la ciudadanía;
+
+VI. Desempeñar su función sin solicitar o aceptar compensaciones,
+pagos o gratificaciones distintas a las previstas legalmente; en
+particular, se opondrán a cualquier acto de corrupción. La Fiscalía
+Anticorrupción conocerá de las conductas que configuren un hecho
+calificado como delito de corrupción por la ley y exista la posibilidad
+de que el servidor público lo cometió o participó en su comisión,
+por la infracción a la presente obligación;
+
+VII. Abstenerse de ordenar o ejecutar la detención o retención de
+persona alguna sin cumplir con los requisitos previstos en la
+Constitución Política de los Estados Unidos Mexicanos y en las
+disposiciones jurídicas aplicables;
+
+VIII. Auxiliar a las partes, mediante mecanismos alternativos de
+solución de controversias, en los casos que así proceda, y procurar la
+reparación del daño;
+
+IX. Comparecer en audiencias cuando se le requiera y solicitar al
+Ministerio Público que promueve acciones que ayuden a la
+investigación, cuidando la protección del debido proceso y los
+derechos humanos;
+
+X. Velar por la vida e integridad física y psicológica de las personas
+detenidas y puestas a su disposición;
+
+XI. Participar en mecanismos de coordinación con otras Instituciones de
+Seguridad Pública, así como brindarles el apoyo, de conformidad con
+las disposiciones legales y reglamentarias aplicables;
+
+XII. Acatar las órdenes de sus superiores jerárquicos;
+
+XIII. Abstenerse, conforme a las disposiciones jurídicas aplicables, de
+dar a conocer, por cualquier medio, a quien no tenga derecho,
+documentos, registros, imágenes, constancias, reportes o cualquier otra
+información reservada o confidencial de la que tenga conocimiento en
+ejercicio y con motivo de su empleo, cargo o comisión;
+
+XIV. Abstenerse de realizar cualquier práctica discriminatoria o
+tolerancia de la violencia contra las mujeres, en el ejercicio de su
+empleo, cargo o comisión;
+
+XV. Abstenerse, en el desempeño de sus funciones, de auxiliarse por
+personas no autorizadas por la Ley;
+
+XVI. Conservar y usar el equipo asignado para el desempeño de sus
+funciones, con el debido cuidado y prudencia;
+
+XVII. Abstenerse de abandonar sin causa justificada las funciones,
+comisión o servicio que tenga encomendado;
+
+XVIII. Someterse a evaluaciones periódicas para acreditar el
+cumplimiento de sus requisitos de permanencia, así como obtener y
+mantener vigente la certificación respectiva, de conformidad con lo
+dispuesto por la Ley General del Sistema Nacional de Seguridad Pública;
+
+XIX. Desahogar prioritariamente las intervenciones periciales en las
+investigaciones relacionadas con procedimientos de disposición de
+órganos o tejidos de cadáveres con fines de trasplantes y autorizar su
+disposición, de forma pronta y expedita, cuando se reúnan los
+requisitos establecidos en el Código Nacional de Procedimientos Penales
+y demás disposiciones jurídicas aplicables;
+
+XX. No ingerir bebidas alcohólicas, sustancias psicotrópicas,
+estupefacientes, o ser adicto a cualquier droga, así como presentarse a
+laborar con aliento alcohólico o bajo el efecto del alcohol o drogas, y
+
+XXI. Las demás que le confieran la presente Ley, el Reglamento y otras
+disposiciones jurídicas aplicables.
+
+Artículo 94. El personal de la Fiscalía General deberá abstenerse de:
+
+I. Desempeñar empleo, cargo o comisión de cualquier naturaleza en la
+Administración Pública Federal, en los gobiernos de alguna Entidad
+Federativa o Ayuntamientos, así como trabajos o servicios en
+instituciones privadas, salvo los de carácter docente y aquellos que
+autorice la Fiscalía General, siempre y cuando sean compatibles con sus
+funciones y horarios laborales en la misma;
+
+II. Ejercer o prestar servicios profesionales en forma particular, por
+sí o por interpósita persona, salvo en causa propia, de su cónyuge,
+concubina o concubinario, de sus ascendientes o descendientes, de sus
+hermanos;
+
+III. Ejercer las funciones de tutor, curador o albacea judicial, salvo
+que tenga el carácter de heredero o legatario, o se trate de sus
+ascendientes, descendientes, hermanos, y
+
+IV. Ejercer o desempeñar las funciones de Depositario o Apoderado
+Judicial, Síndico, Administrador, Interventor en quiebra o concurso,
+Notario, Corredor, Comisionista o Árbitro.
+
+Artículo 95. Las sanciones por incurrir en las causas de
+responsabilidad a que se refiere esta Ley, serán las que establece el
+artículo 75 de la Ley General de Responsabilidades Administrativas;
+
+Artículo 96. Procede la separación inmediata del personal de la
+Fiscalía General, por la comisión de alguna de las conductas
+establecidas en el artículo 92, o bien, por el incumplimiento de alguna
+o algunas de las obligaciones previstas en las fracciones IV, V, VI,
+VII, VIII, XII, XIII y XIX, del artículo 93 de la presente Ley o, en su
+caso, por la reiteración de por lo menos tres ocasiones en el
+incumplimiento de alguna o algunas de las obligaciones restantes del
+artículo citado.
+
+Artículo 97. La aplicación de las sanciones a que se refiere el
+presente Capítulo, de acuerdo con la valoración de la gravedad de las
+conductas, será conforme al procedimiento previsto en la Ley General de
+Responsabilidades Administrativas.
+
+Artículo 98. Cuando la autoridad jurisdiccional resolviere que la
+separación del cargo o remoción del personal que integra la Fiscalía
+fue de manera injustificada, se estará a lo dispuesto por el artículo
+123, Apartado B, fracción XIII, de la Constitución Política de los
+Estados Unidos Mexicanos.
+
+SECCIÓN CUARTA
+
+DE LAS EXCUSAS Y RECUSACIONES
+
+Artículo 99. Los servidores públicos de la Fiscalía General y de la
+Fiscalía Anticorrupción, podrán excusarse y ser recusados en los
+asuntos que intervengan, cuando ocurra una o más de las causas que
+motivan las excusas en los términos del Código Nacional de
+Procedimientos Penales. La excusa y la recusación deberán ser
+calificadas en definitiva por el Fiscal General y su trámite se
+definirá en el Reglamento respectivo.
+
+SECCIÓN QUINTA
+
+DE LAS PRERROGATIVAS POR SERVICIOS PRESTADOS
+
+(REFORMADO, P.O. 22 DE MAYO DE 2019)
+
+Artículo 100. Los Fiscales General, Anticorrupción y Antisecuestro,
+con el fin de salvaguardar su integridad física y la de sus familias, a
+partir de que dejen el cargo por cualquier motivo, contarán con el
+mismo dispositivo de seguridad que tuvieron asignado durante el
+ejercicio de sus funciones, por el mismo tiempo que desempeñaron sus
+respectivos cargos; transcurrido dicho plazo, este irá disminuyendo o
+será retirado definitivamente, en razón de lo que acuerde el Fiscal
+General, de acuerdo a las circunstancias personales y de riesgo de cada
+ex funcionario.
+
+El Fiscal en Retiro tiene el derecho de portación de arma oficial de
+forma vitalicia, siempre y cuando cumpla con las formalidades que
+establecen las leyes aplicables.
+
+Artículo 101. Los titulares de las demás Fiscalías Especializadas y
+Regionales tendrán derecho a las prerrogativas señaladas en el
+artículo anterior, en los términos, plazos y condiciones que
+establezca en acuerdo el Fiscal General.
+
+TÍTULO TERCERO
+
+DE LA VIGILANCIA Y DISCIPLINA DE LA FISCALÍA GENERAL
+
+CAPÍTULO I
+
+DE LA VISITADURÍA GENERAL Y DE ASUNTOS INTERNOS
+
+Artículo 102. En la Fiscalía General existirá una Unidad
+Administrativa encargada de la investigación, vigilancia, supervisión
+y evaluación técnico jurídica, denominada Visitaduría General y de
+Asuntos Internos; la cual, previa la investigación de los hechos
+denunciados y, en su caso, el desahogo del procedimiento administrativo
+correspondiente, someterá al Consejo de Honor que para tal efecto se
+constituya, la propuesta de sanción derivada del procedimiento previsto
+en la Ley General de Responsabilidades Administrativas, en concordancia
+con lo dispuesto en la Ley del Sistema de Seguridad Pública del Estado
+de Morelos.
+
+Artículo 103. La Visitaduría General y de Asuntos Internos estará
+bajo el mando inmediato del Fiscal General. Será observador y conocerá
+de aquellas actuaciones que ameriten algún reconocimiento o sanción
+para el personal de la Fiscalía General, ya sea de oficio, por denuncia
+abierta o anónima, o a petición de algún mando.
+
+La persona titular de la Visitaduría General y de Asuntos Internos
+será designada y removida libremente por el Fiscal General.
+
+Artículo 104. La Visitaduría General y de Asuntos Internos tendrá
+facultades para iniciar los procedimientos de sanción a que se refiere
+el artículo anterior, en los siguientes casos:
+
+I. De manera oficiosa o a través de quejas o denuncias abiertas o
+anónimas, que podrán ser recibidas por cualquier medio electrónico,
+impreso o verbal, y que sean interpuestas en contra del personal de la
+Institución;
+
+II. Cuando por su competencia o a petición del superior jerárquico
+inmediato se considere que el elemento infringió los principios de
+actuación, obligaciones o deberes establecidos en la presente Ley y
+otros ordenamientos legales, y
+
+III. Aquéllos que instruya el Fiscal General, en su caso, incluidos los
+que correspondan al cumplimiento de una recomendación emitida por las
+Comisiones Estatal o Nacional de Derechos Humanos, aceptada por el
+propio Titular.
+
+Los procedimientos se desahogarán sin perjuicio de aquellos que se
+instauren en contra de los servidores públicos, ante la Visitaduría
+Interna en el ámbito de las atribuciones establecidas por la Ley
+General de Responsabilidades Administrativas, así como los que
+correspondan al Tribunal de Justicia Administrativa y, en su caso, a la
+Fiscalía Anticorrupción en términos del presente Capítulo.
+
+Artículo 105. El personal de la Institución que sea sujeto a
+investigación o procedimiento administrativo interno, como medida
+preventiva podrá ser asignado a las áreas donde no tengan acceso a
+armas, vehículos, ni contacto con el público en general, estando a
+disposición de la Visitaduría General y de Asuntos Internos.
+
+Artículo 106. Los quejosos serán considerados parte en el
+procedimiento administrativo, para la imposición de correctivos
+disciplinarios o de sanciones internas, que inicie la Visitaduría
+General y de Asuntos Internos; en todos los casos se deberá preservar
+el principio de presunción de inocencia y respetar su derecho a
+audiencia y debido proceso.
+
+Artículo 107. Para ser Titular de la Visitaduría General y de Asuntos
+Internos se requiere:
+
+I. Ser mexicano por nacimiento;
+
+II. Tener más de cinco años de residencia en el Estado, al día de la
+designación;
+
+III. Ser licenciado en derecho con título y cédula profesional
+debidamente registrados;
+
+IV. Tener experiencia en procesos jurídicos en materia disciplinaria de
+por lo menos tres años anteriores a la designación;
+
+V. Acreditar los requisitos de ingreso y permanencia a que se refiere
+esta Ley;
+
+VI. No haber sido inhabilitado para el desempeño de cargo o comisión
+en la administración pública, y
+
+VII. No haber sido sentenciado por delito doloso.
+
+Artículo 108. La Visitaduría General y de Asuntos Internos, para el
+efecto de realizar las investigaciones suficientes y allegarse de todos
+los datos necesarios, para poder determinar de manera fundada y motivada
+sus actuaciones, así como los reconocimientos y sanciones preventivas o
+definitivas que proponga ante el Consejo de Honor, contará con la
+estructura adecuada y el personal apropiado para el cumplimiento de sus
+funciones, en los términos señalados en la presente Ley y en el
+Reglamento, incluso, con Policías de Investigación Encubiertos y de
+Provocación cuando se estime necesario, cuyas atribuciones y demás
+aspectos serán materia del Reglamento.
+
+Artículo 109. Los elementos sujetos a procedimiento administrativo
+disciplinario o de sanción, tendrán derecho a defenderse por sí o por
+abogado de su confianza, respetando en todo momento su derecho de
+audiencia y debido proceso.
+
+Artículo 110. En los asuntos que conozca la Visitaduría General y de
+Asuntos Internos, se abrirá un expediente con las constancias que
+existan sobre el particular, bajo el procedimiento aplicable en
+términos de la Ley General de Responsabilidades Administrativas. Contra
+la apertura del expediente y el desahogo del procedimiento no procederá
+suspensión alguna.
+
+Artículo 111. Los procedimientos que deba conocer la Visitaduría
+General y de Asuntos Internos deberán resolverse en un plazo no mayor
+de ciento ochenta días hábiles, contados a partir de la presentación
+de la queja. Al vencimiento de este término se deberá contar con la
+resolución del Consejo de Honor, debidamente fundada y motivada,
+debiendo devolverla en su caso para su ejecución a la Visitaduría
+General y de Asuntos Internos.
+
+De cada actuación se levantará constancia por escrito, que se
+integrará de forma secuencial y numerada al expediente del
+procedimiento respectivo.
+
+Artículo 112. La Visitaduría General y de Asuntos Internos tendrá
+amplias facultades para examinar los expedientes u hojas de servicio del
+o los sujetos a procedimiento y podrá practicar tantas diligencias
+legales sean necesarias, dentro del plazo concedido para el cierre de la
+instrucción, a fin de allegarse los datos necesarios para emitir su
+propuesta de sanción al Consejo de Honor y Justicia; dentro de las
+constancias deberá obrar copia certificada del expediente personal del
+sujeto a procedimiento.
+
+La Visitaduría General y de Asuntos Internos podrá requerir
+información a todas las áreas de la Institución, las que están
+obligadas y deberán ajustarse a los términos especificados por esta
+Ley y en su caso por la Ley General de Responsabilidades
+Administrativas. En caso de negativa, negligencia o retraso, serán
+sujetos al procedimiento correspondiente, de conformidad con la presente
+Ley.
+
+Así mismo, podrá solicitar información a otras instancias o
+autoridades para los efectos de la debida integración de la
+investigación.
+
+Para el cumplimiento de estos fines, al momento de requerir la
+información a que se refiere este artículo, podrá apercibir y, en su
+caso, multar a las autoridades que nieguen, retrasen o envíen
+incompleta o ilegible la información que les sea solicitada, con una
+multa de 50 a 100 veces el valor diario de la Unidad de Medida y
+Actualización, sin perjuicio de cumplir con la obligación de informar.
+
+Artículo 113. En aquellos casos que, con motivo de su actuación, la
+Visitaduría General y de Asuntos Internos tenga conocimiento de la
+probable comisión de algún delito, lo hará del inmediato conocimiento
+de la Fiscalía Anticorrupción, para que actúe conforme a derecho. Sin
+perjuicio de lo anterior, la Fiscalía Anticorrupción podrá ejercer
+libremente su facultad de atracción al respecto.
+
+Artículo 114. La Visitaduría General y de Asuntos Internos será el
+órgano de la institución encargado de ejecutar la resolución que
+determine el Consejo de Honor, misma que deberá ser notificada
+personalmente al interesado, para lo que estime pertinente conforme a
+derecho; una vez que haya quedado firme la resolución mediante la que
+se imponga una sanción, los integrantes del Consejo de Honor vigilarán
+en coordinación con las áreas administrativas y operativas
+correspondientes, lo relativo a la suspensión o destitución,
+descuentos de adeudos, resguardos e inventario de equipo, así como su
+correspondiente inscripción en los Sistemas Nacional y Estatal de
+Seguridad Pública y otras medidas conducentes; el incumplimiento dará
+lugar a las sanciones previstas por la Ley General de Responsabilidades
+Administrativas y la legislación aplicable en la materia.
+
+Las demás atribuciones y disposiciones necesarias de este órgano
+auxiliar se desarrollarán en el Reglamento.
+
+CAPÍTULO II
+
+DEL CONSEJO DE HONOR Y JUSTICIA
+
+(REFORMADO, P.O. 30 DE AGOSTO DE 2018)
+
+Artículo 115. La Fiscalía General, en cumplimiento a lo establecido en
+el artículo 176 de la Ley del Sistema de Seguridad Pública del Estado
+de Morelos y 105 de la Ley General del Sistema Nacional de Seguridad
+Pública, integrará el Consejo de Honor y Justicia, y junto con la
+Visitaduría General y de Asuntos Internos, son las instancias
+encargadas en el respectivo ámbito de sus competencias y atribuciones,
+de conocer, resolver y ejecutar, los procedimientos administrativos del
+Régimen Disciplinario, en los términos establecidos en la Ley General
+de Responsabilidades Administrativas, en su caso, por esta Ley, y el
+Reglamento.
+
+Artículo 116. Los integrantes del Consejo de Honor velarán por la
+honorabilidad y reputación de la institución y combatirán con
+energía las conductas lesivas para la comunidad o la corporación; para
+tal efecto gozarán de amplias facultades para examinar los expedientes
+u hojas de servicio de los elementos para allegarse de la información
+necesaria para dictar su resolución.
+
+(REFORMADO, P.O. 30 DE AGOSTO DE 2018)
+
+Artículo 117. El Consejo de Honor estará integrado por:
+
+I. El Fiscal General o el representante que éste designe, quien
+fungirá como Presidente y contará con voz y voto de calidad, en caso
+de empate;
+
+II. Cada uno de los Fiscales Especializados en los términos de esta
+Ley, que contarán con voz y voto;
+
+III. Cada uno de los Fiscales Regionales en los términos de esta Ley,
+que contarán con voz y voto;
+
+IV. El titular del Órgano Interno de Control de esta Fiscalía General,
+que contará con voz y voto;
+
+V. La persona titular de la Visitaduría General y de Asuntos Internos,
+quien fungirá como Secretario Técnico y sólo tendrá derecho a voz.
+
+El cargo de Consejero de Honor y Justicia será honorífico, por lo que
+no se recibirá emolumento alguno por su desempeño.
+
+Artículo 118. Una vez agotado el procedimiento establecido y dentro de
+los plazos señalados en la presente Ley, el Consejo de Honor
+resolverá, en definitiva, por unanimidad de votos o por mayoría
+simple, conocerá y podrá confirmar, modificar o negar la propuesta de
+sanción que les sea turnada por la Visitaduría General y de Asuntos
+Internos, sin perjuicio de lo que dispone la Ley General de
+Responsabilidades Administrativas, que es de aplicación preferente.
+
+Artículo 119. El Consejo de Honor, por unanimidad de votos o por
+mayoría simple, del cincuenta más uno de sus miembros, conocerá y
+podrá confirmar, modificar o negar la propuesta de sanción, respecto
+de las medidas provisionales de suspensión temporal del presunto
+responsable y de los recursos establecido en ley.
+
+Artículo 120. El Consejo de Honor podrá proponer la condecoración de
+elementos que se hayan destacado por su actuación y desempeño en el
+servicio.
+
+Artículo 121. El Consejo de Honor deberá sesionar ordinariamente una
+vez al mes y extraordinariamente las veces que sean necesarias, previa
+convocatoria que para tal efecto expida el Secretario Técnico a
+petición del Presidente del Consejo de Honor, la cual deberá emitirse
+con tres días o veinticuatro horas de anticipación por lo menos,
+respectivamente.
+
+Artículo 122. Las resoluciones para la aplicación de sanción,
+deberán estar fundadas y motivadas, en las que se deberá tomar en
+consideración las circunstancias que establece el artículo 76 de la
+Ley General de Responsabilidades Administrativas.
+
+Artículo 123. Las resoluciones que tome el Consejo de Honor causarán
+ejecutoria una vez transcurrido el término para impugnar la misma, y su
+resolución se agregará a los expedientes personales u hojas de
+servicio de cada Servidor Público sancionado.
+
+Cuando se imponga suspensión temporal o destitución, se notificará a
+los Sistemas Nacional y Estatal de Seguridad Pública, para su control y
+trámites legales a que haya lugar, su incumplimiento dará lugar a las
+sanciones previstas por la Ley General de Responsabilidades
+Administrativas y la legislación aplicable en la materia.
+
+Artículo 124. Para los efectos de práctica de diligencias, audiencias
+y notificaciones, se consideran hábiles todos los días del año de las
+ocho a las diecinueve horas, excepto sábados y domingos; tratándose de
+investigaciones, serán hábiles todos los días del año y las
+veinticuatro horas del día.
+
+Artículo 125. La persona titular de la Visitaduría General y de
+Asuntos Internos, de forma razonada en los expedientes y por causas
+justificadas, podrá habilitar días y horas inhábiles, a los
+Servidores Públicos en funciones de notificadores, para la práctica
+del emplazamiento o primera notificación, las subsecuentes deberán
+practicarse dentro de los días y horas hábiles en los términos
+señalados en el artículo anterior.
+
+Artículo 126. El Reglamento deberá garantizar la debida transparencia
+y objetividad en la evaluación de los méritos e idoneidad de aquellos
+que formen parte del mismo, para efectos del Servicio Civil de Carrera.
+
+Artículo 127. Las disposiciones del Reglamento por cuanto al Servicio
+de Carrera se encaminarán a fortalecer el Sistema de Seguridad Social
+de los Agentes del Ministerio Público, Peritos y Agentes de la Policía
+de Investigación Criminal, y sus dependientes económicos, para lo cual
+se deberá instrumentar las medidas para dar cumplimiento a las
+disposiciones de la Ley de Prestaciones de Seguridad Social de las
+Instituciones Policiales y de Procuración de Justicia del Sistema
+Estatal de Seguridad Pública.
+
+Artículo 128. La reincorporación al Servicio de Carrera del personal
+que haya sido suspendido provisionalmente, se autorizará por el Consejo
+de Honor, en los términos que señale el Reglamento, siempre que la
+resolución que emita no determine su separación definitiva.
+
+Las demás atribuciones y disposiciones necesarias de este órgano
+auxiliar se desarrollarán en el Reglamento.
+
+CAPÍTULO III
+
+DEL ÓRGANO DE CONTROL INTERNO
+
+Artículo 129. El titular del Órgano Interno de Control de la Fiscalía
+deberá de cumplir los requisitos que se establecen para el Auditor
+General de la Entidad, será nombrado por el Congreso del Estado por
+seis años en términos de lo dispuesto por la Constitución Local, y
+solo podrá ser removido por alguna de las causas graves que establece
+la Ley General de Responsabilidades Administrativas.
+
+Artículo 130. El Órgano Interno de Control de la Fiscalía tendrá las
+siguientes obligaciones:
+
+I. Planear, programar y efectuar auditorías, inspecciones o visitas a
+las diversas áreas administrativas que integran la Fiscalía y
+coadyuvar con la Entidad de Auditoría y Fiscalización en los casos que
+le indique respecto de la Fiscalía;
+
+II. Presentar denuncias o querellas ante la autoridad competente por la
+presunción de actos constitutivos de delito imputables a los servidores
+públicos de la Fiscalía;
+
+III. Requerir a las unidades administrativas de la Fiscalía, la
+información necesaria para cumplir con sus atribuciones;
+
+IV. Intervenir en la elaboración de actas entrega – recepción en
+términos de la normativa, y
+
+V. Las demás que le atribuyan las disposiciones legales y
+reglamentarias aplicables.
+
+Artículo 131. Para el ejercicio de las atribuciones que tiene
+conferidas el órgano interno de control de la Fiscalía, contará con
+los servidores públicos y los recursos económicos que le permita el
+presupuesto que le sea asignado por el Congreso del Estado.
+
+Las demás atribuciones y disposiciones necesarias de este órgano
+auxiliar se desarrollarán en el Reglamento.
+
+TÍTULO CUARTO
+
+DE LOS ÓRGANOS AUXILIARES DE LA FISCALÍA GENERAL
+
+Artículo 132. Para el cumplimiento de sus funciones la Fiscalía
+General cuenta con las siguientes Unidades Administrativas Auxiliares:
+
+I. El Instituto de Procuración de Justicia, Escuela de Investigación y
+Litigación Oral;
+
+II. El CECC, y
+
+III. Los que se requieran por necesidades del servicio previo acuerdo
+del Fiscal General que se publique en el Periódico Oficial.
+
+CAPÍTULO I
+
+DEL INSTITUTO DE PROCURACIÓN DE JUSTICIA ESCUELA DE INVESTIGACIÓN
+
+Artículo 133. Los Agentes del Ministerio Público y sus Oficiales
+Auxiliares del Ministerio Público, Peritos y Agentes de la Policía de
+Investigación Criminal están obligados a asistir a cursos, seminarios,
+talleres y demás eventos académicos que imparta el Instituto de
+Procuración de Justicia, Escuela de Investigación, como los que se
+impartan en colaboración con Instituciones y Organismos Públicos y
+Privados, nacionales y extranjeros para su capacitación y
+especialización, con la finalidad de profesionalizar sus labores, para
+acrecentar su grado de eficacia, eficiencia y calidad.
+
+Artículo 134. El Instituto de Procuración de Justicia, Escuela de
+Investigación, es el órgano auxiliar de la Fiscalía General en
+materia de investigación, formación, capacitación y actualización de
+los miembros de la Fiscalía General, de quienes aspiren a pertenecer a
+ésta, de profesionales del derecho, peritos y demás, el cual contará
+con el reconocimiento o reconocimientos de validez oficial de estudios
+que sean necesarios, expedidos por autoridad competente, para el
+cumplimiento de sus funciones de profesionalización.
+
+El funcionamiento y atribuciones del Instituto de Procuración de
+Justicia se regirán por las normas que determine el Fiscal General.
+
+Artículo 135. El Instituto de Procuración de Justicia tendrá un
+Director General quien será nombrado y removido libremente por el
+Fiscal General.
+
+Artículo 136. El Director General tendrá como función principal la
+determinación de los programas de investigación, preparación y
+capacitación de los alumnos del Instituto, los mecanismos de
+evaluación y rendimiento, la elaboración de los proyectos de
+reglamentos del Instituto y exámenes de oposición, y demás que se
+mencionen en el Reglamento del Instituto.
+
+Artículo 137. Los programas que imparta el Instituto de Procuración de
+Justicia tendrán como objeto lograr que los integrantes de la Fiscalía
+General o quienes aspiren a ingresar a ésta, fortalezcan los
+conocimientos y habilidades necesarios para el adecuado desempeño de la
+función de procuración de justicia. Para ello, el Instituto
+establecerá los programas y cursos tendientes a:
+
+I. Desarrollar el conocimiento práctico de los trámites, diligencias y
+actuaciones que forman parte de los procedimientos y asuntos de la
+competencia del Ministerio Público;
+
+II. Perfeccionar las habilidades y técnicas en materia de
+investigación y judicialización de carpetas de investigación;
+
+III. Reforzar, actualizar y profundizar los conocimientos respecto del
+ordenamiento jurídico positivo, doctrina y jurisprudencia;
+
+IV. Proporcionar y desarrollar técnicas de análisis, argumentación e
+interpretación que permitan aportar correctamente los datos y medios de
+pruebas, como las pruebas y evidencias en los procedimientos, así como
+atender adecuadamente las etapas del enjuiciamiento oral;
+
+V. Difundir las técnicas de organización en la función de
+procuración de justicia;
+
+VI. Contribuir al desarrollo de la vocación de servicio, así como al
+ejercicio de los valores y principios éticos inherentes a la función
+de procuración de justicia;
+
+VII. Promover intercambios académicos con instituciones de educación
+superior;
+
+VIII. Celebrar convenios con instituciones académicas que conduzcan al
+cumplimiento de sus fines, y
+
+IX. Crear los institutos educativos, de investigación, forenses y de
+judicialización que sean necesario para el cumplimiento de sus
+objetivos, los que serán generados por acuerdo del Fiscal General.
+
+Artículo 138. El Instituto de Procuración de Justicia contará con un
+área de investigación, la cual tendrá como función primordial la
+realización de los estudios necesarios para el desarrollo y
+mejoramiento de las funciones de la Fiscalía General.
+
+CAPÍTULO II
+
+DEL CECC
+
+Artículo 139. El Centro de Evaluación y Control de Confianza del
+Estado de Morelos, dependerá de la Fiscalía General y gozará de
+autonomía técnica y operativa para el desarrollo de sus funciones, con
+domicilio en Cuernavaca, Morelos; sin perjuicio de que pueda establecer
+oficinas para el logro de sus objetivos en otras localidades de la
+Entidad, mediante Acuerdo que al efecto expida el Fiscal General.
+
+Además de lo previsto en el presente Capítulo, el CECC se regirá por
+lo que disponga su Reglamento Interno y demás normativa aplicable.
+
+Artículo 140. El CECC tiene como objeto realizar las evaluaciones de
+control de confianza, que en los procesos de selección de aspirantes,
+evaluación para la permanencia, desarrollo y la promoción, con
+carácter obligatorio establezcan las leyes aplicables, tanto para los
+aspirantes o integrantes de las instituciones policiales, de
+procuración de justicia, del sistema penitenciario y de las unidades
+encargadas de la seguridad pública a nivel estatal, municipal, así
+como para los encargados de su capacitación, formación y
+profesionalización durante el desarrollo del servicio de carrera; y
+para los prestadores del servicio de seguridad privada y todas aquellas
+personas que realicen funciones y servicios relacionados con la
+seguridad pública; de conformidad con la Ley General del Sistema
+Nacional de Seguridad Pública, la Ley del Sistema de Seguridad Pública
+del Estado de Morelos y demás normativa aplicable.
+
+Artículo 141. El CECC para el cumplimiento de su objeto, además de las
+previstas en la Ley General del Sistema Nacional de Seguridad Pública y
+la Ley del Sistema de Seguridad Pública del Estado de Morelos, cuenta
+con las atribuciones siguientes:
+
+I. Establecer y aplicar el proceso de evaluación de control de
+confianza de los aspirantes e integrantes de las instituciones de
+seguridad pública, del personal encargado de la capacitación,
+formación y profesionalización de las referidas instituciones, así
+como de los auxiliares de la seguridad pública, conforme a la normativa
+expedida por el Centro Nacional y demás aplicable en la materia;
+
+II. Aplicar evaluación por filtro, o bien, solo la fase toxicológica,
+cuando ello sea aplicado de acuerdo a la normativa correspondiente;
+
+III. Determinar las normas de carácter técnico que regirán el proceso
+de evaluación de control de confianza, de conformidad con los criterios
+expedidos por el Centro Nacional;
+
+IV. Establecer un sistema de registro y control que permita preservar la
+confidencialidad y resguardo de expedientes, en términos de la
+normativa aplicable;
+
+V. Verificar el cumplimiento de los perfiles médico, ético y de
+personalidad de los aspirantes e integrantes de las instituciones de
+seguridad pública, el personal encargado de la capacitación,
+formación y profesionalización de las referidas instituciones, y de
+los auxiliares de la seguridad pública en los procesos de evaluación
+de control de confianza;
+
+VI. Comprobar los niveles de escolaridad de los aspirantes e integrantes
+de las instituciones de seguridad pública, el personal encargado de la
+capacitación, formación y profesionalización de las referidas
+instituciones, así como de los auxiliares de la seguridad pública;
+
+VII. Determinar y aprobar el procedimiento de certificación de los
+aspirantes e integrantes de las instituciones de seguridad pública, el
+personal encargado de la capacitación, formación y profesionalización
+de las referidas instituciones, así como de los auxiliares de la
+seguridad pública;
+
+VIII. Proponer los perfiles de grado de los integrantes de las
+instituciones de seguridad pública;
+
+IX. Proponer las bases de funcionamiento del sistema de evaluación, en
+términos de la normativa aplicable;
+
+X. Establecer las políticas de evaluación de los aspirantes e
+integrantes de las instituciones de seguridad pública, del personal
+encargado de la capacitación, formación y profesionalización de las
+referidas instituciones, así como de los auxiliares de la seguridad
+pública, de conformidad con la normativa aplicable y el principio de
+confidencialidad;
+
+XI. Informar a la instancia competente sobre los resultados de las
+evaluaciones que se realicen para el ingreso, promoción y permanencia,
+según corresponda, de los aspirantes e integrantes de las instituciones
+de seguridad pública, del personal encargado de la capacitación,
+formación y profesionalización de las referidas instituciones, así
+como de los auxiliares de la seguridad pública;
+
+XII. Solicitar a las áreas de adscripción correspondientes se efectúe
+el seguimiento individual de los integrantes de las instituciones de
+seguridad pública evaluados, en los que se identifiquen factores de
+riesgo que interfieran o pongan en riesgo el desempeño de sus
+funciones;
+
+XIII. Detectar áreas de oportunidad a fin de establecer programas de
+prevención y atención que permitan solucionar la problemática
+identificada;
+
+XIV. Proporcionar a las instituciones de seguridad pública y a los
+auxiliares de la seguridad pública la asesoría que requieran sobre
+información de su competencia;
+
+XV. Proporcionar a las autoridades competentes el resultado integral y
+cartas de autorización de los aspirantes e integrantes de las
+instituciones de seguridad pública correspondientes, así como a los
+auxiliares de la seguridad pública respecto de los cuales hayan sido
+evaluados y que se requieran en procesos administrativos o judiciales;
+
+XVI. Elaborar los informes de resultados para la aceptación o rechazo
+de los aspirantes a ingresar a las instituciones de seguridad pública;
+
+XVII. Proponer la celebración de convenios con empresas auxiliares de
+la seguridad pública, de conformidad con la normativa aplicable;
+
+XVIII. Integrar el Sistema Nacional de Acreditación y Control de
+Confianza, en términos de lo dispuesto por la Ley General, y
+
+XIX. Las demás que le confiera su Reglamento Interno, otros
+ordenamientos jurídicos aplicables y las que resulten compatibles
+conforme a su objeto.
+
+Artículo 142. El CECC estará a cargo del Director General, quien será
+nombrado y removido libremente por el Fiscal General, y deberá reunir
+los siguientes requisitos:
+
+I. Ser ciudadano mexicano, preferentemente morelense;
+
+II. Estar en pleno ejercicio de sus derechos;
+
+III. Ser de notoria buena conducta, sin haber estado sujeto a proceso
+penal alguno, ni haber sido sancionado en virtud de responsabilidad
+administrativa;
+
+IV. Aprobar la evaluación de control de confianza correspondiente;
+
+V. Tener conocimientos y experiencia en materia administrativa, y
+
+VI. Tener 30 años de edad cumplidos a la fecha de su designación.
+
+Artículo 143. Corresponden al Director General las siguientes
+atribuciones:
+
+I. Planear, programar, dirigir, controlar y evaluar el funcionamiento
+del CECC, estableciendo las medidas necesarias para el cumplimiento de
+su objeto, atribuciones y Programas;
+
+II. Acordar con el Fiscal General los asuntos materia de su competencia;
+
+III. Proponer al Fiscal General las políticas y lineamientos que
+normarán el funcionamiento del CECC;
+
+IV. Representar al CECC ante otras entidades y autoridades federales,
+estatales y municipales, así como el sector privado y social;
+
+V. Suscribir los documentos relativos al ejercicio de sus facultades,
+así como aquellos que le sean señalados por delegación, autorización
+o le correspondan por suplencia, incluyendo aquellos relativos a la
+integración de los expedientes emanados del ejercicio de sus funciones;
+
+VI. Formular y proponer al Fiscal General, las normas técnicas que
+rijan el proceso de evaluación de control de confianza en términos de
+los lineamientos, procedimientos y protocolos determinados por el Centro
+Nacional;
+
+VII. Promover, proponer, formalizar y suscribir convenios, contratos y
+demás instrumentos jurídicos, con las instancias federales, estatales,
+municipales e instituciones públicas o privadas, así como con las
+personas físicas y morales en asuntos de su competencia, en términos
+de la normativa aplicable, a efecto de fortalecer la seguridad en
+general; ello con la aprobación del Fiscal General;
+
+VIII. Proponer al Fiscal General los lineamientos y programas de
+capacitación para los servidores públicos del CECC, acorde a las
+políticas, instrumentos y demás normativa aplicable en la materia;
+
+IX. Ejecutar y supervisar la debida aplicación de los lineamientos
+técnicos que establezca el Centro Nacional; así como dirigir,
+coordinar y ejecutar el proceso de evaluación de control de confianza a
+que deberán someterse los aspirantes e integrantes de las instituciones
+de seguridad pública; el personal encargado de la capacitación,
+formación y profesionalización de las referidas instituciones, así
+como los auxiliares de la seguridad pública;
+
+X. Coordinar y programar con las instituciones de seguridad pública y
+los auxiliares de la seguridad pública, según corresponda, la
+aplicación del proceso de evaluación de control de confianza de sus
+aspirantes e integrantes, personal operativo y administrativo,
+respectivamente;
+
+XI. Rendir al Fiscal General un informe mensual, o cuando le sea
+requerido, sobre los resultados de las evaluaciones que se practiquen a
+los aspirantes e integrantes de las instituciones de seguridad pública,
+del personal encargado de la capacitación, formación y
+profesionalización de las referidas instituciones, así como de los
+auxiliares de la seguridad pública y, en general, de las actividades
+desarrolladas por el CECC;
+
+XII. Administrar, integrar y resguardar los expedientes que se integren
+durante los procesos de evaluaciones practicados por el CECC, observando
+en todo momento la normativa aplicable en materia de transparencia y de
+datos personales, así como demás normativa aplicable;
+
+XIII. Informar a las personas titulares de las instituciones de
+seguridad pública, así como de los auxiliares de seguridad pública, o
+bien, a los órganos de control interno que correspondan, aquellas
+situaciones en los que se identifiquen factores de riesgo que
+interfieran o pongan en riesgo al desempeño de las funciones de sus
+integrantes, para que actúen conforme a la normativa aplicable;
+
+XIV. Informar a las personas titulares de las instituciones de seguridad
+pública, a los auxiliares de seguridad pública, y demás autoridades
+competentes el resultado del proceso de evaluación de control de
+confianza, efectuados a los evaluados;
+
+XV. Establecer una base de datos, así como un sistema de registro y
+resguardo de expedientes que se integren durante el proceso de
+evaluación de control de confianza, mismos que serán confidenciales y
+estarán sujetos a las disposiciones previstas en la Ley General de
+Transparencia y Acceso a la Información Pública y a la Ley de
+Trasparencia y Acceso a la Información Pública del Estado de Morelos;
+salvo los casos establecidos en dichas normas y por la Ley General del
+Sistema Nacional de Seguridad Pública, la Ley del Sistema de Seguridad
+Pública del Estado de Morelos y cualquier otra disposición aplicable
+emitida por el Centro Nacional;
+
+XVI. Definir y establecer los vínculos necesarios para una
+coordinación eficaz entre las autoridades federales, estatales y
+municipales, que permitan el cumplimiento del objeto del CECC;
+
+XVII. Expedir y revalidar, según corresponda, los certificados
+conducentes, a los aspirantes e integrantes de las instituciones de
+seguridad pública, que hayan acreditado ante la autoridad competente el
+proceso de certificación a que se refiere la Ley General del Sistema
+Nacional de Seguridad Pública, la Ley del Sistema de Seguridad Pública
+del Estado de Morelos y demás normativa aplicable;
+
+XVIII. Expedir, conforme a los lineamientos que se establezcan al
+respecto, la documentación necesaria del personal de apoyo y al
+encargado de la capacitación, formación y profesionalización de las
+Instituciones de Seguridad Pública y de los auxiliares de la seguridad
+pública, que hayan acreditado el proceso de evaluación de control de
+confianza aplicados por el CECC, en términos de lo dispuesto por la Ley
+General del Sistema Nacional de Seguridad Pública, la Ley del Sistema
+de Seguridad Pública del Estado de Morelos, y demás normativa
+aplicable;
+
+XIX. Cancelar los certificados emitidos por el CECC;
+
+XX. Establecer un registro de Certificados y demás documentos de las
+personas acreditadas respecto del proceso de evaluación de control de
+confianza;
+
+XXI. Vigilar que las evaluaciones realizadas por el CECC se ajusten a
+los principios de legalidad, eficiencia, profesionalismo, honradez,
+lealtad, objetividad, imparcialidad y respeto a los derechos humanos;
+
+XXII. Proponer al Fiscal Generallas (sic) disposiciones administrativas
+que rijan el funcionamiento del CECC;
+
+XXIII. Elaborar y proponer al Fiscal General los proyectos para la
+creación o modificación de las disposiciones jurídicas que regulan su
+ámbito de competencia, para el mejor desempeño de sus funciones;
+
+XXIV. Proponer al Fiscal General los planes y programas de trabajo que
+formulen las unidades administrativas del CECC, así como la
+designación, promoción o remoción de los servidores públicos
+adscritos al mismo;
+
+XXV. Promover ante las instancias correspondientes, la acreditación del
+CECC, la vigencia en cuanto a sus procesos y personal, así como la
+homologación, validación y actualización de los procedimientos y
+criterios de evaluación que aplique el mismo, en términos de lo
+establecido en la normativa aplicable;
+
+XXVI. Atender y coadyuvar en todos los juicios, asuntos, procedimientos
+que se sigan en forma de juicio, o negocios en que el CECC sea parte,
+tercero, o tenga cualquier otro carácter;
+
+XXVII. Asegurar la cadena de custodia de las muestras recabadas a los
+evaluados en la fase correspondiente, con motivo de la aplicación del
+proceso de evaluación de control de confianza, ello en términos del
+Código Nacional de Procedimientos Penales y demás normativa aplicable;
+
+XXVIII. Definir y controlar la observancia de los criterios de
+aceptación que deberán contener los dictámenes para la elaboración y
+expedición del Certificado correspondiente;
+
+XXIX. Resguardar y, en su caso, supervisar las condiciones de seguridad,
+de los expedientes que contengan las evaluaciones, sus resultados y
+demás documentos o insumos de aquellas, y de los cuales se tenga la
+obligación de custodiar, de acuerdo a lo establecido por el Centro
+Nacional, la Ley Estatal de Documentación y Archivos de Morelos y
+demás normativa en la materia;
+
+XXX. Solicitar a las instituciones gubernamentales o no gubernamentales,
+los informes o documentación necesarios a efecto de cumplir su objeto,
+en términos de la normativa aplicable;
+
+XXXI. Coordinar el ejercicio de las funciones de las unidades
+administrativas a su cargo;
+
+XXXII. Elaborar y proponer al Fiscal General, los Programas y el
+anteproyecto del Presupuesto Anual del CECC y ejercer los recursos
+asignados conforme a lo previsto en la normativa aplicable;
+
+XXXIII. Vigilar la correcta aplicación de los recursos destinados al
+CECC, así como administrar el buen funcionamiento y desempeño de los
+recursos humanos, materiales, servicios generales, tecnologías de la
+información y comunicación que sean asignados al CECC para el
+desempeño de sus funciones;
+
+XXXIV. Proponer al Fiscal General, las tarifas por concepto de
+aplicación de exámenes de control de confianza y demás servicios que,
+en su caso, preste el CECC;
+
+XXXV. Proponer al Fiscal General la delegación de sus facultades en
+servidores públicos subalternos;
+
+XXXVI. Solicitar a las diversas autoridades públicas y privadas, así
+como a los entes del derecho privado que correspondan, información
+referente a los evaluados, en relación a su situación patrimonial,
+legal, socioeconómica, laboral o administrativa;
+
+XXXVII. Coordinar la elaboración de actas circunstanciadas, en las que
+se desprenda una conducta anómala por parte de los evaluados que
+contravenga las disposiciones internas correspondientes del CECC y, en
+general, cualquier conducta que retrase o impida la aplicación del
+proceso de evaluación de control de confianza;
+
+XXXVIII. Expedir certificaciones para efectos de carácter
+administrativo y jurisdiccional, de las constancias que obren en sus
+expedientes o archivos y que hayan sido generados en el ejercicio de sus
+atribuciones, de conformidad con la normativa aplicable, previo pago de
+los respectivos derechos, cuando así proceda;
+
+XXXIX. Mantener coordinación permanente con la Comisión Estatal de
+Seguridad Pública, así como con las unidades administrativas estatales
+y municipales, a fin de establecer los procedimientos a seguir en las
+etapas de reclutamiento y preselección de aspirantes, así como para la
+emisión del certificado correspondiente, y
+
+XL. Las demás que en el ámbito de su competencia le confiera la Ley
+General del Sistema Nacional de Seguridad Pública, la Ley del Sistema
+de Seguridad Pública del Estado de Morelos y demás normativa
+aplicable.
+
+Artículo 144. Para el cumplimiento y desarrollo de sus funciones el
+CECC contará con las unidades administrativas que se determinen en su
+Reglamento Interno, así como el personal técnico y administrativo
+necesario, cuyas atribuciones y funciones serán determinadas por las
+demás disposiciones administrativas que al efecto se emitan.
+
+Artículo 145. Los documentos e información electrónica deberán
+tratarse conforme los ordenamientos aplicables en materia de
+transparencia y acceso a la información pública. Los expedientes del
+personal evaluado, deberán integrarse de forma homologada y se
+resguardarán preferentemente en el archivo confidencial.
+
+TÍTULO QUINTO
+
+DEL PATRONATO DE LA FISCALÍA GENERAL
+
+CAPÍTULO ÚNICO
+
+GENERALIDADES DEL PATRONATO
+
+Artículo 146. El Patronato de la Fiscalía General es el órgano cuyo
+objeto es el generar recursos financieros, administrativos y humanos,
+así como el cuidado del patrimonio de la Fiscalía por conducto de su
+órgano colegiado.
+
+Artículo 147. El titular del Patronato será nombrado por el órgano
+colegiado de la terna que le presente el Fiscal General, quien lo podrá
+remover libremente.
+
+Artículo 148. En el Reglamento se establecerán las atribuciones del
+Patronato, su órgano colegiado, y demás cuestiones relacionadas con su
+integración y operación.
+
+TÍTULO SEXTO
+
+DE LA COMISIÓN DE REFORMAS
+
+CAPÍTULO ÚNICO
+
+GENERALIDADES DE LA COMISIÓN DE REFORMAS
+
+Artículo 149. La Fiscalía General cuenta con una Comisión de Reformas
+a la presente Ley como órgano revisor y garante de la autonomía
+constitucional de la misma que se integra de la forma siguiente:
+
+I. El Fiscal General;
+
+II. Los titulares de las Fiscalías Especializadas establecidas en esta
+Ley;
+
+III. El Fiscal Metropolitano;
+
+IV. El Fiscal Regional Zona Oriente, y
+
+V. El Fiscal Regional Zona Sur Poniente.
+
+Artículo 150. La Comisión de Reformas cuenta con las siguientes
+atribuciones:
+
+I. Mantener la vigencia normativa de la presente Ley y Reglamentos de la
+Fiscalía General y Fiscalía Anticorrupción;
+
+II. Llevar un registro de las propuestas de reformas, adiciones y
+cualquier modificación a la presente Ley y su normatividad interna;
+
+III. Participar en forma activa con la Comisión o Comisiones
+Legislativas del H. Congreso del Estado de Morelos, en los procesos de
+reformas, adiciones y cualquier modificación a la presente Ley;
+
+IV. Recibir y analizar el proyecto de iniciativa de reformas, adiciones
+y cualquier modificación a la presente Ley, para su coparticipación
+con la Comisión respectiva del H. Congreso del Estado;
+
+V. Las demás que se requieran para el eficaz cumplimiento de su
+función garante de la autonomía de la Fiscalía General.
+
+[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 22 DE
+MAYO DE 2019, PÁGINA 18.]
+
+(REFORMADO, P.O. 22 DE MAYO DE 2019)
+
+Artículo 151. La Comisión de Reformas se regirá por su propio
+Reglamento.
+
+DISPOSICIONES TRANSITORIAS
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo
+Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70,
+fracción XVII, incisos a) y c), de la Constitución Política del
+Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su
+publicación en el Periódico Oficial "Tierra y Libertad", órgano de
+difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se abroga la Ley Orgánica de la Fiscalía General del Estado
+Libre y Soberano de Morelos, aprobada el 12 de marzo del 2014 y
+publicada en el Periódico Oficial "Tierra y Libertad", número 5172, el
+día 26 del mismo mes y año.
+
+CUARTA. Se abroga el "ACUERDO NÚMERO 18 DEL C. PROCURADOR GENERAL DE
+JUSTICIA DEL ESTADO DE MORELOS, POR EL QUE LA PROCURADURÍA GENERAL DE
+JUSTICIA DEL ESTADO, FORMALIZA LA CREACIÓN DE LA FISCALÍA
+ESPECIALIZADA DE INVESTIGACIÓN DEL DELITO DE SECUESTRO, DENOMINADA
+"UNIDAD DE COMBATE AL SECUESTRO", publicado en el Periódico Oficial
+"Tierra y Libertad" número 4680, el día 4 de febrero de 2009, así
+como los demás Acuerdos que se contrapongan a lo previsto en el
+presente Decreto.
+
+QUINTA. Una vez publicado el presente Decreto, dentro de los ciento
+veinte días siguientes, contados a partir del inicio de vigencia del
+presente Decreto, se deberán realizar las adecuaciones que se requieran
+a las leyes correspondientes para su armonización con el presente
+Decreto.
+
+SEXTA. Dentro del mismo término, la Fiscalía General deberá emitir su
+Reglamento Interior, y una vez publicado éste, dentro de los noventa
+días siguientes, emitirá los restantes Reglamentos a que se refiere la
+presente Ley, sin perjuicio de continuar aplicando los reglamentos
+vigentes, en lo que no se opongan a la presente.
+
+SÉPTIMA. La Fiscalía Anticorrupción, en uso de su facultad de
+gestión, emitirá en el plazo a que se refiere la Disposición Quinta
+Transitoria, su nuevo Reglamento Interior, y una vez publicado éste,
+dentro de los noventa días siguientes, emitirá los restantes
+reglamentos a que se refiere la presente Ley, sin perjuicio de continuar
+aplicando los reglamentos vigentes, en lo que no se opongan a la
+presente.
+
+OCTAVA. En mérito de lo anterior se derogan todas las disposiciones de
+igual o menor rango jerárquico que se opongan al presente Decreto.
+
+NOVENA. En todo caso no se afectará la situación administrativa o
+laboral del personal que presta sus servicios en las Fiscalías General
+y Especializada en Combate a la Corrupción.
+
+DÉCIMA. Los bienes muebles e inmuebles propiedad del Gobierno del
+Estado, que ha venido ocupando y administrando la Fiscalía General del
+Estado de Morelos hasta ahora, pasan a formar parte del patrimonio de
+ésta última por virtud de esta Ley desde el momento de su entrada en
+vigor, dada su naturaleza de órgano constitucional autónomo, otorgada
+en términos del artículo 79-A de la Constitución Política del Estado
+Libre y Soberano de Morelos; para lo cual el Titular del Poder Ejecutivo
+Estatal, a través de las Secretarías, Dependencias y Entidades
+competentes, deberá realizar, gestionar, emitir o celebrar todos los
+actos jurídicos y administrativos idóneos que resulten necesarios al
+efecto, conforme a la normativa aplicable.
+
+Toda vez que respecto del bien inmueble identificado como Lote 10,
+manzana 10, zona 01, poblado de Tlaltenango, ubicado en avenida Emiliano
+Zapata, número 803, colonia Bella Vista, en esta ciudad de Cuernavaca,
+Morelos, con clave catastral 1100-19-007-009, y una superficie de
+11,444.00 m2 (once mil cuatrocientos cuarenta y cuatro metros
+cuadrados), conforme a la autorización concedida mediante Decreto
+Legislativo número dos mil doscientos uno, emitido por este Congreso y
+publicado en el Periódico Oficial "Tierra y Libertad", número 5513, el
+16 de julio de 2017; se tiene conocimiento de que el Ejecutivo Estatal
+ha realizado la desincorporación respectiva por Decreto Administrativo,
+publicado en el mismo órgano de difusión, número 5546 de 01 de
+noviembre de 2017, sin que a la fecha se haya materializado la
+enajenación del mismo; por lo que se deberá estar a lo señalado en el
+primer párrafo de la presente Disposición Transitoria.
+
+Así mismo, el Poder Ejecutivo del Estado, por conducto de la Dirección
+General de Patrimonio de la Secretaría de Administración, debe
+informar al Congreso del Estado respecto del cumplimiento de la presente
+Disposición Transitoria y, por ende, del Decreto Legislativo número
+dos mil doscientos uno.
+
+DÉCIMA PRIMERA. Los bienes muebles e inmuebles propiedad del Gobierno
+del Estado o del Sistema para el Desarrollo Integral de la Familia del
+Estado de Morelos, que se han venido ocupando y administrando hasta
+ahora por la Procuraduría de Protección de Niñas, Niños,
+Adolescentes y la Familia y por la Dirección de Centros de Asistencia
+Social, ambos pertenecientes a dicho Sistema, así como por sus
+albergues o centros de asistencia social, mismos que quedan a cargo de
+la Fiscalía General del Estado de Morelos por virtud de este acto
+legislativo, pasan a formar parte del patrimonio de ésta última desde
+el momento de su entrada en vigor; para lo cual el Poder Ejecutivo
+Estatal, a través de las Secretarías, Dependencias y Entidades
+competentes, deberá realizar, gestionar, emitir o celebrar todos los
+actos jurídicos y administrativos idóneos que resulten necesarios al
+efecto, conforme a la normativa aplicable.
+
+De forma complementaria, las Secretarías, Dependencias y Entidades de
+la Administración Pública, deben realizar los actos jurídicos y
+administrativos, necesarios e idóneos, para lograr que los recursos
+humanos, materiales y financieros que el Sistema para el Desarrollo
+Integral de la Familia del Estado de Morelos ha ocupado y proyectado
+para el funcionamiento de la Procuraduría de Protección de Niñas,
+Niños, Adolescentes y la Familia y los centros de asistencia social; se
+trasmitan a la Fiscalía General del Estado dada su autonomía
+constitucional.
+
+DÉCIMA SEGUNDA. Las funciones, facultades, derechos y obligaciones
+establecidos a cargo de la Procuraduría de Protección de Niñas,
+Niños, Adolescentes y la Familia y la Dirección de Centros de
+Asistencia Social, en cualquier ordenamiento legal, así como en
+contratos, convenios o acuerdos celebrados con Secretarías,
+Dependencias o Entidades de la Administración Pública Estatal, Federal
+y de los Municipios, o con cualquier persona física o moral,
+continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora
+adscrita a la Fiscalía General del Estado de Morelos, por virtud del
+presente Decreto.
+
+DÉCIMA TERCERA. Los asuntos que se encuentren en trámite o en proceso,
+incluidos los de adopciones, a cargo de la Procuraduría de Protección
+de Niñas, Niños, Adolescentes y la Familia o la Dirección de Centros
+de Asistencia Social, continuarán tramitándose por esta, hasta su
+conclusión y en los términos que establezca la normativa aplicable,
+sin que el cambio de su adscripción a la Fiscalía General del Estado
+pueda modificar o alterar su curso y resultado.
+
+DÉCIMA CUARTA. La Fiscalía General del Estado de Morelos y el Sistema
+para el Desarrollo Integral de la Familia, al realizar actuaciones para
+materializar el traslado de funciones y unidades a que se refiere el
+presente instrumento jurídico, deberán velar por la seguridad, vida e
+integridad de las personas que se encuentren bajo su custodia en alguno
+de los albergues y centros de asistencia social que se encontraban a
+cargo de dicho Sistema.
+
+La Fiscalía General del Estado y el Sistema para el Desarrollo Integral
+de la Familia, una vez que entre en vigor el presente instrumento
+legislativo, deberán prestarse todas las facilidades para el traslado
+de los Albergues y Centros de Asistencia Social que hasta la presente
+reforma se encontraban a cargo de dicho Sistema.
+
+DÉCIMA QUINTA. El personal adscrito a la Procuraduría de Protección
+de Niñas, Niños, Adolescentes y la Familia, la Dirección de Centros
+de Asistencia Social y el Centro de Evaluación y Control de Confianza
+del Estado de Morelos, que pase a formar parte de la Fiscalía General
+del Estado de Morelos, en ninguna forma podrá resultar afectado en sus
+derechos; debiéndose tomar las acciones necesarias para ello.
+
+DÉCIMA SEXTA. En un plazo no mayor de 180 días hábiles, contados a
+partir de la vigencia del presente Decreto, el Titular del Poder
+Ejecutivo Estatal deberá realizar o emitir las adecuaciones
+reglamentarias que se estimen pertinentes conforme lo previsto en el
+presente Decreto.
+
+DÉCIMA SÉPTIMA. En un plazo no mayor de 180 días hábiles la Junta de
+Gobierno del Sistema para el Desarrollo Integral de la Familia del
+Estado de Morelos deberá realizar las adecuaciones normativas al
+Estatuto Orgánico, mismas que deberán inscribirse en el Registro
+Público de Organismos Descentralizados.
+
+DÉCIMA OCTAVA. El Sistema para el Desarrollo Integral de la Familia del
+estado de Morelos, la Fiscalía General del Estado de Morelos y demás
+Secretarías, Dependencias y Entidades, procederán a realizar los actos
+administrativos idóneos y necesarios, así como la entrega recepción
+correspondiente, a partir del siguiente día al que entre en vigor el
+presente Decreto.
+
+DÉCIMA NOVENA. Se abroga el Decreto por el que se reconoce y regula al
+Centro de Evaluación y Control de Confianza del Estado de Morelos como
+órgano desconcentrado de la Administración Pública Estatal, publicado
+en el Periódico Oficial "Tierra y Libertad", número 5585, el 07 de
+marzo de 2018.
+
+VIGÉSIMA. Las Secretarías, Dependencias y Entidades de la
+Administración Pública Estatal, deberán realizar los actos jurídicos
+y administrativos, necesarios e idóneos, para lograr la transferencia a
+la Fiscalía General del Estado de los recursos humanos, materiales y
+financieros que el Centro de Evaluación y Control de Confianza del
+Estado de Morelos ha ocupado y proyectado para su funcionamiento.
+
+VIGÉSIMA PRIMERA. Las funciones, facultades, derechos y obligaciones
+establecidos a cargo del Centro de Evaluación y Control de Confianza
+del Estado de Morelos, en cualquier ordenamiento legal, así como en
+contratos, convenios o acuerdos celebrados con Secretarías,
+Dependencias o Entidades de la Administración Pública Estatal, Federal
+y de los Municipios, o con cualquier persona física o moral,
+continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora
+adscrito a la Fiscalía General del Estado de Morelos, por virtud del
+presente Decreto; en especial los derechos de la acreditación otorgada
+por el Centro Nacional de Certificación y Acreditación.
+
+VIGÉSIMA SEGUNDA. El Fiscal General informará y realizará las
+acciones conducentes ante el Centro Nacional de Certificación y
+Acreditación, con relación a las adecuaciones realizadas por virtud de
+este Decreto, respecto del Centro de Evaluación y Control de Confianza
+del Estado de Morelos.
+
+Recinto Legislativo, en Sesión Ordinaria iniciada el día diez del mes
+de julio del año dos mil dieciocho.
+
+Atentamente. Los CC. Diputados Integrantes de la Mesa Directiva del
+Congreso del Estado. Dip. Hortencia Figueroa Peralta. Vicepresidenta en
+funciones de Presidenta. Dip. Silvia Irra Marín. Secretaria. Dip. Edith
+Beltrán Carrillo. Secretaria. Rúbricas.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido
+cumplimiento.
+
+Dado en la Residencia del Poder Ejecutivo, Casa Morelos, en la Ciudad de
+Cuernavaca, Capital del estado de Morelos a los once días del mes de
+julio de dos mil dieciocho.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+
+GRACO LUIS RAMÍREZ GARRIDO ABREU
+
+SECRETARIO DE GOBIERNO
+
+LIC. ÁNGEL COLÍN LÓPEZ
+
+RÚBRICAS.
+
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE
+LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
+
+P.O. 30 DE AGOSTO DE 2018.
+
+[N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS
+CUARENTA Y SIETE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES
+JURÍDICAS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE
+MORELOS Y DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE
+MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del
+Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70,
+fracción XVII, incisos a) y c), de la Constitución Política del
+Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su
+publicación en el Periódico Oficial “Tierra y Libertad”, órgano
+de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango
+jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. La Fiscalía General del Estado deberá realizar las gestiones,
+convenios o acciones que sean necesarias para respetar los derechos
+adquiridos de su personal con base bien sea en la Ley de Prestaciones de
+Seguridad Social de las Instituciones Policiales y de Procuración de
+Justicia del Sistema Estatal de Seguridad Pública o la Ley del Servicio
+Civil del Estado de Morelos.
+
+QUINTA. Se autoriza al Gobernador del Estado para que se constituya en
+garante avalista, deudor solidario, subsidiario o sustituto de la
+Fiscalía General del Estado de Morelos, para que en garantía del
+cumplimiento de todas y cada una de las obligaciones a su cargo,
+derivadas del pago por concepto de cuotas y aportaciones a favor del
+Instituto Mexicano del Seguro Social, solicite a la Secretaría de
+Hacienda y Crédito Público, afecte a favor de dicho órgano
+constitucional autónomo, las participaciones presentes y futuras que en
+ingresos federales le correspondan.
+
+En la firma del instrumento jurídico que formalice el acto materia de
+esta Disposición Transitoria, comparecerán en nombre y representación
+del Gobernador del Estado, las instituciones y los servidores públicos
+competentes, conforme a lo dispuesto en la Ley Orgánica de la
+Administración Pública del Estado de Morelos, y por la Fiscalía
+General del Estado de Morelos, el Fiscal General.
+
+La garantía de cumplimiento a las obligaciones que se contraen con la
+incorporación de los trabajadores de la Fiscalía General del Estado de
+Morelos, ante el Instituto Mexicano del Seguro Social, se establecerá
+con los recursos que a favor de dicho órgano constitucional autónomo
+se señalen en el Presupuesto de Egresos del Gobierno del Estado.
+
+Se autoriza al Poder Ejecutivo del Estado de Morelos a pagar
+directamente las cuotas y aportaciones que se generen por la
+incorporación voluntaria de la Fiscalía General del Estado de Morelos,
+al régimen obligatorio del Instituto Mexicano del Seguro Social,
+exclusivamente en el caso que la citada Fiscalía no cubra de manera
+oportuna las cuotas correspondientes.
+
+Se autoriza a la Secretaría de Hacienda del Poder Ejecutivo Estatal
+para que los pagos que realice y que correspondan a la Fiscalía General
+del Estado de Morelos, los pueda descontar de las cantidades próximas a
+ministrar en las transferencias presupuestales que correspondan al
+mencionado órgano, lo que deberá formalizarse en el instrumento que se
+celebre entre el Instituto Mexicano del Seguro Social y la citada
+Fiscalía.
+
+P.O. 22 DE MAYO DE 2019.
+
+[N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOSCIENTOS CUARENTA Y DOS
+POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE
+LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; DE LA
+LEY DE ASISTENCIA SOCIAL Y CORRESPONDENCIA CIUDADANA PARA EL ESTADO DE
+MORELOS; DE LA LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL
+ESTADO DE MORELOS; DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y
+ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS; LA LEY DE
+DESARROLLO, PROTECCIÓN Y ATENCIÓN DE LAS PERSONAS ADULTAS MAYORES PARA
+EL ESTADO LIBRE Y SOBERANO DE MORELOS; LEY DE VÍCTIMAS DEL ESTADO DE
+MORELOS; LEY ESTATAL PARA LA CONVIVENCIA Y SEGURIDAD DE LA COMUNIDAD
+ESCOLAR; LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE
+MORELOS, Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE
+MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo
+del Estado, para los fines que indica el artículo 44, 47 y la fracción
+XVII, inciso a) del artículo 70 de la Constitución Política del
+Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su
+publicación en el Periódico Oficial "Tierra y Libertad", Órgano de
+difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Una vez publicado el presente Decreto, dentro de los noventa
+días siguientes, contados a partir del inicio de vigencia, se deberán
+realizar las adecuaciones que se requieran a las Leyes y Reglamentos
+correspondientes para su armonización y, dentro del mismo término, la
+Fiscalía General deberá realizar las modificaciones necesarias a su
+Reglamento Interior.
+
+CUARTA. En mérito de lo anterior se derogan todas las disposiciones de
+igual o menor rango jerárquico que se opongan al presente Decreto.
+
+QUINTA. De haber finalizado la entrega – recepción que se establece
+en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA,
+DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número
+Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial
+“Tierra y Libertad” 5611, los bienes muebles e inmuebles propiedad
+de la Fiscalía General del Estado de Morelos, que se han venido
+ocupando y administrando hasta ahora por la Procuraduría de Protección
+de Niñas, Niños, Adolescentes y la Familia y por la Dirección de
+Centros de Asistencia Social, así como por sus albergues o centros de
+asistencia social, deberán ser devueltos al Gobierno del Estado o del
+Sistema Estatal para el Desarrollo Integral de la Familia por virtud de
+este acto legislativo, y pasan a formar parte del patrimonio de estos
+últimos desde el momento de su entrada en vigor; para lo cual la
+Fiscalía General, deberá realizar, gestionar, emitir o celebrar todos
+los actos jurídicos y administrativos idóneos que resulten necesarios
+al efecto, conforme a la normativa aplicable.
+
+De forma complementaria, la Fiscalía General del Estado, debe realizar
+los actos jurídicos y administrativos, necesarios e idóneos, para
+lograr que los recursos humanos, materiales y financieros que ha ocupado
+y proyectado para el funcionamiento de la Procuraduría de Protección
+de Niñas, Niños, Adolescentes y la Familia y los centros de asistencia
+social; se trasmitan al Gobierno del Estado o del Sistema Estatal para
+el Desarrollo Integral de la Familia, en virtud de esta reforma.
+
+SEXTA. Las funciones, facultades, derechos y obligaciones establecidos a
+cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes
+y la Familia y la Dirección de Centros de Asistencia Social, en
+cualquier ordenamiento legal, así como en contratos, convenios o
+acuerdos celebrados con Secretarías, Dependencias o Entidades de la
+Administración Pública Estatal, Federal y de los Municipios, o con
+cualquier persona física o moral, continuarán a cargo de las mismas,
+sin perjuicio de encontrarse ahora adscritas al Sistema Estatal para el
+Desarrollo Integral de la Familia, por virtud del presente Decreto.
+
+SÉPTIMA. Los asuntos que se encuentren en trámite o en proceso,
+incluidos los de adopciones, a cargo de la Procuraduría de Protección
+de Niñas, Niños, Adolescentes y la Familia o la Dirección de Centros
+de Asistencia Social, continuarán tramitándose por esta, hasta su
+conclusión y en los términos que establezca la normativa aplicable,
+sin que el cambio de su adscripción al Sistema Estatal para el
+Desarrollo Integral de la Familia pueda modificar o alterar su curso y
+resultado.
+
+OCTAVA. La Fiscalía General del Estado de Morelos y el Sistema Estatal
+para el Desarrollo Integral de la Familia, al realizar actuaciones para
+materializar el traslado de funciones y unidades a que se refiere el
+presente instrumento jurídico en caso de que se hubiere realizado la
+entrega – recepción que se establece en las disposiciones
+transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA
+CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta
+y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611,
+deberán velar por la seguridad, vida e integridad de las personas que
+se encuentren bajo su custodia en alguno de los albergues y centros de
+asistencia social que se encuentran a cargo de la Fiscalía.
+
+La Fiscalía General del Estado y el Sistema Estatal para el Desarrollo
+Integral de la Familia, una vez que entre en vigor el presente
+instrumento legislativo, deberán prestarse todas las facilidades para
+el traslado de los Albergues y Centros de Asistencia Social que hasta la
+presente reforma se encontraban a cargo de dicho Sistema.
+
+NOVENA. El personal de la Fiscalía General adscrito a la Procuraduría
+de Protección de Niñas, Niños, Adolescentes y la Familia y la
+Dirección de Centros de Asistencia Social, que pase a formar parte del
+Sistema Estatal para el Desarrollo Integral de la Familia, en ninguna
+forma podrá resultar afectado en sus derechos; debiéndose tomar las
+acciones necesarias para ello. Si al momento de la entrada en vigor del
+presente Decreto se ha llevado a cabo la sustitución patronal ordenada
+en la disposición transitoria QUINTA del Decreto número tres mil
+cuatrocientos cuarenta y siete, publicado en el Periódico Oficial
+“Tierra y Libertad” 5628 en fecha 30 de agosto de 2018.
+
+DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de
+la vigencia del presente Decreto, el Titular del Poder Ejecutivo Estatal
+deberá realizar o emitir las adecuaciones reglamentarias que se estimen
+pertinentes conforme lo previsto en el presente Decreto.
+
+DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de
+Gobierno del Sistema para el Desarrollo Integral de la Familia del
+Estado de Morelos deberá realizar las adecuaciones normativas al
+Estatuto Orgánico, mismas que deberán inscribirse en el Registro
+Público de Organismos Descentralizados.
+
+DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia
+del estado de Morelos, la Fiscalía General del Estado de Morelos y
+demás Secretarías, Dependencias y Entidades, procederán a realizar
+los actos administrativos idóneos y necesarios, así como la entrega
+recepción correspondiente, a partir del siguiente día al que entre en
+vigor el presente Decreto, en caso de que se hubiere realizado la
+entrega – recepción que se establece en las disposiciones
+transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA
+CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta
+y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611.
+
+P.O. 25 DE ENERO DE 2024.
+
+[N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS
+DIECINUEVE, POR EL QUE SE REFORMA EL ARTÍCULO 26 DE LA LEY ORGÁNICA DE
+LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
+
+P.O. 25 DE ENERO DE 2024.
+
+[N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS
+DIECINUEVE, POR EL QUE SE ADICIONA UNA SECCIÓN QUINTA BIS DENOMINADA
+“DE LA FISCALÍA ESPECIALIZADA EN LA INVESTIGACIÓN Y PERSECUCIÓN DE
+DELITOS DE TORTURA” CON SUS ARTÍCULOS 53 BIS, 53 TER 53 QUÁTER, 53
+QUINQUIES, 53 SEXIES, 53 SEPTIES, 53 OCTIES Y 53 NONIES, TODOS AL
+CAPÍTULO III DEL TÍTULO PRIMERO”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo
+Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70,
+fracción XVII, incisos a) y c), de la Constitución Política del
+Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su
+publicación en el Periódico Oficial “Tierra y Libertad”, órgano
+de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Los instrumentos reglamentarios emitidos con antelación de la
+creación de la Fiscalía General como organismo constitucional
+autónomo, resultarán aplicables y vigentes, siempre que su contenido
+no se oponga a lo previsto por la Ley Orgánica de la Fiscalía General
+del Estado de Morelos y demás disposiciones legales.
+
+Con independencia de lo anterior, la Fiscalía General del Estado de
+Morelos dentro de un plazo no mayor a 90 días hábiles contados a
+partir del inicio de vigencia del presente Decreto, deberá efectuar las
+modificaciones o emisiones reglamentarias que estime necesarias para
+lograr la exacta observancia de sus disposiciones, para lograr su
+armonización con el presente Decreto.
+
+CUARTA. La Fiscalía Especializada en la Investigación y Persecución
+de Delitos de Tortura conocerá de aquellas denuncias en trámite
+relativas a delitos de tortura y otros tratos o penas crueles, inhumanos
+o degradantes, iniciadas con posterioridad al 25 de diciembre de 2017,
+fecha en que feneció el plazo con que debía crearse la Fiscalía
+Especializada, conforme lo señalado por la Disposición Sexta
+Transitoria del “Decreto por el que se expide la Ley General para
+Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas
+Crueles, Inhumanos o Degradantes; y se reforman, adicionan y derogan
+diversas disposiciones del Código Penal Federal, de la Ley de la
+Comisión Nacional de los Derechos Humanos, de la Ley del Sistema
+Nacional de Seguridad Pública y de la Ley de Extradición
+Internacional”, publicado en el Diario Oficial de la Federación el 26
+de junio de 2017.
+
+Para tal efecto, en las adecuaciones reglamentarias que al efecto se
+emitan, se deberá establecer la trasferencia de las carpetas de
+investigación correspondientes, para que sean conocidas por la
+Fiscalía Especializada en la Investigación y Persecución de Delitos
+de Tortura, hasta su conclusión.
+
+QUINTA. El Congreso del Estado deberá destinar recursos presupuestales
+para la creación y operación de la Fiscalía Especializada en la
+Investigación y Persecución de Delitos de Tortura; por lo que tomará
+las acciones conducentes para que en el Presupuesto de Egresos del
+Ejercicio Fiscal de 2024, sean considerados los recursos presupuestales
+necesarios para ello, pudiendo considerar los aspectos técnicos que, en
+su caso, la Fiscalía General del Estado de Morelos le comparta para su
+integración en el citado Presupuesto.
+
+Por lo que una vez que se destinen los recursos públicos para la
+operación de la Fiscalía Especializada en la Investigación y
+Persecución de Delitos de Tortura, la Fiscalía General del Estado de
+Morelos contará con un plazo de 90 días hábiles para que aquella
+inicie operaciones, considerando que el personal que la integre deberá
+estar totalmente capacitado y evaluado conforme los exámenes de control
+de confianza.
+
+El inicio de operación de la Fiscalía Especializada en la
+Investigación y Persecución de Delitos de Tortura se dará a conocer
+mediante aviso que al efecto se publique en la página oficial de
+internet de la Fiscalía General del Estado de Morelos.
+
+SEXTA. Se derogan todas las disposiciones de igual o menor rango
+jerárquico que se opongan al presente Decreto.
+
+	  PAGE   \* MERGEFORMAT  2
+
+		ORDEN JURÍDICO NACIONAL
+
+	  PAGE   \* MERGEFORMAT  1

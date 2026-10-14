@@ -1,0 +1,486 @@
+---
+titulo: "Ley de Fomento a la Lectura y el Libro para el Estado de Coahuila de Zaragoza"
+tipo: "Ley"
+estado: "Coahuila"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "15 de Febrero de 2011"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "32705"
+---
+TEXTO ORIGINAL
+# 
+Ley publicada en el Periódico Oficial el martes 15 de febrero de 2011.
+
+LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE
+ZARAGOZA.
+
+EL C. LIC. JORGE JUAN TORRES LOPEZ, GOBERNADOR INTERINO DEL ESTADO
+INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS
+HABITANTES SABED:
+
+QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA
+DE ZARAGOZA;
+
+DECRETA:
+
+NÚMERO 420.-
+
+LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL
+
+ESTADO DE COAHUILA DE ZARAGOZA.
+
+CAPITULO I
+
+DISPOSICIONES GENERALES
+
+Artículo 1.-  La presente Ley es de orden público e interés social y
+tiene por objeto el fomento a la lectura y el libro a través de las
+siguientes acciones:
+
+I.	Promover en el Estado de Coahuila de Zaragoza, políticas, programas
+y acciones relacionadas con el fomento a la lectura y el libro;
+
+II.	Impulsar la producción, edición, publicación y difusión de
+libros y facilitar su acceso a la población;
+
+III.	Promover la participación social y de los sectores público y
+privado en las actividades de fomento a la lectura y el libro;
+
+IV.	Determinar la integración, facultades y ámbito de competencia del
+Consejo Estatal y los Consejos Regionales;
+
+V.	Registrar, enriquecer y preservar el acervo bibliográfico del Estado
+mediante el depósito legal, así como promover su difusión.
+
+Artículo 2.- El fomento a la lectura y el libro se establece en el
+marco de las garantías constitucionales de educación, libre
+manifestación de ideas, la inviolable libertad de escribir, editar y
+publicar libros sobre cualquier materia, propiciando el acceso a la
+lectura y al libro a toda la población.
+
+Ninguna autoridad en el Estado  podrá prohibir, restringir ni
+obstaculizar la creación, edición, producción, distribución,
+promoción o difusión de libros y de las publicaciones periódicas.
+
+Artículo 3.- Para efectos de la presente Ley se entenderá como:
+
+I.	Bibliotecas: Los lugares donde se conserva y administra el acervo
+bibliográfico de un lugar determinado. Serán públicas cuando sean  de
+acceso gratuito y el acervo sea propiedad del Estado o del Municipio;
+
+II.	Consejo Estatal: El Consejo Estatal para el Fomento a la Lectura y
+el Libro Coahuilense.
+
+III.	Consejos Regionales: Los Consejos Regionales para el Fomento a la
+Lectura y el Libro Coahuilense;
+
+IV.	Depósito legal: Entrega al Estado, en las instituciones
+depositarias, de los ejemplares que se señalen en esta Ley sobre toda
+nueva publicación o aquellas que hayan sido actualizadas por su autor;
+
+V.	Estado: El Estado de Coahuila de Zaragoza;
+
+VI.	ICOCULT. Al Instituto Coahuilense de Cultura;
+
+VII.	Ley: La Ley de Fomento a la Lectura y el Libro del Estado de
+Coahuila de Zaragoza;
+
+VIII.	Programa Estatal: Programa Estatal para el Fomento de la Lectura y
+el Libro;
+
+IX.	Secretaría de Educación y Cultura: Secretaría de Educación y
+Cultura del Estado de Coahuila
+
+CAPITULO II
+
+DE LA COORDINACIÓN SOCIAL E INTERINSTITUCIONAL PARA EL FOMENTO DE LA
+LECTURA Y EL LIBRO COAHUILENSE
+
+Artículo 4.- La Secretaría de Educación y Cultura del Estado, a
+través de la Coordinación Estatal de Bibliotecas, Publicaciones y
+Librerías o la unidad administrativa correspondiente, llevará a cabo
+acciones de coordinación con las organizaciones de padres de familia,
+las instituciones públicas, privadas y sociales, los organismos
+culturales, los clubes de lectura privados, los círculos literarios,
+los gremios de intelectuales y con cualquier otra organización de la
+sociedad civil que contribuya a elevar el nivel cultural de los
+coahuilenses, oyendo las recomendaciones que al efecto emita al Consejo
+Estatal.
+
+ Artículo 5.- En el ámbito de sus respectivas competencias y
+facultades,  la Secretaría de Educación y Cultura deberá coordinar
+sus acciones con las instituciones del Gobierno Federal y gobiernos
+municipales responsables de la aplicación de las políticas, programas
+y acciones de fomento a la lectura y el libro en el Estado.
+
+Artículo 6.- Será responsabilidad de la Secretaría de Educación y
+Cultura, a través de la unidad administrativa correspondiente, oyendo
+al  Consejo Estatal y de los Consejos Regionales, garantizar a la
+población el ejercicio real del derecho de acceso al libro y la
+lectura, así como el fomento de la producción, edición, distribución
+y difusión de cualquier obra literaria.
+
+CAPITULO III
+
+DE LA ORGANIZACIÓN
+
+Artículo 7.- Son autoridades encargadas del fomento a la Lectura y al
+Libro en el ámbito de sus respectivas competencias:
+
+I.	El Gobernador del Estado de Coahuila de Zaragoza.
+
+II.	La Secretaría de Educación y Cultura.
+
+III.	ICOCULT
+
+IV.	Las administraciones municipales.
+
+CAPITULO IV
+
+DEL CONSEJO ESTATAL DE FOMENTO A LA LECTURA Y EL LIBRO
+
+Artículo 8.- Se crea el Consejo Estatal de Fomento a la Lectura y el
+Libro como órgano de carácter  consultivo de la Secretaria de
+Educación y Cultura del Estado  de Coahuila,  con el objeto de opinar
+respecto de las políticas, programas y acciones realizadas en el
+Estado, dirigidas a lograr una cultura de fomento a la lectura y al
+libro, así como facilitar el acceso al libro para todos los lectores.
+
+Artículo 9.- El Consejo Estatal se integrará por:
+
+I.	El Gobernador del Estado, por sí o a través del Secretario de
+Educación y Cultura en el Estado quien fungirá como su Presidente;
+
+II.	Los Coordinadores de las Comisiones de Educación y de Cultura y
+Actividades Cívicas  del Congreso del Estado;
+
+III.	El Director General del ICOCULT;
+
+IV.	El Presidente y un vocal de cada uno de los Consejos  Regionales de
+Fomento a la Lectura y el Libro.
+
+A las reuniones del Consejo Estatal podrán asistir con voz pero sin
+voto, dos representantes de escritores, editores, productores,
+impresores, libreros y bibliotecarios por cada región del Estado para
+que contribuyan al cumplimiento de sus objetivos.
+
+Éstos serán designados por el Secretario de Educación y Cultura de
+entre quienes se registren a la convocatoria pública que al efecto se
+emita, debiendo recaer en personas con experiencia en la materia.
+
+Por cada titular se nombrará un suplente.
+
+Los cargos de Consejero Estatal serán honoríficos.
+
+Artículo 10.- El Consejo contará con un Secretario Técnico que será
+el titular de la Coordinación Estatal de Bibliotecas, Publicaciones y
+Librerías y asistirá con voz pero sin voto a las sesiones.
+
+Artículo 11.- El Consejo Estatal sesionará ordinariamente en forma
+trimestral y cuantas veces se requiera, en sesiones de carácter
+extraordinario a convocatoria del Presidente.
+
+Artículo 12.- En las sesiones ordinarias se incluirá una para
+programar las actividades del año y otra para  analizar las actividades
+realizadas relacionadas con el fomento a la lectura y las relativas a la
+producción, distribución y circulación de libros en el Estado.
+
+Artículo 13.-  El Secretario Técnico, por instrucciones del Presidente
+del Consejo Estatal emitirá la convocatoria de la sesión con quince
+días de anticipación.
+
+La convocatoria se acompañará del orden del día de la sesión
+correspondiente y la información documental necesaria respecto de los
+asuntos a tratar.
+
+Artículo 14.-  Las propuestas del Consejo Estatal se harán al tomarse
+el acuerdo de la mayoría de los asistentes a la sesión, y en caso de
+empate, su Presidente contará con voto de calidad.
+
+Artículo 15.-  Las sesiones serán válidas con la presencia de la
+mitad más uno de los integrantes con derecho a voto del Consejo Estatal
+y en caso de no cumplirse, se emitirá nueva convocatoria.
+
+Artículo 16.- La Secretaría de Educación y Cultura facilitará las
+instalaciones y material necesario para la realización de las sesiones
+del Consejo Estatal.
+
+Las sesiones del Consejo Estatal serán públicas.
+
+Artículo 17.- El Consejo Estatal propondrá estrategias y contribuirá
+a la definición de objetivos, y sus integrantes podrán participar en
+actividades cuando así lo requieran autoridades de la Secretaría de
+Educación y Cultura.
+
+Artículo 18.- Son facultades del Consejo Estatal para el Fomento a la
+Lectura y el Libro Coahuilense:
+
+I.	Opinar sobre el proyecto de Programa Estatal para el Fomento a la
+Lectura y el Libro;
+
+II.	Opinar sobre la celebración de festivales de lectura y del libro en
+los Municipios del Estado;
+
+III.	Proponer al Gobierno Estatal un listado de publicaciones deseables
+de libros inéditos o agotados, en especial, los  escritos por autores
+coahuilenses o dedicados a temas relacionados con la entidad;
+
+IV.	Asesorar en el diseño de colecciones de libros editados por el
+Gobierno Estado;
+
+V.	Conocer los programas y fondos establecidos en la materia por las
+autoridades federales a fin de proponer acciones derivadas de ellos.
+
+VI.	Sugerir estrategias que motiven la atención de la población hacia
+la lectura, apoyando las actividades y eventos que las promuevan;
+
+VII.	Promover la participación del sector privado en los esfuerzos de
+fomento al libro y la lectura;
+
+VIII.	Recomendar la creación de nuevas bibliotecas y promover las
+gestiones necesarias para ello en coordinación con las autoridades
+competentes;
+
+IX.	Opinar sobre si es adecuado el funcionamiento de las bibliotecas
+existentes en el Estado y hacer propuestas de mejoras; así como
+proponer la instalación de salas de lectura en reclusorios, albergues
+para personas con capacidades diferentes, orfanatos y hospitales o
+centros de salud en general;
+
+X.	Crear una base pública de datos de los libros publicados en el
+Estado, los escritos por coahuilenses o que traten de historia,
+geografía, biografías, biodiversidad y otros aspectos relevantes en el
+Estado;
+
+XI.	Recomendar estímulos a los creadores literarios locales y
+regionales;
+
+XII.	Proponer acciones para estimular la existencia de promotores de
+lectura y coordinadores de salas de lectura;
+
+XIII.	Promover la participación del Estado en ferias o festivales
+nacionales e internacionales del libro;
+
+XIV.	Opinar sobre el diseño de paquetes de apoyo, por parte de la
+Secretaria de Educación y Cultura para estimular a las librerías
+establecidas o por establecerse en la entidad; y
+
+XV.	Las demás que determine el Reglamento respectivo.
+
+Artículo 19.- El Gobierno Estatal, de acuerdo a la normatividad
+aplicable y, en su caso, a la disponibilidad presupuestaria, difundirá
+en los medios masivos de comunicación, las acciones encaminadas al
+fomento a la lectura y a la difusión de libros en el Estado.
+
+CAPÍTULO V
+
+DE LOS CONSEJOS REGIONALES DE FOMENTO
+
+A LA LECTURA Y EL LIBRO
+
+Artículo 20.- Los  Consejos Regionales de Fomento a la Lectura y el
+Libro, son los foros de concertación de propuestas dirigidas a lograr
+una cultura de fomento a la lectura y el libro, así como facilitar el
+acceso al libro para los coahuilenses, en relación a la competencia del
+Consejo Estatal.
+
+Artículo 21.- Se crean cinco Consejos Regionales integrados por los
+siguientes municipios:
+
+a)	Consejo Regional Sureste: Saltillo, Ramos Arizpe, Arteaga, General
+Cepeda y Parras de la Fuente.
+
+b)	Consejo Regional Laguna: Torreón, Francisco I. Madero, Matamoros,
+San Pedro de las Colonias y Viesca.
+
+c)	Consejo Regional Centro-Desierto: Monclova, San Buenaventura,
+Castaños, Frontera, Candela, Sacramento, Nadadores, , Lamadrid,
+Escobedo, Abasolo, Cuatro Ciénagas, Ocampo y Sierra Mojada.
+
+d)	Consejo Regional Carbonífera: Juárez, Múzquiz, Progreso, Sabinas y
+San Juan de Sabinas.
+
+e)	Consejo Regional Norte: Allende, Guerrero, Hidalgo, Acuña, Jiménez,
+Morelos, Nava, Piedras Negras, Villa Unión, y Zaragoza.
+
+Artículo 22.- Los Consejos Regionales estarán conformados por un
+representante de cada Municipio de la Región respectiva, nombrado por
+el Presidente Municipal y 4 integrantes, que serán designados por el
+Secretario de Educación y Cultura de entre los escritores, editores,
+productores, impresores, libreros o bibliotecarios  de la región, de
+entre quienes se registren a la convocatoria pública que al efecto se
+emita, debiendo recaer en personas con experiencia en la materia.
+
+Por cada titular se designará un suplente.
+
+Tendrán un Presidente y el resto tendrán el carácter de consejeros
+vocales. La designación del Presidente se hará por los integrantes del
+Consejo Regional en votación secreta.
+
+Los nombramientos de consejero regional se renovarán cada tres años
+pudiendo recaer en la misma persona por una sola vez, y serán
+honoríficos.
+
+Artículo 23.- Los Consejos Regionales sesionarán cada tres meses, al
+menos una semana antes de la sesión ordinaria del Consejo Estatal y en
+forma extraordinaria cuantas veces se requiera.
+
+Para el desarrollo de las sesiones de los Consejos Regionales serán
+aplicables las disposiciones del Consejo Estatal.
+
+La Secretaría de Educación y Cultura facilitará las instalaciones y
+material necesario para la realización de las sesiones de los Consejos
+Regionales.
+
+CAPITULO VI
+
+DEL PROGRAMA ESTATAL PARA EL FOMENTO A LA LECTURA Y EL LIBRO
+
+Artículo 24.- Existirá un Programa Estatal para el Fomento a la
+Lectura y el Libro, que se emitirá en términos de la Ley de
+Planeación del Estado y en su elaboración se escucharán las
+propuestas del Consejo Estatal.
+
+Artículo 25.- El programa contendrá, al menos, un diagnóstico estatal
+y regional de la lectura y promoción de libros en el Estado; la
+definición de objetivos del fomento a la lectura y el libro;
+estrategias para el desarrollo de la lectura y producción literaria; y
+metas y acciones para el fomento a la lectura y el libro.
+
+Artículo 26.- Las acciones que se realicen con base a este programa,
+privilegiarán la producción, distribución y fomento del libro
+coahuilense.
+
+Anualmente se destinará una partida presupuestal para la realización
+de la Feria del Libro.
+
+CAPITULO VII
+
+EL DEPÓSITO LEGAL
+
+Artículo 27.- Bajo la figura del Depósito Legal, los editores
+integrarán el patrimonio bibliográfico del Estado mediante la entrega
+de un ejemplar en versión digital de las obras que editen bajo su
+responsabilidad. Todas deberán contener la ficha catalográfica o en su
+defecto  el ISBN.
+
+Artículo 28.- Las obras serán entregadas a la institución depositaria
+dentro de los treinta días hábiles siguientes a la fecha de su
+publicación.
+
+Artículo 29.- La Biblioteca Pública Central  Estatal Prof. Ildefonso
+Villarello Vélez,  ubicada en la Capital del Estado, será considerada
+Biblioteca Depositaria y tendrá bajo su guarda, custodia y
+preservación el material que reciban en Depósito Legal, poniéndolo a
+disposición de la ciudadanía para su consulta.
+
+La entrega de material en depósito legal podrá hacerse físicamente en
+las instalaciones de la Biblioteca Depositaria, y para quienes radiquen
+fuera de la Región Sureste, pueden hacerlo llegar mediante correo
+certificado.
+
+Artículo 30.- En la recepción de los materiales objeto del depósito
+legal, el Director de la Biblioteca Central Estatal o la persona que
+para esos efectos designe el Secretario de Educación y Cultura deberá:
+
+I. 	Expedir constancia que acredite la entrega y conservar asiento del
+depósito.
+
+II. 	Compilar, custodiar, preservar y mantener en buen estado los
+materiales constituyentes del acervo depositado.
+
+III. 	Enviar una relación mensual de lo depositado, que contendrá los
+datos contenidos en la ficha catalográfica o en su defecto el ISBN, a
+Secretaría de Educación y Cultura del Gobierno del Estado y al Consejo
+Estatal para el Fomento a la Lectura y el Libro del Estado de Coahuila.
+
+IV. 	Establecer los procedimientos adecuados para el debido acopio de
+los materiales depositados y para la prestación de los servicios
+bibliotecarios y de consulta pública.
+
+V.	Actualizar mensualmente la lista de los materiales recibidos en
+depósito legal y tenerlos para consulta del público en la Biblioteca
+Central.
+
+Artículo 31.- Respecto de libros entregados en depósito legal, quienes
+cumplan con la obligación consignada en el artículo 28 de la presente
+ley, tendrán derecho a que su obra sea promovida  y difundida en forma
+gratuita en las Ferias y Festivales del Libro organizados en el Estado
+en términos del Reglamento respectivo.
+
+Artículo 32.- Ante el incumplimiento por primera vez del depósito
+legal en el plazo establecido en ésta Ley, el Director de la Biblioteca
+Depositaria o la persona que para esos efectos designe el Secretario de
+Educación y Cultura, procederá a apercibir al infractor otorgando un
+plazo de 15 días hábiles para su cumplimiento.
+
+Ante el desacato al apercibimiento referido, el infractor será
+sancionado con una multa de 100 a 200 cuotas de salario mínimo vigente
+en el Estado, la cual se duplicará en caso de reincidencia ocurrida
+durante un año y se hará exigible por medio del Procedimiento
+Administrativo de Ejecución. El pago de la multa no exime del
+cumplimiento de la obligación del Depósito Legal.
+
+T R A N S I T O R I O S
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su
+publicación en el Periódico Oficial del Gobierno del Estado de
+Coahuila de Zaragoza.
+
+Segundo.- El Consejo Estatal y los Consejos Regionales, se integrará en
+un plazo de ciento veinte días a partir de la entrada en vigencia de la
+presente Ley.
+
+Tercero.- El Programa Estatal de Fomento a la Lectura se emitirá en un
+plazo de 180 días a partir de la integración del Consejo Estatal de
+Fomento a la Lectura.
+
+Cuarto.- El Reglamento de esta Ley deberá expedirse durante los 180
+días siguientes a la entrada en vigor.
+
+DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de
+Saltillo, Coahuila, a los ocho días del mes de diciembre del año dos
+mil diez.
+
+DIPUTADO PRESIDENTE
+
+JUAN FRANCISCO GONZÁLEZ GONZÁLEZ
+
+(RÚBRICA)
+
+DIPUTADO  SECRETARIO
+
+ROGELIO RAMOS SÁNCHEZ
+
+(RÚBRICA)
+
+	DIPUTADO SECRETARIO
+
+FRANCISCO TOBIAS HERNÁNDEZ
+
+(RÚBRICA)
+
+IMPRÍMASE, COMUNÍQUESE Y OBSÉRVESE
+
+Saltillo, Coahuila a 6 de Enero de 2011
+
+EL GOBERNADOR INTERINO DEL ESTADO
+
+LIC. JORGE JUAN TORRES LÓPEZ
+
+(RÚBRICA)
+
+EL SECRETARIO DE GOBIERNO
+
+LIC. DAVID AGUILLÓN ROSALES
+
+(RÚBRICA)
+
+	EL SECRETARIO DE EDUCACIÓN Y CULTURA
+
+PROFR. ANDRÉS MENDOZA SALAS
+
+(RÚBRICA)
+
+  PAGE   \* MERGEFORMAT  3

@@ -1,0 +1,2124 @@
+---
+titulo: "LEY DE HACIENDA DEL MUNICIPIO DE TECOH, YUCATÁN."
+tipo: "Ley"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "03 de Enero de 2006"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "9466"
+---
+# DECRETO NÚMERO 645
+
+Publicado el 3 de enero de 2006
+
+ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ Y Q. I. RAÚL ARCEO ALONZO, Por
+Ausencia Temporal del C. Gobernador del Estado de Yucatán, a sus
+habitantes hacemos saber:
+
+El Congreso del Estado Libre y Soberano de Yucatán, conforme a lo
+dispuesto en el Artículo 30 Fracción V de la Constitución Política;
+97, 150 y 156 de la Ley Orgánica del Poder Legislativo, ambas del
+Estado de Yucatán;
+
+D E C R E T A:
+
+Artículo Primero.- Se aprueban las Leyes de Hacienda de los Municipios
+de: Acanceh, que contiene 154 artículos; Izamal, que contiene 164
+artículos; Oxkutzcab, que contiene 163 artículos; Tecoh, que contiene
+165 artículos; y Ticul, que contiene 160 artículos; todos del Estado
+de Yucatán.
+
+Artículo Segundo.- Las Leyes de Hacienda a que se refiere el artículo
+anterior, se describen en cada una de las fracciones siguientes:
+
+IV.- LEY DE HACIENDA DEL MUNICIPIO DE TECOH, YUCATÁN
+
+TÍTULO PRIMERO
+
+DISPOSICIONES GENERALES
+
+CAPÍTULO I
+
+Del objeto de la ley
+
+Artículo 1.- La presente ley es de orden público y de observancia
+general, en el territorio del Municipio de Tecoh, y tiene por objeto:
+
+Establecer los conceptos por los que la Hacienda Pública del Municipio
+de Tecoh, podrá percibir ingresos;
+
+Definir el objeto, sujeto, base y época de pago de las contribuciones,
+y
+
+Señalar las obligaciones y derechos que en materia fiscal tendrán las
+autoridades y los sujetos a que la misma se refiere.
+
+Artículo 2.- De conformidad con lo establecido por el Código Fiscal y
+la Ley de Coordinación Fiscal, ambas del Estado de Yucatán, para
+cubrir el gasto público y demás obligaciones a su cargo, la hacienda
+pública del Municipio de Tecoh, Yucatán podrá percibir ingresos por
+los siguientes conceptos:
+
+Impuestos;
+
+Derechos;
+
+Contribuciones de Mejoras;
+
+Productos;
+
+Aprovechamientos;
+
+Participaciones;
+
+Aportaciones, e
+
+Ingresos Extraordinarios:
+
+CAPÍTULO II
+
+De los Ordenamientos Fiscales
+
+ Artículo 3.- Son ordenamientos fiscales:
+
+El Código Fiscal del Estado de Yucatán;
+
+La Ley de Coordinación Fiscal del Estado de Yucatán;
+
+La Ley de Hacienda del Municipio de Tecoh, Yucatán;
+
+La Ley de Ingresos del Municipio de Tecoh, Yucatán, y
+
+Los Reglamentos Municipales y las demás leyes, que contengan
+disposiciones de carácter fiscal y hacendaria.
+
+Artículo 4.- La Ley de Ingresos del Municipio de Tecoh para cada
+ejercicio fiscal, tendrá por objeto establecer los conceptos por los
+que la hacienda pública municipal podrá percibir ingresos; señalar
+las tasas, cuotas y tarifas aplicables para el pago de las
+contribuciones; así como el cálculo de ingresos a percibir.
+
+Artículo 5.- A falta de norma fiscal municipal expresa, será de
+aplicación supletoria el Código Fiscal del Estado de Yucatán.
+
+CAPÍTULO III
+
+De las Autoridades Fiscales
+
+Artículo 6.- Para los efectos de la presente ley, son autoridades
+fiscales:
+
+El Ayuntamiento;
+
+El Presidente Municipal;
+
+El Tesorero Municipal;
+
+El Titular de la oficina recaudadora;
+
+El Titular de la oficina encargada de aplicar el procedimiento
+administrativo de ejecución.
+
+CAPÍTULO IV
+
+De los Contribuyentes y sus Obligaciones
+
+Artículo 7.- Las personas físicas o morales, mexicanas o extranjeras,
+domiciliadas dentro del Municipio de Tecoh, Yucatán, o fuera de él,
+que tuvieren bienes o celebren actos dentro del territorio del mismo,
+están obligadas a contribuir para los gastos públicos del Municipio y
+a cumplir con las disposiciones administrativas y fiscales que se
+señalen en la presente ley, en la Ley de Ingresos municipal, en el
+Código Fiscal del Estado de Yucatán, y en los Reglamentos Municipales.
+
+Artículo 8.- Para los efectos de esta ley, se entenderá por territorio
+municipal, el área geográfica que, para cada uno de los Municipios del
+Estado señala, la Ley Orgánica de los Municipios del Estado de
+Yucatán o bien el área geográfica que delimite el Congreso del Estado
+en cualquiera de los casos previstos en la propia Ley Orgánica.
+
+Artículo 9.- Las personas a que se refiere el artículo 7 de esta ley,
+además de las obligaciones contenidas en este ordenamiento, deberán
+cumplir con lo siguiente:
+
+ Empadronarse en la Dirección de Finanzas y Tesorería Municipal, a
+más tardar treinta días naturales después de la apertura del
+comercio, negocio o establecimiento, o de la iniciación de actividades,
+si realizan actividades permanentes con el objeto de obtener la licencia
+Municipal de funcionamiento.
+
+ Recabar de la Dirección de Desarrollo Urbano la carta de uso de suelo
+en donde se determine que el giro del comercio, negocio o
+establecimiento que se pretende instalar, es compatible con la zona de
+conformidad con el  Plan Director de Desarrollo Urbano del Municipio y
+que cumple además, con lo dispuesto en el Reglamento de Construcciones
+del propio Municipio.
+
+ Dar aviso por escrito, en un plazo de quince días, de cualquier
+modificación, aumento de giro, traspaso, cambio de domicilio, cambio de
+denominación, suspensión de actividades, clausura y baja.
+
+ Recabar autorización de la Tesorería Municipal, si realizan
+actividades eventuales y con base en dicha autorización, solicitar la
+determinación de las contribuciones que estén obligados a pagar.
+
+ Utilizar las formas o formularios elaborados por la Tesorería
+Municipal, para comparecer, solicitar o liquidar créditos fiscales y/o
+administrativos.
+
+Permitir las visitas de inspección, atender los requerimientos de
+documentación y auditorias que determine la Tesorería Municipal, en la
+forma y dentro de los plazos que señala el Código Fiscal del Estado.
+
+Exhibir los documentos públicos y privados que requiera la Tesorería
+Municipal, previo mandamiento por escrito que funde y motive esta
+medida.
+
+Proporcionar con veracidad los datos que requiera la Tesorería
+Municipal.
+
+Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma
+y términos que señala la presente Ley.
+
+Artículo 10.- Los avisos, declaraciones, solicitudes, memoriales o
+manifestaciones, que presenten los contribuyentes para el pago de alguna
+contribución o producto, se harán en los formularios que apruebe la
+Tesorería Municipal en cada caso, debiendo consignarse los datos, y
+acompañar los documentos que se requieran.
+
+CAPÍTULO V
+
+De los Créditos Fiscales
+
+Artículo 11.- Son créditos fiscales los que el Ayuntamiento de Tecoh y
+sus organismos descentralizados tengan derecho de percibir, que
+provengan de contribuciones, de aprovechamientos y de sus accesorios;
+incluyendo los que se deriven de responsabilidades que el Ayuntamiento
+tenga derecho a exigir de sus servidores públicos o de los
+particulares; así como aquellos a los que la ley otorgue ese carácter
+y el Municipio tenga derecho a percibir por cuenta ajena.
+
+Artículo 12.- Los créditos fiscales a favor del Municipio, serán
+exigibles a partir del día siguiente al del vencimiento fijado para su
+pago. Cuando no exista fecha o plazo para el pago de dichos créditos,
+éstos deberán cubrirse dentro de los quince días siguientes, contados
+desde el momento en que se realice el acto o se celebre el contrato que
+dio lugar a la causación del crédito fiscal, si el contribuyente
+tuviere establecimiento fijo; en caso contrario, y siempre que se trate
+de contribuciones que se originaron por actos o actividades eventuales,
+el pago deberá efectuarse al término de las operaciones de cada día,
+a más tardar el día hábil siguiente si la autoridad no designó
+interventor autorizado para el cobro.
+
+En los términos establecidos en el párrafo anterior, para el pago de
+los créditos fiscales municipales se computarán sólo los días
+hábiles, entendiéndose por éstos, aquellos que establezcan las leyes
+de la materia y en que se encuentren abiertas al público las oficinas
+recaudadoras. Si al término del vencimiento fuere día inhábil, el
+plazo se prorrogará al siguiente día hábil.
+
+Artículo 13.- Son solidariamente responsables del pago de un crédito
+fiscal:
+
+ Las personas físicas y morales, que adquieran bienes o negociaciones
+ubicadas dentro del territorio municipal, que reporten adeudos a favor
+del Municipio y, que correspondan a períodos anteriores a la
+adquisición.
+
+ Los albaceas, copropietarios, fideicomitentes o fideicomisarios de un
+bien determinado, por cuya administración, copropiedad o derecho se
+cause una contribución a favor del Municipio.
+
+ Los retenedores de impuestos.
+
+ Los funcionarios, fedatarios y demás personas que señala la presente
+ley y que en el ejercicio de sus funciones, no cumplan con las
+obligaciones que las leyes y disposiciones fiscales les imponen, de
+exigir, a quienes están obligados a hacerlo, que acrediten que están
+al corriente en el pago de sus contribuciones o créditos fiscales al
+Municipio.
+
+Artículo 14.- Los contribuyentes deberán efectuar los pagos de sus
+créditos fiscales municipales, en las cajas recaudadoras de la
+Tesorería Municipal o en los lugares que la misma designe para tal
+efecto; sin aviso previo o requerimiento alguno, salvo en los casos en
+que las disposiciones legales determinen lo contrario.
+
+Artículo 15.- Los créditos fiscales que las autoridades determinen y
+notifiquen, deberán pagarse o garantizarse dentro del término de
+quince días hábiles contados a partir del siguiente a aquel en que
+surta sus efectos la notificación, conjuntamente con las multas,
+recargos y los gastos correspondientes, salvo en los casos en que la ley
+señale otro plazo y además, deberán hacerse en moneda nacional y de
+curso legal.
+
+Se aceptarán como medios de pago, los cheques certificados y los giros
+postales, telegráficos o bancarios. Los cheques no certificados se
+aceptarán, salvo buen cobro o para abono en cuenta del Municipio,
+únicamente cuando sean expedidos por el propio contribuyente o por los
+fedatarios cuando estén cumpliendo con su obligación de enterar
+contribuciones a cargo de tercero.
+
+Artículo 16.- Los pagos que se hagan se aplicarán a los créditos más
+antiguos siempre que se trate de una misma contribución y, antes del
+adeudo principal, a los accesorios, en el siguiente orden:
+
+Gastos de ejecución;
+
+Recargos;
+
+Multas, y
+
+La indemnización a que se refiere el Artículo 36 de esta ley.
+
+Artículo 17.- El Tesorero Municipal, a petición de los contribuyentes,
+podrá autorizar el pago en parcialidades de los créditos fiscales sin
+que dicho plazo pueda exceder de doce meses. Para el cálculo de la
+cantidad a pagar, se determinará el crédito fiscal omitido a la fecha
+de la autorización. Durante el plazo concedido no se generarán
+actualización ni recargos.
+
+La falta de pago de alguna parcialidad ocasionará la revocación de la
+autorización, en consecuencia, se causarán actualización y recargos
+en los términos de la presente ley y la autoridad procederá al cobro
+del crédito mediante procedimiento administrativo de ejecución.
+
+Artículo 18.- Las autoridades fiscales municipales están obligadas a
+devolver las cantidades pagadas indebidamente. La devolución se
+efectuará de conformidad con lo establecido en el Código Fiscal del
+Estado.
+
+CAPÍTULO VI
+
+De la Actualización y los Recargos
+
+Artículo 19.- Cuando no se cubran las contribuciones en la fecha o
+dentro de los plazos fijados en la presente Ley, el monto de las mismas
+se actualizará desde el mes en que debió hacerse el pago y hasta que
+el mismo que se efectúe, además deberán pagarse recargos en concepto
+de indemnización al fisco municipal por falta de pago oportuno.
+
+Artículo 20.- El monto de las contribuciones, aprovechamientos y los
+demás créditos fiscales, así como las devoluciones a cargo del fisco
+municipal, no pagados en las fechas o plazos fijados para ello en esta
+Ley, se actualizarán por el transcurso del tiempo y con motivo de los
+cambios de precios en el país, para lo cual se aplicará el factor de
+actualización a las cantidades que se deben actualizar, desde el mes en
+que debió hacerse el pago y hasta el mes, en que el mismo pago, se
+efectúe. Dicho factor se obtendrá dividiendo el Índice Nacional de
+Precios al Consumidor, que determina el Banco de México y se publica en
+el Diario Oficial de la Federación, del mes inmediato anterior al más
+reciente del período entre el citado índice correspondiente al mes
+inmediato anterior al más antiguo de dicho período. Las
+contribuciones, los aprovechamientos así como las devoluciones a cargo
+del fisco municipal no se actualizarán por fracciones de mes. Además
+de la actualización se pagarán recargos en concepto de indemnización
+al Municipio de Tecoh, por la falta de pago oportuno
+
+Artículo 21.- Para efectos de la determinación, cálculo y pago de los
+recargos a que se refiere el artículo anterior, se estará a lo
+dispuesto en el Código Fiscal del Estado.
+
+CAPÍTULO VII
+
+De las Licencias de Funcionamiento
+
+Artículo 22.- Ninguna licencia de funcionamiento podrá otorgarse por
+un plazo que exceda el del ejercicio constitucional del Ayuntamiento.
+
+Artículo 23.- Las licencias de funcionamiento serán expedidas por la
+Tesorería Municipal. Estarán vigentes desde el día de su otorgamiento
+hasta el día 31 de diciembre del año en que se soliciten, y deberán
+se revalidadas dentro de los primeros dos meses del año siguiente.
+
+Artículo 24.- La revalidación de las licencias de funcionamiento
+estará vigente desde el día de su tramitación y hasta el día 31 de
+diciembre del año en que se tramiten.
+
+Artículo 25.- La vigencia de las licencias de funcionamiento podrá
+concluir anticipadamente, e incluso condicionarse, cuando por la
+actividad de la persona física o moral que la solicita, se requieran
+permisos, licencias o autorizaciones de otras dependencias municipales,
+estatales o federales. En dicho caso, el plazo de vigencia o la
+condición, serán iguales a las expresadas por dichas dependencias.
+
+Artículo 26.- Las personas físicas o morales que soliciten licencias
+de funcionamiento, tendrán que presentar a Tesorería Municipal,
+además del pedimento respectivo, los siguientes documentos:
+
+El que compruebe fehacientemente que está al día en el pago del
+impuesto predial correspondiente al domicilio donde se encuentra el
+comercio, negocio o establecimiento en caso de ser propietario; en caso
+contrario, deberá presentar el convenio, contrato u otro documento  que
+compruebe la legal posesión del mismo.
+
+Licencia de uso de suelo.
+
+Determinación sanitaria, en su caso.
+
+El recibo de pago del derecho correspondiente en su caso.
+
+Copia del  comprobante de inscripción en el Registro Federal de
+Contribuyentes;
+
+Copia del comprobante de su Clave Única de Registro de Población en su
+caso.
+
+Autorización de ocupación en los casos previstos en el Reglamento de
+Construcciones del Municipio de Tecoh;
+
+Artículo 27.- Las personas físicas o morales que soliciten revalidar
+licencias de funcionamiento, tendrán que presentar a Tesorería
+Municipal, además del pedimento respectivo, los siguientes documentos:
+
+Licencia de funcionamiento expedida por la administración municipal
+inmediata anterior.
+
+Documento que compruebe fehacientemente que está al día  en el pago
+del impuesto predial  correspondiente al domicilio donde se encuentra el
+comercio, negocio o establecimiento en caso de ser propietario; en caso
+contrario, deberá presentar el convenio, contrato u otro documento que
+compruebe la legal posesión del mismo.
+
+El recibo de pago del derecho correspondiente en su caso.
+
+Determinación sanitaria, en su caso.
+
+Copia del  comprobante de inscripción en el Registro Federal de
+Contribuyentes.
+
+Copia del comprobante de su Clave Única de Registro de Población en su
+caso.
+
+Los requisitos de las fracciones V y VI, sólo se presentarán en caso
+de que esos datos no estén registrados en el Padrón Municipal.
+
+La licencia cuya vigencia termine de manera anticipada de conformidad
+con este Artículo, deberá revalidarse dentro de los treinta días
+naturales siguientes a su vencimiento.
+
+TÍTULO SEGUNDO
+
+DE LOS CONCEPTOS DE INGRESO Y SUS ELEMENTOS
+
+CAPÍTULO I
+
+Impuestos
+
+Sección Primera
+
+Impuesto Predial
+
+Artículo 28.- Es objeto del impuesto predial:
+
+La propiedad, el usufructo o la posesión a título distinto de los
+anteriores, de predios urbanos, rústicos, ejidales y comunales ubicados
+dentro del territorio municipal.
+
+La propiedad y el usufructo, de las construcciones edificadas, en los
+predios señalados en la fracción anterior.
+
+Los derechos de fideicomisario, cuando el inmueble se encuentre en
+posesión o uso del mismo.
+
+Los derechos del fideicomitente, durante el tiempo que el fiduciario
+estuviera como propietario del inmueble, sin llevar a cabo la
+transmisión al fideicomiso.
+
+Los derechos de la fiduciaria, en relación con lo dispuesto en el
+Artículo 42 de esta ley.
+
+La propiedad o posesión por cualquier título de bienes inmuebles del
+dominio público de la Federación, Estado o Municipio, utilizados o
+destinados para fines administrativos o propósitos distintos a los de
+su objeto público.
+
+Artículo 29.- Son sujetos del impuesto predial:
+
+ Los propietarios o usufructuarios de predios urbanos, rústicos,
+ejidales y comunales ubicados dentro del territorio municipal, así como
+de las construcciones permanentes edificadas en ellos.
+
+ Los fideicomitentes por todo el tiempo que el fiduciario no
+transmitiere la propiedad o el uso de los inmuebles a que se refiere la
+fracción anterior, al fideicomisario o a las demás personas que
+correspondiere, en cumplimiento del contrato de  fideicomiso.
+
+ Los fideicomisarios, cuando tengan la posesión o el uso del inmueble.
+
+ Los fiduciarios, cuando por virtud del contrato del fideicomiso tengan
+la posesión o el uso del inmueble.
+
+ Los organismos descentralizados, las empresas de participación estatal
+que tengan en propiedad o posesión bienes inmuebles del dominio
+público de la Federación, Estado, o Municipio, utilizados o destinados
+para fines administrativos o propósitos distintos a los de su objeto
+público.
+
+ Las personas físicas o morales que posean por cualquier título bienes
+inmuebles del dominio público de la Federación, Estado o Municipio
+utilizados o destinados para fines administrativos o propósitos
+distintos a los de su objeto público.
+
+	Los propietarios de los predios a los que se refiere la fracción I del
+Artículo 27 de esta ley, deberán manifestar a la Tesorería Municipal,
+el número total y la dirección de los predios de su propiedad ubicados
+en el Municipio correspondiente. Así mismo, deberán comunicar si el
+predio de que se trata se encuentra en alguno de los supuestos
+mencionados en cualquiera de las fracciones anteriores
+
+Artículo 30.- Son sujetos solidariamente responsables del impuesto
+predial:
+
+ Los funcionarios o empleados públicos, los notarios o fedatarios
+públicos y las personas que por disposición legal tengan funciones
+notariales, que inscriban o autoricen algún acto o contrato jurídico,
+sin cerciorarse de que se hubiese cubierto el impuesto respectivo,
+mediante la acumulación o anexo del certificado expedido por la
+Tesorería Municipal que corresponda.
+
+ Los empleados de la Tesorería Municipal, que formulen certificados de
+estar al corriente en el pago del impuesto predial, que alteren el
+importe de los adeudos por este concepto, o los dejen de cobrar.
+
+ Los enajenantes de bienes inmuebles a que se refiere el Artículo 44 de
+esta ley, mientras no transmitan el dominio de los mismos.
+
+ Los representantes legales de las sociedades, asociaciones, comunidades
+y particulares respecto de los predios de sus representados.
+
+ El vencido en un procedimiento judicial o administrativo por virtud del
+cual el predio de que se trate deba adjudicarse a otra persona, hasta el
+día en que, conforme a la ley del caso, se verifique dicha
+adjudicación. Las autoridades judiciales y administrativas se
+cerciorarán previamente a la adjudicación del inmueble del
+cumplimiento de esta obligación.
+
+ Los comisarios o representantes ejidales en los términos de las leyes
+agrarias.
+
+ Los titulares y/o representantes de los organismos descentralizados,
+empresas de participación estatal y particulares que posean bienes del
+dominio público de la Federación, Estado o Municipio, en términos de
+las fracciones VI y VII del Artículo anterior.
+
+Artículo 31.- Son base del impuesto predial:
+
+ El valor catastral del inmueble.
+
+ La contraprestación que produzcan los inmuebles, los terrenos o las
+construcciones ubicadas en los mismos y que por el uso o goce fuere
+susceptible de ser cobrada por el propietario, el fideicomisario o el
+usufructuario, independientemente de que se pacte en efectivo, especie o
+servicios.
+
+Artículo 32.- Cuando la base del impuesto predial, sea el valor
+catastral de un inmueble, dicha base estará determinada por el valor
+consignado en la cédula, que de conformidad con la Ley del Catastro y
+su reglamento, expedirá la Dirección del Catastro del Municipio o la
+Dirección del Catastro del Estado de Yucatán.
+
+Cuando la dirección de Catastro del Municipio de Tecoh, expidiere una
+cédula con diferente valor a la que existe registrada en el padrón
+municipal, el nuevo valor servirá como base para calcular el impuesto
+predial a partir del bimestre siguiente al mes que se recepcione la
+citada cédula.
+
+Lo dispuesto en el párrafo anterior, no se aplicará a los
+contribuyentes que a la fecha de la recepción de la nueva cédula
+catastral ya hubieren pagado el impuesto predial correspondiente. En
+este caso, el nuevo valor consignado en la cédula servirá como base
+del cálculo del impuesto predial para el siguiente bimestre no
+cubierto.
+
+Artículo 33.- Cuando la base del impuesto predial sea el valor
+catastral del inmueble, se determinará aplicando la tarifa establecida
+en la Ley de Ingresos del Municipio de Tecoh.
+
+Artículo 34.- El impuesto predial es anual y se dividirá en seis
+partes iguales que se pagarán bimestralmente a cuenta del impuesto
+anual; dichos pagos deberán hacerse dentro de los primeros quince días
+de cada uno de los bimestres al cual corresponda, ante las oficinas de
+la Tesorería Municipal.
+
+Cuando el contribuyente pague el impuesto predial correspondiente a la
+anualidad, durante los meses de enero y febrero de dicho año, gozará
+de un descuento del 10% sobre el importe de dicho impuesto.
+
+Artículo 35.- Estarán exentos de pago de Impuesto Predial, los bienes
+de dominio público de la Federación, Estado o Municipio salvo que
+tales bienes sean utilizados por entidades paraestatales, por organismos
+descentralizados o particulares, bajo cualquier título, para fines
+administrativos o propósitos distintos a los de su objeto público. En
+este caso, el impuesto predial se pagará en la forma, términos y
+conforme a la tarifa establecida en la presente ley.
+
+Cuando en un mismo inmueble, se realicen simultáneamente actividades
+propias del objeto público, de las entidades u organismos mencionados
+en el párrafo anterior, y otras actividades distintas o accesorias,
+para que la Tesorería Municipal correspondiente esté en condiciones de
+determinar el impuesto a pagar, los organismos descentralizados, las
+empresas de participación estatal o quienes posean bajo cualquier
+título inmuebles del dominio público de la Federación, Estado o
+Municipio, deberán declarar, durante los primeros quince días del mes
+de diciembre de cada año, ante la propia Tesorería Municipal, la
+superficie ocupada efectivamente para la realización de su objeto
+principal señalando claramente la superficie que del mismo inmueble sea
+utilizado para fines administrativos o distintos a los de su objeto
+público.
+
+La Tesorería Municipal, dentro de los diez días siguientes a la fecha
+de presentación, de la declaración de deslinde, realizará una
+inspección física en el lugar y resolverá si aprueba o no el deslinde
+de referencia. En caso afirmativo, se procederá al cobro del impuesto
+predial, sobre la superficie deslindada como accesoria. En caso
+contrario, la Tesorería correspondiente notificará al contribuyente
+los motivos y las modificaciones que considere convenientes, resolviendo
+así en definitiva la superficie gravable. La resolución que niegue la
+aceptación del deslinde podrá ser combatida en recurso de
+inconformidad en términos de lo dispuesto en la Ley Orgánica de los
+Municipios del Estado de Yucatán.
+
+Sólo en los casos de que la estructura de algún inmueble no admita una
+cómoda delimitación o cuando no se presente la declaratoria a que se
+refiere el párrafo anterior, será la oficina de catastro municipal o
+estatal en caso de que el Municipio no cuente  con este servicio, la
+que, tomando como base los datos físicos y materiales que objetivamente
+presente el inmueble, fije el porcentaje que corresponda a la superficie
+gravable, calcule su valor catastral y éste último, servirá de base a
+la Tesorería Municipal, para la determinación del impuesto a pagar.
+
+Artículo 36.- El impuesto predial se causará sobre la base de rentas,
+frutos civiles o cualquier otra contraprestación pactada, cuando el
+inmueble de que se trate, hubiese sido otorgado en arrendamiento,
+subarrendamiento, convenio de desocupación o cualquier otro título o
+instrumento jurídico por virtud del cual se permitiere su uso y con ese
+motivo, se genere dicha contraprestación, aún cuando el título en el
+que conste la autorización o se permita el uso no se hiciere constar el
+monto de la contraprestación respectiva.
+
+El impuesto predial calculado sobre la base contraprestación, se
+pagará única y exclusivamente en el caso de que al determinarse, diere
+como resultado una cantidad mayor a la que se pagaría si el cálculo se
+efectuara sobre la base del valor catastral.
+
+No será aplicada esta base cuando los inmuebles sean destinados a
+sanatorios de beneficencia y centros de enseñanza reconocidos por la
+autoridad educativa correspondiente.
+
+Artículo 37.- Los propietarios, fideicomisarios, fideicomitentes o
+usufructuarios de inmuebles, que se encuentren en cualquiera de los
+supuestos previstos en el Artículo anterior, estarán obligados a
+empadronarse en la Tesorería Municipal en un plazo máximo de treinta
+días, contados a partir de la fecha de celebración del contrato
+correspondiente, entregando copia del mismo a la propia Tesorería.
+
+Cualquier cambio en el monto de la contraprestación que generó el pago
+del impuesto predial sobre la base a que se refiere el Artículo 31 de
+esta ley, será notificado a la Tesorería Municipal, en un plazo de
+quince días, contados a partir de la fecha en que surta efectos la
+modificación respectiva. En igual forma, deberá notificarse la
+terminación de la relación jurídica que dio lugar a la
+contraprestación mencionada en el propio numeral 31 de esta ley, a
+efecto de que la autoridad determine el impuesto predial sobre la base
+del valor catastral.
+
+Cuando de un inmueble formen parte dos o más departamentos y éstos se
+encontraren en cualquiera de los supuestos del citado Artículo 35 de
+esta ley, el contribuyente deberá empadronarse por cada departamento.
+
+Los fedatarios públicos ante quienes se otorgare, firmare o rectificare
+el contrato, el convenio o el documento, que dio lugar a la situación
+jurídica, que permita al propietario, fideicomisario, fideicomitente, o
+usufructuario obtener una contraprestación, en los términos señalados
+en el Artículo 35 de esta ley, estarán obligados a entregar una copia
+simple del mismo a la Tesorería Municipal, en un plazo de treinta
+días, contados a partir de la fecha del otorgamiento, de la firma o de
+la ratificación del documento respectivo.
+
+Artículo 38.- Cuando la base del impuesto predial, sean las rentas,
+frutos civiles o cualquier otra contraprestación generada por el uso,
+goce o por permitir la ocupación de un inmueble por cualquier título,
+el impuesto se pagará mensualmente conforme a la tarifa establecida en
+la Ley de Ingresos del Municipio de Tecoh.
+
+Artículo 39.- Cuando el impuesto predial se cause sobre la base de la
+contraprestación pactada por usar, gozar o permitir la ocupación de un
+inmueble, el impuesto deberá cubrirse durante la primera quincena del
+mes siguiente a aquél en que se cumpla alguno de los siguientes
+supuestos: que sea exigible el pago de la contraprestación; que se
+expida el comprobante de la misma; o se cobre el monto pactado por el
+uso o goce, lo que suceda primero, salvo el caso en que los
+propietarios, usufructuarios, fideicomisarios o fideicomitentes
+estuviesen siguiendo un procedimiento judicial para el cobro de la
+contraprestación pactada, en contra del ocupante o arrendatario.
+
+En este caso, para que los propietarios, usufructuarios, fideicomisarios
+o fideicomitentes tributen sobre la base del valor catastral del
+inmueble objeto, deberán notificar dicha situación, a la Tesorería
+Municipal, dentro de los quince días siguientes a la fecha de inicio
+del procedimiento correspondiente, anexando copia del memorial
+respectivo.
+
+Artículo 40.- Los fedatarios públicos, las personas que por
+disposición legal tengan funciones notariales y los funcionarios ante
+quienes se ratifiquen las firmas, no deberán autorizar o ratificar
+escrituras o contratos que se refieran a predios urbanos o rústicos
+ubicados en el territorio municipal o a construcciones edificadas en
+dicho territorio, sin obtener un certificado expedido por la Tesorería
+Municipal. El certificado que menciona el presente Artículo deberá
+anexarse al documento, testimonio o escritura en la que conste el acto o
+contrato y los escribanos estarán obligados a acompañarlos a los
+informes que remitan al Archivo Notarial del Estado de Yucatán.
+
+Los contratos, convenios o cualquier otro título o instrumento
+jurídico que no cumplan con el requisito mencionado en el párrafo
+anterior, no se inscribirán en el Registro Público de la Propiedad y
+de Comercio del Estado.
+
+La Tesorería Municipal, expedirá los certificados de no adeudar
+impuesto predial, conforme a la solicitud que por escrito presente el
+interesado, quien deberá señalar el inmueble, el bimestre y el año,
+respecto de los cuales solicite la certificación.
+
+Cada Tesorería emitirá la forma correspondiente para solicitar el
+certificado mencionado en el párrafo que antecede.
+
+Sección Segunda
+
+Del Impuesto Sobre Adquisición de Inmuebles
+
+Artículo 41.- Es objeto del Impuesto sobre Adquisición de Inmuebles,
+toda adquisición del dominio de bienes inmuebles, que consistan en el
+suelo, en las construcciones adheridas a él, en ambos, o de derechos
+sobre los mismos, ubicados en el Municipio de Tecoh, Yucatán.
+
+Para efectos de este impuesto, se entiende por adquisición:
+
+ Todo acto por el que se adquiera la propiedad, incluyendo la donación,
+y la aportación a toda clase de personas morales.
+
+ La compraventa en la que el vendedor se reserve la propiedad del
+inmueble, aún cuando la transferencia de ésta se realice con
+posterioridad.
+
+ El convenio, promesa, minuta o cualquier otro contrato similar, cuando
+se pacte que el comprador o futuro comprador, entrará en posesión del
+inmueble o que el vendedor o futuro vendedor, recibirá parte o la
+totalidad del precio de la venta, antes de la celebración del contrato
+definitivo de enajenación del inmueble, o de los derechos sobre el
+mismo.
+
+ La cesión de derechos del comprador o del futuro comprador, en los
+casos de las fracciones II y III que anteceden.
+
+ La fusión o escisión de sociedades.
+
+ La dación en pago y la liquidación, reducción de capital, pago en
+especie de remanentes, utilidades o dividendos de asociaciones o
+sociedades civiles y mercantiles.
+
+ La constitución de usufructo y la adquisición del derecho de
+ejercicios del mismo.
+
+ La prescripción positiva.
+
+ La cesión de derechos del heredero o legatario. Se entenderá como
+cesión de derechos la renuncia de la herencia o del legado, efectuado
+después del reconocimiento de herederos y legatarios.
+
+ La adquisición que se realice a través de un contrato de fideicomiso,
+en los supuestos relacionados en el Código Fiscal de la Federación.
+
+ La disolución de la copropiedad y de la sociedad conyugal, por la
+parte que el copropietario o el cónyuge adquiera en demasía del
+porcentaje que le corresponde.
+
+ La adquisición de la propiedad de bienes inmuebles, en virtud de
+remate judicial o administrativo.
+
+ En los casos de permuta se considerará que se efectúan dos
+adquisiciones.
+
+Artículo 42.- Son sujetos de este impuesto, las personas físicas o
+morales que adquieran inmuebles, en términos de las disposiciones de
+esta Sección.
+
+Los sujetos obligados al pago de este impuesto, deberán enterarlo en la
+Tesorería Municipal, dentro del plazo señalado en esta Sección a la
+fecha en que se realice el acto generador del tributo, mediante
+declaración, utilizando las formas que para tal efecto emita la propia
+Tesorería Municipal.
+
+Artículo 43.- Son sujetos solidariamente responsables del pago del
+Impuesto Sobre Adquisición de Inmuebles:
+
+I.- Los fedatarios públicos y las personas que por disposición legal
+tengan funciones notariales, cuando autoricen una escritura que contenga
+alguno de los supuestos que se relacionan en el Artículo 41 de la
+presente ley y no hubiesen constatado el pago del impuesto.
+
+II.- Los funcionarios o empleados del Registro Público de la Propiedad
+y del Comercio del Estado, que inscriban cualquier acto, contrato o
+documento relativo a algunos de los supuestos que se relacionan en el
+mencionado Artículo 41 de esta ley, sin que les sea exhibido el recibo
+correspondiente al pago del impuesto.
+
+Artículo 44.- No se causará el Impuesto Sobre Adquisición de
+Inmuebles en las adquisiciones que realice la Federación, los Estados,
+el Distrito Federal, el Municipio, las Instituciones de Beneficencia
+Pública, la Universidad Autónoma de Yucatán y en los casos
+siguientes:
+
+ La transformación de sociedades, con excepción de la fusión.
+
+ En la adquisición que realicen los Estados Extranjeros, en los casos
+que existiera reciprocidad.
+
+ Cuando se adquiera la propiedad de Inmuebles, con motivo de la
+constitución de la sociedad conyugal.
+
+ La disolución de la copropiedad, siempre que las partes adjudicadas no
+excedan de las porciones que a cada uno de los copropietarios
+corresponda. En caso contrario, deberá pagarse el impuesto sobre el
+exceso o la diferencia.
+
+ Cuando se adquieran inmuebles por herencia o legado.
+
+ La donación entre consortes, ascendientes o descendientes en línea
+directa, previa comprobación del parentesco ante la Tesorería
+Municipal.
+
+Artículo 45.- La base del impuesto Sobre Adquisición de Inmuebles,
+será el valor que resulte mayor entre el precio de adquisición, el
+valor contenido en la cédula catastral vigente, el valor contenido en
+el avalúo pericial tratándose de las operaciones consignadas en las
+fracciones IX, XI y XII del Artículo 41 de esta ley, el avalúo
+expedido por las autoridades fiscales, las Instituciones de Crédito, la
+Comisión de Avalúos de Bienes Nacionales o por corredor público.
+
+Cuando el adquiriente asuma la obligación de pagar alguna deuda del
+enajenante o de perdonarla, el importe de dicha deuda, se considerará
+parte del precio pactado.
+
+La autoridad fiscal municipal estará facultada para practicar, ordenar
+o tomar en cuenta el avalúo del inmueble, objeto de la adquisición
+referido a la fecha de adquisición y, cuando el valor del avalúo
+practicado, ordenado o tomado en cuenta, excediera en más de un 10 por
+ciento, del valor mayor, el total de la diferencia se considerará como
+parte del precio pactado.
+
+Para los efectos del presente artículo, el usufructo y la nuda
+propiedad tienen cada uno el valor equivalente al .5 del valor de la
+propiedad.
+
+En la elaboración de los avalúos referidos así como para determinar
+el costo de los mismos con cargo a los contribuyentes, la autoridad
+fiscal municipal observará las disposiciones del Código Fiscal del
+Estado de Yucatán o, en su defecto, las disposiciones relativas del
+Código Fiscal de la Federación y su reglamento.
+
+Artículo 46.- Los avalúos que se practiquen para el efecto del pago
+del Impuesto Sobre Adquisición de Bienes Inmuebles, tendrán una
+vigencia de seis meses a partir de la fecha de su expedición.
+
+Artículo 47.- El impuesto a que se refiere esta Sección, se calculará
+aplicando la tasa establecida en la Ley de Ingresos del Municipio de
+Tecoh.
+
+Artículo 48.- Los fedatarios públicos, las personas que por
+disposición legal tengan funciones notariales y las autoridades
+judiciales o administrativas, deberán manifestar a la Tesorería
+Municipal por duplicado, dentro de los treinta días siguientes a la
+fecha del acto o contrato, la adquisición de inmuebles realizados ante
+ellos, expresando:
+
+ Nombre y domicilio de los contratantes.
+
+ Nombre del fedatario público y número que le corresponda a la
+notaría o escribanía. En caso de tratarse de persona distinta a los
+anteriores y siempre que realice funciones notariales, deberá expresar
+su nombre y el cargo que detenta.
+
+ Firma y sello, en su caso, del autorizante.
+
+ Fecha en que se firmó la escritura de adquisición del inmueble o de
+los derechos sobre el mismo.
+
+ Naturaleza del acto, contrato o concepto de adquisición.
+
+ Identificación del inmueble.
+
+ Valor de la operación.
+
+ Liquidación del impuesto.
+
+A la manifestación señalada en este artículo, se acumulará copia del
+avalúo practicado al efecto.
+
+Cuando los fedatarios públicos y quienes realizan funciones notariales
+no cumplan con la obligación a que se refiere este artículo, serán
+sancionados con una multa de uno a diez salarios mínimos vigentes en el
+Estado de Yucatán.
+
+Los jueces o presidentes de las juntas de conciliación y arbitraje
+federales o estatales, únicamente tendrán la obligación de comunicar
+a la Tesorería Municipal, el procedimiento que motivó la adquisición,
+el número de expediente, el nombre o razón social de la persona a
+quien se adjudique el bien y la fecha de adjudicación.
+
+Artículo 49.- Los fedatarios públicos y las personas que por
+disposición legal tengan funciones notariales, acumularán al
+instrumento donde conste la adquisición del inmueble o de los derechos
+sobre el mismo, copia del recibo donde se acredite haber pagado el
+impuesto o bien, copia del manifiesto sellado, cuando se trate de las
+operaciones consignadas en el Artículo 41 de esta ley. Para el caso de
+que las personas obligadas a pagar este impuesto, no lo hicieren, los
+fedatarios y las personas que por disposición legal tengan funciones
+notariales, se abstendrán de autorizar el contrato o escritura
+correspondiente.
+
+Por su parte, los registradores, no inscribirán en el Registro Público
+de la Propiedad y del Comercio del Estado, los documentos donde conste
+la adquisición de inmuebles o de derechos sobre los mismos, sin que el
+solicitante compruebe que no cumplió con la obligación de pagar el
+Impuesto Sobre Adquisición de Inmuebles.
+
+En caso contrario, los fedatarios públicos, las personas que tengan
+funciones notariales y los registradores, serán solidariamente
+responsables del pago impuesto y sus accesorios legales, sin perjuicio
+de la responsabilidad administrativa o penal en que incurran con ese
+motivo.
+
+Los fedatarios y las demás personas que realicen funciones notariales
+no estarán obligados a enterar el impuesto cuando consignen en las
+escrituras o documentos públicos, operaciones por las que ya se hubiese
+cubierto el impuesto y acompañen a su declaración copia de aquélla
+con la que se efectuó dicho pago.
+
+Artículo 50.- El pago del Impuesto Sobre Adquisición de Inmuebles,
+deberá hacerse, dentro de los treinta días hábiles siguientes a la
+fecha en que, según el caso, ocurra primero alguno de los siguientes
+supuestos:
+
+Se celebre el acto contrato;
+
+Se eleve a escritura pública, y
+
+Se inscriba en el Registro Público de la Propiedad y de Comercio del
+Estado.
+
+Artículo 51.- Cuando el Impuesto Sobre Adquisición de Inmuebles no
+fuere cubierto dentro del plazo señalado en el Artículo inmediato
+anterior, los contribuyentes o los obligados solidarios, en su caso, se
+harán acreedores a una sanción equivalente al importe de los recargos
+que se determinen conforme a lo establecido en el Artículo 19 de esta
+ley. Lo anterior, sin perjuicio de la aplicación del recargo
+establecido para las contribuciones fiscales pagadas en forma
+extemporánea.
+
+Sección Tercera
+
+Impuesto Sobre Diversiones y Espectáculos Públicos
+
+Artículo 52.- Es objeto del Impuesto Sobre Diversiones y Espectáculos
+Públicos, el ingreso derivado de la comercialización de actos,
+diversiones y espectáculos públicos, siempre y cuando dichas
+actividades sean consideradas exentas de pago de Impuesto al Valor
+Agregado.
+
+Para los efectos de esta Sección se consideran:
+
+Diversiones Públicas: Son aquellos eventos a los cuales el público
+asiste mediante el pago de una cuota de admisión, con la finalidad de
+participar o tener la oportunidad de participar activamente en los
+mismos.
+
+Espectáculos Públicos: Son aquellos eventos a los que el público
+asiste, mediante el pago de una cuota de admisión, con la finalidad de
+recrearse y disfrutar con la presentación del mismo, pero sin
+participar en forma activa.
+
+Cuota de Admisión: Es el importe o boleto de entrada, donativo,
+cooperación o cualquier otra denominación que se le dé a la cantidad
+de dinero por la que se permita el acceso a las diversiones y
+espectáculos públicos.
+
+Artículo 53.- Son sujetos del Impuesto Sobre Diversiones y
+Espectáculos Públicos, las personas físicas o morales que perciban
+ingresos derivados de la comercialización de actos, diversiones o
+espectáculos públicos, ya sea en forma permanente o temporal.
+
+Los sujetos de este impuesto además de las obligaciones a que se
+refieren los Artículos 9 y 25 de esta ley, deberán:
+
+I.- Proporcionar a la Tesorería los datos señalados a continuación:
+
+Nombre y domicilio de quien promueve la diversión o espectáculo
+
+Clase o Tipo de Diversión o Espectáculo
+
+Ubicación del lugar donde se llevará a cabo el evento
+
+II.- Cumplir con las disposiciones que para tal efecto fije la
+Regiduría de Espectáculos, en el caso del Municipio que no hubiere el
+reglamento respectivo, y
+
+III.- Presentar a la Tesorería Municipal, cuando menos tres días antes
+de la realización del evento, la emisión total de los boletos de
+entrada, señalando el número de boletos que corresponden a cada clase
+y su precio al público, a fin que se autoricen con el sello respectivo.
+
+Artículo 54.- La base del Impuesto Sobre Diversiones y Espectáculos
+Públicos, será la totalidad del ingreso percibido por los sujetos del
+impuesto, en la comercialización correspondiente;
+
+Artículo 55.- La tasa del Impuesto Sobre Diversiones y Espectáculos
+Públicos, será la establecida en la Ley de Ingresos del Municipio de
+Tecoh.
+
+Artículo 56.-  El pago de este impuesto se sujetará a lo siguiente:
+
+ Si pudiera determinarse previamente el monto del ingreso y se trate de
+contribuyentes eventuales, el pago se efectuará antes de la
+realización de la diversión o espectáculo respectivo.
+
+ Si no pudiera determinarse previamente el monto del ingreso, se
+garantizará el interés del Municipio mediante depósito ante la
+Tesorería Municipal, del 50% del importe del impuesto determinado sobre
+el total de los boletos autorizados para el espectáculo que se trate y
+el pago del impuesto, se efectuará al término del propio espectáculo,
+pagando el contribuyente la diferencia que existiere a su cargo, o bien,
+reintegrándose al propio contribuyente, la diferencia que hubiere a su
+favor.
+
+ Tratándose de contribuyentes establecidos o registrados en el Padrón
+Municipal, el pago se efectuará dentro los primeros quince días de
+cada mes.
+
+Cuando los sujetos obligados a otorgar la garantía a que se refiere la
+fracción II, no cumplan con tal obligación, la Tesorería Municipal,
+podrá suspender el evento hasta en tanto no se otorgue dicha garantía,
+para ello la autoridad fiscal municipal podrá solicitar el auxilio de
+la fuerza pública.
+
+En todo caso, la Tesorería Municipal podrá designar interventor para
+que, determine y recaude las contribuciones causadas. En este caso, el
+impuesto se pagará a dicho interventor al finalizar el evento,
+expidiendo éste último el recibo provisional respectivo, mismo que
+será canjeado por el recibo oficial en la propia Tesorería Municipal,
+el día hábil siguiente al de la realización del evento.
+
+Artículo 57.- Los empresarios, promotores, y/o representantes de las
+empresas de espectáculos y diversiones públicas, están obligados a
+permitir que los inspectores, interventores, liquidadores y/o
+comisionados de la Tesorería Municipal, desempeñen sus funciones, así
+como a proporcionarles los libros, datos o documentos que se les
+requiera para la correcta determinación del impuesto a que se refiere
+este Capítulo.
+
+Artículo 58.- La Tesorería Municipal tendrá facultad para suspender o
+intervenir la venta de boletos de cualquier evento, cuando los
+organizadores, promotores o empresarios, no cumplan con la obligación
+contenida en la fracción III del Artículo 53 de esta ley, no
+proporcionen la información que se les requiera para la determinación
+del impuesto o de alguna manera obstaculicen las facultades de las
+autoridades municipales.
+
+CAPÍTULO II
+
+Derechos
+
+Sección Primera
+
+Derechos por Servicios de Licencias y Permisos
+
+Artículo 59.-   Es objeto de los Derechos por Servicios de Licencias y
+Permisos:
+
+ Las licencias, permisos o autorizaciones para el funcionamiento de
+establecimientos o locales, cuyos giros sean la enajenación de bebidas
+alcohólicas o la prestación de servicios que incluyan el expendio de
+dichas bebidas, siempre que se efectúen total o parcialmente con el
+público en general;
+
+ Las licencias, permisos o autorizaciones para el funcionamiento de
+establecimientos o locales comerciales o de servicios.
+
+ Las licencias para instalación de anuncios de toda índole, conforme a
+la reglamentación municipal correspondiente;
+
+ Otro tipo de permisos y autorizaciones de tipo eventual que se señalen
+en las leyes de ingresos de los Municipios.
+
+Artículo 60-  Son sujetos de los derechos a que se refiere la presente
+Sección, las personas físicas o morales que soliciten y obtengan las
+licencias, permisos o autorizaciones a que se refiere el artículo
+anterior, o que realicen por cuenta propia o ajena las mismas
+actividades referidas y que dan motivo al pago de derechos.
+
+Artículo 61.-   Son responsables solidarios del pago de los derechos a
+que se refiere la presente Sección:
+
+ Tratándose de licencias, los propietarios de los inmuebles donde
+funcionen los giros o donde se instalen los anuncios, y
+
+ Tratándose de espectáculos, los propietarios de los inmuebles en que
+éstos se llevan a cabo.
+
+Artículo 62.-   Es base para el pago de los derechos a que se refiere
+la presente Sección:
+
+ En relación con el funcionamiento de giros relacionados con la venta
+de bebidas alcohólicas, la base del gravamen será el tipo de
+autorización, licencia, permiso o revalidación de estos, así como el
+número de días y horas, tratándose de permisos eventuales o de
+funcionamiento en horarios extraordinarios. No podrán establecerse
+tarifas diferenciadas para el cobro de los derechos a los que se refiere
+esta fracción, salvo que la autoridad municipal así lo justifique y lo
+haga constar en la Ley de Ingresos respectiva.
+
+ En relación con el funcionamiento de establecimientos o locales
+comerciales o de servicios el tipo de autorización, licencia, permiso o
+revalidación de estos, así como el número de días y horas,
+tratándose de permisos eventuales o de funcionamiento en horarios
+extraordinarios.
+
+ Tratándose de licencias para anuncios, el metro cuadrado de superficie
+del anuncio;
+
+ En permisos de construcción, reconstrucción, ampliación y
+demolición de inmuebles, la base se determinará en función del metro
+cuadrado de superficie construida o demolida;
+
+ Para la construcción de pozos y albercas, será base el metro cúbico
+de capacidad;
+
+ Para la construcción de pozos, será base el metro lineal de
+profundidad;
+
+ Por la construcción y demolición de bardas y obras lineales, será
+base el metro lineal de construcción;
+
+ Los permisos para fraccionamientos serán en función de los metros
+cuadrados de superficie vendible, y
+
+ Para espectáculos públicos el número de días y horas en que se
+realicen los mismos.
+
+En el caso de las fracciones señaladas en este artículo, la autoridad
+municipal podrá determinar una cuota única por cada permiso otorgado,
+sin tomar en cuenta la base señalada en dichas fracciones.
+
+ Artículo 63.-   El pago de los derechos a que se refiere esta Sección
+deberá cubrirse con anticipación al otorgamiento de las licencias o
+permisos referidos, con excepción de los que en su caso disponga la
+reglamentación correspondiente.
+
+Artículo 64.- Por el otorgamiento de licencias o permisos a que hace
+referencia esta Sección, se causarán y pagarán derechos de
+conformidad con las tarifas señaladas la Ley de Ingresos del Municipio
+de Tecoh.
+
+Artículo 65.- Los establecimientos con venta de bebidas alcohólicas
+que no cuenten con licencia de funcionamiento vigente, podrán ser
+clausurados por la autoridad municipal.
+
+Para efecto de la expedición de Licencias de Funcionamiento se deberá
+cumplir con lo dispuesto en el Reglamento relativo a los
+establecimientos con giros relacionados con la venta de bebidas
+alcohólicas del Municipio de Tecoh, Yucatán.
+
+Sección Segunda
+
+Derechos por servicios que presta la Dirección de Obras Públicas
+
+Artículo 66.- Son sujetos de estos derechos las personas físicas o
+morales que soliciten y obtengan las licencias, permisos o
+autorizaciones a que se refiere el artículo anterior, o que realicen
+por cuenta propia o ajena las mismas actividades referidas y que dan
+motivo al pago de derechos.
+
+Artículo 67.-   Son objeto de estos derechos:
+
+ Los permisos de construcción, reconstrucción, ampliación,
+demolición de inmuebles; de fraccionamientos; construcción de pozos y
+albercas; ruptura de banquetas, empedrados o pavimento, y
+
+ Otro tipo de permisos y autorizaciones de tipo eventual que se señalen
+en las leyes de ingresos de los Municipios.
+
+Artículo 68.- La base para el pago de estos derechos será:
+
+ En permisos de construcción, reconstrucción, ampliación y
+demolición de inmuebles, la base se determinará en función del metro
+cuadrado de superficie construida o demolida;
+
+ Para la construcción de pozos y albercas, será base el metro cúbico
+de capacidad;
+
+ Para la construcción de pozos, será base el metro lineal de
+profundidad;
+
+ Por la construcción y demolición de bardas y obras lineales, será
+base el metro lineal de construcción, y
+
+ Los permisos para fraccionamientos serán en función de los metros
+cuadrados de superficie vendible.
+
+Artículo 69.- El pago de los derechos a que se refiere esta sección
+deberá cubrirse con anticipación al otorgamiento de las licencias o
+permisos referidos, con excepción de los que en su caso disponga la
+reglamentación correspondiente.
+
+ Artículo 70.- Son responsables solidarios, los ingenieros o
+contratistas encargados de la realización de las obras, tratándose de
+permisos de construcción, ampliación, reconstrucción, demolición,
+construcción de albercas, pozos y en general, todos los relacionados
+con los mismos.
+
+Artículo 71.- Sólo podrán establecerse por estos derechos las
+siguientes exenciones, permisos relacionados con las construcciones de
+todo tipo llevadas a cabo por la Federación, el Estado y los
+Municipios, siempre y cuando se trate de construcción de bienes de
+dominio público.
+
+Artículo 72.- Quedará exenta de pago, la inspección para el
+otorgamiento de la licencia que se requiera, por los siguientes
+conceptos:
+
+ Las construcciones que sean edificadas físicamente por sus
+propietarios.
+
+ Las construcciones de Centros Asistenciales y Sociales, propiedad de la
+Federación, el Estado o Municipio.
+
+ La construcción de aceras, fosas sépticas, pozos de absorción,
+resanes, pintura de fachadas y obras de jardinería. Destinadas al
+mejoramiento de la vivienda.
+
+Artículo 73.- El Tesorero Municipal a solicitud escrita del Director de
+Obras Públicas o del Titular de la Dependencia respectiva, podrá
+disminuir la tarifa a los contribuyentes de ostensible pobreza, que
+tengan dependientes económicos.
+
+Se considera que el contribuyente es de ostensible pobreza, en los casos
+siguientes:
+
+  Cuando el ingreso familiar del contribuyente es inferior a un salario
+mínimo vigente en el Estado de Yucatán y el solicitando de la
+disminución del monto del derecho, tenga algún dependiente económico.
+
+ Cuando el ingreso familiar del contribuyente no exceda de 2 veces el
+salario mínimo vigente en el Estado de Yucatán y los dependientes de
+él sean más de dos.
+
+El solicitante de la disminución del monto del derecho deberá
+justificar a satisfacción de la autoridad, que se encuentra en algunos
+de los supuestos mencionados.
+
+La dependencia competente del Ayuntamiento realizará la investigación
+socioeconómica de cada solicitante y remitirá un dictamen aprobando o
+negando la necesidad de la reducción.
+
+Un ejemplar del dictamen se anexará al comprobante de ingresos y ambos
+documentos formarán parte de la cuenta pública que se rendirá al
+Congreso del Estado.
+
+En las oficinas recaudadoras se instalarán cartelones en lugares
+visibles, informando al público los requisitos y procedimientos para
+obtener una reducción de los derechos.
+
+Lo dispuesto en este artículo, no libera a los responsables de las
+obras o de los actos relacionados, de la obligación de solicitar los
+permisos o autorizaciones correspondientes.
+
+Sección Tercera
+
+Derechos por Servicios de Vigilancia
+
+ Artículo 74.- Es objeto del Derecho por Servicio de Vigilancia, el
+prestado especialmente por la policía municipal.
+
+ Artículo 75.-   Son sujetos de estos derechos las personas físicas o
+morales, instituciones públicas o privadas que soliciten al
+Ayuntamiento, el servicio especial de vigilancia.
+
+Artículo 76.- Es base para el pago del derecho a que se refiere esta
+sección, el número de agentes solicitados, así como el número de
+horas que se destinen a la prestación del servicio.
+
+Artículo 77.-   El pago de los derechos se hará por anticipado al
+solicitar el servicio, en las oficinas de la Tesorería Municipal.
+
+Artículo 78.- Por los derechos a que se refiere esta Sección, se
+pagarán cuotas de acuerdo con la tarifa establecida en la Ley de
+Ingresos del Municipio de Tecoh.
+
+Sección Cuarta
+
+Derechos por servicios de Certificaciones y Constancias
+
+Artículo 79.- Las personas físicas y morales que soliciten al
+Ayuntamiento participar en licitaciones, o que se les expidan
+certificaciones y constancias, pagarán derechos conforme a lo
+establecido en la Ley de Ingresos del Municipio de Tecoh:
+
+Sección Quinta
+
+Derechos por Servicio de Rastro
+
+Artículo 80.- Es objeto del Derecho por Servicio de Rastro que preste
+el Ayuntamiento, el transporte, matanza, guarda en corrales, peso en
+básculas e inspección fuera del rastro de animales y de carne fresca o
+en canal.
+
+Artículo 81.- Son sujetos del Derecho a que se refiere la presente
+Sección, las personas físicas o morales que utilicen los servicios de
+rastro que presta el Ayuntamiento.
+
+Artículo 82.-   Será base de este tributo el tipo de servicio el
+número de animales trasportados, sacrificados, guardados, pesados o
+inspeccionados.
+
+Artículo 83.- Los derechos por los servicios de Rastro se causarán de
+conformidad con la tarifa establecida en la Ley de Ingresos del
+Municipio de Tecoh.
+
+Artículo 84.- La inspección de carne en los rastros públicos no
+causará derecho alguno, pero las personas que introduzcan carne al
+Municipio de Tecoh, Yucatán, deberán pasar por esa inspección. Dicha
+inspección se practicará en términos de lo dispuesto en la Ley de
+Salud del Estado de Yucatán. Esta disposición es de orden público e
+interés social.
+
+En el caso de que las personas que realicen la introducción de carne en
+los términos del párrafo anterior, no pasaren por la inspección
+mencionada, se harán vigente en el Estado de Yucatán, acreedoras a una
+sanción cuyo importe será de uno a diez salarios mínimos vigentes en
+el Estado de Yucatán por pieza de ganado introducida o su equivalente.
+
+Artículo 85.- El Ayuntamiento a través de sus órganos administrativos
+podrá autorizar mediante la licencia respectiva y sin cobro alguno, la
+matanza de ganado fuera de los Rastros Públicos del Municipio, previo
+el cumplimiento de los requisitos que determinan la Ley de Salud del
+Estado de Yucatán y su Reglamento.
+
+En todo caso, se requerirá la licencia correspondiente. El
+incumplimiento de esta disposición se sancionará con una multa de uno
+a diez salarios mínimos vigentes en el Estado de Yucatán. En caso de
+reincidencia, dicha sanción se duplicará y así sucesivamente.
+
+Sección Sexta
+
+Derechos por Servicios de Catastro
+
+Artículo 86.- El objeto de estos derechos está constituido por los
+servicios que presta el Catastro Municipal.
+
+Artículo 87.- Son sujetos de estos derechos las personas físicas o
+morales que soliciten los servicios que presta el Catastro Municipal.
+
+Artículo 88.- La cuota que se pagará por los servicios que presta el
+Catastro Municipal, causarán derechos de conformidad con lo establecido
+en la Ley de Ingresos del Municipio de Tecoh.
+
+Artículo 89.- No causarán derecho alguno las divisiones o fracciones
+de terrenos en zonas rústicas que sean destinadas plenamente a la
+producción agrícola o ganadera.
+
+Artículo 90.- Los fraccionamientos causarán derechos de deslindes,
+excepción hecha de lo dispuesto en el Artículo anterior, de
+conformidad con lo establecido en la Ley de Ingresos del Municipio de
+Tecoh.
+
+Artículo 91.- Por la revisión de la documentación de construcción en
+régimen de propiedad en condominio, se causarán derechos de
+conformidad con lo establecido en la Ley de Ingresos del Municipio de
+Tecoh.
+
+Artículo 92.- Quedan exentas del pago de los derechos que establece
+esta Seción, las Instituciones Públicas.
+
+Sección Séptima
+
+Derechos por el Uso y Aprovechamiento de los Bienes
+
+del Dominio Público Municipal.
+
+Artículo 93.- Son  objeto de  derecho, el uso y aprovechamiento de
+cualquiera de los bienes del dominio público del patrimonio municipal,
+así como el uso y aprovechamiento de locales o piso en los mercados y
+centrales de abasto propiedad del Municipio.
+
+Para los efectos de este Artículo y sin perjuicio de lo dispuesto en
+los Reglamentos Municipales se entenderá por:
+
+Mercado.- El inmueble edificado o no, donde concurran diversidad de
+personas físicas o morales, oferentes de productos básicos y a los que
+accedan sin restricción los consumidores en general.
+
+Central de Abasto.- El inmueble en que se distribuyan al mayoreo
+diversidad de productos y cuyas actividades principales son la
+recepción, exhibición, almacenamiento especializado y venta al mayoreo
+de productos.
+
+Artículo 94.- Están sujetos al pago de los derechos por el uso y
+aprovechamiento de bienes del dominio público municipal, las personas
+físicas o morales a quienes se les hubiera otorgado en concesión, o
+hayan obtenido la posesión por cualquier otro medio, así como
+aquéllas personas que hagan uso de las unidades deportivas, parques
+zoológicos, acuáticos, museos, bibliotecas y en general que usen o
+aprovechen los bienes del domino público municipal.
+
+Artículo 95.- La base para determinar el monto de estos derechos, será
+el número de metros cuadrados concesionados, y el espacio físico que
+tenga en posesión por cualquier otro medio.
+
+Artículo 96.- Los derechos a que se refiere la presente Sección, se
+causarán y pagarán de conformidad con la tarifa establecida en la Ley
+de Ingresos del Municipio de Tecoh.
+
+Sección Octava
+
+Derechos por Servicio de Limpia y Recolección de Basura
+
+Artículo 97.- Es objeto del derecho de limpia y/o recolección de
+basura a domicilio o en los lugares que al efecto se establezcan en los
+Reglamentos Municipales correspondientes, así como la limpieza de
+predios baldíos que sean aseados por el Ayuntamiento a solicitud o no,
+del propietario de los mismos, fuera de este último caso, se estará a
+lo dispuesto en la reglamentación municipal respectiva.
+
+Artículo 98.- Son sujetos de este derecho, las personas físicas o
+morales que soliciten los servicios de limpia y recolección de basura
+que preste el Municipio.
+
+Artículo 99.- Servirá de base para el cobro del derecho a que se
+refiere la presente Sección:
+
+ Tratándose del servicio de recolección de basura, la periodicidad y
+forma en que se preste el servicio, y
+
+ La superficie total del predio que deba limpiarse, a solicitud del
+propietario.
+
+Artículo 100.- El pago de los derechos se realizará en la caja de la
+Tesorería Municipal.
+
+Artículo 101.-  Por los servicios de limpia y/o recolección de basura,
+se causarán y pagarán derechos conforme a la tarifa establecida en la
+Ley de Ingresos del Municipio de Tecoh.
+
+Sección Novena
+
+Derechos por Servicios de Panteones
+
+Artículo 102.- Son objeto del Derecho por servicios de Panteones,
+aquellos que sean solicitados y prestados por el Ayuntamiento.
+
+Artículo 103.- Son sujetos del derecho a que se refiere la presente
+sección, las personas físicas o morales que soliciten y reciban,
+alguno o algunos  de los servicios de panteones prestados por el
+ayuntamiento.
+
+Artículo 104.- El pago por los servicios de panteones se realizará al
+momento de solicitarlos.
+
+Artículo 105.- Por los servicios a que se refiere esta Sección, se
+causarán y pagarán derechos conforme a la tarifa establecida en la Ley
+de Ingresos del Municipio de Tecoh.
+
+Sección Décima
+
+Derechos por Servicio  de Alumbrado Público.
+
+Artículo 106.- El derecho por el servicio de alumbrado público se
+causará como compensación por el disfrute del citado servicio que se
+preste en la ciudad de Tecoh.
+
+Artículo 107.- Son sujetos de pago del derecho por el servicio de
+alumbrado público, los consumidores de energía eléctrica en tarifas
+1-A, 2, 3 publicadas en el Diario Oficial de la Federación el 15 de
+noviembre de 1976 o en las que en su caso las sustituyan.
+
+Artículo 108.- La cuota del derecho de alumbrado público será la
+establecida en la Ley de Ingresos del Municipio de Tecoh.
+
+Artículo 109.-  El derecho por el servicio de alumbrado público será
+recaudado por conducto de la Comisión Federal de Electricidad, mediante
+la aplicación de la tasa relativa, calculándose el importe del
+derecho, el cual deberá hacerse constar en las facturaciones que
+formule a sus consumidores sujetos de este derecho, para los efectos del
+pago, de acuerdo con el convenio celebrado entre el Ayuntamiento de
+Tecoh y la Comisión Federal de Electricidad.
+
+Artículo 110.-  La Comisión Federal de Electricidad deberá aplicar el
+monto de los derechos que se recauden en la forma siguiente:
+
+I.- Para cubrir en primer término, el importe de la energía eléctrica
+para el alumbrado público, que sea suministrada al Municipio de Tecoh y
+sus comisarías.
+
+II.- los remanentes serán utilizados en la siguiente forma:
+
+Para cubrir el mantenimiento y reposición de lámparas de alumbrado
+público del  Municipio de Tecoh y sus comisarías; tarea que quedará
+bajo la responsabilidad de la Comisión Federal de Electricidad.
+
+Para amortizar los adeudos anteriores que el  Municipio de Tecoh y sus
+comisarías tengan por suministro de energía por el alumbrado público
+con la Comisión Federal de Electricidad.
+
+Para ampliar o mejorar, en su caso, las instalaciones del alumbrado
+público a solicitud del Ayuntamiento de Tecoh.
+
+Artículo 111.-  La Comisión Federal de Electricidad deberá rendir al
+Ayuntamiento de Tecoh los informes relativos a la recaudación del
+derecho referido y de su aplicación así como  los demás que
+expresamente le solicite dicha autoridad con relación al particular.
+
+Sección Décima Primera
+
+Derechos por Servicios de la Unidad de Acceso a la Información
+
+Artículo 112.- Es objeto del derecho por los servicios que presta la
+Unidad de Acceso a la Información Pública, la entrega de información
+a través de copias simples, copias certificadas, discos magnéticos,
+Discos Compactos o Discos DVD.
+
+Artículo 113.- Son sujetos del derecho a que se refiere la presente
+Sección, las personas que soliciten los servicios señalados en el
+artículo anterior.
+
+Artículo 114.- Es base para el cálculo del derecho a que se refiere la
+presente Sección, el costo de cada uno de los insumos usados para la
+entrega de la información
+
+Artículo 115.- El pago de los derechos a que se refiere la presente
+Sección, se realizará al momento de realizar la solicitud respectiva.
+
+Artículo 116.- La cuota a pagar por los derechos a que se refiere la
+presente Sección, será determinada en la Ley de Ingresos del Municipio
+de Tecoh.
+
+Sección Décima Segunda
+
+Derechos por Servicios de Agua Potable
+
+ Artículo 117.-   Es objeto de este derecho la prestación de los
+servicios de agua potable a los habitantes del Municipio de Tecoh.
+
+ Artículo 118.-   Son sujetos del pago de estos derechos, las personas
+físicas o morales, propietarios, poseedores por cualquier título, del
+predio o la construcción objeto de la prestación del servicio,
+considerándose que el servicio se presta, con la sola existencia de
+éste en el frente del predio, independientemente que se hagan o no las
+conexiones al mismo.
+
+Artículo 119.-   Son responsables solidarios del pago de estos derechos
+los Notarios Públicos y demás encargados de llevar la fe pública, que
+autoricen instrumentos en los que se consigne la enajenación de predios
+o giros sin que previamente se compruebe con las constancias oficiales
+correspondientes que se está al corriente del pago de los derechos de
+agua potable.
+
+Artículo 120.- Será base de este derecho, el consumo en metros
+cúbicos de agua, en los casos que se haya instalado medidor y, a falta
+de éste, la cuota establecida en la Ley de Ingresos del Municipio de
+Tecoh.
+
+ Artículo 121.-   La cuota de este derecho será la que al efecto
+determine la ley de Ingresos de cada Municipio.
+
+ Artículo 122.-   Este derecho se causará bimestralmente y se pagará
+durante los primeros quince días del período siguiente.
+
+ Artículo 123.-   Solamente quedarán exentos del pago de este derecho
+los bienes de dominio público de la Federación, Estado y Municipios.
+
+Artículo 124.-   Los usuarios de este servicio están obligados a
+permitir que las autoridades fiscales verifiquen la información
+proporcionada con motivo de este servicio, pudiendo para ello practicar
+visitas domiciliarias o valerse de medios técnicos que permitan
+determinar con mayor precisión los consumos realizados.
+
+Sección Décimo Tercera
+
+Derechos por servicio de Dispensario Médico
+
+Artículo 125.- Es objeto del derecho de los servicios de Dispensario
+Medico, las consultas médicas que a través del Ayuntamiento se preste
+a los habitantes del Municipio de Tecoh.
+
+Artículo 126.- Son sujetos del derecho a que se refiere la presente
+Sección, las personas que soliciten los servicios señalados en el
+artículo anterior.
+
+Artículo 127.- Es base para el cálculo del derecho a que se refiere la
+presente Sección, el costo de cada uno de los insumos usados para la
+entrega de la información
+
+Artículo 128.- El pago de los derechos a que se refiere la presente
+Sección, se realizará al momento de realizar la consulta respectiva.
+
+Artículo 129.- La cuota a pagar por los derechos a que se refiere la
+presente Sección, será determinada en la Ley de Ingresos del Municipio
+de Tecoh.
+
+CAPÍTULO III
+
+Contribuciones de Mejoras
+
+Artículo 130.- Es objeto de las Contribuciones de Mejoras, el beneficio
+directo que obtengan los bienes inmuebles por la realización de obras y
+servicios de urbanización llevados a cabo por el Ayuntamiento.
+
+Artículo 131.- Las contribuciones de mejoras se pagarán por la
+realización de obras públicas de urbanización consistentes en:
+
+I.- Pavimentación.
+
+II.- Construcción de banquetas.
+
+III.- Instalación de alumbrado público.
+
+IV.- Introducción de agua potable.
+
+V.- Construcción de drenaje y alcantarillado públicos.
+
+VI.- Electrificación en baja tensión.
+
+VII.- Cualesquiera otras obras distintas de las anteriores que se lleven
+a cabo para el fortalecimiento del Municipio o el mejoramiento de la
+infraestructura social municipal.
+
+Artículo 132.- Son sujetos obligados al pago de las contribuciones de
+mejoras las personas físicas o morales que sean propietarios,
+fideicomisarios, fideicomitentes, fiduciarios o poseedores por cualquier
+título de los predios beneficiados con obras realizadas por el
+Ayuntamiento, sin importar si están destinados a casa-habitación, o se
+trate de establecimientos comerciales, industriales y/o de prestación
+de servicios.
+
+Para los efectos de este Artículo se consideran beneficiados con las
+obras que efectúe el Ayuntamiento los siguientes:
+
+ Los predios exteriores, que colinden con la calle en la que se hubiese
+ejecutado las obras.
+
+ Los predios interiores, cuyo acceso al exterior, fuera por la calle en
+donde se hubiesen ejecutado las obras.
+
+En el caso de edificios sujetos a régimen de propiedad en condominio,
+el importe de la contribución calculado en términos de este Capítulo,
+se dividirá a prorrata entre el número de locales.
+
+Artículo 133.- Será base para calcular el importe de las
+contribuciones de mejoras, el costo de las obras, las que comprenderán
+los siguientes conceptos:
+
+I.- El costo del proyecto de la obra.
+
+II.- La ejecución material de la obra.
+
+III.- El costo de los materiales empleados en la obra.
+
+IV.- Los gastos de financiamiento para la ejecución de la obra.
+
+V.- Los gastos de administración del financiamiento respectivo.
+
+VI.- Los gastos indirectos.
+
+Artículo 134.- La  determinación  del importe de la contribución, en
+caso de obras y pavimentación, o por construcción de banquetas, en los
+términos de esta  Sección, se estará a lo siguiente:
+
+I.- En los casos de construcción, total o parcial de banquetas la
+contribución se cobrará a los sujetos obligados independientemente de
+la clase de propiedad, de los predios ubicados en la acera en la que se
+hubiesen ejecutado las obras.
+
+El monto de la contribución se determinará, multiplicando la cuota
+unitaria, por el número de metros lineales de lindero de la obra, que
+corresponda a cada predio beneficiado.
+
+II.- Cuando se trate de pavimentación, se estará a lo siguiente:
+
+Si la pavimentación cubre la totalidad del ancho, se considerarán
+beneficiados los predios ubicados en ambos costados de la vía pública.
+
+Si la pavimentación cubre la mitad del ancho, se considerarán
+beneficiados los predios ubicados en el costado, de la vía pública que
+se pavimente.
+
+En ambos casos, el monto de la contribución se determinará,
+multiplicando la cuota unitaria que corresponda, por el número de
+metros lineales, de cada predio beneficiado.
+
+III.- Si la pavimentación cubre una franja que comprenda ambos lados,
+sin que cubra la totalidad de éste, los sujetos obligados pagarán,
+independientemente de la clase de propiedad de los predios ubicados, en
+ambos costados, en forma proporcional al ancho de la franja de la vía
+pública que se pavimente.
+
+El monto de la contribución, se determinará, multiplicando la cuota
+unitaria que corresponda, por el número de metros lineales que existan,
+desde el límite de la pavimentación, hasta el eje y el producto así
+obtenido, se multiplicará por el número de metros lineales de lindero
+con la obra, por cada predio beneficiado.
+
+Artículo 135.- Respecto de las obras de instalación de alumbrado
+público, introducción de agua potable, construcción de drenaje o
+alcantarillado público y electrificación en baja tensión, pagarán
+las contribuciones a que se refiere este Capítulo, los propietarios,
+fideicomitentes, fideicomisarios o poseedores de los predios
+beneficiados, y ubicados en ambos costados de la vía pública, donde se
+hubiese realizado la obra, y se determinará su monto, multiplicando la
+cuota unitaria que corresponda, por el número de metros lineales de
+lindero con la obra de cada predio.
+
+En el caso de predios interiores beneficiados el importe de la cuota
+unitaria será determinado en cada caso por la Dirección de Obras
+Públicas o la Dependencia Municipal encargada de la realización de
+tales obras.
+
+Artículo 136.- El pago de las contribuciones de mejoras se realizará a
+más tardar dentro de los treinta días siguientes a la fecha en que el
+Ayuntamiento inicie la obra de que se trate. Para ello, el Ayuntamiento,
+publicará en un periódico de los que se editan en el Estado, la fecha
+en que se iniciará la obra respectiva.
+
+Transcurrido el plazo mencionado en el párrafo anterior, sin que se
+hubiere efectuado el pago, el Ayuntamiento por conducto de la Tesorería
+Municipal procederá a su cobro por la vía coactiva.
+
+Artículo 137.- El Tesorero Municipal previa solicitud por escrito del
+interesado y una vez realizado el estudio socioeconómico del
+contribuyente; podrá disminuir la contribución a aquellos
+contribuyentes de ostensible pobreza, dependan de él más de tres
+personas, y devengue un ingreso no mayor a dos salarios mínimos
+vigentes en el Estado de Yucatán.
+
+CAPÍTULO IV
+
+Productos
+
+Artículo 138.- La hacienda pública del Municipio de Tecoh podrá
+percibir Productos por los siguientes conceptos:
+
+ Por arrendamiento, enajenación y explotación de bienes muebles e
+inmuebles, del dominio privado del patrimonio municipal.
+
+ Por arrendamiento, enajenación y explotación de bienes que siendo del
+dominio público municipal, su uso ha sido restringido a determinada
+persona a través de un contrato de arrendamiento o de uso, regido por
+las disposiciones del derecho privado y por el cual no se exige el pago
+de una contribución.
+
+ Por los remates de bienes mostrencos.
+
+ Por los daños que sufrieron las vías públicas o los bienes del
+patrimonio municipal afectados a la prestación de un servicio público,
+causados por cualquier persona.
+
+Artículo 139.- Los arrendamientos y las ventas de bienes muebles e
+inmuebles propiedad del Municipio se llevarán a cabo conforme a lo
+establecido en la Ley Orgánica de los Municipios del Estado de
+Yucatán.
+
+El arrendamiento de bienes a que se refiere la fracción II del
+Artículo anterior, podrá realizarse cuando dichos inmuebles no sean
+destinados a la administración o prestación de un servicio público,
+mediante la celebración de contrato que firmarán el Presidente
+Municipal y el Secretario previa la aprobación del cabildo y serán las
+partes que intervengan en el contrato respectivo las que determinen de
+común acuerdo el precio o renta, la duración del contrato y época y
+lugar de pago.
+
+Queda prohibido el subarrendamiento de los inmuebles a que se refiere el
+párrafo anterior.
+
+Artículo 140.- Los bienes muebles e inmuebles propiedad del Municipio,
+solamente podrán ser explotados, mediante concesión o contrato
+legalmente otorgado o celebrado, en los términos de lo establecido en
+la Ley Orgánica de los Municipios del Estado de Yucatán.
+
+Artículo 141.- Corresponderá al Municipio, el 75% del producto
+obtenido, por la venta en pública subasta, de bienes mostrencos o
+abandonados, denunciados ante la autoridad municipal en los términos
+del Código Civil del Estado de Yucatán. Corresponderá al denunciante
+el 25% del producto obtenido, siendo a su costa el avalúo del inmueble
+y la publicación de los avisos.
+
+Artículo 142.- El Municipio percibirá productos derivados de las
+inversiones financieras que realice transitoriamente con motivo de la
+percepción de ingresos extraordinarios o períodos de alta
+recaudación. Dichos depósitos deberán hacerse eligiendo la
+alternativa que sin poner en riesgo los recursos del Municipio,
+represente mayor rendimiento financiero y permita disponibilidad de los
+mismos en caso de urgencia.
+
+Artículo 143.- Corresponde al Tesorero Municipal realizar las
+inversiones financieras previa aprobación del Presidente Municipal, en
+aquellos casos en que los depósitos se hagan por plazos mayores de tres
+meses naturales.
+
+Artículo 144.- Los recursos que se obtengan por rendimiento de
+inversiones financieras en instituciones de crédito, por compra de
+acciones o título de empresas o por cualquier otra forma,
+invariablemente se ingresarán al erario municipal como productos
+financieros.
+
+Artículo 145.- Los productos que percibirá el Municipio por los daños
+que sufrieren las vías públicas o los bienes de su propiedad, serán
+cuantificados de acuerdo al peritaje que se elabore al efecto, sobre los
+daños sufridos. El perito será designado por la autoridad fiscal
+municipal.
+
+CAPÍTULO V
+
+Aprovechamientos
+
+Artículo 146.- La hacienda pública del Municipio de Tecoh, de
+conformidad con lo establecido en la Ley de Coordinación Fiscal y en
+los convenios de Colaboración Administrativa en Materia Fiscal Federal,
+tendrá derecho a percibir ingresos derivados del cobro de multas
+administrativas, impuestas por autoridades federales no fiscales. Estas
+multas tendrán el carácter de aprovechamientos y se actualizarán en
+los términos de las disposiciones respectivas.
+
+Artículo 147.- Las multas impuestas por el Ayuntamiento por
+infracciones a los reglamentos administrativos, tendrán el carácter de
+aprovechamientos y se turnarán a la Tesorería Municipal para su cobro.
+Cuando estas multas no fueren cubiertas dentro del plazo señalado
+serán cobradas mediante el procedimiento administrativo de ejecución.
+
+Artículo 148.-  Son aprovechamientos derivados de recursos transferidos
+al Municipio los que perciba el Municipio por cuenta de:
+
+I.- Cesiones
+
+II.- Herencias
+
+III.- Legados
+
+IV.- Donaciones
+
+V.- Adjudicaciones Judiciales
+
+VI.- Adjudicaciones Administrativas
+
+VII.- Subsidios de otro nivel de gobierno
+
+VIII.- Subsidios de otros organismos públicos y privados
+
+IX.- Multas impuestas por Autoridades administrativas federales no
+fiscales
+
+CAPÍTULO VI
+
+Participaciones y Aportaciones
+
+Artículo 149.- La hacienda pública del Municipio de Tecoh podrá
+percibir ingresos en concepto de Participaciones y Aportaciones,
+conforme a lo establecido en las leyes respectivas.
+
+CAPÍTULO VII
+
+Ingresos Extraordinarios
+
+Artículo 150.- La hacienda pública del Municipio de Tecoh podrá
+percibir ingresos extraordinarios por los siguientes conceptos:
+
+Empréstitos aprobados por el Congreso;
+
+Empréstitos aprobados por el Cabildo;
+
+Subsidios, y
+
+Los que reciba de la Federación o del Estado, por conceptos diferentes
+a Participaciones o Aportaciones.
+
+TÍTULO TERCERO
+
+INFRACCIONES Y MULTAS
+
+CAPÍTULO I
+
+Generalidades
+
+Artículo 151.- La aplicación de las multas por infracciones a las
+disposiciones municipales y a la presente ley se efectuará
+independientemente de que se exija el pago de las contribuciones
+respectivas y sus demás accesorios, así como de las penas que impongan
+las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+Artículo 152.- Las multas por infracciones a las disposiciones
+municipales sean éstas de carácter administrativo o fiscal, serán
+cobradas mediante el procedimiento administrativo de ejecución.
+
+CAPÍTULO II
+
+Infracciones
+
+Artículo 153.- Son responsables de la comisión de las infracciones
+previstas en esta ley, las personas que realicen cualesquiera de los
+supuestos que en este Capítulo se consideran como tales, así como las
+que omitan el cumplimiento de las obligaciones previstas en esta propia
+ley, incluyendo a aquellas, que cumplan sus obligaciones fuera de las
+fechas o de los plazos establecidos.
+
+Artículo 154.- Los funcionarios y empleados públicos, que en ejercicio
+de sus funciones, conozcan hechos u omisiones que entrañen o puedan
+entrañar infracciones a la presente ley, lo comunicarán por escrito al
+Tesorero Municipal, para no incurrir en responsabilidad, dentro de los
+tres días siguientes a la fecha en que tengan conocimiento de tales
+hechos u omisiones.
+
+Artículo 155.- Son infracciones:
+
+ La falta de presentación o la presentación extemporánea de los
+avisos o manifestaciones que exige esta ley.
+
+ La falta de cumplimiento de las obligaciones establecidas en esta ley,
+a los fedatarios públicos, las personas que tengan funciones
+notariales, los empleados y funcionarios del Registro Público de la
+Propiedad y de Comercio del Estado y a los que por cualquier medio
+evadan o pretendan evadir, dicho cumplimiento.
+
+ La falta de empadronamiento de los obligados a ello, en la Tesorería
+Municipal.
+
+ La falta de revalidación de la licencia municipal de funcionamiento.
+
+ La falta de presentación de los documentos que conforme a esta ley, se
+requieran para acreditar el pago de las contribuciones municipales.
+
+ La ocupación de la vía pública, con el objeto de realizar alguna
+actividad comercial.
+
+ La matanza de ganado fuera de los rastros públicos municipales, sin
+obtener la licencia o la autorización respectiva.
+
+CAPÍTULO III
+
+Multas
+
+Artículo 156.- Las personas físicas o morales que cometan alguna de
+las infracciones señaladas en el artículo anterior, se harán
+acreedoras a las multas establecidas en la Ley de Ingresos del Municipio
+de Tecoh.
+
+TÍTULO CUARTO
+
+PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
+
+CAPÍTULO I
+
+Generalidades
+
+ Artículo 157.- La autoridad fiscal municipal exigirá el pago de las
+contribuciones y de los créditos fiscales que no hubiesen sido
+cubiertos o garantizados en las fechas y plazos señalados en la
+presente ley, mediante el procedimiento administrativo de ejecución,
+sujetándose en todo caso, a lo dispuesto en el Código Fiscal del
+Estado de Yucatán, y a falta de disposición expresa en este último, a
+lo dispuesto en el Código Fiscal de la Federación.
+
+Artículo 158.- Cuando la autoridad fiscal utilice el procedimiento
+administrativo de ejecución, para el cobro de una contribución o de un
+crédito fiscal, el contribuyente estará obligado a pagar el 3% de la
+contribución o del crédito fiscal correspondiente, por concepto de
+gastos de ejecución, y, además, pagará los gastos erogados, por cada
+una de las diligencias que a continuación, se relacionan:
+
+Requerimiento;
+
+Embargo, y
+
+Honorarios o enajenación fuera de remate.
+
+Cuando el 3% del importe del crédito omitido, fuere inferior al importe
+de un salario mínimo vigente en el Estado de Yucatán, se cobrará el
+monto de un salario en lugar del mencionado 3% del crédito omitido.
+
+CAPÍTULO II
+
+De los Gastos Extraordinarios de Ejecución
+
+Artículo 159.- Además de los gastos mencionados en el Artículo
+inmediato anterior, el contribuyente, queda obligado a pagar los gastos
+extraordinarios que se hubiesen erogado, por los siguientes conceptos:
+
+Gastos de transporte de los bienes embargados.
+
+Gastos de impresión y publicación de convocatorias.
+
+Gastos de inscripción o de cancelación de gravámenes, en el Registro
+Público de la Propiedad y de Comercio del Estado.
+
+Gastos del certificado de libertad de gravamen.
+
+Artículo 160.- Los gastos de ejecución mencionados, no serán objeto
+de exención, disminución, condonación o convenio.
+
+El importe corresponderá a los empleados y funcionarios de la
+Tesorería Municipal, dividiéndose dicho importe, mediante el siguiente
+procedimiento:
+
+Para el caso de que el ingreso por gastos de ejecución, fueren
+generados en el cobro de multas federales no fiscales:
+
+.10 Tesorero Municipal.
+
+.15 Jefe o encargado del Departamento de Ejecución.
+
+.06 Cajeros.
+
+.03 Departamento de Contabilidad.
+
+.56 Empleados del Departamento.
+
+Para el caso de que los ingresos por gastos de ejecución, fueren
+generados en el cobro de cualesquiera otras multas:
+
+.10 Tesorero Municipal.
+
+.15 Jefe o encargado del Departamento de Ejecución.
+
+.20 Notificadores.
+
+.45 Empleados del Departamento Generados.
+
+CAPÍTULO III
+
+Del Remate en Subasta Pública
+
+Artículo 161.- Todos los bienes que con motivo de un procedimiento de
+ejecución sean embargados por la autoridad municipal, serán rematados
+en subasta pública y el producto de la misma, aplicado al pago del
+crédito fiscal de que se trate.
+
+En caso de que habiéndose publicado la tercera convocatoria para la
+almoneda, no se presentaren postores, los bienes embargados, se
+adjudicarán al Municipio de Tecoh, Yucatán, en pago del adeudo
+correspondiente, por el valor equivalente al que arroje su avalúo
+pericial. Para el caso de que el valor de adjudicación no alcanzare a
+cubrir el adeudo de que se trate, éste se entenderá pagado
+parcialmente, quedando a salvo los derechos del Municipio, para el cobro
+del saldo correspondiente.
+
+En todo caso, se aplicarán a los remates las reglas que para tal efecto
+fije el Código Fiscal del Estado de Yucatán y en su defecto las del
+Código Fiscal de la Federación y su reglamento.
+
+TÍTULO QUINTO
+
+DE LOS RECURSOS
+
+CAPÍTULO ÚNICO
+
+Disposiciones Generales
+
+Artículo 162.- Contra las resoluciones que dicten autoridades fiscales
+municipales, serán admisibles los recursos establecidos en la Ley
+Orgánica de los Municipios del Estado de Yucatán y el Código Fiscal
+del Estado de Yucatán.
+
+ Cuando se trate de multas federales no fiscales, las resoluciones que
+dicten las autoridades fiscales municipales podrán combatirse mediante
+recurso de revocación o en juicio de nulidad, de conformidad con lo
+dispuesto en el Código Fiscal de la Federación. En este caso, los
+recursos que se promueven se tramitarán y resolverán en la forma
+prevista en dicho Código.
+
+Artículo 163.- Interpuesto en tiempo un recurso, a solicitud de la
+parte interesada, se suspenderá la ejecución de la resolución
+recurrida cuando el contribuyente otorgue garantía suficiente a juicio
+de la autoridad.
+
+Las garantías que menciona este artículo serán estimadas por la
+autoridad como suficientes, siempre que cubran, además de las
+contribuciones o créditos actualizados, los accesorios causados como
+los recargos y las multas, así como los que se generen en los doce
+meses siguientes a su otorgamiento.
+
+Dichas garantías serán:
+
+Depósito de dinero, en efectivo o en cheque certificado ante la propia
+autoridad o en una Institución Bancaria autorizada, entregando el
+correspondiente recibo o billete de depósito.
+
+Fianza, expedida por compañía debidamente autorizada para ello.
+
+Hipoteca.
+
+Prenda.
+
+Respecto de la garantía prendaría, solamente será aceptada por la
+autoridad como tal, cuando el monto del crédito fiscal y sus accesorios
+sea menor o igual a 50 Salarios Mínimos Vigentes en el Estado, al
+momento de la determinación del crédito.
+
+En el procedimiento de constitución de estas garantías se observarán
+en cuanto fueren aplicables, las reglas que fije el Código Fiscal de la
+Federación y su reglamento.
+
+T R A N S I T O R I O S:
+
+Artículo Primero.- Esta Ley entrará en vigor el día siguiente al de
+su publicación en el Diario Oficial del Gobierno del Estado de
+Yucatán.
+
+Artículo Segundo.- En lo no previsto por esta ley, se aplicará
+supletoriamente lo establecido por el Código Fiscal y la Ley General de
+Hacienda para los Municipios, ambas del Estado de Yucatán.
+
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO EN LA CIUDAD DE
+MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS VEINTINUEVE DÍAS DEL
+MES DE DICIEMBRE DEL AÑO DOS MIL CINCO.- PRESIDENTE DIPUTADO JORGE
+MANUEL PUGA RUBIO.- SECRETARIA DIPUTADA ALICIA MAGALLY DEL SOCORRO CRUZ
+NUCAMENDI.- SECRETARIO DIPUTADO JORGE ESMA BAZÁN.
+
+Y POR TANTO, MANDAMOS SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU
+CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
+
+DADO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIDUAD DE MÉRIDA, YUCATÁN,
+ESTADOS UNIDOS MEXICANOS, A LOS TRES DÍAS DEL MES DE ENERO DEL AÑO DOS
+MIL SEIS.
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+(RÚBRICA)
+
+ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ.	OFICIAL MAYOR
+
+(RÚBRICA)
+
+Q.I. RAÚL ARCEO ALONZO
+
+Listado de los decretos que derogaron, adicionaron o reformaron diversos
+artículos de la Ley de Hacienda del Municipio de Tecoh.
+
+	DECRETO No.	FECHA DE PUBLICACIÓN EN EL DIARIO OFICIAL DEL GOBIERNO DEL
+ESTADO.
+
+Ley de Hacienda del Municipio de Tecoh.
+
+645
+
+3/I/2006
+
+ 	LEY DE HACIENDA DEL MUNICIPIO DE  TECOH
+
+H. Congreso del Estado de Yucatán
+
+Oficialía Mayor
+
+Unidad de Servicios Técnico-Legislativos
+
+ PAGE
+
+ PAGE   57

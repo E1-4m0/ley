@@ -1,0 +1,406 @@
+---
+titulo: "ACUERDO POR EL QUE SE AUTORIZA LA CONDONACIÓN PARCIAL DE APROVECHAMIENTOS POR MULTAS IMPUESTAS POR LA SECRETARÍA DE MOVILIDAD Y TRANSPORTE DEL PODER EJECUTIVO ESTATAL, RESPECTO DE VEHÍCULOS QUE SE ENCUENTREN EN RESGUARDO DE ALGÚN DEPÓSITO VEHICULAR"
+tipo: "Acuerdo"
+estado: "Morelos"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "30 de Octubre de 2020"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "90952"
+---
+# ACUERDO POR EL QUE SE AUTORIZA LA CONDONACIÓN PARCIAL DE
+APROVECHAMIENTOS POR MULTAS IMPUESTAS POR LA SECRETARÍA DE MOVILIDAD Y
+TRANSPORTE DEL PODER EJECUTIVO ESTATAL, RESPECTO DE VEHÍCULOS QUE SE
+ENCUENTREN EN RESGUARDO DE ALGÚN DEPÓSITO VEHICULAR
+
+Al margen superior un Escudo del Estado de Morelos que dice: “Tierra y
+Libertad”.- La tierra volverá a quienes la trabajan con sus manos.-
+2018-2024, y un logotipo que dice: Morelos Anfitrión del Mundo Gobierno
+del Estado 2018-2024.
+
+CUAUHTÉMOC BLANCO BRAVO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y
+SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS
+ARTÍCULOS 70, FRACCIONES XVII Y XXVI, 74 Y 76, DE LA CONSTITUCIÓN
+POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS; Y DE CONFORMIDAD CON
+LO DISPUESTO POR LOS ARTÍCULOS 1, 2, 6, 7, 8, 9, FRACCIONES II, III Y
+XIV, 11, 13, FRACCIONES III Y VI, 23, FRACCIONES I, II Y VI, Y 34,
+FRACCIONES I, XV, XVII Y XXIII, DE LA LEY ORGÁNICA DE LA
+ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS; ASÍ
+COMO 96, FRACCIÓN I Y ÚLTIMO PÁRRAFO, Y 97, DEL CÓDIGO FISCAL PARA
+EL ESTADO DE MORELOS; Y CON BASE EN LA SIGUIENTE:
+
+EXPOSICIÓN DE MOTIVOS
+
+Es una atribución del Ejecutivo a mi cargo adoptar todas las medidas
+necesarias para la buena marcha de la Administración Estatal y conducir
+la planeación estatal del desarrollo económico y social del Estado,
+realizando las acciones conducentes para la formulación,
+instrumentación, ejecución, control y evaluación de los planes y
+programas de desarrollo, en términos de lo dispuesto por la fracción
+XXVI del artículo 70, de la Constitución Política del Estado Libre y
+Soberano de Morelos.
+
+Por su parte, conforme al artículo 97 del Código Fiscal para el Estado
+de Morelos, la Secretaría de Hacienda del Estado podrá condonar total
+o parcialmente las multas y los recargos por infracciones a las
+disposiciones fiscales, para lo cual apreciará discrecionalmente las
+circunstancias del caso y los motivos que tuvo la autoridad que impuso
+la sanción; pudiendo celebrar los convenios de regularización
+respectivos, en cuyo orden de ideas, dicha Secretaría, a solicitud de
+la Secretaría de Movilidad y Transporte del Estado, ha estimado
+conveniente que se realice, por mi parte, la emisión del presente
+instrumento por las razones y bajo las condiciones que más adelante se
+expresan.
+
+Además, en términos de la fracción I del artículo 96 del mismo
+Código, entre las facultades del Ejecutivo a mi cargo se encuentra la
+consistente en que mediante resoluciones de carácter general, se puede
+condonar o eximir, total o parcialmente, el pago de contribuciones o
+productos y sus accesorios, autorizar su pago a plazo, diferido o en
+parcialidades, cuando se haya afectado o trate de impedir que se afecte
+la situación de algún lugar o región de la Entidad, una rama de
+actividad, grupos sociales en situación de vulnerabilidad, así como en
+casos fortuitos o de fuerza mayor; siendo que conforme al cuarto
+párrafo del artículo 19, del mismo Código, los recargos, las
+sanciones, los gastos de ejecución, honorarios de notificación y la
+indemnización a que se refiere el artículo 45 de ese Código, son
+accesorios de las contribuciones y participan de la naturaleza de
+éstas.
+
+Es el caso que entre las múltiples sanciones administrativas que pueden
+generarse en nuestra Entidad, se encuentran aquellas que conforme a la
+Ley de Transporte del Estado de Morelos se pueden imponer, mismas que en
+términos del artículo 130, de la Ley de Transporte del Estado de
+Morelos son:
+
+Amonestación;
+
+Suspensión temporal de derechos o permisos del transporte, sin
+perjuicio de la sanción pecuniaria;
+
+Suspensión temporal de las licencias de conducir;
+
+Multa, de cinco a doscientas veces el valor diario de la Unidad de
+Medida y Actualización;
+
+Multa, de doscientas a quinientas veces el valor diario de la Unidad de
+Medida y Actualización;
+
+Multa, de seiscientas veces el valor diario de la Unidad de Medida y
+Actualización, y
+
+Revocación de la Concesión, permiso o gafete de operador.
+
+Además de lo anterior, el artículo 139, de la propia Ley de Transporte
+del Estado de Morelos, establece las hipótesis a través de las cuales,
+independientemente de las sanciones pecuniarias que correspondan, los
+vehículos no podrán circular y serán remitidos a los depósitos de
+vehículos, siendo las siguientes:
+
+Carecer de la concesión o el permiso para realizar el servicio de
+transporte, según corresponda;
+
+Utilizar placas metálicas de identificación en vehículo distinto al
+autorizado;
+
+Cuando las condiciones físico mecánicas del vehículo pongan
+visiblemente en riesgo la seguridad del usuario;
+
+Carecer de las pólizas de seguro o fondo de garantía que establece la
+Ley;
+
+Prestar el Servicio de Transporte Público en condiciones distintas a
+las autorizadas;
+
+Alterar las tarifas vigentes;
+
+Cuando el operador del transporte público carezca de licencia de
+conducir o del gafete de operador para el Servicio de Transporte
+Público;
+
+Alterar en cualquier forma el diseño, estructura, capacidad y
+construcción original de los vehículos destinados al Servicio de
+Transporte Público, sin autorización expresa y por escrito de la
+Secretaría;
+
+Cuando se interrumpa total o parcialmente una vía pública o bien se
+invadan oficinas públicas como medio de presión a las autoridades con
+los vehículos del Servicio de Transporte Público, Privado y Carga;
+
+En caso de que el operador del transporte público se encuentre bajo los
+efectos de bebidas alcohólicas, sustancias enervantes o tóxicas, aun
+cuando éstas sean prescritas médicamente;
+
+Cuando el operador del transporte público ponga en riesgo evidente la
+seguridad de terceros, o impida la adecuada prestación del Servicio de
+Transporte Público, y
+
+Cuando se impida la operación del servicio de transporte en perjuicio
+de terceros.
+
+Ahora bien, el 27 de mayo de 2020, se publicó en el Periódico Oficial
+“Tierra y Libertad” número 5827, el Acuerdo por el que se autoriza
+la condonación parcial de aprovechamientos por multas impuestas por la
+Secretaría de Movilidad y Transporte del Poder Ejecutivo Estatal,
+respecto de vehículos que se encuentren en resguardo de algún
+depósito vehicular, con una vigencia hasta el 30 de junio de 2020.
+
+Dicho Acuerdo tuvo como finalidad autorizar la condonación parcial de
+los aprovechamientos por multas, a quienes se hayan ubicado en las
+hipótesis siguientes:
+
+I. Que hayan sido infraccionados por la Secretaría de Movilidad y
+Transporte;
+
+II. Que la sanción impuesta en términos de la fracción anterior sea
+igual o mayor al equivalente de doscientas unidades de medida y
+actualización (UMA), y
+
+III. Que el vehículo se encuentre en resguardo de algún depósito
+vehicular, por cualquiera de las causales a que se refiere el artículo
+139, de la Ley de Transporte del Estado de Morelos.
+
+Por otro lado, el resguardo domiciliario corresponsable decretado por
+las autoridades sanitarias federal y estatal, para contener los
+contagios generados por la enfermedad denominada coronavirus 2019 o
+“COVID-19”, desde el mes de marzo de este año, ha traído como
+consecuencia la paralización de las actividades escolares y
+recreativas; así como una disminución de actividades laborales,
+comerciales, industriales y de servicios en muchas regiones de la
+República Mexicana, y evidentemente también en nuestro Estado; ya que
+son efectos de dicha enfermedad que desafortunadamente se han dejado
+sentir en el mundo entero.
+
+Este esfuerzo global por reducir la actividad social y guardar la sana
+distancia, permite condiciones favorables para contener la propagación
+del virus; sin embargo, los daños colaterales que trae aparejada esta
+pandemia, son incluso de orden económico; pues distintos sectores
+productivos están viendo reducidos sus ingresos, situación que genera
+la necesidad de que esta Administración Pública Estatal implemente una
+serie de acciones de carácter público, que sirvan de apoyo a la
+sociedad en estos tiempo de crisis económica.
+
+Así, dado que el sector del transporte es uno de los mayormente
+afectados por esta contingencia sanitaria; por un lado, por el alto
+riesgo de contagio que se corre al operar unidades del transporte
+público de pasajeros y, por el otro, por los pocos ingresos que genera
+esta actividad al reducirse las actividades escolares y laborales en la
+mayor parte de la Entidad, se estima oportuno volver a implementar
+apoyos fiscales a dicho sector.
+
+En efecto, la paralización y disminución de la movilidad ha traído
+como consecuencia efectos adversos en el ámbito económico, situación
+que motiva al Poder Ejecutivo a mi cargo a llevar a cabo acciones como
+la del presente instrumento, que impulsen el desarrollo económico, con
+el objeto de apoyar a la población en esta difícil etapa de emergencia
+sanitaria.
+
+Por lo anterior, el presente Acuerdo tiene como propósito volver a
+otorgar un estímulo fiscal consistente en la condonación del 60% y
+hasta el 95%, en el pago de multas impuestas por la Secretaría de
+Movilidad y Transporte, en aquellos casos en que las unidades con las
+que se generó la imposición de la sanción se encuentren detenidas
+bajo el resguardo de depósitos vehiculares en la entidad.
+
+Debe destacarse que la expedición del presente Acuerdo se rige por los
+principios de simplificación, agilidad, economía, información,
+precisión, legalidad, transparencia, austeridad e imparcialidad;
+cumpliendo así, además, con lo dispuesto por el artículo 8 de la Ley
+Orgánica de la Administración Pública del Estado Libre y Soberano de
+Morelos.
+
+Además, el presente instrumento se vincula con el Plan Estatal de
+Desarrollo 2019-2024, en su Eje Rector número 3 “Justicia Social para
+los Morelenses”, el cual prevé como objetivo estratégico 3.7.
+garantizar la salud pública en todas las políticas en Morelos,
+promoviendo una vida sana para el bienestar de todos en todas las
+edades, cuya estrategia 3.7.3. consiste en proteger a la población
+contra riesgos sanitarios y enfermedades de vigilancia epidemiológica,
+vinculándose además con el Eje Rector número 5, “Modernidad para
+los Morelenses” el cual prevé como estrategia número 5.10.1
+gestionar actos administrativos que permitan un control adecuado del
+servicio de transporte público.
+
+Por lo expuesto y fundado, tengo a bien expedir el siguiente:
+
+ACUERDO POR EL QUE SE AUTORIZA LA CONDONACIÓN PARCIAL DE
+APROVECHAMIENTOS POR MULTAS IMPUESTAS POR LA SECRETARÍA DE MOVILIDAD Y
+TRANSPORTE DEL PODER EJECUTIVO ESTATAL, RESPECTO DE VEHÍCULOS QUE SE
+ENCUENTREN EN RESGUARDO DE ALGÚN DEPÓSITO VEHICULAR
+
+ARTÍCULO PRIMERO. Se autoriza la condonación parcial de los
+aprovechamientos por multas, a quienes cumplan con todas y cada una de
+las siguientes tres hipótesis:
+
+I. Que hayan sido infraccionados por la Secretaría de Movilidad y
+Transporte;
+
+II. Que su vehículo se encuentre detenido en resguardo de algún
+depósito vehicular, por cualquiera de las causales a que se refiere el
+artículo 139, de la Ley de Transporte del Estado de Morelos, y
+
+III. Que la sanción impuesta en términos de la fracción I, sea una
+multa igual o mayor al equivalente de doscientas veces el valor diario
+de la unidad de medida y actualización (UMA).
+
+ARTÍCULO SEGUNDO. La condonación que se autoriza en términos del
+presente Acuerdo, es exclusivamente por los aprovechamientos generados
+por multas impuestas por la Secretaría de Movilidad y Transporte del
+Poder Ejecutivo Estatal; por lo que no se incluyen dentro de los
+beneficios a que se refiere el presente Acuerdo el costo derivado del
+arrastre de vehículos, maniobras, inventario, ni pensión diaria en el
+depósito vehicular de que se trate.
+
+ARTÍCULO TERCERO. La Secretaría de Movilidad y Transporte del Poder
+Ejecutivo del Estado de Morelos, de conformidad con lo dispuesto por los
+artículos 130, 131 y 132, de la Ley de Transporte del Estado de
+Morelos, fijará el importe de la multa, aplicando los porcentajes de
+condonación que se autorizan en los términos del presente Acuerdo, que
+van desde el 60% y hasta un máximo del 95%, tomando en consideración
+la gravedad de la falta cometida y las condiciones socioeconómicas del
+sujeto infractor.
+
+ARTÍCULO CUARTO. Los infractores que sean reincidentes quedarán
+excluidos de los beneficios a que se refiere el presente Acuerdo.
+
+ARTÍCULO QUINTO. Las personas que sean susceptibles de recibir el
+beneficio en términos del Artículo Primero de este Acuerdo, deberán
+solicitar a la Secretaría de Movilidad y Transporte del Poder Ejecutivo
+del Estado de Morelos la fijación del nuevo importe de la multa, de
+conformidad con las disposiciones contenidas en el presente Acuerdo.
+
+ARTÍCULO SEXTO. Los beneficiarios de este Acuerdo, a partir de la
+notificación del nuevo importe de la multa por parte de la Secretaría
+de Movilidad y Transporte del Poder Ejecutivo Estatal, contarán con un
+plazo de 15 días hábiles para realizar el pago de la multa respectiva
+ante las cajas recaudadoras de la Secretaría de Hacienda del Estado, o
+en los módulos autorizados para tales efectos.
+
+ARTÍCULO SÉPTIMO. Realizado el pago de la multa, el interesado
+procederá a liquidar los gastos pendientes generados por arrastre,
+maniobras, inventario y pensión diaria en depósitos vehiculares, para
+proceder posteriormente a la liberación de su vehículo.
+
+ARTÍCULO OCTAVO. Corresponde a las Secretarías de Hacienda y de
+Movilidad y Transporte, ambas del Poder Ejecutivo Estatal, dentro del
+ámbito de sus respectivas competencias, la aplicación del presente
+Acuerdo, debiendo la segunda de ellas realizar el registro de los
+beneficios concedidos en términos del presente Acuerdo, y procediendo a
+rendirle un informe al efecto a la primera de ellas.
+
+ARTÍCULO NOVENO. La interpretación del presente Acuerdo para efectos
+administrativos y fiscales corresponderá a la Secretaría de Hacienda
+del Poder Ejecutivo Estatal.
+
+ARTÍCULO DÉCIMO. Los beneficios concedidos por virtud del presente
+Acuerdo, no otorgan a los solicitantes el derecho a devolución,
+reducción, disminución, condonación, deducción o compensación
+alguna, con respecto a las cantidades efectivamente pagadas, ni les
+exime de las infracciones que correspondan.
+
+ARTÍCULO DÉCIMO PRIMERO. Los beneficios que se otorgan por virtud de
+este Acuerdo solo serán aplicables para quienes efectúen el pago de
+los aprovechamientos por multas en una sola exhibición.
+
+DISPOSICIONES TRANSITORIAS
+
+PRIMERA. El presente Acuerdo entrará en vigor a partir del día
+siguiente de su publicación en el Periódico Oficial “Tierra y
+Libertad”, órgano de difusión oficial del Gobierno del Estado de
+Morelos y estará vigente hasta el día 31 de diciembre de 2020.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango
+normativo, que se opongan al presente Acuerdo.
+
+TERCERA. Los infractores que mantengan medios de impugnación o acciones
+jurídicas vigentes en contra de la Secretaría de Hacienda o de la
+Secretaría de Movilidad y Transporte, ambas del Poder Ejecutivo
+Estatal, ante autoridades jurisdiccionales o administrativas federales o
+estatales; y cuya pretensión sea combatir la infracción impuesta por
+esta última; para que puedan acceder a los beneficios a que se refiere
+el presente Acuerdo, habrán de desistirse previamente de los citados
+medios de impugnación o acciones jurídicas, lo cual deberán acreditar
+a la autoridad ante la que soliciten el beneficio fiscal.
+
+CUARTA. Las unidades administrativas que tienen a su cargo la
+aplicación del presente Acuerdo deberán difundir los beneficios del
+mismo y colocar a la vista del público el anuncio correspondiente, en
+sus páginas de Internet oficiales, en los lugares en que se realizará
+el trámite o servicio o por cualquier medio de comunicación a su
+alcance.
+
+Dado en la sede oficial del Poder Ejecutivo Estatal, en la ciudad de
+Cuernavaca, capital del estado de Morelos, a los 17 días del mes de
+septiembre de 2020.
+
+EL GOBERNADOR CONSTITUCIONAL DEL
+
+ESTADO LIBRE Y SOBERANO DE MORELOS
+
+CUAUHTÉMOC BLANCO BRAVO
+
+EL SECRETARIO DE GOBIERNO
+
+PABLO HÉCTOR OJEDA CÁRDENAS
+
+LA SECRETARIA DE HACIENDA
+
+MÓNICA BOGGIO TOMASAZ MERINO
+
+EL SECRETARIO DE MOVILIDAD Y TRANSPORTE
+
+VÍCTOR AURELIANO MERCADO SALGADO
+
+RÚBRICAS.
+
+Aprobación       	2020/09/17
+
+Publicación	2020/10/30
+
+Vigencia      	2020/10/31
+
+Expidió	Poder Ejecutivo del Estado de Morelos
+
+Periódico Oficial                                    	5873 “Tierra y
+Libertad”
+
+Aprobación       	2020/09/17
+
+Publicación	2020/10/30
+
+Vigencia      	2020/10/31
+
+Expidió	Poder Ejecutivo del Estado de Morelos
+
+Periódico Oficial                                    	5873 “Tierra y
+Libertad”
+
+OBSERVACIONES GENERALES.-
+
+Acuerdo por el que se autoriza la condonación parcial de
+aprovechamientos por multas impuestas por la Secretaría de Movilidad y
+Transporte del Poder Ejecutivo Estatal, respecto de vehículos que se
+encuentren en resguardo de algún depósito vehicular
+
+Última Reforma: Texto original
+
+Consejería Jurídica del Poder Ejecutivo del Estado de Morelos.
+
+Dirección General de Legislación.
+
+Subdirección de Jurismática.
+
+ PAGE 9  de  NUMPAGES 9
+
+Acuerdo por el que se autoriza la condonación parcial de
+aprovechamientos por multas impuestas por la Secretaría de Movilidad y
+Transporte del Poder Ejecutivo Estatal, respecto de vehículos que se
+encuentren en resguardo de algún depósito vehicular
+
+Consejería Jurídica del Poder Ejecutivo del Estado de Morelos.
+
+Dirección General de Legislación.
+
+Subdirección de Jurismática.
+
+Última Reforma: Texto original

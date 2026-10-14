@@ -1,0 +1,285 @@
+---
+titulo: "EL CONGRESO DEL ESTADO DE YUCATÁN APRUEBA EN SUS TÉRMINOS LA REFORMA A LA FRACCIÓN V DEL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS."
+tipo: "Decreto Legislativo"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "29 de Octubre de 2007"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "9243"
+---
+-SUMARIO-
+
+GOBIERNO FEDERAL
+
+PODER JUDICIAL
+
+SUPREMA CORTE DE JUSTICIA DE LA NACION
+
+# CASA DE LA CULTURA JURIDICA
+
+INVITACION	3
+
+GOBIERNO DEL ESTADO
+
+PODER EJECUTIVO
+
+DECRETO NUMERO 23
+
+EL CONGRESO DEL ESTADO DE YUCATAN APRUEBA EN SUS TERMINOS LA REFORMA A
+LA FRACCION V DEL ARTICULO 55 DE LA CONSTITUCION POLITICA DE LOS ESTADOS
+UNIDOS MEXICANOS	4
+
+DECRETO NUMERO 24
+
+EL CONGRESO DEL ESTADO DE YUCATAN APRUEBA EN SUS TERMINOS LA REFORMA A
+LA FRACCION XXIX-N DEL ARTICULO 73 DE LA CONSTITUCION POLITICA DE LOS
+ESTADOS UNIDOS MEXICANOS	7
+
+SECRETARIA DE DESARROLLO URBANO,
+
+OBRAS PUBLICAS Y VIVIENDA.
+
+AUTORIZACION DEL FRACCIONAMIENTO HABITACIONAL UNIFAMILIAR DE TIPO
+SOCIAL, DENOMINADO “SAN ISIDRO NUMERO UNO” DEL MUNICIPIO DE
+VALLADOLID, YUCATAN	9
+
+PODER JUDICIAL
+
+NOTIFICACIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA	11
+
+NOTIFICACIONES DEL JUZGADO PRIMERO DE LO CIVIL	20
+
+NOTIFICACIONES DEL JUZGADO SEGUNDO DE LO CIVIL	27
+
+NOTIFICACIONES DEL JUZGADO TERCERO DE LO CIVIL	31
+
+NOTIFICACIONES DEL JUZGADO CUARTO DE LO CIVIL	36
+
+NOTIFICACIONES DEL JUZGADO QUINTO DE LO CIVIL	43
+
+NOTIFICACIONES DEL JUZGADO SEXTO DE LO CIVIL	48
+
+NOTIFICACIONES DEL JUZGADO PRIMERO DE LO FAMILIAR	53
+
+NOTIFICACIONES DEL JUZGADO SEGUNDO DE LO FAMILIAR	57
+
+NOTIFICACIONES DEL JUZGADO TERCERO DE LO FAMILIAR	61
+
+NOTIFICACIONES DEL JUZGADO CUARTO DE LO FAMILIAR	65
+
+NOTIFICACIONES DEL JUZGADO PRIMERO DE DEFENSA SOCIAL	69
+
+NOTIFICACIONES DEL JUZGADO CUARTO DE DEFENSA SOCIAL	70
+
+NOTIFICACIONES DEL JUZGADO QUINTO DE DEFENSA SOCIAL	71
+
+NOTIFICACIONES DEL JUZGADO SEPTIMO DE DEFENSA SOCIAL	72
+
+NOTIFICACIONES DEL JUZGADO MIXTO DE LO CIVIL Y FAMILIAR
+
+DEL SEGUNDO DEPARTAMENTO JUDICIAL DEL ESTADO	72
+
+NOTIFICACIONES DEL JUZGADO MIXTO DE LO CIVIL Y FAMILIAR
+
+DEL TERCER DEPARTAMENTO JUDICIAL DEL ESTADO	75
+
+AVISO	80
+
+TRIBUNAL DE CONCILIACION Y ARBITRAJE PARA LOS TRABAJADORES AL SERVICIO
+DEL ESTADO
+
+AVISO	79
+
+AYUNTAMIENTO DE MERIDA, YUCATAN.
+
+PLAN MUNICIPAL DE DESARROLLO 2007-2010. (SUPLEMENTO)
+
+GOBIERNO DEL ESTADO
+
+DECRETO NÚMERO 23
+
+PODER EJECUTIVO
+
+IVONNE ARACELLY ORTEGA PACHECO, Gobernador del Estado de
+
+Yucatán, con fundamento en la fracción I del artículo 55 de la
+Constitución
+
+Política del Estado de Yucatán, a sus habitantes hago saber:
+
+Que el Honorable Congreso del Estado de Yucatán se ha servido dirigirme
+el
+
+siguiente Decreto:
+
+“EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME
+
+A LO DISPUESTO EN EL ARTÍCULO 30 FRACCIÓN V DE LA CONSTITUCIÓN
+
+POLÍTICA; 97, 150 Y 156 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO,
+
+AMBAS DEL ESTADO DE YUCATÁN, EMITE EL SIGUIENTE;
+
+DECRETO:
+
+ARTÍCULO PRIMERO.- El Congreso del Estado de Yucatán aprueba en sus
+términos
+
+la reforma a la fracción V del artículo 55 de la Constitución
+Política de los Estados
+
+Unidos Mexicanos, contenidas en la Minuta Proyecto de Decreto, de fecha
+19 de
+
+diciembre del año 2006.
+
+ARTÍCULO SEGUNDO.-  Se reforma la fracción V del artículo 55 de la
+Constitución
+
+Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+Artículo 55.- ...
+
+I a IV.- …
+
+V.- No ser titular de alguno de los organismos a los que ésta
+Constitución otorga
+
+autonomía, ni ser Secretario o Subsecretario de Estado, ni titular de
+alguno de los
+
+organismos descentralizados o desconcentrados de la administración
+pública federal,
+
+a menos que se separe definitivamente de sus funciones 90 días antes
+del día  de la
+
+elección.
+
+No ser Ministro de la Suprema Corte de Justicia de la Nación, ni
+Magistrado, ni
+
+Secretario del Tribunal Electoral del Poder Judicial de la Federación,
+ni Consejero
+
+Presidente o Consejero Electoral en los consejos General, locales o
+distritales del
+
+Instituto Federal Electoral, ni  Secretario Ejecutivo, Director
+Ejecutivo o personal
+
+profesional directivo del propio Instituto, salvo que se hubieren
+separado de su
+
+encargo, de manera definitiva, tres años antes del día de la
+elección.
+
+Los Gobernadores de los Estado y el Jefe de Gobierno del Distrito
+Federal  no podrán
+
+ser electos en las entidades de sus respectivas jurisdicciones durante
+el periodo de su
+
+encargo, aun cuando se separen definitivamente de sus puestos.
+
+Los Secretarios del Gobierno de los Estados y del Distrito Federal, los
+Magistrados y
+
+Jueces Federales o del Estado o del Distrito Federal, así como los
+Presidentes
+
+Municipales y titulares de algún órgano político-administrativo en el
+caso del Distrito
+
+Federal, no podrán ser electos en las entidades de sus respectivas
+jurisdicciones, si no
+
+se separan definitivamente de sus cargos noventa días antes del día de
+la elección;
+
+VI y VII.- …
+
+T R A N S I T O R I O:
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día
+siguiente al de su
+
+publicación en el Diario Oficial de la Federación.
+
+T R A N S I T O R I O S:
+
+ARTÍCULO PRIMERO.- Publíquese el presente Decreto en el Diario Oficial
+del
+
+ Gobierno del Estado de Yucatán.
+
+ARTÍCULO SEGUNDO.- Envíense a la Cámara de Senadores del Honorable
+
+Congreso de la Unión, dos ejemplares del correspondiente Diario Oficial
+del Gobierno
+
+del Estado, para los efectos legales que correspondan.
+
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO EN LA CIUDAD DE
+
+MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS DIECIOCHO DÍAS
+
+DEL MES DE OCTUBRE DEL AÑO DOS MIL SIETE.- PRESIDENTE DIPUTADO.-
+
+ENRIQUE ANTONIO DE JESÚS MAGADÁN VILLAMIL.- SECRETARIA DIPUTADA.-
+
+ALBA ELENA DE LA CRUZ MARTÍNEZ CORTÉS.- SECRETARIO DIPUTADO.-
+
+CORNELIO AGUILAR PUC.- RÚBRICAS.”
+
+Y, POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU
+
+CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
+
+DADO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE MÉRIDA,
+
+YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS VEINTITRÉS DÍAS
+
+DEL MES DE OCTUBRE DEL AÑO DOS MIL SIETE.
+
+( RÚBRICA )
+
+C. IVONNE ARACELLY ORTEGA PACHECO
+
+GOBERNADOR DEL ESTADO
+
+                       ( RÚBRICA )
+
+C. ROLANDO RODRIGO ZAPATA BELLO
+
+SECRETARIO GENERAL DE GOBIERNO
+
+PAGINA   PAGE  2
+                                      DIARIO  OFICIAL
+MERIDA, YUC., LUNES 29 DE OCTUBRE DE 2007.
+
+MERIDA, YUC., LUNES 29 DE OCTUBRE DE 2007.
+DIARIO  OFICIAL
+                                PAGINA   PAGE  3
+
+Publicación periódica: Permiso No. 0100921
+
+Características: 111182816. Autorizado por SEPOMEX
+
+DEL GOBIERNO DEL ESTADO
+
+ DE YUCATAN.
+
+DIARIO OFICIAL
+
+Dirección: Calle 90 No. 498-A entre 61 A y 63
+
+Colonia Bojórquez, (Complejo de Seguridad Jurídica)
+
+Mérida, Yucatán. C.P. 97240. TEL: 930-30-23.
+
+DIRECTOR: LIC. SALVADOR SOLORZA CASTILLO.
+
+AÑO CX         MERIDA, YUC., LUNES 29 DE OCTUBRE DE 2007.          NUM.
+30,970

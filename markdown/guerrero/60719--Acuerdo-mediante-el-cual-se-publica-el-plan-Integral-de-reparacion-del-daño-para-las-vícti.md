@@ -1,0 +1,396 @@
+---
+titulo: "Acuerdo mediante el cual se publica el plan Integral de reparacion del daño para las víctimas de los acontecimientos suscitados en la ciudad de Iguala de la Independencia, Guerrero los días 26 y 27 de septiembre del 2014"
+tipo: "Plan"
+estado: "Guerrero"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "11 de Octubre de 2014"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "60719"
+---
+TEXTO ORIGINAL.
+# 
+	Acuerdo Publicado en el Periódico Oficial del Gobierno del Estado No.
+Extraordinario, de fecha Sábado 11 de Octubre de 2014.
+
+ACUERDO MEDIANTE EL CUAL SE PUBLICA EL PLAN INTEGRAL DE REPARACION DEL
+DAÑO PARA LAS VÍCTIMAS DE LOS ACONTECIMIENTOS SUSCITADOS EN LA CIUDAD
+DE IGUALA DE LA INDEPENDENCIA, GUERRERO LOS DÍAS 26 Y 27 DE SEPTIEMBRE
+DEL 2014.
+
+	Al margen un sello con el Escudo Oficial que dice: Gobierno del Estado
+Libre y Soberano de Guerrero.- Poder Ejecutivo.
+
+	ÁNGEL HELADIO AGUIRRE RIVERO, GOBERNADOR CONSTITUCIONAL DEL ESTADO
+LIBRE Y SOBERANO DE GUERRERO, CON FUNDAMENTO EN LO DISPUESTO POR LOS
+ARTÍCULOS 1o PÁRRAFO TERCERO DE LA CONSTITUCIÓN POLÍTICA DE LOS
+ESTADOS UNIDOS MEXICANOS; 90 NUMERAL 2, 91 Y 139 DE LA CONSTITUCIÓN
+POLÍTICA DEL ESTADO; 1 Y 2 DE LA CONVENCIÓN AMERICANA SOBRE DERECHOS
+HUMANOS; 2 Y 3 DEL PACTO INTERNACIONAL DE DERECHOS CIVILES Y POLÍTICOS;
+Y EN USO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 6o., 7o., 20
+FRACCIÓN III, 21 Y 22 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN
+PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 433; Y
+
+C O N S I D E R A N D O
+
+	Que el Gobierno del Estado de Guerrero ha manifestado un compromiso
+irrestricto con los derechos humanos en todos sus programas y acciones
+de gobierno, atendiendo a las recomendaciones, sentencias y estándares
+internacionales que sobre la materia se le han formulado.
+
+	Que el marco jurídico estatal, se encuentra en constante renovación y
+actualización a efecto de garantizar de la mejor manera el pleno goce
+de todos los derechos para las y los guerrerenses.
+
+	Que a pesar de los esfuerzos constantes por respetar y garantizar los
+derechos humanos, los días 26 y 27 de septiembre se cometieron en
+contra de un número importante de personas diversos delitos por parte
+de servidores públicos pertenecientes al Municipio de Iguala de la
+Independencia, resultando 6 personas fallecidas, 25 heridas y 43 más
+desaparecidas.
+
+	Que en esos lamentables hechos tuvieron participación distintos
+servidores públicos pertenecientes al Municipio de Iguala de la
+Independencia y que en los mismos se cometieron violaciones a los
+derechos humanos, en particular la violación al derecho a la vida, la
+integridad personal, y la libertad personal, resultando de ello además
+otras graves violaciones a los derechos humanos.
+
+	Que el Gobierno del Estado de Guerrero ha actuado en consecuencia y ha
+integrado acusaciones penales contra 26 servidores públicos que
+participaron en esos hechos y que mantiene las investigaciones
+ministeriales pertinentes para sancionar a todos aquellos servidores
+públicos y/o civiles que cometieron esos terribles actos de violencia,
+asegurando que los hechos sean castigados conforme a la gravedad de los
+mismos.
+
+	Que se han mantenido las acciones de búsqueda y localización de los
+jóvenes desaparecidos de manera permanente, contando con la
+participación de todas las instancias del Gobierno, particularmente de
+la Fiscalía General del Estado y de la Secretaria de Seguridad Pública
+y Protección Civil y que dichas acciones se seguirán desarrollando
+ininterrumpidamente hasta localizar y dar con el paradero de todos los
+jóvenes desaparecidos.
+
+	Que el Gobierno del Estado de Guerrero ha asumido públicamente que
+estos hechos aunque no son imputables a ningún servidor público del
+orden estatal, representan una afrenta a las responsabilidades que el
+Estado mexicano ha adoptado a nivel internacional y que como parte de
+esas responsabilidades este Gobierno actuará de manera integral
+avanzando en las acciones para que se acceda a la justicia, se garantice
+la reparación del daño y se conozca la verdad de lo sucedido.
+
+	Que para atender a las víctimas de los hechos es necesario que las
+diversas instancias estatales garanticen los servicios médicos,
+psicológicos, jurídicos y sociales que sean necesarios, así como que
+sean estimadas y entregadas las indemnizaciones correspondientes, de
+conformidad con los estándares internacionales en la materia y como
+parte de la reparación del daño a que tienen derecho.
+
+	Que para garantizar la atención y reparación del daño de las
+víctimas, para indemnizarlas adecuadamente y para evitar que hechos
+semejantes vuelvan a repetirse, se estima conveniente un acuerdo
+mediante el cual se publica el Plan Integral de Reparación del Daño
+para las Victimas de los acontecimientos suscitados en la ciudad de
+Iguala de la Independencia los días 26 y 27 de septiembre de 2014.
+
+	Por lo anteriormente expuesto y fundado, he tenido a bien expedir el
+siguiente:
+
+ACUERDO MEDIANTE EL CUAL SE PUBLICA EL PLAN INTEGRAL DE REPARACION DEL
+DAÑO PARA LAS VÍCTIMAS DE LOS ACONTECIMIENTOS SUSCITADOS EN LA CIUDAD
+DE IGUALA DE LA INDEPENDENCIA, GUERRERO LOS DÍAS 26 Y 27 DE SEPTIEMBRE
+DEL 2014.
+
+	Artículo Único. Se emite y ordena sea publicado el PLAN INTEGRAL DE
+REPARACION DEL DAÑO PARA LAS VÍCTIMAS DE LOS ACONTECIMIENTOS
+SUSCITADOS EN LA CIUDAD DE IGUALA DE LA INDEPENDENCIA GUERRERO LOS DÍAS
+26 Y 27 DE SEPTIEMBRE DEL 2014, mismo que se anexa y forma parte del
+presente Acuerdo.
+
+T R A N S I T O R I O S
+
+	Primero. Publíquese este Acuerdo en el Periódico Oficial del Gobierno
+del Estado de Guerrero.
+
+	Segundo. El presente Acuerdo entrará en vigor al día siguiente de su
+publicación en el Periódico Oficial del Gobierno del Estado de
+Guerrero.
+
+	Dado en la Residencia Oficial del Poder Ejecutivo Estatal, en la ciudad
+de Chilpancingo de los Bravo, capital del Estado de Guerrero, a los once
+días del mes de octubre del dos mil catorce.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+LIBRE Y SOBERANO DE GUERRERO.
+
+LIC. ÁNGEL HELADIO AGUIRRE RIVERO.
+
+Rúbrica.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+DR. JESÚS MARTÍNEZ GARNELO.
+
+Rúbrica.
+
+PLAN INTEGRAL DE REPARACION DEL DAÑO PARA LAS VÍCTIMAS DE LOS
+ACONTECIMIENTOS SUSCITADOS EN LA CIUDAD DE IGUALA DE LA INDEPENDENCIA,
+GUERRERO LOS DÍAS 26 Y 27 DE SEPTIEMBRE DEL 2014
+
+	Justificación
+
+	Los días 26 y 27 de septiembre en la Ciudad de Iguala de la
+Independencia, Guerrero, se suscitaron varios hechos de violencia en
+contra de la población y en contra de estudiantes de la Escuela Normal
+Rural "Raúl Isidro Burgos" de Ayotzinapa quienes se encontraban en ese
+momento en la ciudad, la actuación de algunos servidores públicos
+municipales derivó en la comisión de diversos delitos y en la
+comisión de graves violaciones a los derechos humanos que no pueden
+permitirse en una sociedad como la nuestra, ya que representan acciones
+reprobables en toda nuestra comunidad que contravienen los instrumentos
+internacionales en materia de derechos humanos.
+
+	El Gobierno del Estado ha reconocido públicamente que asume su
+responsabilidad por la gravedad de estos hechos, aunque los agentes del
+Estado que cometieron esas graves violaciones correspondan al Gobierno
+Municipal de Iguala de la Independencia, ya que como parte del Estado
+Mexicano el Gobierno del Estado de Guerrero ha asumido que es su
+responsabilidad investigar los hechos, sancionar a los responsables,
+atender a las víctimas y brindarles seguridad, así como mantener todas
+las acciones necesarias para asegurar que se conozca la verdad de los
+hechos y que se localicen a los jóvenes desaparecidos.
+
+	De igual manera este Gobierno asume que le corresponde como parte de
+sus deberes de protección y garantía, la implementación de medidas de
+no repetición y de prevención efectivas que eviten que actos
+semejantes vuelvan a repetirse.
+
+	Adicional a este reconocimiento, es necesaria una intervención
+extraordinaria del Estado, que confirme que el compromiso para reparar a
+las víctimas se traduzca en acciones concretas de atención médica,
+psicológica, jurídica y de indemnización, asegurándoles un trato
+digno y respetuoso en todo momento.
+
+	Con el objetivo de brindar la atención a las víctimas y desarrollar
+medidas que eviten la repetición de estos lamentables hechos, es
+necesario contar con mecanismos de coordinación interinstitucional
+enmarcados dentro de un Plan Integral de Reparación del Daño que
+permita la adopción de acciones de gobierno bajo una visión y
+perspectiva de derechos humanos.
+
+	Dada la gravedad de las violaciones a los derechos humanos que se
+cometieron en esos hechos y de que es indispensable mandar un mensaje
+claro a la sociedad local, nacional e internacional de que estos actos
+son completamente reprochables, reprobables e inaceptables, el Gobierno
+del Estado no descansará hasta sancionar a todos los participantes en
+estos crímenes y hasta localizar a los jóvenes que al día de hoy se
+encuentran desaparecidos, asegurando en todo momento los derechos de las
+víctimas de conformidad con los estándares internacionales en materia
+de derechos humanos.
+
+	II. Contenido y Estrategia del Plan
+
+	1. Población Objetivo
+
+	La población a la que está dirigido el presente Plan lo constituyen
+las víctimas y los familiares de las personas fallecidas, así como
+aquellas que resultaron afectadas en sus derechos de libertad personal o
+integridad personal por los hechos ocurridos los días 26 y 27 de
+septiembre de 2014 en la ciudad de Iguala de la Independencia, así como
+aquellos familiares de los jóvenes desaparecidos al momento de la
+publicación de este Acuerdo. Las medidas dirigidas a cada víctima
+consideraran cada caso en particular y a la afectación que hayan
+sufrido en sus derechos.
+
+	Las medidas de atención que se integran en este Plan, serán de
+carácter permanente salvo la indemnización, misma que será entregada
+en una sola ocasión.
+
+	Las medidas de no repetición en materia legislativa y normativa que
+implementará el Gobierno de Guerrero, a partir de las acciones de este
+Plan estarán dirigidas a la sociedad guerrerense en su conjunto.
+
+	2. Autoridades responsables
+
+	La coordinación e implementación del presente Plan estará a cargo
+del Comité de Atención Integral, mismo que será integrado a partir de
+la publicación del presente Acuerdo, y será coordinado por la
+Secretaría de Desarrollo Social, con la participación de la Secretaria
+General de Gobierno a través de la Subsecretaría de Gobierno para
+Asuntos Jurídicos y Derechos Humanos, de la Fiscalía General del
+Estado a través de la Dirección General de Atención a Víctimas del
+Delito y Servicios a la Comunidad, de la Secretaría de Salud, de la
+Secretaría de Educación-Guerrero, de la Secretaría de la Juventud y
+la Niñez y del Sistema para el Desarrollo Integral de la Familia
+DIF-Guerrero, como integrantes permanentes, y por la Secretaría de
+Finanzas y Administración, el Instituto del Deporte como integrantes
+invitados.
+
+	Las dependencias que por disposición legal, tengan encomendada la
+realización de actividades relacionadas con el objeto de este Plan, se
+coordinarán para su ejecución, con la Secretaría de Desarrollo Social
+como instancia coordinadora del Comité de Atención Integral.
+
+	3. Criterios para la elaboración e integración del Padrón de
+victimas
+
+	El padrón de victimas que se utilizará para efectos del cumplimiento
+de los objetivos de este Plan, será integrado por la Secretaría de
+Desarrollo Social, a partir de la información proporcionada por la
+Fiscalía General del Estado y la Subsecretaría de Derechos Humanos y
+Asuntos Jurídicos de la Secretaría General de Gobierno.
+
+	Las victimas serán todas aquellas personas que hayan sufrido menoscabo
+o afectación a algún derecho, afectación en su integridad física o
+psicológica de manera directa e indirecta como consecuencia de las
+graves violaciones a los derechos humanos cometidas los días 26 y 27 de
+septiembre de 2014 en la ciudad de Iguala de la Independencia, así como
+los familiares directos de las personas que resultaron fallecidas o que
+al día hoy se encuentren desaparecidas.
+
+	A) Medidas que integran del Plan
+
+	El Comité de Atención Integral elaborará y entregará a las victimas
+una Tarjeta de Atención Integral, con la cual podrán acceder de manera
+prioritaria a los servicios que se mencionan en este apartado.
+
+	El Comité de Atención Integral a través de las instancias que lo
+integran y de aquéllas que tengan por mandato de ley brindar los
+servicios que se enuncian, deberán:
+
+	1. Proporcionar asesoría jurídica gratuita respecto de sus denuncias
+o querellas;
+
+	2. Brindar la atención médica y psicológica;
+
+	3. Integrar a las víctimas a los programas sociales, en aquellos casos
+que así lo determine el Comité.
+
+	B) Programa de indemnizaciones
+
+	Como parte de la reparación integral del daño, el Gobierno del Estado
+de Guerrero entregará apoyos económicos extraordinarios por concepto
+de indemnización para las víctimas de los hechos de los días 26 y 27
+de septiembre de 2014.
+
+	El Comité de Atención Integral, a partir del padrón de víctimas que
+haya integrado, sesionará para estudiar los casos en particular y
+determinar a partir de los estándares internacionales en materia de
+reparación del daño, los montos que le serán entregados a cada
+víctima por este concepto.
+
+	La indemnización deberá de cubrir necesariamente los gastos o
+erogaciones en que pudiera incurrir la víctima para atender las
+necesidades derivadas de los hechos en materia de salud, rehabilitación
+y atención psicológica, sin menoscabo de que estos mismos servicios
+puedan ser brindados por las distintas instancias del Gobierno del
+Estado si así fuera requerido por las víctimas.
+
+	C) Difusión y acercamiento con las víctimas
+
+	El Gobierno del Estado deberá realizar una campaña de difusión del
+presente Plan, con la finalidad de darlo a conocer a la sociedad y en
+especial a aquellas personas que resultaron víctimas de estos hechos
+con la finalidad de que se conozca el contenido del mismo y se alcance
+en el corto tiempo la cobertura total en cuanto a servicios e
+indemnizaciones.
+
+	Con las víctimas que ya se haya tenido contacto o que incluso reciban
+alguno de los servicios o programas del Gobierno del Estado se
+dispondrá un contacto inmediato a efecto de darles a conocer los
+alcances del Plan Integral.
+
+	El Comité designará a un equipo que fungirá como enlaces con la
+finalidad de poder atender, informar, canalizar, orientar y tramitar las
+peticiones de las víctimas, así como de iniciar los procedimientos
+para las indemnizaciones y la atención integral.
+
+	4. Documentación requerida
+
+	Para acceder a las medidas establecidas en el presente Plan, las
+personas deberán:
+
+	a) Acudir con los enlaces que designará el Comité de Atención
+Integral para manifestar bajo protesta de decir verdad, que se
+encontraba presente en el lugar de los hechos, y que resultaron
+afectados en sus derechos, información que será corroborada con
+aquella contenida de manera oficial en las distintas áreas del
+Gobierno;
+
+	b) Exhibir en su caso, documentación con la que se acredite el tipo de
+parentesco que el solicitante tiene con la victima; en los casos de las
+personas que resultaron fallecidas; y
+
+	c) Exhibir en su caso, documentación con la que acredite el tipo de
+parentesco que el solicitante tiene con la persona que se encuentra
+desaparecida.
+
+	Estos requisitos resultan indispensables para la tramitación y
+obtención de las respectivas indemnizaciones, no así, para acceder y
+recibir la atención integral médica, psicológica y jurídica que
+corresponda.
+
+	5. Supervisión del Plan
+
+	La Supervisión relacionada con el cumplimiento de las acciones de este
+Plan, estará a cargo de la oficina del Gobernador Constitucional del
+Estado de Guerrero a través de la Coordinación General de Proyectos
+Estratégicos del Ejecutivo.
+
+	6. Seguimiento del Plan
+
+	El seguimiento de las acciones contenidas en este Plan Integral de
+Reparación del daño estará a cargo de la persona titular de la
+Secretaría de Desarrollo Social del Estado en su calidad de coordinador
+del Comité de Atención Integral, quien periódicamente entregará un
+informe al Gobernador del Estado sobre el avance y el nivel de cobertura
+de las acciones aquí contenidas.
+
+	7. Recursos financieros
+
+	El monto de los recursos de que dispondrá este Plan serán los que al
+efecto apruebe la Secretaría de Finanzas y Administración del Gobierno
+del Estado de Guerrero, de conformidad con lo establecido en su
+normatividad, en el presupuesto de egresos y en las demás disposiciones
+aplicables.
+
+	8. Vigencia
+
+	Este Plan dará inicio de manera simultánea a la entrada en vigor del
+Acuerdo mediante el cual se da a conocer y tendrá una vigencia
+indeterminada.
+
+	9. Procedimiento de queja o inconformidad ciudadana
+
+	Cualquier persona podrá interponer ante la Contraloría General del
+Estado de Guerrero una queja cuando considere que se excluye, incumple o
+contraviene por parte de servidores públicos, las disposiciones
+previstas en este Acuerdo o en otras disposiciones aplicables.
+
+	Una vez que se presente la queja o inconformidad, la Contraloría
+General del Estado, turnará la misma al coordinador del Comité de
+Atención Integral, a efecto de dar contestación a la misma en un plazo
+no mayor a10 días hábiles, una vez remitida la respuesta, la
+Contraloría determinará la procedencia de la misma y podrá en su caso
+recomendar al Comité que rectifique o modifique la conducta o acuerdo
+recurrido a efecto de dar atención y cumplimiento al contenido de este
+Acuerdo.
+
+	Chilpancingo, Guerrero, a 11 de octubre de 2014.
+
+	  HYPERLINK "http://www.guerrero.gob.mx/consejeriajuridica/"
+http://www.guerrero.gob.mx/consejeriajuridica
+
+	  HYPERLINK "mailto:consejeria_juridica@guerrero.gob.mx"
+consejeria_juridica@guerrero.gob.mx
+
+ACUERDO MEDIANTE EL CUAL SE PUBLICA EL PLAN INTEGRAL DE REPARACION DEL
+DAÑO PARA LAS VÍCTIMAS DE LOS ACONTECIMIENTOS SUSCITADOS EN LA CIUDAD
+DE IGUALA DE LA INDEPENDENCIA, GUERRERO LOS DÍAS 26 Y 27 DE SEPTIEMBRE
+DEL 2014
+
+ PAGE
+
+ PAGE   8

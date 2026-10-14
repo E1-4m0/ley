@@ -1,0 +1,194 @@
+---
+titulo: "PROGRAMA DE TRANSFERENCIA DEL SERVICIO PÚBLICO DE PANTEONES DEL GOBIERNO DEL ESTADO DE YUCATÁN AL MUNICIPIO DE CANSAHCAB, YUCATÁN."
+tipo: "Programa"
+estado: "Yucatan"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "05 de Octubre de 2006"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "10455"
+---
+DIARIO OFICIAL
+
+DEL GOBIERNO DEL ESTADO DE YUCATAN.
+
+Dirección: Calle 90 No. 498 entre 61 A y 63 Colonia Bojórquez,
+(Complejo de Seguridad Jurídica) Mérida, Yucatán. C.P. 97240. TEL:
+930-30-23.
+
+Publicación periódica: Permiso No. 0100921 Características:
+111182816. Autorizado por SEPOMEX
+
+DIRECTOR: LIC. SALVADOR SOLORZA CASTILLO.
+
+AÑO CIX    MERIDA, YUC., JUEVES 5 DE OCTUBRE DE 2006.    NUM. 30,714
+
+-SUMARIO
+
+GOBIERNO FEDERAL
+
+PODER EJECUTIVO TRIBUNAL UNITARIO AGRARIO DEL DISTRITO 34
+
+EDICTO
+........................................................................
+......................................... 3
+
+PODER JUDICIAL SUPREMA CORTE DE JUSTICIA DE LA NACION CASA DE LA CULTURA
+JURIDICA
+INVITACION..............................................................
+............................................ 5
+
+GOBIERNO DEL ESTADO
+
+PODER EJECUTIVO
+
+PROGRAMA DE TRANSFERENCIA DEL SERVICIO PUBLICO DE PANTEONES DEL GOBIERNO
+DEL ESTADO DE YUCATAN A LOS MUNICIPIOS DE PETO Y CANSAHCAB, AMBOS DEL
+MISMO ESTADO ........ 6
+
+SECRETARIA GENERAL DE GOBIERNO DIRECCION DEL REGISTRO PUBLICO DE LA
+PROPIEDAD  Y COMERCIO DEL ESTADO
+NOTIFICACION............................................................
+....................................... 14
+
+PODER LEGISLATIVO DECRETO
+
+LA QUINCUAGESIMA SEPTIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y
+SOBERANO DE YUCATAN, ABRE SU SEGUNDO PERIODO EXTRAORDINARIO DE SESIONES,
+CORRESPONDIENTE AL TERCER AÑO DE SU EJERCICIO CONSTITUCIONAL
+................................... 12
+
+DECRETO
+
+LA QUINCUAGESIMA SEPTIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y
+SOBERANO DE YUCATAN, CLAUSURA SU SEGUNDO PERIODO EXTRAORDINARIO DE
+SESIONES, CORRESPONDIENTE AL TERCER AÑO DE SU EJERCICIO
+CONSTITUCIONAL..........................................................
+................................... 13
+
+PODER JUDICIAL
+
+NOTIFICACIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA .......................
+14 NOTIFICACIONES DEL JUZGADO PRIMERO DE LO CIVIL
+........................... 24 NOTIFICACIONES DEL JUZGADO SEGUNDO DE LO
+CIVIL..........................29 NOTIFICACIONES DEL JUZGADO TERCERO DE
+LO CIVIL .......................... 33 NOTIFICACIONES DEL JUZGADO CUARTO
+DE LO CIVIL............................. 37 NOTIFICACIONES DEL JUZGADO
+QUINTO DE LO CIVIL .............................. 43 NOTIFICACIONES DEL
+JUZGADO SEXTO DE LO CIVIL................................47
+NOTIFICACIONES DEL JUZGADO PRIMERO DE LO FAMILIAR ................... 52
+NOTIFICACIONES DEL JUZGADO SEGUNDO DE LO FAMILIAR..................56
+NOTIFICACIONES DEL JUZGADO TERCERO DE LO FAMILIAR .................. 57
+NOTIFICACIONES DEL JUZGADO CUARTO DE LO FAMILIAR..................... 64
+NOTIFICACIONES DEL JUZGADO CUARTO DE DEFENSA SOCIAL ............ 66
+NOTIFICACIONES DEL JUZGADO QUINTO DE DEFENSA SOCIAL ............. 68
+NOTIFICACIONES DEL JUZGADO MIXTO DE LO CIVIL Y FAMILIAR  DEL SEGUNDO
+DEPARTAMENTO JUDICIAL DEL ESTADO ......................... 69
+NOTIFICACIONES DEL JUZGADO MIXTO DE LO CIVIL Y FAMILIAR  DEL TERCER
+DEPARTAMENTO JUDICIAL DEL ESTADO............................. 70
+NOTIFICACIONES DEL JUZGADO DE PAZ
+..................................................... 72
+
+PODER EJECUTIVO
+
+PROGRAMA DE TRANSFERENCIA DEL SERVICIO PÚBLICO DE  PANTEONES DEL
+GOBIERNO DEL ESTADO DE YUCATÁN AL MUNICIPIO DE CANSAHCAB, YUCATÁN.
+
+A N TE C E DE NT E S
+
+PRIMERO.-En sesión ordinaria de cabildo de fecha diecisés de agosto de
+dos mil seis, el Ayuntamiento del Municipio de Cansahcab, acordó por
+Unanimidad de votos solicitar al Gobierno del Estado la transferencia
+del servicio público de panteones junto con la función recaudatoria.
+
+En dicha sesión el Gobierno Municipal, señaló que tiene la capacidad
+técnica para administrar  el cementerio municipal, autorizó a su
+Presidente y Secretario para solicitar al Gobierno del Estado la
+transferencia de dicho servicio, así como para que suscribieran y
+gestionaran los documentos y trámites que fueran necesarios para que el
+Municipio de Cansahcab, asumiera la prestación del servicio público de
+panteones, dentro del territorio municipal.
+
+SEGUNDO.- Mediante oficio sin número de fecha diecisiete de Agosto de
+dos mil seis, suscrito por el Presidente y Secretario del Municipio,
+solicitaron la transferencia del servicio público de panteones y la
+función recaudatoria, acompañando a su solicitud, copia simple de la
+Ley de Ingresos del Municipio de Cansahcab, un informe en el que
+manifiestan que los bienes inmuebles en los que se ubican los
+cementerios, los  muebles que se ocupan y el personal que labora, en la
+actualidad, para la prestación del servicio no son propiedad del
+Gobierno del Estado de Yucatán.
+
+En tal virtud,  y
+
+C O N S I D E R A N D O
+
+LA PRESENTE HOJA FORMA PARTE DEL PROGRAMA DE TRANSFERENCIA DEL SERVICIO
+DE PANTEONES QUE REALIZA EL GOBIERNO DEL ESTADO DE YUCATAN A FAVOR DEL
+MUNICIPIO DE CANSAHCAB.
+
+PRIMERO.- Que la fracción III del artículo 115 de la Constitución
+Política de los Estados Unidos Mexicanos dispone que, los Municipios
+deben prestar en forma exclusiva, entre otros, el servicio de Panteones.
+
+SEGUNDO.- Que la fracción IV del artículo 115 mencionado en el
+considerando inmediato anterior, señala que los municipios percibirán
+los ingresos que las legislaturas establezcan en su favor.
+
+TERCERO.- Que en los artículos 6 fracción VIII y 35 de la Ley de
+Ingresos del Municipio de Cansahcab, Yucatán para el ejercicio fiscal
+2006 se señalan los derechos que se causarán por los servicios de
+panteones. Que el municipio de Cansahcab, se rige por la Ley General de
+Hacienda para los Municipios del Estado de Yucatán, la cual prevee en
+los artículos 103, 104 y 105 los derechos que se causarán por los
+servicios de panteones.
+
+CUARTO.- Que del contenido del oficio sin número de fecha diecisiete de
+Agosto de dos mil seis, suscrito por el Presidente y Secretario del
+Municipio de Cansahcab, se advierte que el personal y los bienes muebles
+e inmuebles con los que se presta el servicio de panteones, no guardan
+relación laboral ni los bienes son propiedad del Gobierno del Estado.
+
+Con base en lo expresado anteriormente y con fundamento en los
+artículos 115 fracciones III y IV, Tercero Transitorio del decreto de
+fecha veintiocho de octubre de mil novecientos noventa y nueve,
+publicado en el Diario Oficial de la Federación en fecha veintitrés de
+diciembre de mil novecientos noventa y nueve, por el cual se reforma y
+adiciona al artículo 115  de la Constitución Política de los Estados
+Unidos Mexicanos, 82 fracción V, 85 bis fracción V de la Constitución
+Política del Estado de Yucatán.
+
+S E  A C U E R D A
+
+PRIMERO.- El Poder Ejecutivo del Estado de Yucatán, transfiere al
+Municipio de Cansahcab, el servicio público de panteones junto con la
+función recaudatoria.
+
+LA PRESENTE HOJA FORMA PARTE DEL PROGRAMA DE TRANSFERENCIA DEL SERVICIO
+DE PANTEONES QUE REALIZA EL GOBIERNO DEL ESTADO DE YUCATAN A FAVOR DEL
+MUNICIPIO DE CANSAHCAB.
+
+SEGUNDO.- La transferencia que el Gobierno del Estado hace al Municipio
+de Cansahcab del servicio público de Panteones y de la función
+recaudatoria, entrará en vigor al día siguiente de la publicación que
+de este acuerdo se haga en el Diario Oficial del Gobierno del Estado.
+
+DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE MÉRIDA,
+YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS 28 DÍAS DEL MES DE SEPTIEMBRE
+DE DOS MIL SEIS.
+
+EL GOBERNADOR DEL ESTADO DE YUCATÁN
+
+( RÚBRICA )
+
+C. PATRICIO JOSÉ PATRÓN LAVIADA
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+ ( RÚBRICA )
+
+ABOG. PEDRO FRANCISCO RIVAS GUTIERREZ.
+
+LA PRESENTE HOJA FORMA PARTE DEL PROGRAMA DE TRANSFERENCIA DEL SERVICIO
+DE PANTEONES QUE REALIZA EL GOBIERNO DEL ESTADO DE YUCATAN A FAVOR DEL
+MUNICIPIO DE CANSAHCAB.

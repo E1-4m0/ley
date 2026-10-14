@@ -1,0 +1,15 @@
+---
+titulo: "Resolución del Consejo Distrital 14 del Instituto Electoral del Estado de Querétaro relativa a la solicitud de registro de la planilla de diputación local presentada por la coalición integrada por los partidos políticos Revolucionario Institucional y Verde Ecologista de México"
+tipo: "Resolución"
+estado: "Queretaro"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "14 de Junio de 2018"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "82393"
+---
+RESOLUCIÓN DEL CONSEJO DISTRITAL 14 DEL INSTITUTO ELECTORAL DEL ESTADO DE QUERÉTARO RELATIVA A LA SOLICITUD DE REGISTRO DE LA PLANILLA DE DIPUTACIÓN LOCAL PRESENTADA POR LA COALICIÓN INTEGRADA POR LOS PARTIDOS POLÍTICOS REVOLUCIONARIO INSTITUCIONAL Y VERDE ECOLOGISTA DE MÉXICO: PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO “LA SOMBRA DE ARTEAGA”, EL 14 DE JUNIO DE 2018 (P. O. No. 47)
+
+El periódico en que fue publicado el ordenamiento que nos ocupa, puede ser consultado en la siguiente liga:
+
+http://www2.queretaro.gob.mx/disco2/servicios/LaSombradeArteaga/

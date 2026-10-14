@@ -1,0 +1,1499 @@
+---
+titulo: "ACUERDO POR EL QUE SE APRUEBA PRESUPUESTO DE EGRESOS 2023 HUITZILAC"
+tipo: "Acuerdo"
+estado: "Morelos"
+ambito: "Estatal"
+estatus: "Vigente"
+fecha_publicacion: "29 de Mayo de 2024"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "102687"
+---
+# ACUERDO POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL MUNICIPIO DE
+HUITZILAC, MORELOS; PARA EL EJERCICIO FISCAL DEL 1° DE ENERO AL 31 DE
+DICIEMBRE DEL 2023
+
+Al margen superior izquierdo un logotipo que dice: AYUNTAMIENTO DE
+HUITZILAC.- SIRVIENDO DE CORAZÓN.- 2022-2024.
+
+El H. Ayuntamiento de Huitzilac, Morelos, con fundamento en lo dispuesto
+por los artículos 115 de la Constitución Política del Estado Libre y
+Soberano de Morelos, 38, fracción VII de la Ley Orgánica Municipal del
+Estado de Morelos; y,
+
+CONSIDERANDO
+
+Que el presente acuerdo se conforma de las diversas exposiciones
+sometidas a revisión y análisis que se muestran compatibles y reflejan
+la realidad financiera del municipio presentando las expectativas del
+gasto público a ejercer durante el periodo fiscal de su vigencia.
+
+Que los objetivos generales fijados por el gobierno municipal para el
+ejercicio 2023, consisten en mejorar el bienestar social, político y
+económico de los habitantes del municipio, promover el crecimiento de
+la economía y la generación de empleos, fortalecer la seguridad
+pública, avanzar en la modernización política y aumentar la
+eficiencia y la calidad de servicios públicos.
+
+Que en estricto apego a la Ley General de Contabilidad Gubernamental y a
+la normatividad que ha emitido el Consejo de Armonización Contable
+Nacional, el Municipio de Huitzilac, Morelos, ha realizado las acciones
+correspondientes con el propósito de armonizar sus informes financieros
+y ha implementado la generación de los estados financieros.
+
+Por lo anteriormente expuesto, los integrantes el ayuntamiento, han
+tenido a bien expedir el siguiente:
+
+Acuerdo por el que se aprueba el presupuesto de egresos del municipio de
+Huitzilac, Morelos; para el ejercicio fiscal del 1° de enero al 31 de
+diciembre del 2023, de conformidad a las siguientes:
+
+CLÁUSULAS
+
+PRIMERA.- El ejercicio y control del gasto público municipal para el
+año 2023, se realizará conforme a las disposiciones de este acuerdo y
+a las demás aplicables en la materia.
+
+En la ejecución del gasto público municipal, las dependencias y
+entidades de la Administración pública deberán sujetarse a las
+disposiciones de este acuerdo y realizar sus actividades con sujeción a
+los objetivos y metas de los programas aprobados en este presupuesto,
+así como a las prioridades que se establezcan en el Plan Municipal de
+Desarrollo 2022-2024.
+
+SEGUNDA.- Para efectos del presente acuerdo se entenderá por:
+
+I.- Unidad administrativa: a las direcciones administrativas que forman
+parte de la Administración pública municipal;
+
+II.- Tesorería: a la Tesorería Municipal;
+
+III.- Regidores: al cuerpo de representantes populares integrantes del
+ayuntamiento;
+
+IV.- Ayuntamiento: órgano colegiado formado por el presidente
+municipal, el síndico y los regidores; y,
+
+V.- Contraloría: a la Contraloría Municipal.
+
+TERCERA.- La tesorería estará facultada para interpretar las
+disposiciones del presente acuerdo para efectos administrativos y
+establecer para las dependencias y entidades las medidas conducentes
+para su correcta aplicación. Dichas medidas deberán procurar
+homogeneizar, racionalizar, mejorar la eficiencia y la eficacia, y el
+control presupuestario de los recursos, de conformidad con las
+disposiciones de este acuerdo. La Tesorería podrá recomendar estas
+medidas a otros ejecutores de gasto.
+
+CUARTA.- Se faculta al presidente municipal por conducto de la
+Tesorería Municipal, para realizar las asignaciones, reasignaciones,
+transferencias y modificaciones presupuestales, necesarias al
+presupuesto de egresos del presente acuerdo, en las partidas
+autorizadas, a fin de garantizar la ejecución de los programas de las
+dependencias y entidades, informando al cabildo en la cuenta pública
+anual.
+
+QUINTA.- Los recursos federales y estatales que se asignen al municipio,
+y que se establezcan en el Presupuesto de Egresos de la Federación y
+Presupuesto de Egresos del Gobierno del Estado de Morelos, como gasto
+federal y gasto estatal programable respectivamente, serán considerados
+como un gasto de ampliación y/o reducción automática, en términos de
+la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de
+Morelos.
+
+SEXTA.- Los titulares de las dependencias y entidades en el ejercicio de
+sus funciones, serán los directamente responsables de que se alcancen
+con oportunidad y eficiencia, los objetivos, metas y acciones previstas
+en los programas presupuestarios para el año 2023, conforme a lo
+dispuesto en el presente acuerdo, así como en las demás disposiciones
+aplicables. Asimismo, no deberán contraer compromisos que rebasen el
+monto de los presupuestos autorizados o acordar erogaciones que no
+permitan el cumplimiento de las metas aprobadas para el año 2023.
+
+SÉPTIMA.- La Tesorería en el ámbito de su competencia realizará
+periódicamente la evaluación financiera del ejercicio del presupuesto,
+en función de sus calendarios de metas y financieros de las unidades
+administrativas. Asimismo, las metas de los programas y proyectos,
+serán analizadas y evaluadas por la Contraloría Municipal.
+
+OCTAVA.- El ejercicio y control de las erogaciones del Presupuesto de
+Egresos para 2023, se sujetará a las disposiciones de este acuerdo y a
+las aplicables en la materia, así mismo se autoriza al presidente
+municipal, para celebrar, todo tipo de contratos, convenios, y acuerdos,
+con todos los representantes de los sectores que resulten necesarios,
+para la buena marcha de la Administración pública, así como los que
+se requieran firmar con las secretarías del gobierno federal, el
+gobierno del estado de Morelos, los estados de la república, y los
+municipios, en los términos que marquen las reglas de carácter
+federal, estatal o municipal.
+
+NOVENA.- Se faculta al titular del Poder Ejecutivo Municipal, para que,
+por conducto de la Tesorería, efectúe las reducciones a los montos de
+las asignaciones presupuestales aprobadas a las dependencias y
+entidades, cuando se presenten contingencias que requieran de gastos
+extraordinarios o repercutan en una disminución de los ingresos
+previstos en la Ley de Ingresos del Municipio.
+
+DÉCIMA.- Se refrendan los recursos federales, estatales e ingresos
+propios que no hayan sido erogados al treinta y uno de diciembre del
+año 2022, para su aplicación durante el ejercicio 2023; debiendo
+informar de los montos, obras y fines de los mismos, en la cuenta
+pública anual correspondiente.
+
+DÉCIMA PRIMERA.- Las erogaciones por los conceptos que a continuación
+se indican, deberán sujetarse a los criterios de racionalidad,
+austeridad, y selectividad, conforme a lo siguiente:
+
+I.- Las comisiones de personal fuera del municipio, en congresos,
+convenciones, ferias, festivales y exposiciones, deberán reducir el
+número de integrantes al estrictamente necesario para la atención de
+los asuntos de su competencia.
+
+II.- La publicidad, publicaciones oficiales y, en general las
+actividades relacionadas con la comunicación social, las dependencias,
+en este caso, deberán utilizar preferentemente los medios de difusión
+del sector público y selectivamente con los medios del sector privado,
+para difusión de todas y cada una de las actividades y acciones
+institucionales del municipio.
+
+III.- Servicios de comunicación telefónica, radial, celular,
+convencional u otro.
+
+V.- Alimentos y utensilios.
+
+La racionalidad, austeridad y disciplina presupuestaria, no serán
+aplicables a las erogaciones que estén directamente vinculadas a la
+seguridad pública, y a la atención de situaciones de emergencia, así
+como a servicios imprescindibles para la población. Asimismo, no serán
+aplicables cuando ello repercuta en una mayor generación de ingresos
+por parte de las dependencias y entidades.
+
+DÉCIMA SEGUNDA.- El presente documento podrá ser modificado conforme a
+las necesidades económicas, administrativas, sociales y políticas de
+este H. ayuntamiento.
+
+DÉCIMA TERCERA.- El gasto total previsto en el presente Presupuesto de
+Egresos del Municipio de Huitzilac, Morelos, comprende la cantidad de
+$96,417,549.00 (noventa y seis millones cuatrocientos diecisiete mil
+quinientos cuarenta y nueve pesos 00/100 m.n.).
+
+El presupuesto de egresos municipal del ejercicio 2023, con base en las
+diferentes clasificaciones se aprueba como sigue:
+
+Presupuesto de Egresos para el Ejercicio Fiscal 2023
+
+Clasificación por Objeto del Gasto
+
+COG	CONCEPTO	IMPORTE
+
+1000000000	SERVICIOS PERSONALES	38,551,378.77
+
+1111000000	DIETAS	4,181,197.46
+
+1131000000	SUELDOS BASE AL PERSONAL PERMANENTE	26,631,524.74
+
+1321000000	PRIMAS DE VACACIONES, DOMINICAL Y GRATIFICACION DE FIN DE
+AÑO	7,001,983.11
+
+1411000000	APORTACIONES DE SEGURIDAD SOCIAL	4,250.00
+
+1521000000	INDEMNIZACIONES	43,260.77
+
+1522000000	LIQUIDACIONES A TRABAJADORES Y LAUDOS	197,762.69
+
+1532000000	PENSIONES	191,400.00
+
+1611000000	PREVISIONES DE CARACTER LABORAL, ECONOMICA Y DE SEGURIDAD
+SOCIAL	300,000.00
+
+2000000000	MATERIALES Y SUMINISTROS	15,014,161.00
+
+2111000000	MATERIALES, UTILES Y EQUIPOS MENORES DE OFICINA	683,992.46
+
+2121000000	MATERIALES Y ÚTILES DE IMPRESIÓN Y REPRODUCCIÓN	24,299.96
+
+2141000000	MATERIALES, ÚTILES Y EQUIPOS MENORES DE TECNOLOGÍAS DE LA
+INFORMACIÓN Y COMUNICACIONES	41,951.49
+
+2151000000	MATERIAL IMPRESO E INFORMACIÓN DIGITAL	230,537.25
+
+2161000000	MATERIAL DE LIMPIEZA	148,552.02
+
+2171000000	MATERIALES Y UTILES DE ENSEÑANZA	251.00
+
+2181000000	MATERIALES PARA EL REGISTRO E IDENTIFICACION DE BIENES Y
+PERSONAS	134,542.00
+
+2211000000	PRODUCTOS ALIMENTICIOS PARA PERSONAS	97,467.98
+
+2341000000	COMBUSTIBLES, LUBRICANTES, ADITIVOS, CARBÓN Y SUS DERIVADOS
+ADQUIRIDOS COMO MATERIA PRIMA	814.00
+
+2441000000	MADERA Y PRODUCTOS DE MADERA	9,000.00
+
+2461000000	MATERIAL ELÉCTRICO Y ELECTRONICO	3,723,628.26
+
+2471000000	ARTÍCULOS METÁLICOS PARA LA CONSTRUCCIÓN	80,298.07
+
+2491000000	OTROS MATERIALES Y ARTÍCULOS DE CONSTRUCCIÓN Y REPARACIÓN
+191,950.35
+
+2511000000	PRODUCTOS QUÍMICOS BÁSICOS	175.00
+
+2531000000	MEDICINAS Y PRODUCTOS FARMACEUTICOS PARA CONSUMO HUMANA O
+ANIMAL	64,908.61
+
+2541000000	MATERIALES, ACCESORIOS Y SUMINISTROS MÉDICOS	280,901.67
+
+2561000000	FIBRAS SINTÉTICAS, HULES, PLÁSTICOS Y DERIVADOS	63,692.25
+
+2591000000	OTROS PRODUCTOS QUÍMICOS	17,132.61
+
+2611000000	COMBUSTIBLES, LUBRICANTES Y ADITIVOS	6,789,764.61
+
+2711000000	VESTUARIO Y UNIFORMES	732,320.00
+
+2721000000	PRENDAS DE SEGURIDAD Y PROTECCIÓN PERSONAL	864.01
+
+2731000000	ARTÍCULOS DEPORTIVOS	61,918.56
+
+2741000000	PRODUCTOS TEXTILES	44,782.26
+
+2911000000	HERRAMIENTAS MENORES	12,576.33
+
+2921000000	REFACCIONES Y ACCESORIOS MENORES DE EDIFICIOS	8,315.58
+
+2961000000	REFACCIONES Y ACCESORIOS MENORES DE EQUIPO DE TRANSPORTE
+1,492,121.87
+
+2981000000	REFACCIONES Y ACCESORIOS MENORES DE MAQUINARIA Y OTROS
+EQUIPOS	75,106.00
+
+2991000000	REFACCIONES Y ACCESORIOS MENORES OTROS BIENES MUEBLES
+2,296.80
+
+3000000000	SERVICIOS GENERALES	15,420,570.86
+
+3111000000	ENERGÍA ELÉCTRICA	5,013,668.00
+
+3131000000	AGUA	896,000.00
+
+3141000000	TELEFONÍA TRADICIONAL	50,336.00
+
+3171000000	SERVICIOS DE ACCESO DE INTERNET, REDES Y PROCESAMIENTO DE
+INFORMACIÓN	12,760.00
+
+3231000000	ARRENDAMIENTO DE MOBILIARIO Y EQUIPO DE ADMINISTRACIÓN,
+EDUCACIONAL Y RECREATIVO	112,128.43
+
+3251000000	ARRENDAMIENTO DE EQUIPO DE TRANSPORTE	602,572.80
+
+3261000000	ARRENDAMIENTO DE MAQUINARIA, OTROS EQUIPOS Y HERRAMIENTAS
+32,600.00
+
+3271000000	ARRENDAMIENTO DE ACTIVOS INTANGIBLES	139,683.52
+
+3291000000	OTROS ARRENDAMIENTOS	268,899.00
+
+3321000000	SERVICIOS DE CONSULTORÍA ADMINISTRATIVA, PROCESOS, TÉCNICA
+Y EN TECNOLOGÍAS DE LA INFORMACIÓN	112,501.19
+
+3341000000	SERVICIOS DE CAPACITACIÓN	22,178.00
+
+3361000000	SERVICIOS DE APOYO ADMINISTRATIVO, TRADUCCION, FOTOCOPIADO E
+IMPRESION	5,039.12
+
+3391000000	SERVICIOS PROFESIONALES, CIENTIFICOS Y TECNICOS	642,400.00
+
+3411000000	SERVICIOS FINANCIEROS Y BANCARIOS	36,187.64
+
+3421000000	SERVICIOS DE COBRANZA, INVESTIGACIÓN CREDITICIA Y SIMILAR
+96,369.38
+
+3451000000	SEGURO DE BIENES PATRIMONIALES	224,391.81
+
+3471000000	FLETES Y MANIOBRAS	10,579.00
+
+3511000000	CONSERVACIÓN Y MANTENIMIENTO MENOR DE INMUEBLES	154,221.26
+
+3551000000	REPARACIÓN Y MANTENIMIENTO DE EQUIPO DE TRANSPORTE
+818,090.37
+
+3571000000	INSTALACIÓN, REPARACIÓN Y MANTENIMIENTO DE MAQUINARIA,
+OTROS EQUIPOS Y HERRAMIENTA	812.00
+
+3581000000	SERVICIOS DE LIMPIEZA Y MANEJO DE DESECHOS	9,370.00
+
+3611000000	DIFUSIÓN POR RADIO, TELEVISIÓN Y OTROS MEDIOS DE MENSAJES
+SOBRE PROGRAMAS Y ACTIVIDADES GUBERNAMENTALES	925,200.00
+
+3631000000	SERVICIOS DE CREATIVIDAD, PREPRODUCCIÓN Y PRODUCCIÓN DE
+PUBLICIDAD, EXCEPTO INTERNET	51,160.00
+
+3721000000	PASAJES TERRESTRES	1,232.00
+
+3821000000	GASTOS DE ORDEN SOCIAL Y CULTURAL	4,287,191.34
+
+3921000000	IMPUESTOS Y DERECHOS	875,000.00
+
+3961000000	OTROS GASTOS POR RESPONSABILIDADES.	20,000.00
+
+4000000000	TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS
+8,097,081.10
+
+4411000000	AYUDAS SOCIALES A PERSONAS	7,012,194.37
+
+4412000000	APOYO AUTORIDADES AUXILIARES	465,000.00
+
+4431000000	AYUDAS SOCIALES A INSTITUCIONES DE ENSEÑANZA	619,886.73
+
+5000000000	BIENES MUEBLES, INMUEBLES E INTANGIBLES	1,287,743.00
+
+5411000000	VEHICULOS Y EQUIPO TERRESTRE	1,287,743.00
+
+6000000000	INVERSION PUBLICA	14,916,563.00
+
+6140010000	DIVISÓN DE TERRENOS Y CONSTRUCCIÓN DE OBRAS DE
+URBANIZACIÓN, HUITZILAC	14,916,563.00
+
+9000000000	DEUDA PUBLICA	3,130,051.27
+
+9900000000	ADEUDOS DE EJERCICIOS FISCALES ANTERIORES (ADEFAS)
+3,130,051.27
+
+9912000000	ADEFAS CON GASTO DE EJERCICIOS ACTUAL	3,130,051.27
+
+	TOTAL	  96,417,549.00
+
+Presupuesto de Egresos para el Ejercicio Fiscal 2023
+
+Clasificación Administrativa
+
+CONCEPTO	IMPORTE
+
+SECTOR PUBLICO NO FINANCIERO	96,417,549.00
+
+GOBIERNO GENERAL MUNICIPAL	96,417,549.00
+
+GOBIERNO MUNICIPAL	96,417,549.00
+
+ORGANO EJECUTIVO MUNICIPAL (AYUNTAMIENTO)	96,417,549.00
+
+MUNICIPIO DE HUITZILAC	96,417,549.00
+
+PRESIDENCIA MUNICIPAL	5,006,716.02
+
+SINDICATURA MUNICIPAL	1,488,715.07
+
+REGIDURÍAS	3,205,016.53
+
+SECRETARIA MUNICIPAL	2,177,835.17
+
+TESORERÍA MUNICIPAL	3,087,432.44
+
+CONTRALORÍA MUNICIPAL	675,538.66
+
+OFICIALÍA MAYOR	4,701,018.37
+
+CONSEJERÍA JURÍDICA	821,110.88
+
+DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA, TRÁNSITO Y VIALIDAD DEL
+MUNICIPIO DE HUITZILAC, MORELOS	18,001,687.69
+
+DIRECCIÓN DE OBRAS Y SERVICIOS PÚBLICOS, PREDIAL Y CATASTRO
+31,603,130.53
+
+DIRECCIÓN DE DESARROLLO ECONÓMICO Y SOCIAL, MOVILIDAD URBANA Y TURISMO
+8,481,491.90
+
+DIRECCIÓN DE BIENESTAR SOCIAL, DESARROLLO Y VALORES HUMANOS
+6,512,018.15
+
+DIRECCIÓN DE SISTEMA DE AGUA POTABLE Y SANEAMIENTO DE AGUA DE
+HUITZILAC, MORELOS	4,929,352.05
+
+DIRECCIÓN GENERAL DEL DIF MUNICIPAL	5,726,485.54
+
+TOTAL 	96,417,549.00
+
+Presupuesto de Egresos para el Ejercicio Fiscal 2023
+
+Clasificación Funcional del Gasto
+
+CONCEPTO	IMPORTE
+
+GOBIERNO	39,165,070.83
+
+DESARROLLO SOCIAL	48,770,986.27
+
+DESARROLLO ECONÓMICO	8,481,491.90
+
+TOTAL 	96,417,549.00
+
+Presupuesto de Egresos para el Ejercicio Fiscal 2023
+
+Clasificación Económica (Tipo de Gasto)
+
+CONCEPTO	IMPORTE
+
+Gasto corriente	77,082,591.73
+
+Gasto de capital	16,204,906.00
+
+Amortización de la deuda y disminución de pasivos 	3,130,051.27
+
+TOTAL 	96,417,549.00
+
+Presupuesto de Egresos para el Ejercicio Fiscal 2023
+
+Programas y Proyectos
+
+CONCEPTO	IMPORTE
+
+REPRESENTACIÓN POPULAR	3,318,116.89
+
+PATRIMONIO PAZ Y TRANQUILIDAD	1,375,614.71
+
+ADMINISTRACIÓN PÚBLICA MODERNA, EFICIENTE Y TRANSPARENTE	5,006,716.02
+
+GESTIÓN PÚBLICA MUNICIPAL Y LEGALIDAD	2,177,835.17
+
+FISCALIZACIÓN Y CONTROL DEL A GESTIÓN PÚBLICA MUNICIPAL	675,538.66
+
+LEGALIDAD Y CUMPLIMIENTO A LA GESTIÓN PÚBLICA MUNICIPAL	821,110.88
+
+FINANZAS RESPONSABLES Y TRANSPARENTES	3,087,432.44
+
+GARANTIZAR LOS MECANISMOS DE PROTECCIÓN, PREVENCIÓN Y SEGURIDAD EN EL
+MUNICIPIO	18,001,687.69
+
+MANEJO EFICIENTE DE LOS RECURSOS HUMANOS Y MATERIALES	4,701,018.37
+
+CONSOLIDAR LA GESTIÓN INTEGRLA DE LA INFRAESTRUCTURA MUNICIPAL
+31,603,130.53
+
+AGUA PARA TODOS	4,929,352.05
+
+SIRVIENDO DE CORAZÓN	5,726,485.54
+
+PROMOVIENDO EL DESARROLLO HUMANO MUNICIPAL	6,512,018.15
+
+DESARROLLO MUNICIPAL ECONÓMICO Y SUSTENTABLE	8,481,491.90
+
+TOTAL	96,417,549.00
+
+Presupuesto de Egresos para el Ejercicio Fiscal 2023
+
+Clasificación por Fuente de Financiamiento
+
+DENOMINACION	MONTO
+
+TOTAL 	96,417,549.00
+
+NO ETIQUETADO	56,485,573.00
+
+RECURSOS FISCALES 	4,612,786.00
+
+RECURSOS FISCALES 2023	4,612,786.00
+
+1.5 RECURSOS FEDERALES 	51,872,787.00
+
+RAMO 28. PARTICIPACIONES FEDERALES 2023	51,872,787.00
+
+ETIQUETADO	39,931,976.00
+
+2.5 RECURSOS FEDERALES 	34,599,916.00
+
+RAMO 33. FAISMUN 2023 FONDO PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL Y
+DE LAS DEMARCACIONES TERRITORIALES DEL DISTRITO FEDERAL	14,916,563.00
+
+RAMO 33. FORTAMUNDF 2023 FONDO DE APORTACIONES PARA EL FORTALECIMIENTO
+DE LOS MUNICIPIOS Y DE LAS DEMARCACIONES TERRITORIALES DEL DISTRITO
+FEDERAL	19,683,353.00
+
+2.6 RECURSOS ESTATALES	5,332,060.00
+
+FAEDE 2023 FONDO DE APORTACIONES ESTATALES PARA EL DESARROLLO ECONOMICO
+5,332,060.00
+
+Se aprueba el presupuesto de egresos por fuente de financiamiento y
+clasificación por objeto del gasto:
+
+Presupuesto de Egresos para el Ejercicio Fiscal 2023
+
+Clasificación por Fuente de Financiamiento y Objeto del Gasto
+
+COG	DENOMINACION	MONTO
+
+ 	TOTAL 	96,417,549.00
+
+11002	RECURSOS FISCALES 2023	4,612,786.00
+
+2961000000	REFACCIONES Y ACCESORIOS MENORES DE EQUIPO DE TRANSPORTE
+22,919.56
+
+3111000000	ENERGÍA ELÉCTRICA	1,945,000.00
+
+3411000000	SERVICIOS FINANCIEROS Y BANCARIOS	22,900.00
+
+3551000000	REPARACIÓN Y MANTENIMIENTO DE EQUIPO DE TRANSPORTE	6,640.12
+
+3821000000	GASTOS DE ORDEN SOCIAL Y CULTURAL	1,123,412.00
+
+3961000000	OTROS GASTOS POR RESPONSABILIDADES.	20,000.00
+
+4411000000	AYUDAS SOCIALES A PERSONAS	998,401.32
+
+4431000000	AYUDAS SOCIALES A INSTITUCIONES DE ENSEÑANZA	37,086.73
+
+9912000000	ADEFAS CON GASTO DE EJERCICIOS ACTUAL	436,426.27
+
+15002	RAMO 28. PARTICIPACIONES FEDERALES 2023	51,872,787.00
+
+1111000000	DIETAS	4,181,197.46
+
+1131000000	SUELDOS BASE AL PERSONAL PERMANENTE	21,993,524.74
+
+1321000000	PRIMAS DE VACACIONES, DOMINICAL Y GRATIFICACION DE FIN DE
+AÑO	5,842,483.11
+
+1411000000	APORTACIONES DE SEGURIDAD SOCIAL	4,250.00
+
+1521000000	INDEMNIZACIONES	43,260.77
+
+1522000000	LIQUIDACIONES A TRABAJADORES Y LAUDOS	197,762.69
+
+2111000000	MATERIALES, UTILES Y EQUIPOS MENORES DE OFICINA	623,992.46
+
+2121000000	MATERIALES Y ÚTILES DE IMPRESIÓN Y REPRODUCCIÓN	24,299.96
+
+2141000000	MATERIALES, ÚTILES Y EQUIPOS MENORES DE TECNOLOGÍAS DE LA
+INFORMACIÓN Y COMUNICACIONES	41,951.49
+
+2151000000	MATERIAL IMPRESO E INFORMACIÓN DIGITAL	230,537.25
+
+2161000000	MATERIAL DE LIMPIEZA	148,552.02
+
+2171000000	MATERIALES Y UTILES DE ENSEÑANZA	251.00
+
+2181000000	MATERIALES PARA EL REGISTRO E IDENTIFICACION DE BIENES Y
+PERSONAS	134,542.00
+
+2211000000	PRODUCTOS ALIMENTICIOS PARA PERSONAS	97,467.98
+
+2341000000	COMBUSTIBLES, LUBRICANTES, ADITIVOS, CARBÓN Y SUS DERIVADOS
+ADQUIRIDOS COMO MATERIA PRIMA	814.00
+
+2441000000	MADERA Y PRODUCTOS DE MADERA	9,000.00
+
+2461000000	MATERIAL ELÉCTRICO Y ELECTRONICO	58,318.26
+
+2471000000	ARTÍCULOS METÁLICOS PARA LA CONSTRUCCIÓN	80,298.07
+
+2491000000	OTROS MATERIALES Y ARTÍCULOS DE CONSTRUCCIÓN Y REPARACIÓN
+191,950.35
+
+2511000000	PRODUCTOS QUÍMICOS BÁSICOS	175.00
+
+2531000000	MEDICINAS Y PRODUCTOS FARMACEUTICOS PARA CONSUMO HUMANA O
+ANIMAL	64,908.61
+
+2541000000	MATERIALES, ACCESORIOS Y SUMINISTROS MÉDICOS	280,901.67
+
+2561000000	FIBRAS SINTÉTICAS, HULES, PLÁSTICOS Y DERIVADOS	63,692.25
+
+2591000000	OTROS PRODUCTOS QUÍMICOS	17,132.61
+
+2611000000	COMBUSTIBLES, LUBRICANTES Y ADITIVOS	4,329,764.61
+
+2711000000	VESTUARIO Y UNIFORMES	2,320.00
+
+2721000000	PRENDAS DE SEGURIDAD Y PROTECCIÓN PERSONAL	864.01
+
+2731000000	ARTÍCULOS DEPORTIVOS	61,918.56
+
+2741000000	PRODUCTOS TEXTILES	44,782.26
+
+2911000000	HERRAMIENTAS MENORES	12,576.33
+
+2921000000	REFACCIONES Y ACCESORIOS MENORES DE EDIFICIOS	8,315.58
+
+2961000000	REFACCIONES Y ACCESORIOS MENORES DE EQUIPO DE TRANSPORTE
+569,202.31
+
+2981000000	REFACCIONES Y ACCESORIOS MENORES DE MAQUINARIA Y OTROS
+EQUIPOS	75,106.00
+
+2991000000	REFACCIONES Y ACCESORIOS MENORES OTROS BIENES MUEBLES
+2,296.80
+
+3111000000	ENERGÍA ELÉCTRICA	248,668.00
+
+3131000000	AGUA	896,000.00
+
+3141000000	TELEFONÍA TRADICIONAL	50,336.00
+
+3171000000	SERVICIOS DE ACCESO DE INTERNET, REDES Y PROCESAMIENTO DE
+INFORMACIÓN	12,760.00
+
+3231000000	ARRENDAMIENTO DE MOBILIARIO Y EQUIPO DE ADMINISTRACIÓN,
+EDUCACIONAL Y RECREATIVO	112,128.43
+
+3251000000	ARRENDAMIENTO DE EQUIPO DE TRANSPORTE	602,572.80
+
+3261000000	ARRENDAMIENTO DE MAQUINARIA, OTROS EQUIPOS Y HERRAMIENTAS
+32,600.00
+
+3271000000	ARRENDAMIENTO DE ACTIVOS INTANGIBLES	139,683.52
+
+3291000000	OTROS ARRENDAMIENTOS	268,899.00
+
+3331000000	SERVICIOS DE CONSULTORÍA ADMINISTRATIVA, PROCESOS, TÉCNICA
+Y EN TECNOLOGÍAS DE LA INFORMACIÓN	112,501.19
+
+3341000000	SERVICIOS DE CAPACITACIÓN	22,178.00
+
+3361000000	SERVICIOS DE APOYO ADMINISTRATIVO, TRADUCCION, FOTOCOPIADO E
+IMPRESION	5,039.12
+
+3391000000	SERVICIOS PROFESIONALES, CIENTIFICOS Y TECNICOS	642,400.00
+
+3411000000	SERVICIOS FINANCIEROS Y BANCARIOS	10,887.64
+
+3421000000	SERVICIOS DE COBRANZA, INVESTIGACIÓN CREDITICIA Y SIMILAR
+96,369.38
+
+3451000000	SEGURO DE BIENES PATRIMONIALES	14,391.81
+
+3471000000	FLETES Y MANIOBRAS	10,579.00
+
+3511000000	CONSERVACIÓN Y MANTENIMIENTO MENOR DE INMUEBLES	154,221.26
+
+3551000000	REPARACIÓN Y MANTENIMIENTO DE EQUIPO DE TRANSPORTE
+427,450.25
+
+3571000000	INSTALACIÓN, REPARACIÓN Y MANTENIMIENTO DE MAQUINARIA,
+OTROS EQUIPOS Y HERRAMIENTA	812.00
+
+3581000000	SERVICIOS DE LIMPIEZA Y MANEJO DE DESECHOS	9,370.00
+
+3611000000	DIFUSIÓN POR RADIO, TELEVISIÓN Y OTROS MEDIOS DE MENSAJES
+SOBRE PROGRAMAS Y ACTIVIDADES GUBERNAMENTALES	925,200.00
+
+3631000000	SERVICIOS DE CREATIVIDAD, PREPRODUCCIÓN Y PRODUCCIÓN DE
+PUBLICIDAD, EXCEPTO INTERNET	51,160.00
+
+3721000000	PASAJES TERRESTRES	1,232.00
+
+3821000000	GASTOS DE ORDEN SOCIAL Y CULTURAL	3,163,779.34
+
+4411000000	AYUDAS SOCIALES A PERSONAS	681,733.05
+
+4412000000	APOYO AUTORIDADES AUXILIARES	465,000.00
+
+4431000000	AYUDAS SOCIALES A INSTITUCIONES DE ENSEÑANZA	582,800.00
+
+9912000000	ADEFAS CON GASTO DE EJERCICIOS ACTUAL	2,693,625.00
+
+25003	RAMO 33. FAISMUN 2023 FONDO PARA LA INFRAESTRUCTURA SOCIAL
+MUNICIPAL Y DE LAS DEMARCACIONES TERRITORIALES DEL DISTRITO FEDERAL
+14,916,563.00
+
+6140010000	DIVISÓN DE TERRENOS Y CONSTRUCCIÓN DE OBRAS DE
+URBANIZACIÓN, HUITZILAC	14,916,563.00
+
+25004	RAMO 33. FORTAMUNDF 2023 FONDO DE APORTACIONES PARA EL
+FORTALECIMIENTO DE LOS MUNICIPIOS Y DE LAS DEMARCACIONES TERRITORIALES
+DEL DISTRITO FEDERAL	19,683,353.00
+
+1131000000	SUELDOS BASE AL PERSONAL PERMANENTE	4,638,000.00
+
+1321000000	PRIMAS DE VACACIONES, DOMINICAL Y GRATIFICACION DE FIN DE
+AÑO	1,159,500.00
+
+1532000000	PENSIONES	191,400.00
+
+1611000000	PREVISIONES DE CARACTER LABORAL, ECONOMICA Y DE SEGURIDAD
+SOCIAL	300,000.00
+
+2111000000	MATERIALES, UTILES Y EQUIPOS MENORES DE OFICINA	60,000.00
+
+2461000000	MATERIAL ELÉCTRICO Y ELECTRONICO	3,665,310.00
+
+2611000000	COMBUSTIBLES, LUBRICANTES Y ADITIVOS	2,460,000.00
+
+2711000000	VESTUARIO Y UNIFORMES	730,000.00
+
+2961000000	REFACCIONES Y ACCESORIOS MENORES DE EQUIPO DE TRANSPORTE
+900,000.00
+
+3111000000	ENERGÍA ELÉCTRICA	2,820,000.00
+
+3411000000	SERVICIOS FINANCIEROS Y BANCARIOS	2,400.00
+
+3451000000	SEGURO DE BIENES PATRIMONIALES	210,000.00
+
+3551000000	REPARACIÓN Y MANTENIMIENTO DE EQUIPO DE TRANSPORTE
+384,000.00
+
+3921000000	IMPUESTOS Y DERECHOS	875,000.00
+
+5411000000	VEHICULOS Y EQUIPO TERRESTRE	1,287,743.00
+
+26002	FAEDE 2023 FONDO DE APORTACIONES ESTATALES PARA EL DESARROLLO
+ECONOMICO	5,332,060.00
+
+4411000000	AYUDAS SOCIALES A PERSONAS	5,332,060.00
+
+DÉCIMA CUARTA.- Para dar cumplimiento a lo establecido en el artículo
+34 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de
+Morelos; la comprobación del gasto se sujetara a los Lineamientos de
+Comprobación del Gasto Público para el ejercicio fiscal 2023, para el
+municipio de Huitzilac, Morelos, expedidos por la Tesorería Municipal
+que se aprueban y especifican en el anexo 1 de esta acta y que forman
+parte integrante de este acuerdo.
+
+DÉCIMA QUINTA.- En cumplimiento a lo señalado por el artículo 38 de
+la Ley de Obra Pública y Servicios Relacionados con la Misma del Estado
+de Morelos, los montos máximos de las obras que puedan contratarse
+mediante los procedimientos de licitación restringida o de
+adjudicación directa, serán:
+
+MONTOS MÁXIMOS DE CONTRATACIÓN
+
+DE OBA PÚBLICA Y SERVICIOS RELACIONADOS
+
+Monto máximo total de
+
+Cada obra que podrá
+
+adjudicarse directamente	Monto máximo total de
+
+cada servicio relacionado
+
+con obra pública que podrá
+
+adjudicarse directamente	Monto máximo total de cada
+
+obra que podrá adjudicarse
+
+mediante invitación cuando
+
+menos a tres contratistas	Monto máximo total de servicios
+
+relacionados con obra pública
+
+que podrá adjudicarse mediante
+
+invitación cuando menos a tres
+
+personas
+
+(MILES DE PESOS)	(MILES DE PESOS)	(MILES DE PESOS)	(MILES DE PESOS)
+
+2,500.00	1,500.00	6,188.00	3,575.00
+
+Los montos establecidos deberán considerarse sin incluir el importe del
+Impuesto al Valor Agregado.
+
+DÉCIMA SEXTA.- Los montos mínimos y máximos para cada uno de los
+procedimientos de licitación pública, invitación restringida a por lo
+menos tres proveedores y adjudicación directa, en las adquisiciones,
+arrendamientos y prestación de servicios, serán los siguientes, sin
+incluir el Impuesto al Valor Agregado (IVA):
+
+PROCEDIMIENTO	MONTO
+
+I.- ADJUDICACIÓN DIRECTA	CUANDO EL MONTO NO EXCEDA DE 9,800 UMA
+VIGENTES, MÁS EL IMPUESTO AL VALOR AGREGADO.
+
+II.- INVITACIÓN RESTRINGIDA DE POR LO MENOS TRES PROVEEDORES	CUANDO EL
+MONTO SEA MAYOR DE 9,800.01 Y NO EXCEDA DE 46,0000 UMA, MÁS EL IMPUESTO
+AL VALOR AGREGADO.
+
+III. LICITACIÓN PÚBLICA 	CUANDO EL MONTO SEA MAYOR DE 46,0000.01 UMA,
+MÁS EL IMPUESTO AL VALOR AGREGADO.
+
+Todas las operaciones de adquisiciones, arrendamientos, contratación de
+servicios y obra pública, que sean realizadas por las dependencias, y
+que por su naturaleza y monto deban efectuarse mediante los
+procedimientos de adjudicación directa, invitación restringida o
+licitación, se deberán realizarlas tomando como base los montos
+mínimos y máximos permitidos para cada procedimiento.
+
+DÉCIMA SÉPTIMA.- Se aprueban las plantillas de personal de confianza y
+seguridad pública, así como el tabulador correspondiente, que se
+especifican a continuación.
+
+PLANTILLA DE PERSONAL
+
+PUESTO	CATEGORIA	NO. PLAZAS
+
+ASESOR A	A	1
+
+ASESOR B	B	1
+
+ASESOR C	C	3
+
+AUTORIDAD INVESTIGADORA DE ÓRGANO INTERNO DE CONTROL
+
+1
+
+AUXILIAR ADMINISTRATIVO A	A	2
+
+AUXILIAR ADMINISTRATIVO B	B	3
+
+AUXILIAR ADMINISTRATIVO C	C	2
+
+AUXILIAR ADMINISTRATIVO D	D	7
+
+AUXILIAR ADMINISTRATIVO E	E	5
+
+AUXILIAR OPERATIVO A	A	1
+
+AUXILIAR OPERATIVO B	B	2
+
+AUXILIAR OPERATIVO C	C	4
+
+AUXILIAR OPERATIVO D	D	2
+
+AUXILIAR OPERATIVO E	E	1
+
+AUXILIAR VIAL A	A	4
+
+AUXILIAR VIAL B	B	1
+
+BIBLIOTECARIA A	A	1
+
+BIBLIOTECARIA B	B	4
+
+CAJERA	A	1
+
+CHOFER A	A	1
+
+CHOFER B	B	1
+
+CHOFER C	C	2
+
+CHOFER D	D	2
+
+CHOFER DE PIPA
+
+1
+
+CHOFER E	E	2
+
+COCINERA
+
+2
+
+CONSEJERO JURÍDICO
+
+1
+
+CONTRALOR MUNICIPAL
+
+1
+
+COORDINADOR DE CONTABILIDAD, CUENTA PÚBLICA Y ARMONIZACIÓN CONTABLE	A
+1
+
+COORDINADOR B	B	10
+
+COORDINADOR C	C	1
+
+COORDINADOR D	D	4
+
+COORDINADOR E	E	4
+
+COORDINADOR F	F	1
+
+COORDINADOR G	G	3
+
+COORDINADOR H	H	1
+
+COORDINADOR I	I	5
+
+DIRECTOR A	A	1
+
+DIRECTOR B	B	1
+
+DIRECTOR C	C	1
+
+DOCTOR
+
+1
+
+ENCARGADO DE DESPACHO DE LA DIRECCIÓN DE OBRAS Y SERVICIOS PÚBLICOS,
+PREDIAL Y CATASTRO
+
+1
+
+ENCARGADA DE CASA DE DÍA PARA ADULTO MAYOR
+
+1
+
+ENFERMERA
+
+1
+
+ESCOLTA
+
+1
+
+FISIOTERAPEUTA A	A	1
+
+FISIOTERAPEUTA B	B	1
+
+FONTANERO A	A	1
+
+FONTANERO B	B	1
+
+FONTANERO C	C	4
+
+FONTANERO D	D	2
+
+FOTÓGRAFO	A	1
+
+INSPECTOR DE OBRAS
+
+2
+
+INTENDENCIA
+
+5
+
+JEFE DE ASUNTOS LABORALES
+
+1
+
+JEFE DE ALUMBRADO PÚBLICO Y SERVICIOS
+
+1
+
+JEFE DE CONTROL DE INFRACCIONES, DEPÓSITO DE VEHÍCULOS, ALMACÉN Y
+CONTROL DE ARMAMENTO
+
+1
+
+JEFE DE GANADERÍA Y AGRICULTURA
+
+1
+
+JEFE DE INGRESOS, RECAUDACIÓN E IMPUESTO PREDIAL Y CATASTRO
+
+1
+
+JEFE DE LICENCIAS DE CONSTRUCCIÓN, USO DE SUELO FRACCIONAMIENTOS,
+CONDOMINIOS Y CONJUNTO URBANO Y HABITACIONALES
+
+1
+
+JEFE DE PRESUPUESTO DE EGRESOS
+
+1
+
+JEFE DE SISTEMAS
+
+1
+
+JEFE EN TURNO
+
+2
+
+JUEZ CÍVICO
+
+1
+
+JUEZ DE PAZ
+
+1
+
+MAESTRA
+
+1
+
+NUTRIÓLOGA
+
+1
+
+OFICIAL DE PROTECCIÓN CIVIL A	A	1
+
+OFICIAL DE PROTECCIÓN CIVIL B	B	1
+
+OFICIAL DE PROTECCIÓN CIVIL C	C	6
+
+OFICIAL DE REGISTRO CIVIL
+
+1
+
+OFICIAL MAYOR
+
+1
+
+PARAMÉDICO A	A	12
+
+PARAMÉDICO B	B	1
+
+POLICÍA
+
+48
+
+PRESIDENTE MUNICIPAL
+
+1
+
+PROCURADORA DE PROTECCIÓN AL MENOR
+
+1
+
+PSICÓLOGO
+
+3
+
+RECOLECTOR RESIDUOS SÓLIDOS A	A	2
+
+RECOLECTOR RESIDUOS SÓLIDOS B	B	13
+
+REGIDOR
+
+3
+
+SECRETARIA A	A	2
+
+SECRETARIA B	B	6
+
+SECRETARIA C	C	2
+
+SECRETARIA D	D	6
+
+SECRETARIA E	E	23
+
+SECRETARIO MUNICIPAL
+
+1
+
+SECRETARIO TÉCNICO
+
+1
+
+SÍNDICO MUNICIPAL
+
+1
+
+SUPERVISOR DE OBRA
+
+1
+
+TALLERISTA
+
+1
+
+TERAPEUTA
+
+1
+
+TESORERO MUNICIPAL
+
+1
+
+TITULAR DE TRANSPARENCIA
+
+1
+
+TITULAR DE LA INSTANCIA DE LA MUJER
+
+1
+
+TRABAJADORA SOCIAL
+
+1
+
+TRACTORISTA
+
+1
+
+TABULADOR DE SUELDOS
+
+PUESTO	PERCEPCIÓN QUINCENAL NETA
+
+	UNICO	DE	HASTA
+
+ASESOR A	7,500.00
+
+ASESOR B	4,500.00
+
+ASESOR C	4,000.00
+
+AUTORIDAD INVESTIGADORA DE ÓRGANO INTERNO DE CONTROL	6,000.00
+
+AUXILIAR ADMINISTRATIVO A	 	7,000.00	8,500.00
+
+AUXILIAR ADMINISTRATIVO B	4,500.00
+
+AUXILIAR ADMINISTRATIVO C	 	3,500.00	4,000.00
+
+AUXILIAR ADMINISTRATIVO D	3,500.00
+
+AUXILIAR ADMINISTRATIVO E	3,000.00
+
+AUXILIAR OPERATIVO A	6,000.00
+
+AUXILIAR OPERATIVO B	5,000.00
+
+AUXILIAR OPERATIVO C	3,500.00
+
+AUXILIAR OPERATIVO D	3,000.00
+
+AUXILIAR OPERATIVO E	2,000.00
+
+AUXILIAR VIAL A	4,000.00
+
+AUXILIAR VIAL B	3,000.00
+
+BIBLIOTECARIA A	4,000.00
+
+BIBLIOTECARIA B	3,000.00
+
+CAJERA	6,000.00
+
+CHOFER A	6,000.00
+
+CHOFER B	4,500.00
+
+CHOFER C	4,000.00
+
+CHOFER D	3,500.00
+
+CHOFER DE PIPA	4,500.00
+
+CHOFER E	3,000.00
+
+COCINERA	3,000.00
+
+CONSEJERO JURÍDICO	 	7,500.00	8,000.00
+
+CONTRALOR MUNICIPAL	10,000.00
+
+COORDINADOR DE CONTABILIDAD, CUENTA PÚBLICA Y ARMONIZACIÓN CONTABLE
+15,000.00
+
+COORDINADOR B	7,500.00
+
+COORDINADOR C	6,750.00
+
+COORDINADOR D	6,500.00
+
+COORDINADOR E	6,000.00
+
+COORDINADOR F	5,500.00
+
+COORDINADOR G	5,000.00
+
+COORDINADOR H	 	4,000.00	4,500.00
+
+COORDINADOR I	4,000.00
+
+DIRECTOR A	11,000.00
+
+DIRECTOR B	10,000.00
+
+DIRECTOR C	6,000.00
+
+DOCTOR	4,500.00
+
+ENCARGADO DE DESPACHO DE LA DIRECCIÓN DE OBRAS Y SERVICIOS PÚBLICOS,
+PREDIAL Y CATASTRO	7,500.00
+
+ENCARGADA DE CASA DE DÍA PARA ADULTO MAYOR	4,500.00
+
+ENFERMERA	3,000.00
+
+ESCOLTA	8,000.00
+
+FISIOTERAPEUTA A	5,000.00
+
+FISIOTERAPEUTA B	3,250.00
+
+FONTANERO A	3,800.00
+
+FONTANERO B	3,300.00
+
+FONTANERO C	3,200.00
+
+FONTANERO D	3,000.00
+
+FOTÓGRAFO	7,500.00
+
+INSPECTOR DE OBRAS	4,500.00
+
+INTENDENCIA	3,000.00
+
+JEFE DE ASUNTOS LABORALES	5,000.00
+
+JEFE DE ALUMBRADO PÚBLICO Y SERVICIOS	6,500.00
+
+JEFE DE CONTROL DE INFRACCIONES, DEPÓSITO DE VEHÍCULOS, ALMACÉN Y
+CONTROL DE ARMAMENTO	6,000.00
+
+JEFE DE GANADERÍA Y AGRICULTURA	5,000.00
+
+JEFE DE INGRESOS, RECAUDACIÓN E IMPUESTO PREDIAL Y CATASTRO	 	6,500.00
+7,500.00
+
+JEFE DE LICENCIAS DE CONSTRUCCIÓN, USO DE SUELO FRACCIONAMIENTOS,
+CONDOMINIOS Y CONJUNTO URBANO Y HABITACIONALES	5,000.00
+
+JEFE DE PRESUPUESTO DE EGRESOS	 	6,500.00	7,500.00
+
+JEFE DE SISTEMAS	5,000.00
+
+JEFE EN TURNO	4,500.00
+
+JUEZ CÍVICO	5,000.00
+
+JUEZ DE PAZ	4,000.00
+
+MAESTRA	3,000.00
+
+NUTRIÓLOGA	3,000.00
+
+OFICIAL DE PROTECCIÓN CIVIL A	5,000.00
+
+OFICIAL DE PROTECCIÓN CIVIL B	4,000.00
+
+OFICIAL DE PROTECCIÓN CIVIL C	3,500.00
+
+OFICIAL DE REGISTRO CIVIL	6,500.00
+
+OFICIAL MAYOR	7,500.00
+
+PARAMÉDICO A	4,000.00
+
+PARAMÉDICO B	3,000.00
+
+POLICÍA	6,000.00
+
+PRESIDENTE MUNICIPAL	32,500.00
+
+PROCURADORA DE PROTECCIÓN AL MENOR	6,000.00
+
+PSICÓLOGO	 	4,000.00	6,000.00
+
+RECOLECTOR RESIDUOS SÓLIDOS A	3,500.00
+
+RECOLECTOR RESIDUOS SÓLIDOS B	3,000.00
+
+REGIDOR	24,500.00
+
+SECRETARIA A	6,750.00
+
+SECRETARIA B	4,000.00
+
+SECRETARIA C	3,750.00
+
+SECRETARIA D	3,500.00
+
+SECRETARIA E	3,000.00
+
+SECRETARIO MUNICIPAL	17,500.00
+
+SECRETARIO TÉCNICO	10,000.00
+
+SÍNDICO MUNICIPAL	 	25,000.00	30,000.00
+
+SUPERVISOR DE OBRA	5,000.00
+
+TALLERISTA	 	3,000.00	3,500.00
+
+TERAPEUTA	 	3,000.00	6,000.00
+
+TESORERO MUNICIPAL	20,000.00
+
+TITULAR DE TRANSPARENCIA	 	6,000.00	6,500.00
+
+TITULAR DE LA INSTANCIA DE LA MUJER	6,000.00
+
+TRABAJADORA SOCIAL	3,500.00
+
+TRACTORISTA	4,000.00
+
+DÉCIMA OCTAVA.- Se faculta al presidente municipal para modificar la
+estructura orgánica, la plantilla de personal y el tabulador de sueldos
+y salarios. Cualquier compensación o remuneración adicional ordinaria
+extraordinaria deberá contar con la autorización del presidente
+municipal.
+
+DÉCIMA NOVENA.- De conformidad con el artículo 18 de la Ley de
+Disciplina Financiera de las Entidades Federativas y los Municipios, se
+presentan los resultados de egresos del ejercicio 2022 y las
+proyecciones de egresos del ejercicio 2023 de las finanzas públicas del
+municipio.
+
+RESULTADOS DE EGRESOS - LDF (PESOS)
+
+Concepto	2022
+
+GASTO NO ETIQUETADO	58,207,049.62
+
+SERVICIOS PERSONALES	25,982,876.20
+
+MATERIALES Y SUMINISTROS	7,327,658.52
+
+SERVICIOS GENERALES	11,834,679.36
+
+TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS	3,469,040.67
+
+BIENES MUEBLES, INMUEBLES E INTANGIBLES	6,423,428.97
+
+INVERSION PUBLICA	3,169,365.90
+
+INVERSIONES FINANCIERAS Y OTRAS PROVISIONES	0.00
+
+PARTICIPACIONES Y APORTACIONES	0.00
+
+DEUDA PUBLICA	0.00
+
+GASTO ETIQUETADO	37,086,584.80
+
+SERVICIOS PERSONALES	4,184,987.05
+
+MATERIALES Y SUMINISTROS	6,626,340.84
+
+SERVICIOS GENERALES	4,140,701.70
+
+TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS	4,916,773.99
+
+BIENES MUEBLES, INMUEBLES E INTANGIBLES	3,367,676.72
+
+INVERSION PUBLICA	13,850,104.50
+
+INVERSIONES FINANCIERAS Y OTRAS PROVISIONES	0.00
+
+PARTICIPACIONES Y APORTACIONES	0.00
+
+DEUDA PUBLICA	0.00
+
+TOTAL DE RESULTADOS DE EGRESOS	95,293,634.42
+
+PROYECCIONES DE EGRESOS - LDF (PESOS)
+
+CONCEPTO	2023	2024
+
+GASTO NO ETIQUETADO	56,475,573.00	60,439,562.79
+
+SERVICIOS PERSONALES	32,262,478.77	35,020,852.28
+
+MATERIALES Y SUMINISTROS	7,198,851.00	7,702,770.57
+
+SERVICIOS GENERALES	11,129,170.86	11,908,212.82
+
+"TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS"	2,755,021.10
+2,958,572.26
+
+"BIENES MUEBLES, INMUEBLES E INTANGIBLES"	0.00	650,000.00
+
+INVERSION PUBLICA	0.00	699,154.86
+
+INVERSIONES FINANCIERAS Y OTRAS PROVISIONES	0.00
+
+	PARTICIPACIONES Y APORTACIONES	0.00	0.00
+
+DEUDA PUBLICA	3,130,051.27	1,500,000.00
+
+GASTO ETIQUETADO	39,931,976.00	45,722,584.00
+
+SERVICIOS PERSONALES	6,288,900.00	7,890,325.00
+
+MATERIALES Y SUMINISTROS	12,106,710.00	8,462,381.70
+
+SERVICIOS GENERALES	0.00	4,291,400.00
+
+"TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS"	5,332,060.00
+6,473,160.00
+
+"BIENES MUEBLES, INMUEBLES E INTANGIBLES"	1,287,743.00	1,009,544.30
+
+INVERSION PUBLICA	14,916,563.00	17,595,773.00
+
+INVERSIONES FINANCIERAS Y OTRAS PROVISIONES	0.00	0.00
+
+PARTICIPACIONES Y APORTACIONES	0.00	0.00
+
+DEUDA PUBLICA	0.00	0.00
+
+TRANSITORIOS
+
+PRIMERO.- El presente acuerdo entrará en vigor a partir del día
+siguiente de su aprobación, con efecto retroactivo al primero de enero
+del año dos mil veintitrés.
+
+SEGUNDO.- Publíquese en la Gaceta Municipal o en el Periódico Oficial
+“Tierra y Libertad”, órgano de difusión de gobierno del estado.
+
+Se aprueba el Presupuesto de Egresos para el Municipio de Huitzilac,
+para el ejercicio fiscal 2023, a los veintisiete días del mes de enero
+de 2023.
+
+Atentamente
+
+Rafael Vargas Muñoz
+
+Presidente Municipal Constitucional
+
+De Huitzilac
+
+C.P. Adán Hernández Guadarrama
+
+Tesorero Municipal
+
+Rúbricas.
+
+Aprobación	2023/01/27
+
+Publicación	2024/05/29
+
+Vigencia	2024/01/28
+
+Expidió	H. Ayuntamiento Constitucional de Huitzilac, Morelos
+
+Periódico Oficial                                    	6315 “Tierra y
+Libertad”
+
+Aprobación	2023/01/27
+
+Publicación	2024/05/29
+
+Vigencia	2024/01/28
+
+Expidió	H. Ayuntamiento Constitucional de Huitzilac, Morelos
+
+Periódico Oficial                                    	6315 “Tierra y
+Libertad”
+
+OBSERVACIONES GENERALES.-
+
+Acuerdo por el que se aprueba el Presupuesto de egresos del municipio de
+Huitzilac, Morelos; para el ejercicio fiscal del 1° de enero al 31 de
+diciembre del 2023.
+
+Última Reforma: Texto Original
+
+Consejería Jurídica del Poder Ejecutivo del Estado de Morelos.
+
+Dirección General de Legislación.
+
+Subdirección de Jurismática.
+
+ PAGE 29  de  NUMPAGES 29
+
+Acuerdo por el que se aprueba el Presupuesto de egresos del municipio de
+Huitzilac, Morelos; para el ejercicio fiscal del 1° de enero al 31 de
+diciembre del 2023.
+
+Consejería Jurídica del Poder Ejecutivo del Estado de Morelos.
+
+Dirección General de Legislación.
+
+Subdirección de Jurismática.
+
+Última Reforma: Texto Original

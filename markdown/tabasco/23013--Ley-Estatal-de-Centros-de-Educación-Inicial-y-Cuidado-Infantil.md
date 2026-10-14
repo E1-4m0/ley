@@ -1,0 +1,945 @@
+---
+titulo: "Ley Estatal de Centros de Educación Inicial y Cuidado Infantil"
+tipo: "Ley"
+estado: "Tabasco"
+ambito: "Estatal"
+estatus: "Abrogado"
+fecha_publicacion: "26 de Diciembre de 2009"
+fuente: "Orden Juridico Nacional, SEGOB"
+id_ordenjuridico: "23013"
+---
+# LEY ESTATAL DE CENTROS DE EDUCACIÓN
+
+INICIAL Y CUIDADO INFANTIL
+
+PUBLICADA EN EL SUPLEMENTO “U” AL PERIÓDICO OFICIAL 7023 DE FECHA
+26 DE DICIEMBRE DE 2009. (DECRETO 229)
+
+QUÍM. ANDRÉS RAFAEL GRANIER MELO, GOBERNADOR DEL ESTADO LIBRE Y
+SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 51
+FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA LOCAL; A SUS HABITANTES
+SABED:
+
+Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
+
+LA QUINCUAGÉSIMA NOVENA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO
+LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS
+POR EL ARTÍCULO 36, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL
+ESTADO LIBRE Y SOBERANO DE TABASCO, Y:
+
+CONSIDERANDO
+
+PRIMERO.- La mujer tiene el mismo derecho que el hombre a elegir
+libremente su profesión y su empleo; derecho que ejerce después de
+años de lucha incansable por tratar de eliminar la discriminación de
+que es objeto, sin embargo aún existe desigualdad en el ejercicio de
+este derecho, pues la mujer no puede abandonar el papel fundamental de
+madre ante el cuidado de sus hijos, por eso el Estado Mexicano
+consciente de su necesaria intervención para resolver tal
+problemática, ratificó el 23 de marzo de 1981, la convención sobre la
+eliminación de todas las formas de discriminación contra la mujer, en
+la cual textualmente se señala en su artículo 11, punto 2, inciso c)
+que: “…A fin de impedir la discriminación contra la mujer por
+razones de matrimonio o maternidad y asegurar la efectividad de su
+derecho a trabajar, los Estados Partes tomarán medidas adecuadas para
+alentar el suministro de los servicios sociales de apoyo necesarios para
+permitir que los padres combinen las obligaciones para con la familia
+con las responsabilidades del trabajo y la participación en la vida
+pública, especialmente mediante el fomento de la creación y desarrollo
+de una red de servicios destinados al cuidado de los niños…”
+
+SEGUNDO.- Que no obstante lo anterior, el avance al respecto ha sido
+lento, basta revisar la historia de México, donde podemos advertir que
+los primeros esfuerzos se pueden identificar hacia el año de 1837,
+cuando en el mercado del volador, se abre un local para atender a niños
+de 4 años. Este, junto con la "Casa de asilo de la infancia" fundada
+por la emperatriz Carlota en el año 1865, son las primeras
+instituciones para el cuidado de los hijos de las madres trabajadoras de
+las que se tiene referencia. En 1869, se crea "el asilo de la casa de
+san Carlos", en donde los pequeños recibían alimento además de
+cuidado.
+
+Así surgen las “guarderías”, hacia el año 1937, por un esfuerzo
+de la desaparecida Secretaría de Salud y Asistencia Pública, la que
+aún cuando inició recibiendo sólo a hijos de madres trabajadoras,
+comenzó a atender a los hijos de los comerciantes de la merced,
+vendedores ambulantes, de billetes de lotería y empleados del hospital
+general.
+
+TERCERO.- Que en el año de 1939, el Presidente Lázaro Cárdenas,
+convierte los talleres fabriles de la nación (encargados de fabricar
+los equipos y uniformes del ejército) en una cooperativa, incluye en el
+mismo decreto la fundación de una guardería para los hijos de las
+obreras de la cooperativa, nace entonces como una prestación laboral,
+tendencia que siguió el Presidente Miguel Alemán Valdez, de 1946 a
+1952, con guarderías dependiente de cada Secretaría, a la que
+siguieron Petróleos Mexicanos y el Instituto Mexicano del Seguro
+Social, no fue sino hasta 1959, bajo el régimen de Adolfo López
+Mateos, que se promulgó la ley del Instituto de Seguridad y Servicios
+Sociales para los Trabajadores del Estado, donde se hace referencia al
+establecimiento de estancias infantiles como una prestación para madres
+derechohabientes, naciendo así como una prestación de seguridad
+social, instaurándose en el inciso "e" del artículo 134
+constitucional, como derechos laborales de los trabajadores al servicio
+del Estado, aspectos relacionados con la maternidad, la lactancia y
+servicios de guarderías infantiles, adquiriendo con esto un carácter
+institucional.
+
+Es hasta diciembre de 1976, cuando por acuerdo el Lic. Porfirio Muñoz
+Ledo, entonces Secretario de Educación Pública, que se crea la
+Dirección General de Centros de Bienestar Social para la Infancia, con
+facultades para coordinar y normar, no solo las guarderías de la
+Secretaría de Educación Pública, sino también aquellas que brindaban
+atención a los hijos de las madres trabajadoras en otras dependencias.
+De esta forma cambia la denominación de "guarderías" por la de
+"Centros de Desarrollo Infantil" (C.E.N.D.I.), y se les da un nuevo
+enfoque: el de ser instituciones que proporcionan educación integral al
+niño, lo cual incluye el brindarle atención nutricional, asistencial y
+estimulación para su desarrollo físico, cognoscitivo y afectivo
+social. Asimismo, se empezó a contar con un equipo técnico y con
+capacitación del personal dentro de los centros de desarrollo infantil,
+y se crearon los programas encaminados a normar las áreas técnicas.
+
+A partir de entonces, la creación de estas instituciones se multiplican
+en las dependencias oficiales y particulares como respuesta a la demanda
+social del servicio, originada por la cada vez más creciente
+incorporación de la mujer a la vida productiva de la nación.
+
+CUARTO.- Cabe señalar que la creciente proliferación de estas
+guarderías oficiales y particulares donde las madres pudieran delegar
+el cuidado de sus hijos, obligó al Estado a redirigir sus programas, ya
+que en la mayor parte de estos centros no se contaba con personal
+especializado, y por lo tanto, los niños solo recibían cuidados
+asistenciales; es decir, solo servían como su nombre lo definía, para
+"guardar" al niño, ya que poco se ocupaban de él, en el aspecto
+educativo.
+
+Es a partir de ese momento histórico, que ante la diversidad de
+criterios, la disparidad en la prestación del servicio, la ausencia de
+mecanismos efectivos de coordinación y supervisión de las
+instituciones que atendían al menor, se vio la necesidad de unir a
+estos centros de cuidados, la instauración de programas educativos, lo
+que ello originó la creación de una instancia que se ocupara del
+desarrollo educativo del infante.
+
+Por ello se implementa en pro de los infantes la educación inicial que
+contempla las formas y procedimientos que se utilizan para atender,
+conducir, estimular y orientar al niño en la vida diaria a través de
+una institución especifica y se entiende como un proceso de
+mejoramiento de las capacidades de aprendizaje del infante, de sus
+hábitos de higiene, salud y alimentación, del desarrollo de las
+habilidades para la convivencia y la participación social y sobre todo
+de la formación de valores y actitudes de respeto y responsabilidad en
+los diferentes ámbitos de la vida social de los niños.
+
+Que es así, como la educación inicial como la conocemos, fue
+concretándose en el devenir de la historia de México, evolucionando al
+grado de que este derecho fundamental en la actualidad está elevado a
+rango Constitucional en el artículo 3º. de nuestra Ley Suprema, que
+dispone entre otras cosas, que la educación será gratuita y
+obligatoria, pero además en su fracción V, determina específicamente
+el momento en el que el Estado interviene y procura la educación del
+infante, así textualmente señala que “El Estado promoverá y
+atenderá todos los tipos y modalidades educativos –incluyendo la
+educación inicial y la educación superior- necesarios para el
+desarrollo de la Nación…”.
+
+Sin embargo, no sólo es obligación del Estado que se proporcione la
+educación inicial acorde lo establecen los planes y programas de
+estudio, sino que además, mientras las madres de familia trabajan y son
+productivas para la Nación, el Estado también tiene la obligación de
+procurar, garantizar y vigilar que los infantes mientras permanezcan en
+estos centros de educación inicial y cuidados infantiles, reciban las
+medidas de seguridad y salud necesarias, de acuerdo  a la Convención
+Sobre los Derechos del Niño, ratificada por México el 21 de septiembre
+de 1990 y Promulgada en el Diario Oficial Federación del 25 de enero de
+1991, señala en su punto número 1: “Los Estados Partes adoptarán
+todas las medidas legislativas, administrativas, sociales y educativas
+apropiadas para proteger al niño contra toda forma de perjuicio o abuso
+físico o mental, descuido o trato negligente, malos tratos o
+explotación, incluido el abuso sexual, mientras el niño se encuentre
+bajo la custodia de los padres, de un representante legal o de cualquier
+otra persona que lo tenga a su cargo.”
+
+QUINTO.- Que en Tabasco, confluyen diversos programas de los tres
+órdenes de gobierno que dan apoyo a las madres trabajadoras para el
+cuidado de sus hijos, ya sean como CENDI, guarderías, estancias
+infantiles o centros de cuidados infantiles, sin embargo no todos se
+encuentran supervisados por alguna autoridad, haciendo que este servicio
+se aperture como cualquier negocio, sin que exista una normatividad en
+el Estado, que disponga requisitos específicos para este tipo de
+servicio, lo que provoca que en la actualidad no se cuente con un
+padrón único a cargo de una sola dependencia, con facultades para
+vigilar y supervisar estos centros desde un enfoque integral, no sólo
+desde el ámbito educativo, sino también de salubridad, de bienestar
+social, ya que sin importar el origen ya sea público o privado de estos
+centros, el ámbito educativo o laboral de quien dependan, el objeto que
+persigue la sociedad, es que se tomen decisiones en pro de nuestros
+infantes, pero además que se hagan los esfuerzos necesarios para la
+tranquilidad de las madres trabajadoras y productivas para el Estado y
+nosotros como legisladores y, particularmente, en mi calidad de quienes
+integramos las Comisiones Orgánicas de Gobernación y Puntos
+Constitucionales, Educación, Cultura y Servicios Educativos y de
+Infancia Jóvenes, Recreación y Deporte, tenemos ese compromiso.
+
+SEXTO.- Que por tal razón en esta Ley, se privilegia el derecho que
+tienen todas las madres tabasqueñas que trabajan, de que sus hijos,
+principal preocupación y motivo, tengan acceso a los Centros de
+Educación Inicial y Cuidado Infantil, mientras ellas contribuyen al
+desarrollo del Estado, él que además garantizará éste derecho por
+sí o a través de los servicios privados, asistenciales o de seguridad
+social, para que la mujer se sienta con la tranquilidad y confianza de
+que el Estado vigila, supervisa, capacita y controla que los servicios
+que presten estos centros de educación inicial y cuidado infantil,
+dirigidos a sus niños sean prestados con las normas de calidad,
+seguridad y excelencia requeridos, vigila en todo momento su
+funcionamiento y aplica sanciones severas para el caso de incumplimiento
+o riesgo en la seguridad, salud o integridad de los infantes.
+
+SÉPTIMO.- Que por todo lo anteriormente expuesto, los integrantes de
+las Comisiones Orgánicas de Gobernación y Puntos Constitucionales,
+Educación, Cultura y Servicios Educativos y de Infancia, Jóvenes,
+Recreación y Deporte, compartieron la necesidad de que el orden
+jurídico estatal, cuente con esta normatividad que regule la creación
+funcionamiento y supervisión de los Centros de Educación Inicial y
+Cuidado Infantil, por lo que determinaron aprobar la Iniciativa que crea
+la Ley Estatal de Centros de Educación Inicial y Cuidado Infantil, con
+las adecuaciones y aportaciones de los diputados integrantes de dichas
+Comisiones Unidas.
+
+OCTAVO.- Que en tal virtud, siendo facultad de este Honorable Congreso
+del Estado de Tabasco, de conformidad con lo que establece el artículo
+36, fracción I, de la Constitución Política del Estado Libre y
+Soberano de Tabasco, para expedir, reformar y adicionar leyes y decretos
+para la mejor administración del Estado, planeando su desarrollo
+económico y social,
+
+Ha tenido a bien emitir el siguiente:
+
+DECRETO 229
+
+ARTÍCULO ÚNICO.- Se expide la Ley Estatal de Centros de Educación
+Inicial y Cuidado Infantil, para quedar como sigue:
+
+LEY ESTATAL DE CENTROS DE EDUCACIÓN
+
+INICIAL Y CUIDADO INFANTIL
+
+CAPÍTULO PRIMERO
+
+DISPOSICIONES PRELIMINARES
+
+ARTÍCULO 1.- Las disposiciones de esta Ley son de orden público,
+interés social y de observancia general en el territorio del Estado.
+Tienen por objeto establecer las bases, requisitos y procedimientos para
+la autorización, funcionamiento, vigilancia y sanción de los centros
+que presten servicios de educación inicial y cuidado infantil.
+
+ARTÍCULO 2. El Centro de Educación Inicial y Cuidado Infantil, es el
+establecimiento donde se prestan servicios de educación inicial,
+cuidado infantil o ambos, a infantes desde su nacimiento y hasta los
+seis años de edad, dentro de los que se comprenden las guarderías,
+estancias infantiles, centros de cuidado infantil, centro de desarrollo
+infantil (CENDI) o cualquier otra denominación que tengan, siempre que
+se encuentren dentro del territorio del Estado de Tabasco, sean de orden
+público, seguridad social, privados o asistenciales.
+
+Se exceptúa de ésta Ley a los establecimientos que solo impartan
+educación preescolar.
+
+ARTÍCULO 3.- Para los efectos de esta Ley, se entiende por:
+
+I.- Ley: La Ley Estatal de Centros de Educación Inicial y Cuidado
+Infantil;
+
+II.- Reglamento: El reglamento de la Ley Estatal de Centros de
+Educación Inicial y Cuidado Infantil;
+
+III.- Establecimiento: Los espacios físicos destinados para funcione y
+opere el CEICI;
+
+IV.- Instituciones: Dependencias u organismos públicos del Estado, de
+la Federación o del Municipio;
+
+V.- Avisos de Funcionamiento: Autorización escrita expedida por la
+Secretaría de Educación, para que funcione y operen los centros de
+educación inicial y de cuidados infantiles materia de la presente Ley,
+en cualquier parte del Estado;
+
+VI.- DIF TABASCO: El Sistema de Desarrollo Integral de la Familia del
+Estado de Tabasco;
+
+VII.- Secretaría de Educación: la Secretaría de Educación del Estado
+de Tabasco;
+
+VIII.- Secretaría de Salud: la Secretaría de Salud del Estado de
+Tabasco;
+
+IX.- Secretaría de Seguridad Pública: La Secretaría de Seguridad
+Pública del Estado;
+
+X.- CEICI: Centro de educación inicial y cuidado infantil;
+
+XI.- Infante: Niño o niña desde el nacimiento y hasta los 6 años de
+edad;
+
+XII.- Usuario: El Padre, Madre, Tutor legal o la persona que contrate
+los servicios de un Centro de educación inicial y cuidados infantiles,
+para un infante; y
+
+XIII.- Prestador de Servicio: Propietario tratándose de persona
+física, representante legal tratándose de persona moral o Titular de
+la Dependencia u organismo Federal, Estatal o municipal o quien la
+represente, que tenga un CEICI.
+
+ARTÍCULO 4.- El Estado garantizará el derecho de la mujer,
+principalmente las que trabajan o estudian, independientemente que tenga
+o no pareja, a gozar de los servicios de educación inicial y cuidado
+infantil para sus hijos infantes, a través de los CEICI de origen
+público, privado, asistenciales o de seguridad social.
+
+ARTÍCULO 5.- El cumplimiento de los fines de esta Ley estará a cargo
+del Ejecutivo del Estado a través de las siguientes dependencias, las
+cuales tendrá las siguientes atribuciones:
+
+a) Secretaría de Educación:
+
+I.- Autorizar el funcionamiento y operación de los CEICI’s, que se
+establezcan en cualquier lugar del Estado;
+
+II.- Elaborar, modificar o adicionar en su caso, en coordinación con el
+DIF TABASCO y la Secretaría de Salud, el Reglamento de esta Ley, en el
+cual se establecerán entre otros, los requisitos para expedir los
+avisos de funcionamiento y operación, así como las reglas para la
+prestación de los servicios de los centros de educación inicial y
+cuidado infantil de acuerdo al tipo de establecimiento, capacitación y
+adiestramiento del personal en los temas educativos, prevención de
+accidentes y primeros auxilios, psicología, nutrición, higiene, salud,
+motivacional y demás temas que permitan al personal obtener
+herramientas para contribuir al pleno desarrollo físico, psicológico y
+social del infante;
+
+III.- Vigilar, supervisar y aplicar el estricto cumplimiento de esta
+Ley, su reglamento, así como las disposiciones y normas técnicas que
+se dicten con base en ella, sin perjuicio de las facultades que en la
+materia competan a otras dependencias y entidades federales, estatales o
+municipales;
+
+IV.- Verificar anualmente en coordinación con la Secretaría de Salud,
+Secretaría de Seguridad Pública, según les corresponda, el
+establecimiento y la prestación de los servicios en los CEICI’s;
+
+V.- Convenir o acordar con las instituciones de otros órdenes de
+gobierno que tengan a su cargo centros de educación inicial y cuidados
+infantiles para que proporcionen información respecto a estos centros;
+
+VI.- Impulsar programas y planes educativos para formar y capacitar
+recursos humanos en la materia;
+
+VII.- Llevar el registro y control del padrón único de centros de
+educación inicial y cuidado infantil que funcionen dentro del
+territorio del Estado, incluidos los que no tengan fines lucrativos,
+cuya información deberá compartir con la Secretaría de Salud, para el
+desarrollo de normas de higiene escolar, epidemiológicas y para llevar
+a efecto las atribuciones y competencias derivadas de esta Ley;
+
+VIII.- Impartir cursos y programas de capacitación y actualización
+dirigidos al cuidado infantil;
+
+IX.- Supervisar la correcta aplicación de los programas educativos que
+al respecto se implementen para los centros de educación inicial y
+cuidados infantiles;
+
+X.- Llevar a efecto los procedimientos administrativos de verificación
+para el cumplimiento de las disposiciones contenidas en esta Ley de
+acuerdo a sus funciones y aplicar la sanción que corresponda; y
+
+XI.- Las demás que le otorgue esta ley y leyes aplicables.
+
+b) Secretaría de Salud:
+
+I.- Vigilar, supervisar y aplicar el estricto cumplimiento de esta Ley,
+su reglamento, así como las disposiciones y normas técnicas que se
+dicten con base en ella, sin perjuicio de las facultades que en la
+materia competan a otras dependencias y entidades federales, estatales o
+municipales;
+
+II.- Verificar anualmente en coordinación con la Secretaría de
+Educación, Secretaría de Seguridad Pública, según les corresponda,
+el establecimiento y la prestación de los servicios en los CEICI’s;
+
+III.- Convenir o acordar con las instituciones de otros órdenes de
+gobierno que tengan a su cargo centros de educación inicial y cuidados
+infantiles para que proporcionen información estadística,
+epidemiológica y médica, de estos centros;
+
+IV.- Impulsar programas de salud para formar y capacitar al personal que
+presta sus servicios en los centros de educación inicial y cuidados
+infantiles, conforme a las disposiciones normativas aplicables;
+
+V.- Colaborar con la Secretaría de Educación en la elaboración del
+padrón único de centros de educación inicial y cuidado infantil que
+funcionen dentro del territorio del Estado, incluidos los que no tengan
+fines lucrativos, padrón que compartirán para el adecuado control;
+
+VI.- Impartir cursos y programas de capacitación y actualización
+dirigidos al cuidado infantil;
+
+VII.- Llevar a efecto los procedimientos administrativos de
+verificación para el cumplimiento de las disposiciones contenidas en
+esta Ley de acuerdo a sus funciones y aplicar la sanción que
+corresponda; y
+
+VIII.- Las demás que le otorguen esta ley y leyes aplicables.
+
+c) DIF TABASCO:
+
+I. Colaborará en conjunto con la Secretaría de Educación y la
+Secretaría de Salud para la elaboración del padrón único de Centros
+de Educación Inicial y Cuidado Infantil, respecto de los CENDI,
+guarderías, estancias infantiles y albergues en los cuales se cuiden
+infantes, tanto los que opera el DIF TABASCO, como los que brindan las
+diferentes asociaciones, fundaciones y organismos asistenciales que
+tengan fines asistenciales y sin lucro; y
+
+II.- Colaborará con la Secretaría de Salud y la Secretaría de
+Educación en la supervisión y verificación de las instituciones u
+organismos sociales, privados o asistenciales sin fines de lucro, tales
+como fundaciones, asociaciones, casas de cuna, albergues o cualquier
+otro organismo de su competencia que pretendan manejar o tener bajo su
+cuidado a infantes.
+
+ARTÍCULO 6.- Corresponderá al Ejecutivo del Estado, a través de la
+Secretaría de Salud, verificar, supervisar y evaluar la prestación de
+los servicios médicos que se proporcionen en los centros de educación
+inicial y cuidado infantil; así como colaborar con las demás
+dependencias de acuerdo a las atribuciones que ordena esta Ley, sin
+perjuicio de los convenios de coordinación que sobre el particular se
+celebren con la Federación o con los Municipios.
+
+ARTÍCULO 7.- Corresponderá al Ejecutivo del Estado, a través de la
+Secretaría de Educación, supervisar y evaluar la prestación de los
+servicios educativos que se proporcionen en los centros de educación
+inicial y cuidado infantil, en los términos de esta Ley y de la Ley de
+Educación del Estado de Tabasco, cuyo resultado deberá compartir con
+las dependencias que señala esta Ley para la complementación de los
+expedientes de cada CEICI, sin perjuicio de los convenios de
+coordinación que sobre el particular se celebren con la Federación o
+con los Municipios.
+
+ARTÍCULO 8.- En la prestación de los servicios del CEICI se deberá
+velar porque los infantes adquieran hábitos higiénicos, sana
+convivencia y cooperación, aprecio por la dignidad de las personas
+medio ambiente y la integridad de la familia, respeto a los valores
+patrios, evitando la discriminación por la raza, religión, grupo
+étnico, sexo, discapacidad, en concordancia con su entorno social, con
+absoluto respeto a los elementos formativos de estricta incumbencia
+familiar.
+
+ARTÍCULO 9.- En todo caso, los servicios de educación inicial en el
+CEICI deberán ser vigilados y supervisados por la Secretaría de
+Educación, en los términos de esta Ley y la Ley de Educación,
+cumpliendo para ello con los planes y programas educativos que se
+instrumenten al respecto.
+
+ARTÍCULO 10.- En todo caso, los servicios de cuidado infantil en el
+CEICI incluirán el aseo, la alimentación, el cuidado de la salud, la
+educación y la recreación, en los términos que esta Ley prevé,
+además de los reglamentos que de ella deriven.
+
+ARTÍCULO 11.- El CEICI que acepte niños mayores a tres años, velará
+por el derecho que tiene el menor a la educación básica obligatoria,
+establecida en el primer párrafo del artículo 3º de la Constitución
+Federal y las demás disposiciones que establece la legislación en
+materia educativa.
+
+ARTÍCULO 12.- Las instituciones de seguridad social que tengan a su
+cargo un CEICI en la Entidad, con independencia de su régimen interno,
+deberán sujetarse, en lo conducente a las disposiciones de esta Ley.
+
+CAPÍTULO SEGUNDO
+
+DEL FUNCIONAMIENTO DE LOS CENTROS DE EDUCACIÓN INICIAL Y CUIDADO
+INFANTIL
+
+ARTÍCULO 13.- Para su funcionamiento El CEICI necesitará de aviso de
+funcionamiento, incluso los establecimientos que sólo presten servicio
+de cuidados infantiles, debiendo contar de acuerdo a la edad de los
+infantes, como mínimo lo siguiente:
+
+I.- Espacios, áreas, instalaciones e infraestructura especial para la
+edad de los infantes, cuyas especificaciones se establecerán en el
+Reglamento acorde a cada tipo de establecimiento (estancias infantiles,
+guarderías, CENDIs, o cualquier otra denominación) así como áreas e
+implementos de aseo, cocina, servicios médicos y primeros auxilios;
+
+II.- Mobiliario y juguetes cuyo diseño no implique riesgo para la
+integridad física y mental del menor;
+
+III.- Materiales didácticos y pedagógicos de acuerdo a los parámetros
+educativos referidos en la Ley Estatal de Educación;
+
+IV.- Personal capacitado, adiestrado y certificado especialmente para
+prestar el servicio de educación inicial, así como de cuidados
+infantiles, el que deberá contar con el estado físico y mental
+adecuado para el manejo de infantes; y
+
+V.- Acreditar fehacientemente tanto el personal, como los propietarios o
+representantes legales de los CEICI, no contar con antecedentes penales
+ni procesales por la comisión de algún delito en cualquier modalidad,
+en los que se haya inferido algún daño o perjuicio a un infante o
+menor, sea físico, psicológico, o sexual, por abuso, explotación,
+maltrato, descuido o trato negligente. Si no se acredita este requisito,
+no se le expedirá el aviso de funcionamiento aún cuando cumpla con
+todos los demás y si se encuentra expedida será motivo suficiente para
+clausurar definitivamente.
+
+ARTÍCULO 14.- El Reglamento de esta Ley y la normatividad estatal
+determinará los requerimientos mínimos para el personal con que
+deberán operar los CEICI, debiendo estos establecimientos cubrir las
+necesidades básicas, salud, educación, alimentación, aseo,
+esparcimiento, recreación y atención de los infantes.
+
+ARTÍCULO 15.- Los prestadores de servicio del CEICI, para la admisión
+de los infantes, deberán suscribir un contrato con el padre, madre,
+tutor o representante legal, el cual deberá contener entre otras
+circunstancias: especificación de los servicios que se van a prestar,
+tipo de establecimiento, aviso de funcionamiento, horario al que
+quedará sujeta la prestación del servicio, costo mensual del servicio,
+la persona o personas autorizadas para recoger al infante, la tolerancia
+para su entrada y salida y, el estado de salud general del infante al
+momento de iniciar en el CEICI.
+
+Las autoridades responsables que supervisen y verifiquen el
+funcionamiento del CEICI, deberán constatar que se lleve un reporte
+diario del menor. El contenido y la forma del reporte, será conforme lo
+disponga el reglamento de esta Ley.
+
+CAPÍTULO TERCERO
+
+PROTECCIÓN CIVIL
+
+ARTÍCULO 16.- El Estado por conducto de la Secretaría de Seguridad
+Pública a través de su Dirección General de Protección Civil,
+realizará la inspección y vigilancia de las medidas de seguridad en
+los CEICI, para que todos los establecimientos cuenten con su Unidad
+Interna de Protección Civil y su programa correspondiente, el cual
+deberá contemplar forzosamente los simulacros de evacuación.
+
+ARTÍCULO 17.- Los Ayuntamientos a través de sus unidades municipales
+de protección civil realizarán en los CEICI instalados en sus
+municipios, las mismas funciones de la Dirección General de Protección
+Civil que se señalan en el artículo anterior.
+
+ARTÍCULO 18.- El Reglamento de esta Ley, la normatividad federal,
+estatal y municipal determinarán la cantidad, calidad y
+especificaciones de los materiales que deban cumplir las construcciones
+donde se instale un CEICI, así como deberán cumplirse con las medidas
+de seguridad que se establezcan en los reglamentos de construcción del
+municipio que corresponda, asimismo la Dirección General de Protección
+Civil o las Unidades Municipales de Protección Civil en coordinación
+con la Secretaría de Salud, inspeccionarán la infraestructura y el
+estado físico de las instalaciones para que cubran las necesidades
+básicas de seguridad y protección civil, para lo cual podrá en caso
+de urgencia, cuando exista riesgo inminente por el que se vea amenazada
+la integridad física de los infantes de un CEICI, aplicar las medidas
+de seguridad que establece la Ley de Protección Civil del Estado de
+Tabasco, de forma inmediata.
+
+CAPÍTULO CUARTO
+
+AVISO DE FUNCIONAMIENTO
+
+ARTÍCULO 19.- Con el aviso de funcionamiento el Estado autoriza para
+ejercer lícitamente la materia y servicios que regula esta Ley y demás
+disposiciones reglamentarias aplicables, por lo que el aviso de
+funcionamiento es intransferible, inalienable e inembargable y cualquier
+acto tendiente a tales efectos, será nulo de pleno derecho.
+
+ARTÍCULO 20.- La Secretaría de Educación proporcionará gratuitamente
+los informes y formatos para solicitar que se le conceda la prestación
+de los servicios.
+
+ARTÍCULO 21.- Para tramitar el aviso de funcionamiento se cumplirán,
+como mínimo, los siguientes requisitos:
+
+I.- Presentar solicitud por escrito que contenga, el nombre, sexo,
+nacionalidad, ocupación y domicilio particular si el solicitante es
+persona física; denominación, giro, domicilio y nombre del
+representante legal, si se trata de Institución o persona moral,
+incluyendo la denominación o razón social, tipo de establecimiento que
+se tenga o se solicite para la institución;
+
+II.- Anexar copia certificada de los siguientes documentos:
+
+a).- Constancia expedida por el organismo de educación correspondiente,
+que confirme que tanto el personal, como el director del CEICI, cuenta
+con los conocimientos necesarios y suficientes para la prestación del
+servicio;
+
+b).- Constancia expedida por la autoridad de salud correspondiente, en
+la cual se exprese el resultado de la verificación previa respecto a
+que las instalaciones del CEICI cumplen con las normas y reglamentación
+aplicable y que cuentan con las condiciones de seguridad, salubridad e
+higiene, que como mínimo se deben observar para prestar el servicio,
+materia de la presente Ley;
+
+c).- Constancia de inscripción ante el Registro Federal de
+Contribuyentes, del prestador de servicio en su caso;
+
+d).- Acta de nacimiento y CURP del propietario si es persona física,
+tratándose de personas morales, su acta constitutiva, reformas a ésta
+y los documentos que acrediten la representación legal del promovente
+y, si es una Institución, un escrito suscrito por su Titular;
+
+e).- Autorización del propietario y su personal, así como de los
+socios tratándose de personas morales, para corroborar los datos
+respecto a sus antecedentes penales y procesales; y
+
+f).- Autorizaciones y permisos que para el efecto deba expedir la
+Secretaría de Educación, Salud o cualquier otra que establezca esta
+Ley, su reglamento o normatividad aplicable.
+
+ARTÍCULO 22.- Recibida la solicitud, la autoridad respectiva en un
+plazo máximo de treinta días hábiles, previa verificación del
+establecimiento, información y documentación entregada, comunicará al
+interesado la resolución correspondiente y, en su caso, expedirá el
+documento solicitado.
+
+ARTÍCULO 23.- Ante la falta de cualquiera de los requisitos señalados
+en el artículo 18 de esta Ley, la autoridad que corresponda otorgará
+hasta noventa días naturales para que el interesado cumpla con los
+mismos, de no hacerlo, se cancelará el trámite respectivo.
+
+ARTÍCULO 24.- El aviso de funcionamiento será de duración indefinida,
+pero se refrendará anualmente, para lo cual el establecimiento deberá
+permitir las inspecciones y supervisiones que esta ley dispone, así
+como deberá certificar a su personal y cumplir con las medidas de
+seguridad, protección, salud y educación que sean necesarias. Para el
+caso que no se refrende el aviso de funcionamiento, éste
+automáticamente quedará cancelado. Se expedirá un aviso de
+funcionamiento por establecimiento.
+
+ARTÍCULO 25.- Los avisos de funcionamiento deberán colocarse en un
+lugar visible a los usuarios y contendrán los datos del titular,
+denominación o razón social y tipo de establecimiento del CEICI, su
+ubicación, el número de Registro Federal de Contribuyentes, el número
+de control respectivo y la fecha de expedición.
+
+ARTÍCULO 26.- El prestador de servicios del CEICI podrá cancelar
+voluntariamente la prestación de sus servicios, mediante simple aviso
+del propietario o representante legal a la Secretaría de Educación, a
+fin de que se realicen los verificativos correspondientes. El tiempo y
+forma se especificará en el reglamento.
+
+La falta de este aviso dará lugar a la sanción prevista en la
+fracción II, del artículo 37 de la presente Ley.
+
+CAPÍTULO QUINTO
+
+DE LAS CERTIFICACIONES
+
+ARTÍCULO 27.- Los prestadores de servicio que establezcan un CEICI,
+deberán contar con programas permanentes de capacitación para su
+personal y apoyarlos para que participen en aquellos que organicen e
+implementen las autoridades.
+
+ARTÍCULO 28.- Lo cursos y programas de capacitación, adiestramiento y
+actualización que las dependencias señaladas en esta Ley, organicen e
+implementen, tendrán por objeto:
+
+I.- Garantizar y certificar anualmente la calidad de los servicios que
+se presten en el CEICI;
+
+II.- Establecer un sistema permanente de capacitación y actualización
+para que se certifique al CEICI a través de su personal. La
+certificación del personal sólo le servirá al CEICI a quien pertenece
+y se hará anualmente;
+
+III.- Reconocer la participación de las instituciones en lo general y
+al personal en lo individual; y
+
+IV.- Estimular y reconocer, conforme a las disposiciones del Reglamento,
+la calidad en la prestación del servicio.
+
+ARTÍCULO 29.- El Reglamento establecerá las bases del programa de
+certificación a que se refiere este Capítulo.
+
+CAPÍTULO SEXTO
+
+DE LAS INSPECCIONES, VISITAS, INFRACCIONES Y SANCIONES
+
+ARTÍCULO 30.- El Ejecutivo Estatal, por conducto de las dependencias
+señaladas en el artículo 5 de esta Ley, ejercerá las funciones de
+inspección, supervisión, vigilancia y aplicará las sanciones que este
+ordenamiento establece, su reglamento y normatividad aplicable, sin
+perjuicio de las facultades que confieran a otras dependencias, otros
+ordenamientos federales y locales aplicables a la materia de esta Ley.
+
+ARTÍCULO 31.- La Secretaría de Educación, el DIF Tabasco, la
+Secretaría de Salud y la Dirección General de Protección Civil o
+Unidades de Protección Civil en el ámbito de sus competencias
+realizaran por conducto de su personal o con la colaboración del
+personal debidamente autorizado de otras Instituciones contempladas en
+esta Ley, visitas de inspección, las cuales serán anuales, sin
+perjuicio de que en el caso de urgencia, por el riesgo o  peligro en la
+salud o integridad de algún infante puedan hacerse en cualquier tiempo.
+
+Dicho personal, al realizar las visitas de inspección, deberá estar
+provisto del documento oficial que lo acredite como tal, así como de la
+orden escrita debidamente fundada y motivada, expedida por autoridad
+competente, en la que se precisará el lugar que habrá de
+inspeccionarse, el objeto de la diligencia y el alcance de ésta.
+
+ARTÍCULO 32.- El personal autorizado, al iniciar la inspección se
+identificará debidamente con la persona con quien se entienda la
+diligencia, exhibirá la orden respectiva y le entregará copia de la
+misma, requiriéndola para que en el acto designe dos testigos.
+
+En caso de negativa o de que los designados no acepten fungir como
+testigos, el personal actuante podrá designarlos, haciendo constar esta
+situación en el acta administrativa que al efecto se levante, sin que
+esta circunstancia impida o invalide los efectos de la inspección.
+
+ARTÍCULO 33.- En toda visita de inspección se levantará acta, en la
+que se harán constar en forma circunstanciada los hechos u omisiones
+que se hubiesen presentado durante la diligencia.
+
+ARTÍCULO 34.- Concluida la inspección, se dará oportunidad a la
+persona con la que se entendió la diligencia para manifestar lo que a
+su derecho convenga, en relación con los hechos asentados en el acta.
+
+ARTÍCULO 35.- A continuación se procederá a firmar el acta por la
+persona con la que se entendió la diligencia, por los testigos y por el
+personal autorizado, quien entregará copia del acta al interesado.
+
+ARTÍCULO 36.- Si la persona con la que se entendió la diligencia o los
+testigos se negaren a firmar el acta, o el interesado se negare a
+aceptar copia de la misma, dichas circunstancias se asentarán en ella,
+sin que esto afecte su validez.
+
+El inspector podrá ordenar medidas correctivas y de urgente
+aplicación, de acuerdo con las irregularidades encontradas durante la
+visita, mismas que quedarán anotadas en dicha acta.
+
+ARTÍCULO 37.- Las infracciones a esta Ley y sus reglamentos, según las
+particulares circunstancias y modalidades de los establecimientos,
+serán motivo de las siguientes sanciones:
+
+I.- Amonestación escrita;
+
+II.- Multa desde 50 a 1000 días de salario mínimo general vigente en
+la zona que se trate;
+
+III.- Clausura temporal del establecimiento hasta por treinta días
+naturales o hasta que se corrija el hecho que originó la sanción;
+
+IV.- Clausura definitiva del establecimiento; y
+
+V.- Cancelación del aviso de funcionamiento.
+
+ARTÍCULO 38.- La aplicación de las sanciones se hará atendiendo a las
+circunstancias del caso, tipo de establecimiento, características del
+propietario, debiendo fundarse y motivarse.
+
+ARTÍCULO 39.- Procederá la amonestación cuando las infracciones a
+esta Ley, su reglamento o normatividad aplicable sean leves y por
+primera vez, entendiéndose por faltas leves las de índole
+administrativa, estructural o de capacitación y certificación del
+personal que no comprometan la seguridad o salud de los infantes a cargo
+del CEICI de que se trate.
+
+ARTÍCULO 40.- La Secretaría de Educación y la Secretaría de Salud,
+según sea el tipo de infracción, aplicará la amonestación mediante
+escrito, apercibiendo al prestador de servicios del CEICI, de que en
+caso de persistir en la falta, se considerará reincidente para efectos
+de que en el futuro se le sancione en forma más severa.
+
+ARTÍCULO 41.- Procederá la multa cuando haya reincidencia en una falta
+leve.
+
+ARTÍCULO 42.- Para la fijación de multas se tomará en cuenta la
+gravedad de la infracción, la naturaleza, reincidencia, posibilidades
+económicas del prestador de servicios y demás circunstancias que
+sirvan para determinar la sanción.
+
+ARTÍCULO 43.- Procederá la clausura temporal del CEICI, cuando resulte
+la falta grave de algún requisito señalado en esta Ley con el que se
+comprometa la seguridad, salud o integridad de los infantes o cuando
+habiéndose hecho acreedor a una amonestación o multa se persista en la
+falta leve, por lo que la clausura se suspenderá hasta que se haya
+corregido el motivo que originó la sanción.
+
+ARTÍCULO 44.- Procederá la clausura definitiva del CEICI, cuando
+exista un riesgo o peligro inminente para la seguridad, la salud o
+integridad física, emocional o psicológica de los infantes atendidos
+en el CEICI, aún cuando la falta no sea reincidente.
+
+ARTÍCULO 45.- Son causas de cancelación de avisos de funcionamiento:
+
+I.- Suspender sin causa justificada las actividades del establecimiento
+por un lapso mayor a 5 días naturales;
+
+II.- Realizar reiteradamente actividades diferentes a las autorizadas;
+
+III.- Poner en peligro la seguridad o la salud de los menores a su
+cargo, con motivo de la operación del establecimiento; y
+
+IV.- Dejar de satisfacer algunos de los requisitos o incumplir con las
+obligaciones establecidas en esta Ley y en el aviso de funcionamiento
+respectivo.
+
+ARTÍCULO 46.- Las autorizaciones que se concedan y se expidan además
+podrán ser canceladas de inmediato a juicio de la autoridad que las
+expidió, sin necesidad de resolución administrativa cuando se infiera
+algún daño o perjuicio a uno o varios infantes que reciban los
+servicios del CEICI, sea físico, psicológico o sexual, por abuso,
+explotación, mal trato, descuido o trato negligente, por parte del
+personal, propietario o representante legal del establecimiento, sea
+dentro o fuera de éste, sin que se requiera que el daño constituya un
+delito, si con ello se pone en riesgo o peligro la seguridad, salud o
+integridad física, emocional y psicológica del infante.
+
+Esta sanción se aplicará sin perjuicio de las responsabilidades de
+índole laboral, administrativa o penal que sean aplicables al personal
+que dañó o perjudicó al infante.
+
+CAPÍTULO SÉPTIMO
+
+DEL RECURSO DE RECONSIDERACIÓN
+
+ARTÍCULO 47.- Para la defensa jurídica de los particulares, se
+establece el recurso de reconsideración, mismo que tiene por objeto
+revocar o modificar los actos administrativos que se reclamen y que se
+presentará ante la autoridad de la cual emane el acto o la resolución
+que se reclame.
+
+ARTÍCULO 48.- El recurso deberá presentarse por escrito, dentro de los
+quince días hábiles siguientes a la notificación del acto que se
+reclama.
+
+ARTÍCULO 49.- La interposición del recurso suspenderá la ejecución
+de las sanciones pecuniarias, si el infractor garantiza el interés
+fiscal.
+
+En ningún caso procederá la suspensión si existe peligro o riesgo
+para la seguridad, la salud o integridad física o emocional de los
+infantes.
+
+ARTÍCULO 50.- Tratándose de actos derivados de faltas leves de las
+señaladas en el artículo 39 de esta Ley, además de garantizar el
+interés fiscal, la interposición del recurso suspenderá su
+ejecución, siempre y cuando se satisfagan los siguientes requisitos:
+
+I.- Que lo solicite el recurrente;
+
+II.- Que no exista riesgo para continuar proporcionando el servicio; y
+
+III.- Que con la ejecución de la sanción se ocasione al prestador del
+servicio un daño de difícil reparación.
+
+ARTÍCULO 51.- En el escrito donde se presente el recurso se deberá
+precisar el nombre y el domicilio de quien promueva, los hechos que
+motiven el recurso, la fecha en que bajo protesta de decir verdad
+manifieste el recurrente que tuvo conocimiento de la resolución
+impugnada, los agravios que directa o indirectamente se le causen, la
+mención de la autoridad que haya dictado la resolución, ordenado o
+ejecutado el acto y el ofrecimiento de las pruebas que se proponga
+rendir. Si radica fuera del lugar de residencia de la autoridad
+recurrida, deberá señalar domicilio en éste, para oír y recibir
+notificaciones.
+
+ARTÍCULO 52.- En la tramitación del recurso se admitirá toda clase de
+medios probatorios excepto la confesional y los contrarios a la moral o
+a las buenas costumbres. Si el interesado previamente tuvo oportunidad
+de ofrecer pruebas, sólo le serán admitidas las que tengan carácter
+de supervenientes.
+
+ARTÍCULO 53.- Admitido el recurso se señalará el día y hora para la
+celebración de una audiencia, en la que se escuchará en defensa al
+interesado, se desahogarán las pruebas que se admitan y se formularán
+los alegatos, levantándose acta suscrita por los que en ella hayan
+intervenido.
+
+ARTÍCULO 54.- La autoridad dictará la resolución que corresponda,
+debidamente fundada y motivada, en un plazo de quince días hábiles,
+misma que deberá notificar al interesado en el domicilio que haya
+señalado.
+
+En caso de no haberse señalado domicilio, se le notificará en el lugar
+donde resida la autoridad recurrida, enviándosele copia certificada por
+correo y con acuse de recibo.
+
+Contra estas resoluciones no cabe recurso alguno.
+
+CAPÍTULO OCTAVO
+
+DISPOSICIONES FINALES
+
+ARTÍCULO 55.- Cualquier particular, bajo su responsabilidad y
+ofreciendo los medios de prueba a su disposición, podrá denunciar las
+conductas que constituyan una infracción a esta Ley, los reglamentos
+que de ella deriven y, en general, a las condiciones de operación
+establecidas en el aviso de funcionamiento o convenio respectivos.
+
+Para todo lo no previsto en la presente Ley, respecto al procedimiento
+de investigación y aplicación de sanciones se aplicará
+supletoriamente el Código de Procedimientos Civiles del Estado.
+
+Será optativo para el particular el recurso de reconsideración que
+establece esta Ley, pudiendo acudir directamente ante el Tribunal de
+Justicia Administrativa del Estado de Tabasco.
+
+ARTÍCULO 56.- Para efectos de lograr el cumplimiento de la presente
+ley, el personal comisionado para llevar a cabo el acto de autoridad,
+estará provisto de la facultad de requerir el apoyo de la fuerza
+pública, e incluso para decretar el arresto administrativo que
+corresponda hasta por 36 horas a quien se oponga al acto de autoridad,
+para lo cual el personal actuante deberá fundar y motivar la orden de
+arresto, y la autoridad correspondiente remitirá al infractor al lugar
+en que deba cumplir la medida. El arresto podrá ser levantado mediante
+el pago de la multa correspondiente que se realice ante el Juez
+Calificador del municipio que corresponda.
+
+TRANSITORIOS
+
+ARTÍCULO PRIMERO.- Esta Ley entrará en vigor al día siguiente de su
+publicación en el Periódico Oficial del Estado.
+
+ARTÍCULO SEGUNDO.- El Ejecutivo del Estado, deberá expedir el
+Reglamento de esta Ley en el término de 180 días, posteriores a la
+entrada en vigor de esta Ley.
+
+ARTÍCULO TERCERO.- Los Prestadores de Servicio que tengan un CEICI
+funcionando con anterioridad a esta Ley, contarán con el término de
+seis meses a partir del día en que entre en vigor esta Ley, para
+efectos de regularizar su situación, tramitar y obtener el aviso de
+funcionamiento, cumpliendo con los requisitos previstos en este
+ordenamiento jurídico.
+
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA
+CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS TRES DÍAS
+DEL MES DE DICIEMBRE DEL AÑO DOS MIL NUEVE, DIP. MOISÉS VALENZUELA
+RODRÍGUEZ, PRESIDENTE; DIP. ALIPIO OVANDO MAGAÑA, SECRETARIO;
+RÚBRICAS.
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido
+cumplimiento.
+
+EXPEDIDO EN EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL PODER EJECUTIVO,
+EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS
+DIECISÉIS DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL NUEVE.
+
+“SUFRAGIO EFECTIVO. NO REELECCIÓN.”
+
+QUÍM. ANDRÉS RAFAEL GRANIER MELO
+
+GOBERNADOR DEL ESTADO DE TABASCO.
+
+                LIC. MIGUEL ALBERTO ROMERO PÉREZ
+
+CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+ PAGE   3
+
+ PAGE   1
