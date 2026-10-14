@@ -193,9 +193,9 @@ def descargar_estado(edo, limite=None):
             prev = indice.get(ida) or {}
             prev["intentos"] = prev.get("intentos", 0) + 1
             if prev["intentos"] >= MAX_INTENTOS:
-                prev["sin_documento"] = True
-                prev["fallo"] = "la ficha no se pudo consultar tras N intentos"
-                sin_doc += 1
+                # Igual que arriba: una ficha que no se pudo consultar NO es
+                # lo mismo que un ordenamiento que la fuente no publica.
+                prev["fallo_ficha"] = f"ficha ilegible tras {prev['intentos']} intentos"
             indice[ida] = prev
             progreso(estado=nombre, n=n, total=len(ids), nuevos=nuevos, estado_edo=edo)
             time.sleep(0.1)
@@ -222,9 +222,12 @@ def descargar_estado(edo, limite=None):
                 # CADA corrida para siempre y el re-escaneo nunca termina.
                 f["intentos"] = f.get("intentos", 0) + 1
                 if f["intentos"] >= MAX_INTENTOS:
-                    f["sin_documento"] = True
-                    f["fallo"] = "la fuente no entrega el archivo tras N intentos"
-                    sin_doc += 1
+                    # OJO: NO marcar sin_documento aquí. La ficha SÍ trae
+                    # enlace, así que el documento existe y es descargable;
+                    # marcarlo como 'no existe' infla la cobertura con algo
+                    # que sí se puede recuperar. Solo se deja de reintentar
+                    # en esta pasada.
+                    f["fallo_descarga"] = f"sin bajar tras {f['intentos']} intentos"
         else:
             # La ficha no trae enlace: la fuente simplemente no publica este
             # ordenamiento. Se marca para no volver a consultarlo.

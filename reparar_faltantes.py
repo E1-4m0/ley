@@ -42,9 +42,32 @@ def pendientes():
             yield estado, v, Path(f"{DATOS}/{estado}/{v['archivo']}")
 
 
+def formato(ruta):
+    """Detecta el formato real por firma binaria, no por extensión."""
+    try:
+        cab = open(ruta, "rb").read(8)
+    except Exception:
+        return "?"
+    if cab[:4] == b"PK\x03\x04":
+        return "zip"
+    if cab[:8] == b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1":
+        return "ole2"
+    if cab[:5] == b"%PDF-":
+        return "pdf"
+    if cab[:5] == b"{\\rtf":
+        return "rtf"
+    return "?"
+
+
 def clasificar(ruta):
-    """'corrupto' si el ZIP no abre, 'escaneado' si trae imágenes sin texto,
-    'ok' si tiene texto extraíble."""
+    """'corrupto' si no se puede extraer nada, 'escaneado' si trae imágenes sin
+    texto, 'ok' si tiene texto extraíble."""
+    fmt = formato(ruta)
+    if fmt == "pdf":
+        # Ojo: hay .doc que en realidad son PDF. No son corruptos.
+        return "pdf", 0, 0
+    if fmt == "ole2":
+        return "ok", 0, 0
     if not zipfile.is_zipfile(ruta):
         return "corrupto", 0, 0
     try:
@@ -83,17 +106,18 @@ def ocr_docx(ruta, tmp):
 
 def main():
     aplicar = "--aplicar" in sys.argv
-    casos = {"corrupto": [], "escaneado": [], "ok": []}
+    casos = {"corrupto": [], "escaneado": [], "ok": [], "pdf": []}
 
     for estado, meta, ruta in pendientes():
         if not ruta.exists():
             casos["corrupto"].append((estado, meta, ruta))
             continue
         tipo, ntex, nimg = clasificar(ruta)
-        casos[tipo].append((estado, meta, ruta))
+        casos.setdefault(tipo, []).append((estado, meta, ruta))
 
     print(f"  corruptos (re-descargar): {len(casos['corrupto'])}")
     print(f"  escaneados (OCR):         {len(casos['escaneado'])}")
+    print(f"  PDFs disfrazados:         {len(casos.get('pdf', []))}")
     print(f"  con texto (re-convertir): {len(casos['ok'])}")
 
     if not aplicar:

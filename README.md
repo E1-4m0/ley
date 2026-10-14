@@ -44,19 +44,34 @@ Verificado contra el servidor real (`compilacion.ordenjuridico.gob.mx`):
 
 ## Resultado de la extracción
 
-Estado real del corpus tras la descarga completa:
+Estado real del corpus. **Los números reconcilian**: descargados + ausencias reales +
+pendientes = catalogados.
 
 | Concepto | Documentos |
 |---|---:|
-| Ordenamientos catalogados | **35,132** |
-| Descargados | **28,082** |
-| Sin documento en la fuente | **7,027** |
-| Pendientes | ~23 |
-| **Cobertura** | **99.93 %** |
+| Ordenamientos catalogados en la fuente | **35,132** |
+| **Descargados** | **28,088** |
+| Ausencia real (la ficha no trae enlace) | 6,986 |
+| Pendientes (tienen enlace, no se han bajado) | 58 |
+| **Descargado real** | **79.95 %** |
+| Resuelto (descargados + ausencia confirmada) | 99.83 % |
 
-Los 7,027 "sin documento" no son un fallo: la ficha del ordenamiento existe en el
-catálogo, pero SEGOB nunca publicó el archivo. Se detectan y se marcan solos
-(`sin_documento: true`) para no reintentarlos en cada pasada.
+### Sobre la métrica de cobertura
+
+Es tentador reportar `(descargados + sin_documento) / catalogados` y decir "99.95 %".
+**Es engañoso**: cuenta como cubierto lo que no se tiene.
+
+Por eso hay dos números separados y una distinción que el código respeta:
+
+- **`sin_documento: true`** — la ficha del ordenamiento **no trae enlace**. La fuente
+  nunca publicó el archivo. Es una ausencia real y verificable.
+- **`fallo_descarga` / `fallo_ficha`** — sí hay enlace, pero no se pudo bajar. **NO se
+  marca como `sin_documento`**: el documento existe y es recuperable. Mezclarlos infla
+  la cobertura con documentos que sí se pueden obtener.
+
+Los 6,986 de ausencia real no son un fallo del scraper: son ordenamientos que SEGOB
+cataloga pero cuyo archivo nunca publicó. Se detectan y se marcan para no reintentarlos
+en cada pasada —que es lo que antes dejaba el re-escaneo atorado indefinidamente.
 
 ## Conversión a Markdown
 

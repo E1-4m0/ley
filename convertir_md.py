@@ -95,12 +95,32 @@ def desde_ole2(ruta):
     return None
 
 
+def desde_pdf(ruta):
+    """Extrae texto de un PDF.
+
+    Hay archivos con extensión .doc cuyo contenido real es PDF (la firma es
+    %PDF). Sin esta rama se descartaban silenciosamente.
+    """
+    try:
+        r = subprocess.run(
+            ["pdftotext", "-layout", "-enc", "UTF-8", str(ruta), "-"],
+            capture_output=True, timeout=180,
+        )
+        if r.returncode == 0 and r.stdout.strip():
+            return r.stdout.decode("utf-8", errors="replace")
+    except Exception:
+        pass
+    return None
+
+
 def convertir(ruta):
     fmt = formato(ruta)
     if fmt == "zip":
         return desde_zip(ruta)
     if fmt == "ole2":
         return desde_ole2(ruta)
+    if fmt == "pdf":
+        return desde_pdf(ruta)
     if fmt == "rtf":
         try:
             return ruta.read_text(encoding="utf-8", errors="replace")
