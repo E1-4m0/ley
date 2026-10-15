@@ -187,10 +187,12 @@ def descargar_estado(edo, limite=None):
     nuevos = 0
     sin_doc = 0
     for n, ida in enumerate(ids, 1):
-        # Saltar lo ya resuelto: con archivo descargado, o ya marcado como
-        # "la fuente no publica este documento" (si no, se re-consulta su
-        # ficha en cada corrida y el re-escaneo se vuelve eterno).
-        if ida in indice and (indice[ida].get("archivo") or indice[ida].get("sin_documento")):
+        # Saltar lo ya resuelto: con archivo descargado, marcado como "la fuente
+        # no publica este documento", o marcado como roto en el origen (tiene
+        # enlace pero el servidor no lo entrega — verificado uno por uno).
+        if ida in indice and (indice[ida].get("archivo")
+                              or indice[ida].get("sin_documento")
+                              or indice[ida].get("origen_roto")):
             continue
         f = ficha(ida)
         if not f:
