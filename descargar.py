@@ -74,15 +74,22 @@ def _decodificar(raw):
 
 
 def get_bytes(url, intentos=2):
-    """Descarga binaria con timeout (conexión, lectura) acotado."""
+    """Descarga binaria con timeout generoso.
+
+    El servidor de SEGOB estrangula la velocidad cuando detecta muchas
+    peticiones: se midió a ~0.4 KB/s (16 KB en 40 s). Con timeout de lectura
+    de 45 s, cualquier archivo de más de ~20 KB se abortaba, y eran 58
+    documentos atorados para siempre. La lectura se deja en 300 s y la
+    conexión en 15 s.
+    """
     for i in range(intentos):
         try:
-            r = SES.get(url, timeout=(10, 45))
+            r = SES.get(url, timeout=(15, 300))
             if r.status_code == 200 and r.content:
                 return r.content
         except Exception:
             pass
-        time.sleep(1.5 * (i + 1))
+        time.sleep(5 * (i + 1))
     return None
 
 

@@ -52,7 +52,8 @@ pendientes = catalogados.
 | Ordenamientos catalogados en la fuente | **35,132** |
 | **Descargados** | **28,088** |
 | Ausencia real (la ficha no trae enlace) | 6,986 |
-| Pendientes (tienen enlace, no se han bajado) | 58 |
+| Origen roto (tiene enlace, la fuente no entrega) | 58 |
+| Pendientes sin evaluar | 0 |
 | **Descargado real** | **79.95 %** |
 | Resuelto (descargados + ausencia confirmada) | 99.83 % |
 
@@ -61,17 +62,37 @@ pendientes = catalogados.
 Es tentador reportar `(descargados + sin_documento) / catalogados` y decir "99.95 %".
 **Es engañoso**: cuenta como cubierto lo que no se tiene.
 
-Por eso hay dos números separados y una distinción que el código respeta:
+Por eso hay tres estados distintos y el código los respeta:
 
 - **`sin_documento: true`** — la ficha del ordenamiento **no trae enlace**. La fuente
-  nunca publicó el archivo. Es una ausencia real y verificable.
-- **`fallo_descarga` / `fallo_ficha`** — sí hay enlace, pero no se pudo bajar. **NO se
-  marca como `sin_documento`**: el documento existe y es recuperable. Mezclarlos infla
-  la cobertura con documentos que sí se pueden obtener.
+  nunca publicó el archivo. Ausencia real y verificable.
+- **`origen_roto: true`** — **sí hay enlace, pero el servidor no entrega el archivo.**
+  Verificado uno por uno con `verificar_pendientes.py`. Dos modos de falla medidos:
+  respuesta `HTTP 200` con cero bytes, o transferencia que muere a ~16 KB.
+- **`fallo_descarga` / `fallo_ficha`** — fallo transitorio. **NUNCA se marca como
+  `sin_documento`**: el documento existe y es recuperable.
 
-Los 6,986 de ausencia real no son un fallo del scraper: son ordenamientos que SEGOB
-cataloga pero cuyo archivo nunca publicó. Se detectan y se marcan para no reintentarlos
-en cada pasada —que es lo que antes dejaba el re-escaneo atorado indefinidamente.
+Mezclar estos estados infla la cobertura con documentos que sí se pueden obtener.
+
+### Por qué se atascaba la descarga
+
+Cuatro causas independientes, todas corregidas (cada una con su porqué en el código):
+
+1. **Python equivocado.** El cronjob lo lanzaba con un intérprete sin `curl_cffi`
+   y moría con `ModuleNotFoundError` antes de empezar. A mano funcionaba, por
+   cronjob no: de ahí la apariencia intermitente. Ahora el intérprete está fijo.
+2. **El vigilante mataba procesos sanos.** Medía solo el conteo de archivos, que
+   se queda plano *legítimamente* durante un re-escaneo. Ahora usa un latido de
+   avance real que `descargar.py` escribe en cada iteración.
+3. **El re-escaneo era eterno.** Las ~7,000 fichas sin enlace se reconsultaban una
+   por una en cada pasada. Ahora se marcan y se saltan.
+4. **El vigilante del cronjob se suicidaba.** `pkill -f "vigilante.py"` también
+   coincide con `lexmx_vigilante.py`, el propio script. Salía con código `-15`.
+   Ahora compara el nombre de archivo exacto contra `/proc` y excluye su PID.
+
+Juntas producían un ciclo cerrado: *reinicio → re-escaneo → cuelgue en un archivo
+roto → reinicio*. El contador no se movía, pero el proceso no estaba detenido:
+estaba dando vueltas.
 
 ## Conversión a Markdown
 

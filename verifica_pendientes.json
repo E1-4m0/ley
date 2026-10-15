@@ -1,0 +1,466 @@
+[
+ {
+  "estado": "baja-california-sur",
+  "id": "70690",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "chiapas",
+  "id": "95959",
+  "resultado": "RequestException",
+  "bytes": 16107,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "chiapas",
+  "id": "96002",
+  "resultado": "RequestException",
+  "bytes": 16107,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "coahuila",
+  "id": "8853",
+  "resultado": "vacio",
+  "bytes": 0,
+  "http": 200,
+  "segundos": 0.0
+ },
+ {
+  "estado": "coahuila",
+  "id": "8856",
+  "resultado": "vacio",
+  "bytes": 0,
+  "http": 200,
+  "segundos": 0.0
+ },
+ {
+  "estado": "coahuila",
+  "id": "8857",
+  "resultado": "vacio",
+  "bytes": 0,
+  "http": 200,
+  "segundos": 0.0
+ },
+ {
+  "estado": "coahuila",
+  "id": "8861",
+  "resultado": "vacio",
+  "bytes": 0,
+  "http": 200,
+  "segundos": 0.0
+ },
+ {
+  "estado": "coahuila",
+  "id": "8870",
+  "resultado": "vacio",
+  "bytes": 0,
+  "http": 200,
+  "segundos": 0.0
+ },
+ {
+  "estado": "coahuila",
+  "id": "8871",
+  "resultado": "vacio",
+  "bytes": 0,
+  "http": 200,
+  "segundos": 0.0
+ },
+ {
+  "estado": "coahuila",
+  "id": "8872",
+  "resultado": "vacio",
+  "bytes": 0,
+  "http": 200,
+  "segundos": 0.0
+ },
+ {
+  "estado": "coahuila",
+  "id": "8876",
+  "resultado": "vacio",
+  "bytes": 0,
+  "http": 200,
+  "segundos": 0.0
+ },
+ {
+  "estado": "coahuila",
+  "id": "8877",
+  "resultado": "vacio",
+  "bytes": 0,
+  "http": 200,
+  "segundos": 0.0
+ },
+ {
+  "estado": "coahuila",
+  "id": "8884",
+  "resultado": "vacio",
+  "bytes": 0,
+  "http": 200,
+  "segundos": 0.0
+ },
+ {
+  "estado": "coahuila",
+  "id": "8885",
+  "resultado": "vacio",
+  "bytes": 0,
+  "http": 200,
+  "segundos": 0.0
+ },
+ {
+  "estado": "hidalgo",
+  "id": "79108",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "hidalgo",
+  "id": "80179",
+  "resultado": "vacio",
+  "bytes": 0,
+  "http": 200,
+  "segundos": 0.0
+ },
+ {
+  "estado": "puebla",
+  "id": "10225",
+  "resultado": "vacio",
+  "bytes": 0,
+  "http": 200,
+  "segundos": 0.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "100398",
+  "resultado": "RequestException",
+  "bytes": 16107,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "100419",
+  "resultado": "RequestException",
+  "bytes": 16107,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "100420",
+  "resultado": "RequestException",
+  "bytes": 16107,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "100540",
+  "resultado": "RequestException",
+  "bytes": 16107,
+  "http": null,
+  "segundos": 42.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "100541",
+  "resultado": "RequestException",
+  "bytes": 16107,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "101320",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "101832",
+  "resultado": "RequestException",
+  "bytes": 16109,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "23167",
+  "resultado": "vacio",
+  "bytes": 0,
+  "http": 200,
+  "segundos": 0.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "66439",
+  "resultado": "RequestException",
+  "bytes": 16109,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "70286",
+  "resultado": "RequestException",
+  "bytes": 16107,
+  "http": null,
+  "segundos": 42.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "71895",
+  "resultado": "RequestException",
+  "bytes": 16107,
+  "http": null,
+  "segundos": 42.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "72325",
+  "resultado": "RequestException",
+  "bytes": 16106,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "72808",
+  "resultado": "RequestException",
+  "bytes": 16109,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "72863",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "73247",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "73522",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "75053",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "75272",
+  "resultado": "RequestException",
+  "bytes": 16107,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "75863",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "75864",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "76045",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "77137",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "78763",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "79129",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "87559",
+  "resultado": "RequestException",
+  "bytes": 16109,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "91933",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "91949",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "92377",
+  "resultado": "RequestException",
+  "bytes": 16109,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "92871",
+  "resultado": "RequestException",
+  "bytes": 16107,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "93217",
+  "resultado": "RequestException",
+  "bytes": 16109,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "95015",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "95141",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "95602",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 42.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "95611",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "95612",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 42.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "95843",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "96206",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "96207",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "96842",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "97020",
+  "resultado": "RequestException",
+  "bytes": 16108,
+  "http": null,
+  "segundos": 41.0
+ },
+ {
+  "estado": "queretaro",
+  "id": "98079",
+  "resultado": "RequestException",
+  "bytes": 16109,
+  "http": null,
+  "segundos": 41.0
+ }
+]
