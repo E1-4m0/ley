@@ -70,7 +70,15 @@ else
   echo "    ✓ creado: $USUARIO/$NOMBRE"
 fi
 
-echo "==> 5/5  Subiendo (esto tarda: ~400 MB)"
+echo "==> 5/5  Configurando las credenciales de git y subiendo"
+# `gh auth login` autentica a gh, pero NO a git: sin esto el push muere con
+# "could not read Username for 'https://github.com'". setup-git le enseña a git
+# a usar el token de gh.
+if ! git config --get-regexp 'credential\..*\.helper' >/dev/null 2>&1; then
+  echo "    configurando el helper de credenciales de git…"
+  gh auth setup-git
+fi
+echo "    subiendo (~400 MB, puede tardar varios minutos)…"
 git push -u origin "$(git branch --show-current)"
 
 echo
