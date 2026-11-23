@@ -1,0 +1,38 @@
+[
+  {
+    "hallazgo": {
+      "archivo": "/home/alejandro/lex-mx-completo/markdown/queretaro/100491--Lineamientos-para-el-control-de-las-descargas-de-aguas-residuales-a-los-sistemas-de-alcant.md",
+      "que": "Descarga fortuita: aviso en 24 h y reporte en 72 h",
+      "articulo": "Artículo 16",
+      "cita": "Comunicar en un plazo que no exceda de 24 horas en que ocurrió la descarga, a la Comisión o a cualquier otra autoridad competente; Presentar un reporte a la Comisión o autoridad competente dentro de las setenta y dos horas siguientes a la descarga; Realizar por sí o por tercero, las labores de remoción y limpieza de los contaminantes"
+    },
+    "motivo": "no aparece textual (0/1 fragmentos)"
+  },
+  {
+    "hallazgo": {
+      "archivo": "/home/alejandro/lex-mx-completo/markdown/queretaro/100491--Lineamientos-para-el-control-de-las-descargas-de-aguas-residuales-a-los-sistemas-de-alcant.md",
+      "que": "Sanción de 200 a 500 UMA",
+      "articulo": "Artículo 62",
+      "cita": "multa de 200 a 500 UMA por infracción"
+    },
+    "motivo": "no aparece textual (0/0 fragmentos)"
+  },
+  {
+    "hallazgo": {
+      "archivo": "/home/alejandro/lex-mx-completo/markdown/queretaro/100491--Lineamientos-para-el-control-de-las-descargas-de-aguas-residuales-a-los-sistemas-de-alcant.md",
+      "que": "Prohibido diluir para cumplir parámetros",
+      "articulo": "Artículo 47",
+      "cita": "Prohibido usar dilución para cumplir parámetros"
+    },
+    "motivo": "no aparece textual (0/1 fragmentos)"
+  },
+  {
+    "hallazgo": {
+      "archivo": "/home/alejandro/lex-mx-completo/markdown/queretaro/100491--Lineamientos-para-el-control-de-las-descargas-de-aguas-residuales-a-los-sistemas-de-alcant.md",
+      "que": "PRUEBA NEGATIVA: cita inventada que DEBE ser rechazada",
+      "articulo": "Artículo 999",
+      "cita": "Queda estrictamente prohibido descargar aguas residuales los días festivos sin autorización expresa de la Comisión Estatal de Aguas."
+    },
+    "motivo": "no aparece textual (0/1 fragmentos)"
+  }
+]
